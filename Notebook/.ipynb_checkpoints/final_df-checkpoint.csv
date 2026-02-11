@@ -1,0 +1,351 @@
+FirstName,LastName,X Handle,St/Dis,Party,Role,Past or current?,username
+Jennifer,Wexton,RepWexton,,D,Representative,Past,RepWexton
+Tom,Cole,TomColeOK04,OK04,R,Representative,Current,TomColeOK04
+Lois,Frankel,RepLoisFrankel,FL22,D,Representative,Current,RepLoisFrankel
+Jill,Tokuda,RepJillTokuda,HI02,D,Representative,Current,RepJillTokuda
+Michael,Waltz,michaelgwaltz,,R,Representative,Past,michaelgwaltz
+Terri,Sewell,RepTerriSewell,AL07,D,Representative,Current,RepTerriSewell
+Jeff,Hurd,RepJeffHurd,CO03,R,Representative,Current,RepJeffHurd
+Sheri,Biggs,RepSheriBiggs,SC03,R,Representative,Current,RepSheriBiggs
+Dan,Crenshaw,RepDanCrenshaw,TX02,R,Representative,Current,RepDanCrenshaw
+Tracey,Mann,RepMann,KS01,R,Representative,Current,RepMann
+Carolyn,Bourdeaux,Carolyn4GA7,,D,Representative,Past,Carolyn4GA7
+Kweisi,Mfume,RepKweisiMfume,MD07,D,Representative,Current,RepKweisiMfume
+Mark,Green,RepMarkGreen,,R,Representative,Past,RepMarkGreen
+Dave,Min,CongressMin,CA47,D,Representative,Current,CongressMin
+Liz,Cheney,Liz_Cheney,,R,Representative,Past,Liz_Cheney
+Jason,Crow,RepJasonCrow,CO06,D,Representative,Current,RepJasonCrow
+Tom,McClintock,RepMcClintock,CA05,R,Representative,Current,RepMcClintock
+Abe,Hamadeh,RepAbeHamadeh,AZ08,R,Representative,Current,RepAbeHamadeh
+Byron,Donalds,RepDonaldsPress,FL19,R,Representative,Current,RepDonaldsPress
+Mary,Miller,RepMaryMiller,IL15,R,Representative,Current,RepMaryMiller
+Herb,Conaway,RepHerbConaway,NJ03,D,Representative,Current,RepHerbConaway
+Joe,Wilson,RepJoeWilson,SC02,R,Representative,Current,RepJoeWilson
+Thomas,Tiffany,RepTiffany,WI07,R,Representative,Current,RepTiffany
+Cathy,Rodgers,cathymcmorris,,R,Representative,Past,cathymcmorris
+Kristen,McDonald Rivet,repkmr,MI08,D,Representative,Current,repkmr
+Joe,Courtney,RepJoeCourtney,CT02,D,Representative,Current,RepJoeCourtney
+Mayra,Flores,MayraFlores4TX,,R,Representative,Past,MayraFlores4TX
+Stephanie,Murphy,RepStephMurphy,,D,Representative,Past,RepStephMurphy
+Ted,Lieu,RepTedLieu,CA36,D,Representative,Current,RepTedLieu
+James,Comer,RepJamesComer,KY01,R,Representative,Current,RepJamesComer
+Johnny,Olszewski,RepJohnnyO,MD02,D,Representative,Current,RepJohnnyO
+Emilia,Sykes,RepEmiliaSykes,OH13,D,Representative,Current,RepEmiliaSykes
+Kay,Granger,GrangerCampaign,,R,Representative,Past,GrangerCampaign
+Mary,Peltola,MaryPeltola,,R,Representative,Past,MaryPeltola
+Teresa,Leger Fernandez,RepTeresaLF,NM03,D,Representative,Current,RepTeresaLF
+Sean,Casten,RepCasten,IL06,D,Representative,Current,RepCasten
+Brian,Babin,RepBrianBabin,TX36,R,Representative,Current,RepBrianBabin
+Jonathan,Jackson,rep_jackson,IL01,D,Representative,Current,rep_jackson
+Mark,Amodei,MarkAmodeiNV2,NV02,R,Representative,Current,MarkAmodeiNV2
+Madeleine,Dean,RepDean,PA04,D,Representative,Current,RepDean
+Chuck,Edwards,RepChuckEdwards,NC11,R,Representative,Current,RepChuckEdwards
+Kim,Schrier,RepKimSchrier,WA08,D,Representative,Current,RepKimSchrier
+Jefferson,Shreve,RepShreve,IN06,R,Representative,Current,RepShreve
+John,James,RepJames,MI10,R,Representative,Current,RepJames
+Brett,Guthrie,RepGuthrie,KY02,R,Representative,Current,RepGuthrie
+Adriano,Espaillat,RepEspaillat,NY13,D,Representative,Current,RepEspaillat
+Patrick,McHenry,PatrickMcHenry,,R,Representative,Past,PatrickMcHenry
+Steven,Palazzo,StevenPalazzo,,R,Representative,Past,StevenPalazzo
+Mike,Haridopolos,RepHaridopolos,FL08,R,Representative,Current,RepHaridopolos
+Riley,Moore,RepRileyMoore,WV02,R,Representative,Current,RepRileyMoore
+Brad,Wenstrup,RepBradWenstrup,,R,Representative,Past,RepBradWenstrup
+Gus,Bilirakis,RepGusBilirakis,FL12,R,Representative,Current,RepGusBilirakis
+Josh,Gottheimer,RepJoshG,NJ05,D,Representative,Current,RepJoshG
+Daniel,Goldman,RepDanGoldman,NY10,D,Representative,Current,RepDanGoldman
+Brittany,Pettersen,RepPettersen,CO07,D,Representative,Current,RepPettersen
+Glenn,Thompson,CongressmanGT,PA15,R,Representative,Current,CongressmanGT
+Julia,Letlow,repjulialetlow,LA05,R,Representative,Current,repjulialetlow
+Jasmine,Crockett,RepJasmine,TX30,D,Representative,Current,RepJasmine
+Julia,Brownley,RepBrownley,CA26,D,Representative,Current,RepBrownley
+Marjorie,Greene,mtgreenee,,R,Representative,Past,mtgreenee
+Jeff,Crank,RepJeffCrank,CO05,R,Representative,Current,RepJeffCrank
+Pete,Aguilar,RepPeteAguilar,CA33,D,Representative,Current,RepPeteAguilar
+Tony,Cárdenas,RepCardenas,,D,Representative,Past,RepCardenas
+Derek,Tran,RepDerekTranCA,CA45,D,Representative,Current,RepDerekTranCA
+David,Joyce,RepDaveJoyce,OH14,R,Representative,Current,RepDaveJoyce
+Kathleen,Rice,RepKathleenRice,,D,Representative,Past,RepKathleenRice
+Shomari,Figures,repscfigures,AL02,D,Representative,Current,repscfigures
+Elijah,Crane,RepEliCrane,AZ02,R,Representative,Current,RepEliCrane
+Kimberlyn,King-Hinds,RepKimKingHinds,MP00,R,Representative,Current,RepKimKingHinds
+Adam,Kinzinger,AdamKinzinger,,R,Representative,Past,AdamKinzinger
+Mike,Quigley,RepMikeQuigley,IL05,D,Representative,Current,RepMikeQuigley
+Don,Bacon,RepDonBacon,NE02,R,Representative,Current,RepDonBacon
+Dina,Titus,repdinatitus,NV01,D,Representative,Current,repdinatitus
+Bruce,Westerman,RepWesterman,AR04,R,Representative,Current,RepWesterman
+Donald,Norcross,DonaldNorcross,NJ01,D,Representative,Current,DonaldNorcross
+Chip,Roy,RepChipRoy,TX21,R,Representative,Current,RepChipRoy
+Bob,Onder,RepBobOnder,MO03,R,Representative,Current,RepBobOnder
+Michael,McCaul,RepMcCaul,TX10,R,Representative,Current,RepMcCaul
+Marie,Gluesenkamp Perez,RepMGP,WA03,D,Representative,Current,RepMGP
+Marilyn,Strickland,RepStricklandWA,WA10,D,Representative,Current,RepStricklandWA
+C.,Franklin,RepFranklin,FL18,R,Representative,Current,RepFranklin
+Richard,Hudson,RepRichHudson,NC09,R,Representative,Current,RepRichHudson
+Warren,Davidson,WarrenDavidson,OH08,R,Representative,Current,WarrenDavidson
+Laurel,Lee,RepLaurelLee,FL15,R,Representative,Current,RepLaurelLee
+William,Keating,USRepKeating,MA09,D,Representative,Current,USRepKeating
+April,McClain Delaney,RepAprilDelaney,MD06,D,Representative,Current,RepAprilDelaney
+Jake,Auchincloss,RepAuchincloss,MA04,D,Representative,Current,RepAuchincloss
+Dan,Bishop,RepDanBishop,,R,Representative,Past,RepDanBishop
+Jamaal,Bowman,RepBowman,,D,Representative,Past,RepBowman
+Jefferson,Drew,Congressman_JVD,,R,Representative,Past,Congressman_JVD
+Henry,Cuellar,RepCuellar,TX28,D,Representative,Current,RepCuellar
+Dale,Strong,RepDaleStrong,AL05,R,Representative,Current,RepDaleStrong
+Harold,Rogers,RepHalRogers,KY05,R,Representative,Current,RepHalRogers
+Cori,Bush,CoriBush,,D,Representative,Past,CoriBush
+Josh,Riley,RepRileyNY,NY19,D,Representative,Current,RepRileyNY
+Ron,Estes,RepRonEstes,KS04,R,Representative,Current,RepRonEstes
+Val,Demings,RepValDemings,,D,Representative,Past,RepValDemings
+John,Joyce,RepJohnJoyce,PA13,R,Representative,Current,RepJohnJoyce
+Mike,Kelly,MikeKellyPA,PA16,R,Representative,Current,MikeKellyPA
+Maggie,Goodlander,RepGoodlander,NH02,D,Representative,Current,RepGoodlander
+Luz,Rivas,RepLuzRivas,CA29,D,Representative,Current,RepLuzRivas
+Sylvia,Garcia,RepSylviaGarcia,TX29,D,Representative,Current,RepSylviaGarcia
+Angie,Craig,RepAngieCraig,MN02,D,Representative,Current,RepAngieCraig
+Derrick,Van Orden,RepVanOrden,WI03,R,Representative,Current,RepVanOrden
+Lucy,McBath,RepLucyMcBath,GA07,D,Representative,Current,RepLucyMcBath
+Connie,Conway,RepConnieConway,,R,Representative,Past,RepConnieConway
+Victoria,Spartz,RepSpartz,IN05,R,Representative,Current,RepSpartz
+French,Hill,RepFrenchHill,AR02,R,Representative,Current,RepFrenchHill
+Chris,Stewart,RepChrisStewart,,R,Representative,Past,RepChrisStewart
+Hank,Johnson,RepHankJohnson,GA04,D,Representative,Current,RepHankJohnson
+Jim,Costa,RepJimCosta,CA21,D,Representative,Current,RepJimCosta
+Celeste,Maloy,RepMaloyUtah,UT02,R,Representative,Current,RepMaloyUtah
+Maxine,Waters,RepMaxineWaters,CA43,D,Representative,Current,RepMaxineWaters
+Keith,Self,RepKeithSelf,TX03,R,Representative,Current,RepKeithSelf
+Andrew,Clyde,Rep_Clyde,GA09,R,Representative,Current,Rep_Clyde
+Steny,Hoyer,RepStenyHoyer,MD05,D,Representative,Current,RepStenyHoyer
+Yvette,Clarke,RepYvetteClarke,NY09,D,Representative,Current,RepYvetteClarke
+Al,Green,RepAlGreen,TX09,D,Representative,Current,RepAlGreen
+Juan,Ciscomani,RepCiscomani,AZ06,R,Representative,Current,RepCiscomani
+Andy,Barr,RepAndyBarr,KY06,R,Representative,Current,RepAndyBarr
+Bill,Johnson,RepBillJohnson,,R,Representative,Past,RepBillJohnson
+John,Garamendi,RepGaramendi,CA08,D,Representative,Current,RepGaramendi
+Derek,Kilmer,RepDerekKilmer,,D,Representative,Past,RepDerekKilmer
+Alan,Lowenthal,RepLowenthal,,D,Representative,Past,RepLowenthal
+Don,Davis,RepDonDavis,NC01,D,Representative,Current,RepDonDavis
+Blaine,Luetkemeyer,RepBlaine,,R,Representative,Past,RepBlaine
+Cleo,Fields,RepFields,LA06,D,Representative,Current,RepFields
+Nikema,Williams,RepNikema,GA05,D,Representative,Current,RepNikema
+Eric,Crawford,RepRickCrawford,,R,Representative,Past,RepRickCrawford
+Suzanne,Bonamici,RepBonamici,OR01,D,Representative,Current,RepBonamici
+Alma,Adams,RepAdams,NC12,D,Representative,Current,RepAdams
+Tom,Malinowski,Malinowski,,D,Representative,Past,Malinowski
+Debbie,Lesko,DebbieLesko,,R,Representative,Past,DebbieLesko
+Burgess,Owens,RepBurgessOwens,UT04,R,Representative,Current,RepBurgessOwens
+Robin,Kelly,RepRobinKelly,IL02,D,Representative,Current,RepRobinKelly
+Wesley,Bell,RepWesleyBellMO,MO01,D,Representative,Current,RepWesleyBellMO
+Rashida,Tlaib,RepRashida,MI12,D,Representative,Current,RepRashida
+Seth,Magaziner,Rep_Magaziner,RI02,D,Representative,Current,Rep_Magaziner
+Monica,De La Cruz,RepMonicaDLC,TX15,R,Representative,Current,RepMonicaDLC
+Juan,Vargas,RepJuanVargas,CA52,D,Representative,Current,RepJuanVargas
+Chrissy,Houlahan,RepHoulahan,PA06,D,Representative,Current,RepHoulahan
+Michael,Baumgartner,RepBaumgartner,WA05,R,Representative,Current,RepBaumgartner
+Richard,McCormick,RepMcCormick,GA06,R,Representative,Current,RepMcCormick
+Joseph,Morelle,RepJoeMorelle,NY25,D,Representative,Current,RepJoeMorelle
+Carlos,Gimenez,RepCarlos,FL28,R,Representative,Current,RepCarlos
+John,Curtis,SenJohnCurtis,,R,Representative,Past,SenJohnCurtis
+Stephen,Lynch,RepStephenLynch,MA08,D,Representative,Current,RepStephenLynch
+Earl,Carter,RepBuddyCarter,,R,Representative,Past,RepBuddyCarter
+Robert,Menendez,RepMenendez,NJ08,D,Representative,Current,RepMenendez
+Jared,Huffman,RepHuffman,CA02,D,Representative,Current,RepHuffman
+Pete,Sessions,PeteSessions,TX17,R,Representative,Current,PeteSessions
+Ed,Case,RepEdCase,HI01,D,Representative,Current,RepEdCase
+Chris,Pappas,RepChrisPappas,NH01,D,Representative,Current,RepChrisPappas
+Kat,Cammack,RepKatCammack,FL03,R,Representative,Current,RepKatCammack
+Suzan,DelBene,RepDelBene,WA01,D,Representative,Current,RepDelBene
+Lloyd,Smucker,RepSmucker,PA11,R,Representative,Current,RepSmucker
+Veronica,Escobar,RepEscobar,TX16,D,Representative,Current,RepEscobar
+John,Rose,RepJohnRose,TN06,R,Representative,Current,RepJohnRose
+Yvette,Herrell,RepHerrell,,R,Representative,Past,RepHerrell
+Abigail,Spanberger,SpanbergerForVA,,D,Representative,Past,SpanbergerForVA
+Mike,Thompson,RepThompson,CA04,D,Representative,Current,RepThompson
+Trent,Kelly,RepTrentKelly,MS01,R,Representative,Current,RepTrentKelly
+David,Cicilline,RepCicilline,,D,Representative,Past,RepCicilline
+August,Pfluger,RepPfluger,TX11,R,Representative,Current,RepPfluger
+Austin,Scott,AustinScottGA08,GA08,R,Representative,Current,AustinScottGA08
+John,Sarbanes,JohnSarbanes,,D,Representative,Past,JohnSarbanes
+Roger,Williams,RepRWilliams,TX25,R,Representative,Current,RepRWilliams
+Steve,Cohen,RepCohen,TN09,D,Representative,Current,RepCohen
+Guy,Reschenthaler,GReschenthaler,PA14,R,Representative,Current,GReschenthaler
+James,Himes,"Rep. Jim Himes (D), CT",CT04,D,Representative,Current,"Rep. Jim Himes (D), CT"
+Mike,Gallagher,MikeforWI,,R,Representative,Past,MikeforWI
+Kelly,Armstrong,GovArmstrong,,R,Representative,Past,GovArmstrong
+Jimmy,Gomez,RepJimmyGomez,CA34,D,Representative,Current,RepJimmyGomez
+Charles,Fleischmann,RepChuck,TN03,R,Representative,Current,RepChuck
+Daniel,Webster,RepWebster,FL11,R,Representative,Current,RepWebster
+Pramila,Jayapal,RepJayapal,WA07,D,Representative,Current,RepJayapal
+Louie,Gohmert,replouiegohmert,,R,Representative,Past,replouiegohmert
+Ann,Kirkpatrick,Ann_Kirkpatrick,,D,Representative,Past,Ann_Kirkpatrick
+Bill,Pascrell,BillPascrell,,D,Representative,Past,BillPascrell
+Norma,Torres,NormaJTorres,CA35,D,Representative,Current,NormaJTorres
+Aumua Amata,Radewagen,RepAmata,AS00,R,Representative,Current,RepAmata
+Kevin,Brady,RepKevinBrady,,R,Representative,Past,RepKevinBrady
+Raúl,Grijalva,RepRaulGrijalva,,D,Representative,Past,RepRaulGrijalva
+Pat,Fallon,RepPatFallon,TX04,R,Representative,Current,RepPatFallon
+Jesús,García,RepChuyGarcia,IL04,D,Representative,Current,RepChuyGarcia
+Zachary,Nunn,ZachNunn,IA03,R,Representative,Current,ZachNunn
+Yassamin,Ansari,RepYassAnsari,AZ03,D,Representative,Current,RepYassAnsari
+Dean,Phillips,deanbphillips,,D,Representative,Past,deanbphillips
+Aaron,Bean,RepAaronBean,FL04,R,Representative,Current,RepAaronBean
+Jahana,Hayes,RepJahanaHayes,CT05,D,Representative,Current,RepJahanaHayes
+Beth,Van Duyne,RepBethVanDuyne,TX24,R,Representative,Current,RepBethVanDuyne
+Kathy,Castor,USRepKCastor,FL14,D,Representative,Current,USRepKCastor
+Grace,Meng,RepGraceMeng,NY06,D,Representative,Current,RepGraceMeng
+Jaime,Beutler,HerreraBeutler,,R,Representative,Past,HerreraBeutler
+Ed,Perlmutter,RepPerlmutter,,D,Representative,Past,RepPerlmutter
+Jared,Moskowitz,RepMoskowitz,FL23,D,Representative,Current,RepMoskowitz
+Emily,Randall,RepEmilyRandall,WA06,D,Representative,Current,RepEmilyRandall
+André,Carson,RepAndreCarson,IN07,D,Representative,Current,RepAndreCarson
+Marc,Veasey,RepVeasey,TX33,D,Representative,Current,RepVeasey
+Jack,Bergman,RepJackBergman,MI01,R,Representative,Current,RepJackBergman
+Michael,Nicolas,GuamCongressman,,D,Representative,Past,GuamCongressman
+Mikie,Sherrill,MikieSherrill,,D,Representative,Past,MikieSherrill
+Angele,Alsobrooks,Sen_Alsobrooks,MD,D,Senate,Current,Sen_Alsobrooks
+Tammy,Baldwin,SenatorBaldwin,WI,D,Senate,Current,SenatorBaldwin
+Jim,Banks,SenatorBanks ,IN,R,Senate,Current,SenatorBanks 
+John,Barrasso,SenJohnBarrasso,WY,R,Senate,Current,SenJohnBarrasso
+Michael,Bennet,SenatorBennet,CO,D,Senate,Current,SenatorBennet
+Marsha,Blackburn,MarshaBlackburn,TN,R,Senate,Current,MarshaBlackburn
+Richard,Bumenthal,SenBlumenthal,CT,D,Senate,Current,SenBlumenthal
+Lisa,Blunt-Rochester,SenLBR,DE,D,Senate,Current,SenLBR
+Cory,Booker,CoryBooker,NJ,D,Senate,Current,CoryBooker
+John,Boozman,JohnBoozman,AR,R,Senate,Current,JohnBoozman
+Katie,Britt,SenKatieBritt,AL,R,Senate,Current,SenKatieBritt
+Ted,Budd,SenTedBuddNC,NC,R,Senate,Current,SenTedBuddNC
+Maria,Cantwell,SenatorCantwell,WA,D,Senate,Current,SenatorCantwell
+Shelley Moore,Capito,SenCapito,WV,R,Senate,Current,SenCapito
+Bill,Cassidy,SenBillCassidy,LA,R,Senate,Current,SenBillCassidy
+Susan,Collins,SenatorCollins,ME,R,Senate,Current,SenatorCollins
+Chris,Coons,ChrisCoons,DE,D,Senate,Current,ChrisCoons
+John,Cornyn,JohnCornyn,TX,R,Senate,Current,JohnCornyn
+Catherine,Cortez Masto,SenCortezMasto,NV,D,Senate,Current,SenCortezMasto
+Tom,Cotton,SenTomCotton,AR,R,Senate,Current,SenTomCotton
+Kevin,Cramer,SenKevinCramer,ND,R,Senate,Current,SenKevinCramer
+Mike,Crapo,MikeCrapo,ID,R,Senate,Current,MikeCrapo
+Ted,Cruz,SenTedCruz,TX,R,Senate,Current,SenTedCruz
+John R. ,Curtis,SenJohnCurtis,TX,R,Senate,Current,SenJohnCurtis
+Steve,Daines,SteveDaines,MT,R,Senate,Current,SteveDaines
+Tammy,Duckworth,SenDuckwort,IL,D,Senate,Current,SenDuckwort
+Richard,Durbin,SenatorDurbin,IL,D,Senate,Current,SenatorDurbin
+Joni,Ernst,SenJoniErnst,IA,R,Senate,Current,SenJoniErnst
+John,Fetterman,SenFettermanPA,PA,D,Senate,Current,SenFettermanPA
+Deb,Fischer,SenatorFischer,NE,R,Senate,Current,SenatorFischer
+Ruben,Gallego,SenRubenGallego,AZ,D,Senate,Current,SenRubenGallego
+Kirsten,Gillibrand,SenGillibrand,NY,D,Senate,Current,SenGillibrand
+Lindsey,Graham,LindseyGrahamSC,SC,R,Senate,Current,LindseyGrahamSC
+Chuck,Grassley,ChuckGrassley,IA,R,Senate,Current,ChuckGrassley
+Bill,Hagerty,SenatorHagerty,TN,R,Senate,Current,SenatorHagerty
+Maggie,Hassan,SenatorHassan,NH,D,Senate,Current,SenatorHassan
+Josh,Hawley,HawleyMO,MO,R,Senate,Current,HawleyMO
+Martin,Heinrich,MartinHeinrich ,NM,D,Senate,Current,MartinHeinrich 
+John,Hickenlooper,SenatorHick,CO,D,Senate,Current,SenatorHick
+Mazie,Hirono,maziehirono,HI,D,Senate,Current,maziehirono
+John,Hoeven,SenJohnHoeven,ND,R,Senate,Current,SenJohnHoeven
+Jon ,Husted,SenJonHusted,OH,R,Senate,Current,SenJonHusted
+Cindy,Hyde-Smith,SenHydeSmith,MS,R,Senate,Current,SenHydeSmith
+Ron,Johnson,SenRonJohnson,WI,R,Senate,Current,SenRonJohnson
+James C.,Justice,JimJustice_WV,WV,R,Senate,Current,JimJustice_WV
+Tim,Kaine,timkaine,VA,D,Senate,Current,timkaine
+Mark,Kelly,SenMarkKelly,AZ,D,Senate,Current,SenMarkKelly
+John,Kennedy,SenJohnKennedy,LA,R,Senate,Current,SenJohnKennedy
+Andy,Kim,SenatorAndyKim,NJ,D,Senate,Current,SenatorAndyKim
+Angus,King,SenAngusKing,ME,I,Senate,Current,SenAngusKing
+Amy,Klobuchar,SenAmyKlobuchar,MN,D,Senate,Current,SenAmyKlobuchar
+James,Lankford,SenatorLankford,OK,R,Senate,Current,SenatorLankford
+Mike,Lee,SenMikeLee,UT,R,Senate,Current,SenMikeLee
+Ben Ray,Luján,SenatorLujan,NM,D,Senate,Current,SenatorLujan
+Cynthia,Lummis,SenLummis,WY,R,Senate,Current,SenLummis
+Ed,Markey,SenMarkey,MA,D,Senate,Current,SenMarkey
+Roger,Marshall,SenatorMarshall,KS,R,Senate,Current,SenatorMarshall
+Mitch,McConnell,McConnellPress,KY,R,Senate,Current,McConnellPress
+David,McCormick,SenMcCormickPA,PA,R,Senate,Current,SenMcCormickPA
+Jedd,Merkley,SenJeffMerkley,OR,D,Senate,Current,SenJeffMerkley
+Ashley,Moody,SenAshleyMoody,FL,R,Senate,Current,SenAshleyMoody
+Jerry,Moran,JerryMoran,KS,R,Senate,Current,JerryMoran
+Bernie,Moreno,berniemoreno,OH,R,Senate,Current,berniemoreno
+Markwayne,Mullin,SenMullin,OK,R,Senate,Current,SenMullin
+Lisa,Murkowski,lisamurkowski,AK,R,Senate,Current,lisamurkowski
+Chris,Murphy,ChrisMurphyCT,CT,D,Senate,Current,ChrisMurphyCT
+Patty,Murray,PattyMurray,WA,D,Senate,Current,PattyMurray
+Jon,Ossoff,ossoff,GA,D,Senate,Current,ossoff
+Alex,Padilla,SenAlexPadill,CA,D,Senate,Current,SenAlexPadill
+Rand,Paul,RandPaul,KY,R,Senate,Current,RandPaul
+Gary,Peters,SenGaryPeters,MI,D,Senate,Current,SenGaryPeters
+Jack,Reed,SenJackReed,RI,D,Senate,Current,SenJackReed
+Pete,Ricketts,SenatorRicketts,NE,R,Senate,Current,SenatorRicketts
+Jim,Risch,SenatorRisch,ID,R,Senate,Current,SenatorRisch
+Jacky,Rosen,SenJackyRosen,NV,D,Senate,Current,SenJackyRosen
+Mike,Rounds,SenatorRounds,SD,R,Senate,Current,SenatorRounds
+Bernie,Sanders,SenSanders,VT,I,Senate,Current,SenSanders
+Brian,Schatz,SenBrianSchatz,HI,D,Senate,Current,SenBrianSchatz
+Adam B.,Schiff,SenAdamSchiff,CA,D,Senate,Current,SenAdamSchiff
+Eric,Schmitt,SenEricSchmitt,MO,R,Senate,Current,SenEricSchmitt
+Chuck,Schumer,SenSchumer,NY,D,Senate,Current,SenSchumer
+Rick,Scott,SenRickScott,FL,R,Senate,Current,SenRickScott
+Tim,Scott,SenatorTimScott,SC,R,Senate,Current,SenatorTimScott
+Jeanne,Shaheen,SenatorShaheen,NH,D,Senate,Current,SenatorShaheen
+Tim,Sheehy,TimSheehyMT,MT,R,Senate,Current,TimSheehyMT
+Elissa,Slotkin,SenatorSlotkin,MI,D,Senate,Current,SenatorSlotkin
+Tina,Smith,SenTinaSmith,MN,D,Senate,Current,SenTinaSmith
+Dan,Sullivan,SenDanSullivan,AK,R,Senate,Current,SenDanSullivan
+John,Thune,LeaderJohnThune,SD,R,Senate,Current,LeaderJohnThune
+Thom,Tillis,SenThomTillis,NC,R,Senate,Current,SenThomTillis
+Tommy,Tuberville,SenTuberville,AL,R,Senate,Current,SenTuberville
+Chris,Van Hollen,ChrisVanHollen,MD,D,Senate,Current,ChrisVanHollen
+Mark,Warner,MarkWarner,VA,D,Senate,Current,MarkWarner
+Raphael,Warnock,SenatorWarnock,GA,D,Senate,Current,SenatorWarnock
+Elizabeth,Warren,SenWarren,MA,D,Senate,Current,SenWarren
+Peter,Welch,SenPeterWelch,VT,D,Senate,Current,SenPeterWelch
+Sheldon,Whitehouse,SenWhitehouse,RI,D,Senate,Current,SenWhitehouse
+Roger,Wicker,SenatorWicker,MS,R,Senate,Current,SenatorWicker
+Ron,Wyden,RonWyden,OR,D,Senate,Current,RonWyden
+Todd,Young,SenToddYoung,IN,R,Senate,Current,SenToddYoung
+Donald,Trump,realDonaldTrump,,R,President of the United States,Current,realDonaldTrump
+JD ,Vance,JDVance,,R,Vice President of the United States,Current,JDVance
+Karoline,Leavitt,PressSec,,R,White House Press Secretary,Current,PressSec
+Robrt F.,Kennedy Jr.,RobertKennedyJr,,I,Secretary of Health and Human Services,Current,RobertKennedyJr
+Scott,Bessent,SecScottBessent,,R,Secretary of Treasury,Current,SecScottBessent
+Marco,Rubio,SecRubio,,R,Secretary of State,Current,SecRubio
+Linda,McMahon,Linda_McMahon,,R,Secretary of Education,Current,Linda_McMahon
+Kristi,Noem,Sec_Noem,,R,Secretary of Homeland Security,Current,Sec_Noem
+Sean,Duffy,SecDuffy,,R,Secretary of Transportation,Current,SecDuffy
+Lori,Chavez-DeRemer,SecretaryLCD,,R,Secretary of Labor,Current,SecretaryLCD
+Pam ,Bondi,AGPamBondi,,R,Attorney General ,Current,AGPamBondi
+Doug,Burgum,SecretaryBurgum,,R,Secretary of the Interior,Current,SecretaryBurgum
+Doug,Collins,SecVetAffairs,,R,Secretary of Veterans Affairs,Current,SecVetAffairs
+Tulsi ,Gabbard,TulsiGabbard,,R,Director of National Intelligence,Current,TulsiGabbard
+Jamieson,Greer,jamiesongreer,,R,United States Trade Representative,Current,jamiesongreer
+Pete ,Hegseth,SecWar,,R,Secretary of War,Current,SecWar
+Kelly,Loeffler,SBA_Kelly,,R,Administrator of the Small Business Administration,Current,SBA_Kelly
+Howard,Lutnick,howardlutnick,,R,Secretary of Commerce,Current,howardlutnick
+John,Ratcliffe,CIADirector,,R,Director of the Central Intelligence Agency,Current,CIADirector
+Brooke,Rollins,SecRollins,,R,Secretary of Agriculture,Current,SecRollins
+Scott,Turner,SecretaryTurner,,R,Secretary of Housing and Urban Development,Current,SecretaryTurner
+Russ,Vought,russvought,,R,Director of the Office of Management and Budget,Current,russvought
+Chris,Wright,SecretaryWright,,R,Secretary of Energy,Current,SecretaryWright
+Lee,Zeldin,LeeMZeldin,,R,Administrator of the Environmental Protection Agency,Current,LeeMZeldin
+Susie,Wiles,SusieWiles,,R,White House Chief of Staff,Current,SusieWiles
+Joe,Biden,JoeBiden,,D,President of the United States,Past,JoeBiden
+Kamala ,Harris,KamalaHarris,,D,Vice President of the United States,Past,KamalaHarris
+Isabel,Guzman,SBAIsabel,,D,Administrator of the Small Business Administration,Past,SBAIsabel
+Arati,Prabhakar,WHOSTP,,D,Director of the Office of Science and Technology Policy,Past,WHOSTP
+Shalanda,Young,ShalandaYoung46,,D,Director of the U.S. Office of Management and Budget,Past,ShalandaYoung46
+Linda,Thomas-Greenfield,LindaT_G,,D,U.S. Ambassador to the United Nations,Past,LindaT_G
+Tom,Vilsack,SecVilsack,,D,U.S. Secretary of Agriculture,Past,SecVilsack
+Gina,Raimondo,GinaRaimondo,,D,U.S. Secretary of Commerce,Past,GinaRaimondo
+Lloyd,Austin,SecDefAustin,,D,U.S. Secretary of Defense,Past,SecDefAustin
+Miguel,Cardona,teachcardona,,D,U.S. Secretary of Education,Past,teachcardona
+Jennifer,Granholm,SecGranholm,,D,U.S. Secretary of Energy,Past,SecGranholm
+Xavier,Becerra,XavierBecerra,,D,U.S. Secretary of Health and Human Services,Past,XavierBecerra
+Alejandro,Mayorkas,AliMayorkas,,D,U.S. Secretary of Homeland Security,Past,AliMayorkas
+Adrianne,Todman,DepSecTodman,,D,U.S. Secretary of Housing and Urban Development,Past,DepSecTodman
+Julie,Su,ActSecJulieSu,,D,U.S. Secretary of Labor,Past,ActSecJulieSu
+Antony,Blinken,ABlinken,,D,U.S. Secretary of State,Past,ABlinken
+Debra,Haaland,SecDebHaaland,,D,U.S. Secretary of the Interior,Past,SecDebHaaland
+Janet,Yellen,SecYellen,,D,U.S. Secretary of the Treasury,Past,SecYellen
+Pete,Buttigieg,PeteButtigieg,,D,U.S. Secretary of Transportation,Past,PeteButtigieg
+Denis,McDonough,DenisMcDonough,,D,U.S. Secretary of Veterans Affairs,Past,DenisMcDonough
+Katherine,Tai,AmbassadorTai,,D,U.S. Trade Representative,Past,AmbassadorTai
+Jeff,Zients,JeffZients,,D,White House Chief of Staff,Past,JeffZients
+Phillip,Swagel,USCBO,,R,Director of the Congressional Budget Office,Current,USCBO
