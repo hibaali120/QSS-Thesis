@@ -1,0 +1,64 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1988748634003734528/img/aIPb39oDpifQ0O1s.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1988748634003734528/vid/avc1/1272x720/68FCvKvK8nPYkvDD.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 49,
+                        "id": "1988748634003734528",
+                        "url": "https://video.twimg.com/amplify_video/1988748634003734528/vid/avc1/1272x720/68FCvKvK8nPYkvDD.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1870164247419736064",
+                "author_username": "RepJeffHurd",
+                "community_notes": null,
+                "conversation_id": "1988748686013124688",
+                "created_time": "2025-11-12T23:20:10",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1988748686013124688",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019ve already introduced legislation to extend ACA subsidies temporarily. But the truth is, subsidies are just a band-aid. The cost of healthcare keeps rising, and we need to tackle the root causes, not just cover up the symptoms. #CO03 https://t.co/Dd1B3gX1GI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "co03"
+                ],
+                "timestamp": 1762989610,
+                "view_count": 384
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

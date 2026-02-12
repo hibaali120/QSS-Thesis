@@ -1,0 +1,214 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GIAaXk6bwAAIb5O.jpg?name=small",
+                    "https://pbs.twimg.com/media/GIAaXk2bAAEcjbI.jpg?name=small",
+                    "https://pbs.twimg.com/media/GIAaXkebAAA-RYI.jpg?name=small",
+                    "https://pbs.twimg.com/media/GIAaXkfbAAQWK5p.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GIAaXk6bwAAIb5O.jpg",
+                    "https://pbs.twimg.com/media/GIAaXk2bAAEcjbI.jpg",
+                    "https://pbs.twimg.com/media/GIAaXkebAAA-RYI.jpg",
+                    "https://pbs.twimg.com/media/GIAaXkfbAAQWK5p.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1765440055282434147",
+                "created_time": "2024-03-06T18:11:24",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1765440055282434147",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Fly-in weeks means there a lot of Hawaii people in DC! Yesterday was great to see our @IAFFofficial Fire Fighters, our American College of OB/GYN members, Hawaii's Child Nutrition Program & my friends at @elementalexcel. #JillontheJob https://t.co/XcT6UIIABU",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "IAFFofficial"
+                ],
+                "text_tagged_users_ids": [
+                    "174793500"
+                ],
+                "text_tags": [
+                    "jillonthejob"
+                ],
+                "timestamp": 1709748684,
+                "view_count": 1129
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/tfphawaii"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Moy2Unb6LI"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1810503185158865399",
+                "created_time": "2024-07-09T02:36:11",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1810503185158865399",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Excited @USDANutrition will seek to update the Thrifty Food Plan, which calculates nutrition benefits, for Hawai'i: https://t.co/Moy2Unb6LI.\n\nEnsuring this calculation reflects the cost of food throughout Hawaii is critical. I will continue to work with USDA to keep families fed.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDANutrition"
+                ],
+                "text_tagged_users_ids": [
+                    "3130357581"
+                ],
+                "text_tags": null,
+                "timestamp": 1720492571,
+                "view_count": 524
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/tokudaF2S24"
+                ],
+                "attached_links_url": [
+                    "https://t.co/9r7fx1cdQi"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GTIl3LVW8AA5_eW.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GTIl3LVW8AA5_eW.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1815556152282726821",
+                "created_time": "2024-07-23T01:14:52",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1815556152282726821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Excited @USDA is awarding over $245,000 in Farm to School grants to Hawai\u02bbi! Farm to School grants provide opportunities for our keiki to learn about nutrition & agriculture and provides pathways to nutrition security. To learn more about the grants: https://t.co/9r7fx1cdQi https://t.co/ai3ob951HQ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1721697292,
+                "view_count": 502
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GYxMg9IWsAcmA1C.jpg?name=small",
+                    "https://pbs.twimg.com/media/GYxMg9HWwAQ49Ap.jpg?name=small",
+                    "https://pbs.twimg.com/media/GYxMg9LWkAc9qCx.jpg?name=small",
+                    "https://pbs.twimg.com/media/GYxMg9GXkAEVkcB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GYxMg9IWsAcmA1C.jpg",
+                    "https://pbs.twimg.com/media/GYxMg9HWwAQ49Ap.jpg",
+                    "https://pbs.twimg.com/media/GYxMg9LWkAc9qCx.jpg",
+                    "https://pbs.twimg.com/media/GYxMg9GXkAEVkcB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1840930492377444551",
+                "created_time": "2024-10-01T01:43:26",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1840930492377444551",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Honored to support MauiWES & speak at their Wellness Fest this weekend. We need a comprehensive study & registry to identify wildfire impacts & provide supportive services for generations to come.\n\nBig mahalo to HFC, NIH, & Kaiser for sponsoring this event & supporting Maui! https://t.co/L3lE39SSJy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1727747006,
+                "view_count": 237
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

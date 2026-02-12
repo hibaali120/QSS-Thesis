@@ -1,0 +1,159 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpUhxKOWAAAKukv.jpg?name=small",
+                    "https://pbs.twimg.com/media/GpUhxKcXgAAP5vw.jpg?name=small",
+                    "https://pbs.twimg.com/media/GpUhxKRWsAAUEsC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpUhxKOWAAAKukv.jpg",
+                    "https://pbs.twimg.com/media/GpUhxKcXgAAP5vw.jpg",
+                    "https://pbs.twimg.com/media/GpUhxKRWsAAUEsC.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1870164247419736064",
+                "author_username": "RepJeffHurd",
+                "community_notes": null,
+                "conversation_id": "1915474536469844412",
+                "created_time": "2025-04-24T18:34:51",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915474536469844412",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Welcomed @SenatorBennet to #CO03 for a healthcare roundtable. We discussed the challenges facing critical access hospitals and rural providers, and how to improve Medicaid. We\u2019re concerned that costs keep rising while care isn\u2019t keeping pace. https://t.co/4LxEYNnmHN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenatorBennet"
+                ],
+                "text_tagged_users_ids": [
+                    "224285242"
+                ],
+                "text_tags": [
+                    "co03"
+                ],
+                "timestamp": 1745519691,
+                "view_count": 2117
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2Cj_EWWAAASvjH.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2Cj_EOXEAA9hcN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2Cj_EWWAAASvjH.jpg",
+                    "https://pbs.twimg.com/media/G2Cj_EOXEAA9hcN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1870164247419736064",
+                "author_username": "RepJeffHurd",
+                "community_notes": null,
+                "conversation_id": "1972756943929217270",
+                "created_time": "2025-09-29T20:14:42",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1972756943929217270",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Met with Mike Cafasso, CEO of St. Mary\u2011Corwin and St. Thomas More hospitals, to talk about strengthening health care delivery in southeast Colorado. As a fourth-generation Puebloan and health care leader who\u2019s expanded services and recruited top providers, Mike\u2019s insight is invaluable. Grateful for his community-first approach as we work to improve care across #CO03.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759176882,
+                "view_count": 557
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://hurd.house.gov/media/press-releases/hurd-suozzi-bacon-gottheimer-introduce-bill-avert-healthcare-affordability"
+                ],
+                "attached_links_url": [
+                    "https://t.co/JJwZExPAaR"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G6TCueXXwAAn4wH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G6TCueXXwAAn4wH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1870164247419736064",
+                "author_username": "RepJeffHurd",
+                "community_notes": null,
+                "conversation_id": "1991931043058700636",
+                "created_time": "2025-11-21T18:05:43",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991931043058700636",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The Affordable Care Act simply isn\u2019t affordable, and health insurance premiums are spiking. Families in #CO03 shouldn\u2019t be hit by a system that\u2019s already failing them.\n\nI\u2019m part of a bipartisan group outlining a practical path forward on health care. Our bill, the Bipartisan HOPE Act, prevents those immediate hikes while adding real guardrails and accountability. It\u2019s a bridge that gives Congress the space to take on the real issue: underlying health care costs that keep rising year after year.\n\nThe ACA hasn\u2019t lived up to its name, but letting premiums jump overnight isn\u2019t an option. I\u2019m focused on helping families now and pushing for long-term reforms that actually lower costs. That\u2019s the work ahead.\n\nRead my full release on the Bipartisan HOPE Act here: https://t.co/JJwZExPAaR",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "co03"
+                ],
+                "timestamp": 1763748343,
+                "view_count": 1000
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

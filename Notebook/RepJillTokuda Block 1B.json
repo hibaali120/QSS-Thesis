@@ -1,0 +1,246 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F9ZeGhoXAAAQq5h.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F9ZeGhoXAAAQq5h.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1717663899799961690",
+                "created_time": "2023-10-26T22:06:01",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1717663899799961690",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 24,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "October is #BreastCancerAwarenessMonth & today, I joined my colleagues from both sides of the aisle to advocate for more resources, support for prevention, and treatment. Breast cancer is detectable and treatable, but sadly in Hawai\u02bbi, we lose 155 women each year to this disease. https://t.co/NQ46Y5RIAF",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "breastcancerawarenessmonth"
+                ],
+                "timestamp": 1698357961,
+                "view_count": 338
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1717663899799961690",
+                "created_time": "2023-10-26T22:39:38",
+                "favorite_count": 1,
+                "geo_lat": 38.87924748,
+                "geo_lon": -77.035399,
+                "id": "1717672359828566486",
+                "in_reply_to_post_id": "1717663899799961690",
+                "in_reply_to_profile_id": "1610730477563805699",
+                "in_reply_to_profile_username": "RepJillTokuda",
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Washington, DC",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "We have made incredible progress but must do more to save lives and increase access to testing and treatment for all women.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1698359978,
+                "view_count": 151
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1836126505849552898/pu/img/AyJ8bMov9uV9P1K9.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1836126505849552898/pu/vid/avc1/1280x720/ME04O614bOISeyxG.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 77,
+                        "id": "1836126505849552898",
+                        "url": "https://video.twimg.com/ext_tw_video/1836126505849552898/pu/vid/avc1/1280x720/ME04O614bOISeyxG.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1836126974122557608",
+                "created_time": "2024-09-17T19:35:58",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1836126974122557608",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I testified before House Veterans' Affairs about my Parity for Native Hawaiian Veterans Act, to improve healthcare access and affordability for our Native Hawaiian veterans. I will continue fighting for fair and equal treatment and honor the sacrifice of all our veterans. https://t.co/a8yAxDM6ST",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1726601758,
+                "view_count": 419
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1944823040316956672/pu/img/w8Yl9PVtBnKe9D3k.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1944823040316956672/pu/vid/avc1/720x1280/SpIIFjD6C6Qf3Rq4.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 66,
+                        "id": "1944823040316956672",
+                        "url": "https://video.twimg.com/ext_tw_video/1944823040316956672/pu/vid/avc1/720x1280/SpIIFjD6C6Qf3Rq4.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1944823167979028974",
+                "created_time": "2025-07-14T18:15:50",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1944823167979028974",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Buffer",
+                "text": "Visited the Federal Detention Center in Honolulu to see firsthand the conditions of the facility and check in with the team and staff that work there.\n\nIf ICE is going to detain people here, we need to prioritize the safety, security & humane treatment of everyone being held there.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1752516950,
+                "view_count": 302
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1956772780906610689/img/CdAKb7q6KG_Nl4o7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1956772780906610689/vid/avc1/640x360/AGSE_e4qReAzB5PV.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 70,
+                        "id": "1956772780906610689",
+                        "url": "https://video.twimg.com/amplify_video/1956772780906610689/vid/avc1/640x360/AGSE_e4qReAzB5PV.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610730477563805699",
+                "author_username": "RepJillTokuda",
+                "community_notes": null,
+                "conversation_id": "1956772847688339728",
+                "created_time": "2025-08-16T17:39:36",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956772847688339728",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 27,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Went on NewsNation to discuss the Trump-Putin summit. Trump promised a ceasefire, but we got silence while Putin walked away with red carpet treatment & a fighter jet escort. Peace takes more than tough talk. We must protect Ukraine\u2019s sovereignty & stop kowtowing to Russia. https://t.co/zNnLa2BH6s",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755365976,
+                "view_count": 3569
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}
