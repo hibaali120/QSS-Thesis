@@ -1,0 +1,511 @@
+{
+    "politician": "RepNikema",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1490694950840942594",
+            "replies": []
+        },
+        {
+            "conversation_id": "1513667831921090567",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1345461797361504259",
+                    "author_username": "RepNikema",
+                    "community_notes": null,
+                    "conversation_id": "1513667831921090567",
+                    "created_time": "2022-04-11T23:59:49",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1513668170430750722",
+                    "in_reply_to_post_id": "1513667831921090567",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "and P.S. - Election Day should be a holiday. While we fight to get there, we must do everything in our power to help ALL workers exercise their sacred right to vote.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1649721589,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1526997566478598146",
+            "replies": []
+        },
+        {
+            "conversation_id": "1560720104664535040",
+            "replies": []
+        },
+        {
+            "conversation_id": "1636809600308527106",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "577867664",
+                    "author_username": "Icecodenoni",
+                    "community_notes": null,
+                    "conversation_id": "1636809600308527106",
+                    "created_time": "2023-03-21T02:58:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638012165071290369",
+                    "in_reply_to_post_id": "1636809600308527106",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikema Powerful",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679367507,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1677423999750402048",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F0ejXv4XsAE6-nY.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F0ejXv4XsAE6-nY.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1245396704565829633",
+                    "author_username": "JengaNeck",
+                    "community_notes": null,
+                    "conversation_id": "1677423999750402048",
+                    "created_time": "2023-07-08T01:25:22",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1677489016554266625",
+                    "in_reply_to_post_id": "1677423999750402048",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@RepNikema @RepJahanaHayes Great idea!\nNow about that other thing...\n#CancelStudentDebt https://t.co/eQDQdhreUN",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema",
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259",
+                        "1082086081238102018"
+                    ],
+                    "text_tags": [
+                        "cancelstudentdebt"
+                    ],
+                    "timestamp": 1688779522,
+                    "view_count": 35
+                }
+            ]
+        },
+        {
+            "conversation_id": "1697658876718362879",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F49MbOGWQAAKH2b.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F49MbOGWQAAKH2b.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1345461797361504259",
+                    "author_username": "RepNikema",
+                    "community_notes": null,
+                    "conversation_id": "1697658876718362879",
+                    "created_time": "2023-09-01T17:16:08",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697659617986158675",
+                    "in_reply_to_post_id": "1697658876718362879",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 4,
+                    "source": "Twitter for iPhone",
+                    "text": "We cannot truly celebrate #LaborDay as long as slavery continues in this country. I'm leading the Abolition Amendment to end the 13th Amendment's 'exception clause' loophole. (2/2) https://t.co/hoYfYkglng",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "laborday"
+                    ],
+                    "timestamp": 1693588568,
+                    "view_count": 476
+                }
+            ]
+        },
+        {
+            "conversation_id": "1720934172502487057",
+            "replies": []
+        },
+        {
+            "conversation_id": "1724189646861607093",
+            "replies": []
+        },
+        {
+            "conversation_id": "1735404430478962759",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "14074324",
+                    "author_username": "Sudsbucket",
+                    "community_notes": null,
+                    "conversation_id": "1735404430478962759",
+                    "created_time": "2023-12-15T13:47:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1735657724317151577",
+                    "in_reply_to_post_id": "1735404430478962759",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepNikema In addition, TCIM reads \u201cThere is no difference between offense and defense because both are rooted in conflict\u201d. My question is, How much conflict is important to us and why do we want more?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1702648023,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1750189418911089063",
+            "replies": []
+        },
+        {
+            "conversation_id": "1839044029230498074",
+            "replies": []
+        },
+        {
+            "conversation_id": "1840758195268022711",
+            "replies": []
+        },
+        {
+            "conversation_id": "1841551952381149362",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "218658092",
+                    "author_username": "forblueprogress",
+                    "community_notes": null,
+                    "conversation_id": "1841551952381149362",
+                    "created_time": "2024-10-02T18:58:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841553340758688059",
+                    "in_reply_to_post_id": "1841551952381149362",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNikema @ATLEquity @andreforatlanta When we invest in community and wellness, we see results. Thanks for always being an advocate Congresswoman Williams!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema",
+                        "andreforatlanta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259",
+                        "1360643605"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727895505,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1960711772144308378",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1762907690555031552",
+                    "author_username": "kauthaine",
+                    "community_notes": null,
+                    "conversation_id": "1960711772144308378",
+                    "created_time": "2025-08-27T17:05:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1960750490272325638",
+                    "in_reply_to_post_id": "1960711772144308378",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikema With all do respect please shut the hell up you treasonous AIPAC PUPPET",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756314320,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1843724304359268352",
+                    "author_username": "NealRiggers1969",
+                    "community_notes": null,
+                    "conversation_id": "1960711772144308378",
+                    "created_time": "2025-08-27T15:18:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1960723540849598885",
+                    "in_reply_to_post_id": "1960711772144308378",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikema You accepted money from AIPAC and voted to send more money to Israel. Sounds like treason to me",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756307895,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1853069137272066048",
+                    "author_username": "EllieDnHarlem",
+                    "community_notes": null,
+                    "conversation_id": "1960711772144308378",
+                    "created_time": "2025-08-27T14:49:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1960716213312520647",
+                    "in_reply_to_post_id": "1960711772144308378",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNikema Stopping SNAP recipients from buying soda, and sugary items will help with that obesity rate more than a Gov program\nWe also provide free breakfast and lunch for many students already",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756306148,
+                    "view_count": 22
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1960711772144308378",
+                    "created_time": "2025-08-27T14:35:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1960712878970855689",
+                    "in_reply_to_post_id": "1960711772144308378",
+                    "in_reply_to_profile_id": "1345461797361504259",
+                    "in_reply_to_profile_username": "RepNikema",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "SNAP\u2019s $187B cut under the \u201cOne Big Beautiful Bill Act\u201d isn\u2019t about fiscal responsibility\u2014it\u2019s about bureaucratic failure. The program\u2019s 30% fraud rate and $150B in annual administrative bloat prove systemic rot. Harvard\u2019s own studies show SNAP-Ed workshops burned cash on consultants, not nutrition.\n\nWant to feed kids? Audit the waste, slash middlemen, and redirect funds to school meal programs without expanding D.C.\u2019s failed bureaucracy.\n\nEfficiency isn\u2019t cruelty\u2014it\u2019s survival.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikema"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1345461797361504259"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756305353,
+                    "view_count": 30
+                }
+            ]
+        }
+    ]
+}

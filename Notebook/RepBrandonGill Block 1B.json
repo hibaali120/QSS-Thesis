@@ -1,0 +1,106 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmP8wB2a4AAnxq1.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmP8wBdXEAA2fgV.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmP8wBBWsAAGyXm.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmP8wB2a4AAnxq1.jpg",
+                    "https://pbs.twimg.com/media/GmP8wBdXEAA2fgV.jpg",
+                    "https://pbs.twimg.com/media/GmP8wBBWsAAGyXm.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1854919740554190848",
+                "author_username": "RepBrandonGill",
+                "community_notes": null,
+                "conversation_id": "1901641376296550677",
+                "created_time": "2025-03-17T14:26:49",
+                "favorite_count": 304,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1901641376296550677",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 31,
+                "retweet_count": 30,
+                "source": "Twitter for iPhone",
+                "text": "In honor of National Kidney Month, I toured DaVita Renal Care of Carrollton and saw firsthand the life-saving work they do. \n\nKidney dialysis isn\u2019t just treatment\u2014it\u2019s a lifeline. Grateful for the dedicated staff making a difference every day! https://t.co/x3VWT1IaiJ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1742221609,
+                "view_count": 9852
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GuTqv3-WYAAwyoS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GuTqv3-WYAAwyoS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1854919740554190848",
+                "author_username": "RepBrandonGill",
+                "community_notes": null,
+                "conversation_id": "1937931850657546364",
+                "created_time": "2025-06-25T17:52:12",
+                "favorite_count": 1581,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937931850657546364",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 17,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 133,
+                "retweet_count": 328,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8 I\u2019m proud to introduce the Respectful Treatment of Unborn Remains Act with @SenatorBanks.\n\nNo child\u2019s body should be flushed into public water systems. Abortion victims deserve dignity\u2014not disposal like trash. https://t.co/6rRvQu23Wf",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenatorBanks"
+                ],
+                "text_tagged_users_ids": [
+                    "816131319033950208"
+                ],
+                "text_tags": null,
+                "timestamp": 1750873932,
+                "view_count": 62959
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

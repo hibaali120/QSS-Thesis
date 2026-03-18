@@ -1,0 +1,447 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fn_yZBJXwAEyOJz.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fn_yZBJXwAEyOJz.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1621871204788207618",
+                "created_time": "2023-02-04T14:00:02",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1621871204788207618",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 6,
+                "source": "Twitter Web App",
+                "text": "I believe everyone should have access to cancer education, prevention, treatment and care - no matter where you live, your ethnicity or gender. On this #WorldCancerDay, I\u2019m proud to reaffirm my support for @POTUS\u2019 Cancer Moonshot. Together, we can end cancer as we know it. #NY05 https://t.co/oSyaMJ8LqV",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": [
+                    "ny05",
+                    "worldcancerday"
+                ],
+                "timestamp": 1675519202,
+                "view_count": 1491
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nytimes.com/2023/12/08/health/fda-sickle-cell-crispr.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8XqvWYhK1O"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1734266508241498609",
+                "created_time": "2023-12-11T17:38:51",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1734266508241498609",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8: The @US_FDA approves sickle cell treatments that could eliminate symptoms for people who have the  genetic disease. According to the @CDCgov, it is a debilitating disease that mostly affects African Americans, occurring in 1 in every 365 Black births. https://t.co/8XqvWYhK1O",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "US_FDA",
+                    "CDCgov"
+                ],
+                "text_tagged_users_ids": [
+                    "208120290",
+                    "146569971"
+                ],
+                "text_tags": null,
+                "timestamp": 1702316331,
+                "view_count": 615
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFvniYgXEAAAnzt.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFvniYgXEAAAnzt.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1755251080206729652",
+                "created_time": "2024-02-07T15:24:03",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1755251080206729652",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "On #NBHAAD, we bring awareness to the disproportionate effect that HIV & AIDS has on the Black community.\n\nWe must end the stigma and ensure that EVERY community has access to the resources needed for testing, prevention, and treatment. Together, we can fight to #ENDHIV. https://t.co/m5wSpfDltc",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "endhiv",
+                    "nbhaad"
+                ],
+                "timestamp": 1707319443,
+                "view_count": 907
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GKutQnQXIAAMvoJ.jpg?name=small",
+                    "https://pbs.twimg.com/media/GKutY7pWYAAR8G5.jpg?name=small",
+                    "https://pbs.twimg.com/media/GKutaIoWQAAZRwF.jpg?name=small",
+                    "https://pbs.twimg.com/media/GKuthJ2WUAAgU3w.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GKutQnQXIAAMvoJ.jpg",
+                    "https://pbs.twimg.com/media/GKutY7pWYAAR8G5.jpg",
+                    "https://pbs.twimg.com/media/GKutaIoWQAAZRwF.jpg",
+                    "https://pbs.twimg.com/media/GKuthJ2WUAAgU3w.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1777705377590600053",
+                "created_time": "2024-04-09T14:29:24",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1777705377590600053",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I had the privilege of attending the @JamaicaHospital Cancer Center Ribbon Cutting Ceremony.\n\nThis partnership with @MSKCancerCenter will increase access to state-of-the-art diagnostic, treatment, and support services for residents of #NY05. https://t.co/9644cluaUJ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JamaicaHospital",
+                    "MSKCancerCenter"
+                ],
+                "text_tagged_users_ids": [
+                    "191344024",
+                    "27295244"
+                ],
+                "text_tags": [
+                    "ny05"
+                ],
+                "timestamp": 1712672964,
+                "view_count": 1069
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://hiv.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/EfxZCQh3wn"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GK1ciENXcAEM-Hk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GK1ciENXcAEM-Hk.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1778186193332805877",
+                "created_time": "2024-04-10T22:20:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1778186193332805877",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Young people represent about 1 in 5 of new cases of HIV in the United States. On #NYHAAD, I\u2019m advocating for greater access to HIV education, testing, and treatment for our youth.\n\nFind resources for HIV testing & treatment at https://t.co/EfxZCQh3wn. https://t.co/zorMBSdMx9",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nyhaad"
+                ],
+                "timestamp": 1712787600,
+                "view_count": 883
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://meeks.house.gov/media/press-releases/rep-gregory-w-meeks-statement-mayor-eric-adams"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MAmowhyD3o"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1837501202419810306/HvRw6Y_H?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1839409735487123771",
+                "created_time": "2024-09-26T21:00:30",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1839409735487123771",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "\"The indictment of New York City Mayor Eric Adams is serious and as a matter of public trust deserves fair and judicious treatment by the public...\" \n\nRead my full statement. https://t.co/MAmowhyD3o",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1727384430,
+                "view_count": 805
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gh7DFq1XcAAFWyc.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gh7DFq2XcAAVBsV.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gh7DFq3XMAA4OdM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gh7DFq1XcAAFWyc.jpg",
+                    "https://pbs.twimg.com/media/Gh7DFq2XcAAVBsV.jpg",
+                    "https://pbs.twimg.com/media/Gh7DFq3XMAA4OdM.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1882156199736709366",
+                "created_time": "2025-01-22T19:59:41",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1882156199736709366",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "It was a pleasure joining @govkathyhochul and other community leaders to present a landmark $180M investment for the Cancer Center @JamaicaHospital. This investment provides world-class treatment for Queens\u2019 residents and visitors. Access to health care is always a top priority! https://t.co/1qWHcH15hI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GovKathyHochul",
+                    "JamaicaHospital"
+                ],
+                "text_tagged_users_ids": [
+                    "2977083957",
+                    "191344024"
+                ],
+                "text_tags": null,
+                "timestamp": 1737575981,
+                "view_count": 734
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GrRofiKX0AAFLeb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GrRofiKX0AAFLeb.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1924277892441067544",
+                "created_time": "2025-05-19T01:36:15",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1924277892441067544",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "My prayers are with President @JoeBiden and the entire Biden family during this difficult time. I know that he will battle this cancer diagnosis with strength and determination as shown throughout his career in public service.\n\nI'm wishing him the best during his health journey. https://t.co/oGS5QfG6k5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JoeBiden"
+                ],
+                "text_tagged_users_ids": [
+                    "939091"
+                ],
+                "text_tags": null,
+                "timestamp": 1747618575,
+                "view_count": 911
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "22812754",
+                "author_username": "RepGregoryMeeks",
+                "community_notes": null,
+                "conversation_id": "1995562511639478473",
+                "created_time": "2025-12-01T18:35:53",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995562511639478473",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1995560752586129642",
+                "quoted_status_profile_id": "61206798",
+                "quoted_status_profile_username": "HouseForeign",
+                "reply_count": 2,
+                "retweet_count": 8,
+                "source": "Twitter for iPhone",
+                "text": "The fight against HIV requires both treatment AND prevention. But Trump and Republicans' funding cuts have forced an end to many of the most effective prevention programs for high-risk populations. On this World AIDS Day, Congress must recommit to ending this epidemic.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764614153,
+                "view_count": 2522
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,1013 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gwe0nW9WYAAqpDT.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gwe0nW9WYAAqpDT.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1947730864500093108",
+                "created_time": "2025-07-22T18:50:01",
+                "favorite_count": 60,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1947730871420645723",
+                "in_reply_to_post_id": "1947730869264744953",
+                "in_reply_to_profile_id": "1343968646050283522",
+                "in_reply_to_profile_username": "RepDonaldsPress",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 11,
+                "source": "Twitter Web App",
+                "text": "With the introduction of H.R. 4494 \u2013 \"The Flood Insurance Relief Act,\" I've now introduced 18 pieces of legislation this Congress.\n\nI'm working hard on your behalf to introduce meaningful legislation that will benefit our SW Florida community, the Sunshine State, and the nation. https://t.co/d4SNIDbkuY",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1753210201,
+                "view_count": 5725
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948030400636329984/img/_hP9izy8iEBEmdJK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948030400636329984/vid/avc1/1280x720/zuqx3uYky2fnD0g3.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 45,
+                        "id": "1948030400636329984",
+                        "url": "https://video.twimg.com/amplify_video/1948030400636329984/vid/avc1/1280x720/zuqx3uYky2fnD0g3.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948030552289788125",
+                "created_time": "2025-07-23T14:40:50",
+                "favorite_count": 109,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948030552289788125",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 25,
+                "retweet_count": 21,
+                "source": "Twitter Web App",
+                "text": ".@GCNNow: \"Florida lawmakers are working to protect all of us from flood impacts with a new flood bill, set to provide tax relief for both the National Flood Insurance Program and for private insurers across the Sunshine State.\"\n\n\"The 'Flood Insurance Relief Act' is sponsored by Florida Representative Byron Donalds and Senators Rick Scott and Ashley Moody.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GCNNow"
+                ],
+                "text_tagged_users_ids": [
+                    "12371172"
+                ],
+                "text_tags": null,
+                "timestamp": 1753281650,
+                "view_count": 7028
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948031070168891392/img/pAtAXb_jpVF6IfWI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948031070168891392/vid/avc1/1280x720/BlwFcpDlNV4cG54T.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 27,
+                        "id": "1948031070168891392",
+                        "url": "https://video.twimg.com/amplify_video/1948031070168891392/vid/avc1/1280x720/BlwFcpDlNV4cG54T.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948032380205195510",
+                "created_time": "2025-07-23T14:48:06",
+                "favorite_count": 76,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948032380205195510",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 21,
+                "source": "Twitter Web App",
+                "text": ".@FCN2go: \"Help may be coming for families hit hard by flood insurance costs...the bill would offer a federal tax break for flood insurance premiums through the National Flood Insurance Program or private insurers.\"\n\n\"It's non-refundable but could offer real savings for homeowners as the goal is to ease the financial burden and encourage more private options in the flood insurance market. Congressman Byron Donalds is leading the effort in the House.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FCN2go"
+                ],
+                "text_tagged_users_ids": [
+                    "18736950"
+                ],
+                "text_tags": null,
+                "timestamp": 1753282086,
+                "view_count": 5762
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948033626894921728/img/OqH0Zbna6CgOPwN8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948033626894921728/vid/avc1/1280x720/bIIaB43Pomt43I_K.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 31,
+                        "id": "1948033626894921728",
+                        "url": "https://video.twimg.com/amplify_video/1948033626894921728/vid/avc1/1280x720/bIIaB43Pomt43I_K.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948035071295795212",
+                "created_time": "2025-07-23T14:58:48",
+                "favorite_count": 89,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948035071295795212",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 24,
+                "source": "Twitter Web App",
+                "text": ".@10TampaBay: \"Help may be coming for families hit hard by flood insurance costs...the 'Flood Insurance Relief Act'...would offer a federal tax break for flood insurance premiums through the National Flood Insurance Program or private insurers.\"\n\n\"It's non-refundable but could offer real savings for homeowners out there. The goal, ease the financial burden and encourage more private options in the flood insurance market. Congressman Byron Donalds is leading the effort in the House.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "10TampaBay"
+                ],
+                "text_tagged_users_ids": [
+                    "16743886"
+                ],
+                "text_tags": null,
+                "timestamp": 1753282728,
+                "view_count": 5448
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948037595708960771/img/M1x24Wk_yFOds3Ux.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948037595708960771/vid/avc1/1280x720/xyqhKHHqC8cBqgmx.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 30,
+                        "id": "1948037595708960771",
+                        "url": "https://video.twimg.com/amplify_video/1948037595708960771/vid/avc1/1280x720/xyqhKHHqC8cBqgmx.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948039206275604983",
+                "created_time": "2025-07-23T15:15:14",
+                "favorite_count": 140,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948039206275604983",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 28,
+                "source": "Twitter Web App",
+                "text": ".@BN9: \"Florida Senators Rick Scott and Ashley Moody, they announced legislation that'll benefit Americans dealing with the rising cost of flood insurance. Their bill would provide a non-refundable tax deduction on premiums...Congressman Byron Donalds is leading matching legislation in the House.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BN9"
+                ],
+                "text_tagged_users_ids": [
+                    "17308428"
+                ],
+                "text_tags": null,
+                "timestamp": 1753283714,
+                "view_count": 5465
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948041377670938624/img/8WuFGf2nTQimAYbd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948041377670938624/vid/avc1/1280x720/QSi-XiINbtbZl0au.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 18,
+                        "id": "1948041377670938624",
+                        "url": "https://video.twimg.com/amplify_video/1948041377670938624/vid/avc1/1280x720/QSi-XiINbtbZl0au.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948041706298864132",
+                "created_time": "2025-07-23T15:25:10",
+                "favorite_count": 94,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948041706298864132",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": ".@MyNews13: \"Florida Senators Rick Scott and Ashley Moody are introducing legislation to give relief to Americans dealing with rising flood insurance costs. The bill would offer a non-refundable tax deduction on flood insurance premiums. Florida Congressman Byron Donalds is leading matching legislation in the House of Representatives.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MyNews13"
+                ],
+                "text_tagged_users_ids": [
+                    "17365337"
+                ],
+                "text_tags": null,
+                "timestamp": 1753284310,
+                "view_count": 5148
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948042963918983169/img/CZJsZ3mGdc6wkvUb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948042963918983169/vid/avc1/1280x720/hlPGezDayXnaaGoR.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 36,
+                        "id": "1948042963918983169",
+                        "url": "https://video.twimg.com/amplify_video/1948042963918983169/vid/avc1/1280x720/hlPGezDayXnaaGoR.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948045788665291044",
+                "created_time": "2025-07-23T15:41:23",
+                "favorite_count": 69,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948045788665291044",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 20,
+                "retweet_count": 18,
+                "source": "Twitter Web App",
+                "text": ".@weartv: \"Florida lawmakers, working on an effort on Capitol Hill to get some tax relief for flood insurance policyholders. Republican Representative Byron Donalds introduced the 'Flood Insurance Relief Act' to the House.' Senators Rick Scott and Ashley Moody sponsoring a companion bill in the Senate.\"\n\n\"This proposed legislation would allow people to deduct the cost of qualified flood insurance premiums, including federal policy fees and surcharges from their taxable incomes. Insurance premiums of course, as you know, on the rise here in Florida, and this legislation seeks to alleviate some of that financial burden.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "weartv"
+                ],
+                "text_tagged_users_ids": [
+                    "33502398"
+                ],
+                "text_tags": null,
+                "timestamp": 1753285283,
+                "view_count": 6163
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1948055461594300416/img/Bn2Kc6RYomiA1xja.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1948055461594300416/vid/avc1/1280x720/wwZYHHMKST2i4r0J.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 106,
+                        "id": "1948055461594300416",
+                        "url": "https://video.twimg.com/amplify_video/1948055461594300416/vid/avc1/1280x720/wwZYHHMKST2i4r0J.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948055745326448949",
+                "created_time": "2025-07-23T16:20:57",
+                "favorite_count": 147,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948055745326448949",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 23,
+                "retweet_count": 45,
+                "source": "Twitter Web App",
+                "text": ".@NEWSMAX: \"Congressman Byron Donalds, speaking of that area, is sponsoring the companion bill in the House [H.R. 4494 \u2013 The Flood Insurance Relief Act.]\"\n\n@SenAshleyMoody: \"I thank Senator Scott and Representative Donalds for pushing this with us and we're very concerned and interested in making sure that Floridians can receive this much-needed insurance.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NEWSMAX",
+                    "SenAshleyMoody"
+                ],
+                "text_tagged_users_ids": [
+                    "20545835",
+                    "1082351804564848640"
+                ],
+                "text_tags": null,
+                "timestamp": 1753287657,
+                "view_count": 6960
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wlrn.org/business/2025-07-17/rick-scott-ashley-moody-homeowners-financial-break-flood-insurance"
+                ],
+                "attached_links_url": [
+                    "https://t.co/x972AAmQKP"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948073677750403430",
+                "created_time": "2025-07-23T17:32:12",
+                "favorite_count": 86,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948073677750403430",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 20,
+                "source": "Twitter Web App",
+                "text": ".@WLRN: \"The Flood Insurance Relief Act...give[s] Americans a non-refundable tax deduction on flood insurance premiums paid through the National Flood Insurance Program or private insurers. U.S. Rep. Byron Donalds...introduced the same bill in the House.\"\n\nhttps://t.co/x972AAmQKP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WLRN"
+                ],
+                "text_tagged_users_ids": [
+                    "20052710"
+                ],
+                "text_tags": null,
+                "timestamp": 1753291932,
+                "view_count": 6341
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gwj1IBEXEAA0ZkD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gwj1IBEXEAA0ZkD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948076634818613598",
+                "created_time": "2025-07-23T17:43:57",
+                "favorite_count": 119,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948076634818613598",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 19,
+                "retweet_count": 33,
+                "source": "Twitter Web App",
+                "text": ".@politico: \"Rep. BYRON DONALDS introduced a bill Tuesday that would allow people to deduct flood insurance premiums from their taxable income. The Flood Insurance Relief Act was also introduced on the Senate side, by GOP Sens. RICK SCOTT and ASHLEY MOODY of Florida...\" https://t.co/irs9K5TKQz",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "politico"
+                ],
+                "text_tagged_users_ids": [
+                    "9300262"
+                ],
+                "text_tags": null,
+                "timestamp": 1753292637,
+                "view_count": 5781
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GwkJHr-WIAAjjnd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GwkJHr-WIAAjjnd.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948106228044890190",
+                "created_time": "2025-07-23T19:41:33",
+                "favorite_count": 67,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948106228044890190",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 14,
+                "source": "Twitter Web App",
+                "text": ".@Fla_Pol: The Flood Insurance Relief Act \"is designed to ease the financial toll stemming from flood insurance costs that have been increasing in recent years. Rep. Byron Donalds, a Naples Republican, is introducing a companion bill in the House.\" https://t.co/HKzr6sDULc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Fla_Pol"
+                ],
+                "text_tagged_users_ids": [
+                    "2811924896"
+                ],
+                "text_tags": null,
+                "timestamp": 1753299693,
+                "view_count": 5713
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948109062739992932",
+                "created_time": "2025-07-23T19:52:49",
+                "favorite_count": 57,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948109062739992932",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1946329251071816085",
+                "quoted_status_profile_id": "16513416",
+                "quoted_status_profile_username": "fox35orlando",
+                "reply_count": 14,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": ".@fox35orlando: \"Florida Sens. Rick Scott and Ashley Moody reintroduced the 'Flood Insurance Relief Act.' Congressman Byron Donalds is leading the companion legislation in the House of Representatives.\"\n\n\"The act aims to provide tax relief for Americans with a non-refundable tax deduction on flood insurance premiums paid through the NFIP or through private insurers. Legislators said the bill will help ease the financial burden of rising flood insurance costs for Americans in Florida and across the nation.\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "fox35orlando"
+                ],
+                "text_tagged_users_ids": [
+                    "16513416"
+                ],
+                "text_tags": null,
+                "timestamp": 1753300369,
+                "view_count": 8823
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.gulfcoastnewsnow.com/article/florida-senators-tax-break-flood-insurance/65490634"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Q8Ca5LM3kb"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948384230813143322",
+                "created_time": "2025-07-24T14:06:14",
+                "favorite_count": 103,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948384230813143322",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 30,
+                "retweet_count": 15,
+                "source": "Twitter Web App",
+                "text": ".@GCNNow: \"In a joint effort with U.S. congressman Byron Donalds, the senators have introduced new legislation aimed at providing financial relief to homeowners by offering a tax deduction on flood insurance premiums.\"\n\nhttps://t.co/Q8Ca5LM3kb",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GCNNow"
+                ],
+                "text_tagged_users_ids": [
+                    "12371172"
+                ],
+                "text_tags": null,
+                "timestamp": 1753365974,
+                "view_count": 10839
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.tampafp.com/florida-rep-donalds-talks-flood-insurance-tax-relief-and-biden-investigation-on-fox-business/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/mAftS42pW1"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1948762612562264336",
+                "created_time": "2025-07-25T15:09:47",
+                "favorite_count": 150,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948762612562264336",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 34,
+                "retweet_count": 25,
+                "source": "Twitter Web App",
+                "text": ".@tampafreepress: \"Congressman Donalds highlighted his leadership of H.R. 4494, 'The Flood Insurance Relief Act,' emphasizing the urgent need to alleviate the financial burden on homeowners facing escalating flood insurance premiums.\"\n\nhttps://t.co/mAftS42pW1",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "tampafreepress"
+                ],
+                "text_tagged_users_ids": [
+                    "1137844959296593921"
+                ],
+                "text_tags": null,
+                "timestamp": 1753456187,
+                "view_count": 6251
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1956113191076757505/img/h18VKAiaFXYVAOst.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1956113191076757505/vid/avc1/1280x720/mhTHr1-MVD4Zkfxg.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 66,
+                        "id": "1956113191076757505",
+                        "url": "https://video.twimg.com/amplify_video/1956113191076757505/vid/avc1/1280x720/mhTHr1-MVD4Zkfxg.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1956115379891093645",
+                "created_time": "2025-08-14T22:07:04",
+                "favorite_count": 253,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956115379891093645",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 57,
+                "retweet_count": 42,
+                "source": "Twitter Web App",
+                "text": ".@GCNNow: \"US Senators Rick Scott & Ashley Moody along with Congressman Byron Donalds sponsoring a bill to give people a tax deduction on their flood insurance premiums.\"\n\n\"..flood insurance has become astronomical..\"\n\n\"We're seeing avg prices between $3,500 & $4,000 each year..\"",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GCNNow"
+                ],
+                "text_tagged_users_ids": [
+                    "12371172"
+                ],
+                "text_tags": null,
+                "timestamp": 1755209224,
+                "view_count": 13057
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1973203609207841069",
+                "created_time": "2025-10-01T01:49:35",
+                "favorite_count": 2236,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973203609207841069",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 25,
+                "quoted_status_id": "1973163714242289964",
+                "quoted_status_profile_id": "1525141087223939073",
+                "quoted_status_profile_username": "AlexPfeiffer",
+                "reply_count": 189,
+                "retweet_count": 913,
+                "source": "Twitter for iPhone",
+                "text": "America, Maxine Waters just said the quiet part out loud:\n\n1\u2014Democrats want hardworking Americans to pay for the healthcare of illegal aliens.\n\n2\u2014They still unapologetically put foreign lawbreakers first.\n\n3\u2014They are shutting down the government in an attempt to make this happen.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759283375,
+                "view_count": 93966
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1974165126723825664/img/iTe-JuAcHSiYi-aR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1974165126723825664/vid/avc1/1280x720/Gnd7QE_yXPA9d-s4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 27,
+                        "id": "1974165126723825664",
+                        "url": "https://video.twimg.com/amplify_video/1974165126723825664/vid/avc1/1280x720/Gnd7QE_yXPA9d-s4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1974179949671227744",
+                "created_time": "2025-10-03T18:29:13",
+                "favorite_count": 4876,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974179949671227744",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 48,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 667,
+                "retweet_count": 1509,
+                "source": "Twitter Web App",
+                "text": "Democrats SHUT DOWN the government because they want to give taxpayer-funded healthcare to illegal aliens.\n\nHow much of our hard-earned money? NEARLY TWO BILLION DOLLARS.\n\nDemocrats have lost the plot.\nDemocrats put foreign law breakers first.\n@GOP puts the AMERICAN PEOPLE FIRST. https://t.co/s8TWqhG5D9",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOP"
+                ],
+                "text_tagged_users_ids": [
+                    "11134252"
+                ],
+                "text_tags": null,
+                "timestamp": 1759516153,
+                "view_count": 85517
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7083wmXMAAncfT.jpg?name=small",
+                    "https://pbs.twimg.com/media/G7083wlW0AAeIR8.jpg?name=small",
+                    "https://pbs.twimg.com/media/G7083wmX0AAa1kv.jpg?name=small",
+                    "https://pbs.twimg.com/media/G7083wlXwAAjgTS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7083wmXMAAncfT.jpg",
+                    "https://pbs.twimg.com/media/G7083wlW0AAeIR8.jpg",
+                    "https://pbs.twimg.com/media/G7083wmX0AAa1kv.jpg",
+                    "https://pbs.twimg.com/media/G7083wlXwAAjgTS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1998820743396970535",
+                "created_time": "2025-12-10T18:22:56",
+                "favorite_count": 1975,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998820743396970535",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 129,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1294,
+                "retweet_count": 575,
+                "source": "Twitter for iPhone",
+                "text": "Single Payer Healthcare doesn\u2019t work and will never work.\n\nThe purpose of the ACA was to take our nation towards Single Payer Healthcare.\n\nThe reason why costs are skyrocketing is by the design of Obama and Congressional Democrats who wanted a public option.\n\nThese are the facts. https://t.co/3ykV0dLB7S",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765390976,
+                "view_count": 74014
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1999148137462583296/img/loeh80I4XO80k-w7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1999148137462583296/vid/avc1/1280x720/Y9amS0itSNhSuIgq.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 79,
+                        "id": "1999148137462583296",
+                        "url": "https://video.twimg.com/amplify_video/1999148137462583296/vid/avc1/1280x720/Y9amS0itSNhSuIgq.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "1999148481244524976",
+                "created_time": "2025-12-11T16:05:14",
+                "favorite_count": 7197,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999148481244524976",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 142,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1183,
+                "retweet_count": 1713,
+                "source": "Twitter Web App",
+                "text": "The Affordable Care Act was never meant to be affordable.\n\nSingle-payer healthcare does not work. It will never work.\n\nThe rising costs in healthcare and health insurance are the design of Congressional Democrats and former President Obama. https://t.co/parUh6eUx0",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765469114,
+                "view_count": 222292
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001765206922346496/img/K3mfTCzwsDRBLnoJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001765206922346496/vid/avc1/1080x1920/5vrQfcVuBrpMK3v-.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 75,
+                        "id": "2001765206922346496",
+                        "url": "https://video.twimg.com/amplify_video/2001765206922346496/vid/avc1/1080x1920/5vrQfcVuBrpMK3v-.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1343968646050283522",
+                "author_username": "RepDonaldsPress",
+                "community_notes": null,
+                "conversation_id": "2001765319509963063",
+                "created_time": "2025-12-18T21:23:37",
+                "favorite_count": 1770,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001765319509963063",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 14,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 199,
+                "retweet_count": 285,
+                "source": "Twitter for iPhone",
+                "text": "This is about driving down premiums.\n\nBorrowing more money to fund additional subsidies for healthcare companies will not fix this problem.\n\nIt will make things worse.\n\nThis is why @POTUS's solution of giving this relief directly to the American people is the approach we need. https://t.co/NtGYa3ospO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1766093017,
+                "view_count": 33385
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

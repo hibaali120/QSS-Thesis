@@ -1,0 +1,116 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmPw4G8W4AA6Gu3.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmP-bIOWEAA2UYw.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmPw4G2XMAAGGxj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmPw4G4W4AAAvzV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmPw4G8W4AA6Gu3.jpg",
+                    "https://pbs.twimg.com/media/GmP-bIOWEAA2UYw.jpg",
+                    "https://pbs.twimg.com/media/GmPw4G2XMAAGGxj.jpg",
+                    "https://pbs.twimg.com/media/GmPw4G4W4AAAvzV.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1854256323547815957",
+                "author_username": "RepLauraGillen",
+                "community_notes": null,
+                "conversation_id": "1901643216098648313",
+                "created_time": "2025-03-17T14:34:08",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1901643216098648313",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "This weekend I had the opportunity to join @lilinksinc and @ESC_NY_Links for their 2025 Family Wellness Expo. These remarkable women are committed to addressing issues affecting the African American community across Long Island and Eastern Shore, and this event was a perfect example of their dedication.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "lilinksinc",
+                    "ESC_NY_Links"
+                ],
+                "text_tagged_users_ids": [
+                    "797524216816009216",
+                    "1142946671095144455"
+                ],
+                "text_tags": null,
+                "timestamp": 1742222048,
+                "view_count": 445
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gxl5dpQWsAAzKtd.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gxl5dpMXcAAQMh-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gxl5dpQWsAAzKtd.jpg",
+                    "https://pbs.twimg.com/media/Gxl5dpMXcAAQMh-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1854256323547815957",
+                "author_username": "RepLauraGillen",
+                "community_notes": null,
+                "conversation_id": "1952725469809217748",
+                "created_time": "2025-08-05T13:36:46",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1952725469809217748",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": ".@CampHASC is a very special place that offers a sleep away camp experience while providing social, therapeutic and medical support to individuals with disabilities. I was pleased to meet campers from NY-04 and to join colleagues from both sides of the aisle to celebrate the opening of their new therapy facility, which will expand access to transformative services.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CampHASC"
+                ],
+                "text_tagged_users_ids": [
+                    "623881629"
+                ],
+                "text_tags": null,
+                "timestamp": 1754401006,
+                "view_count": 398
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

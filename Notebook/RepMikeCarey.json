@@ -1,0 +1,1227 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1484607461009113097",
+                "created_time": "2022-01-21T19:22:56",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1484607461009113097",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1484265917030834193",
+                "quoted_status_profile_id": "1176522535531360257",
+                "quoted_status_profile_username": "RepDanBishop",
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Proud to join my colleagues in calling on Biden\u2019s FDA to withdraw its guidance related to the distribution of life-saving treatments based on race.\n\nNot only is this wrong, but it threatens the lives of patients. Thank you @RepDanBishop for leading this effort.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepDanBishop"
+                ],
+                "text_tagged_users_ids": [
+                    "1176522535531360257"
+                ],
+                "text_tags": null,
+                "timestamp": 1642792976,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FJ9_3MAXsAIIID_.jpg?name=small",
+                    "https://pbs.twimg.com/media/FJ9_3L8XoAgas4D.jpg?name=small",
+                    "https://pbs.twimg.com/media/FJ9_3L5XwAQuS5d.jpg?name=small",
+                    "https://pbs.twimg.com/media/FJ9_3MoX0AcErhl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FJ9_3MAXsAIIID_.jpg",
+                    "https://pbs.twimg.com/media/FJ9_3L8XoAgas4D.jpg",
+                    "https://pbs.twimg.com/media/FJ9_3L5XwAQuS5d.jpg",
+                    "https://pbs.twimg.com/media/FJ9_3MoX0AcErhl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1486046995907293186",
+                "created_time": "2022-01-25T18:43:07",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1486046995907293186",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Thank you @MountCarmel for the tour of your operations in Grove City & for the update on COVID-19. \n\nOur nurses, doctors & front line healthcare workers work tirelessly to treat patients & protect our communities. We owe them all a debt of gratitude. https://t.co/sBoVjLH0L3",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MountCarmel"
+                ],
+                "text_tagged_users_ids": [
+                    "1755678945154863104"
+                ],
+                "text_tags": null,
+                "timestamp": 1643136187,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FL0mJWtXoAgcimR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FL0mJWtXoAgcimR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1494392601595764738",
+                "created_time": "2022-02-17T19:25:35",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1494392601595764738",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "It was great to visit the @Battelle research facility in West Jefferson.\n\nThis facility does amazing work including helping destroy chemical weapons from the WWII era and essential medical research that helped create the Moderna vaccine.\n\nA great asset for #OH15 https://t.co/phdBhIsJIf",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Battelle"
+                ],
+                "text_tagged_users_ids": [
+                    "74748331"
+                ],
+                "text_tags": [
+                    "oh15"
+                ],
+                "timestamp": 1645125935,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FOtIcWtXEAcCnRr.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FOtIcWtXEAcCnRr.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1507378161679585282",
+                "created_time": "2022-03-25T15:25:34",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1507378161679585282",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "It was great to meet Becca with @k9sforwarriors & learn about their mission of providing Service Dogs to Warriors to mitigate the debilitating symptoms of service-connected trauma. Thank you for all you do to help our veterans! https://t.co/yuu79nXiof",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "k9sforwarriors"
+                ],
+                "text_tagged_users_ids": [
+                    "293577666"
+                ],
+                "text_tags": null,
+                "timestamp": 1648221934,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FRxOqrNWYAAxqT3.jpg?name=small",
+                    "https://pbs.twimg.com/media/FRxOqrLWQAEz6gl.jpg?name=small",
+                    "https://pbs.twimg.com/media/FRxOqrwWUAQry5z.jpg?name=small",
+                    "https://pbs.twimg.com/media/FRxOrF-XsAQR7vO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FRxOqrNWYAAxqT3.jpg",
+                    "https://pbs.twimg.com/media/FRxOqrLWQAEz6gl.jpg",
+                    "https://pbs.twimg.com/media/FRxOqrwWUAQry5z.jpg",
+                    "https://pbs.twimg.com/media/FRxOrF-XsAQR7vO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1521177283482030081",
+                "created_time": "2022-05-02T17:18:21",
+                "favorite_count": 2,
+                "geo_lat": 39.837879480000005,
+                "geo_lon": -83.0795954,
+                "id": "1521177283482030081",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Grove City, OH",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "American Nitrile will soon be the largest nitrile glove manufacturer in the country, producing 3.6 billion medical & non-medical gloves per year & employing hundreds of Ohioans.\n\nI was honored to tour their facility & witness the rebuilding of a critical domestic supply chain. https://t.co/BKblDXSNqN",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1651511901,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FbbJz8EWAAUM_JX.jpg?name=small",
+                    "https://pbs.twimg.com/media/FbbJz8JWYAAkGHV.jpg?name=small",
+                    "https://pbs.twimg.com/media/FbbJz8IWYAUcqsy.jpg?name=small",
+                    "https://pbs.twimg.com/media/FbbJz8SWQAE9-HL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FbbJz8EWAAUM_JX.jpg",
+                    "https://pbs.twimg.com/media/FbbJz8JWYAAkGHV.jpg",
+                    "https://pbs.twimg.com/media/FbbJz8IWYAUcqsy.jpg",
+                    "https://pbs.twimg.com/media/FbbJz8SWQAE9-HL.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1564659913774833664",
+                "created_time": "2022-08-30T17:02:48",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1564659913774833664",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Great meeting this morning with @BoundTreeMed - one of the largest national distributors of medical supplies & equipment for our EMS providers. \n\nOur EMTs & paramedics provide life saving services & we are lucky to have this company in Ohio to supply them across the country. https://t.co/CRtFw8gyUP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BoundTreeMed"
+                ],
+                "text_tagged_users_ids": [
+                    "1102465183"
+                ],
+                "text_tags": null,
+                "timestamp": 1661878968,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fcd0G26XwAAlcGw.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fcd0G28WAAA6t1H.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fcd0G3DXkAAi2Nr.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fcd0G26XwAAlcGw.jpg",
+                    "https://pbs.twimg.com/media/Fcd0G28WAAA6t1H.jpg",
+                    "https://pbs.twimg.com/media/Fcd0G3DXkAAi2Nr.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1569350662105845760",
+                "created_time": "2022-09-12T15:42:09",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1569350662105845760",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Happy to celebrate the 60th anniversary of @MadisonHealth this morning. A fantastic community hospital that provides health care close to home.\n\nWe must do all we can to ensure local hospitals can continue to operate & recruit the talent they need to keep our communities healthy. https://t.co/pZiUIZA4GP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MadisonHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "18199053"
+                ],
+                "text_tags": null,
+                "timestamp": 1662997329,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://apnews.com/article/biden-health-lawsuits-covid-missouri-862d783188de45b698c54b00820d3616?fbclid=IwAR1BL0w7yWy606WILL72BT_a_IWArTjiO52dSxOXfkaD2wYL0u28m6kE5pU"
+                ],
+                "attached_links_url": [
+                    "https://t.co/1c5tb1r96k"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1575871187217190912",
+                "created_time": "2022-09-30T15:32:23",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1575871187217190912",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "At the sight of a lawsuit, the Biden Admin is scaling back their student loan handout. They knew it was wrong, borderline unconstitutional, and they did it anyway.\n\nhttps://t.co/1c5tb1r96k",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1664551943,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1587842923961409539",
+                "created_time": "2022-11-02T16:23:48",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1587842923961409539",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "1587783981008920577",
+                "quoted_status_profile_id": "1079802482640019456",
+                "quoted_status_profile_username": "RepLoriTrahan",
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Proud to join my colleagues on this critical bill to address the worsening mental health crisis in our country. Those in need deserve better than suicide assistance on demand. If you or someone you know needs help, dial 988 for 24/7 trained assistance.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1667406228,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1592607898689241088",
+                "created_time": "2022-11-15T19:58:06",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1592607898689241088",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1592596802221404160",
+                "quoted_status_profile_id": "282093902",
+                "quoted_status_profile_username": "HouseVetAffairs",
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Receiving healthcare through the VA shouldn't be a life or death situation. @RepBost, @RepBalderson, and I are demanding answers from the VA on these two unnecessary veteran deaths in Ohio.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepBost",
+                    "RepBalderson"
+                ],
+                "text_tagged_users_ids": [
+                    "2964877294",
+                    "1037341536592310272"
+                ],
+                "text_tags": null,
+                "timestamp": 1668542286,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FiVbOKxXkAAOmfn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FiVbOKxXkAAOmfn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1595781945707073536",
+                "created_time": "2022-11-24T14:10:38",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1595781945707073536",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Wishing a safe and happy Thanksgiving to Ohio\u2019s 15th Congressional District and beyond. This year, I\u2019m thankful for my beautiful family, my health, and the opportunity to serve you in Congress and uphold our great Constitution. https://t.co/6pldUUobLy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1669299038,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fn1LMSXXoAA2M19.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fn1LMSXXoAA2M19.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1620534679375077377",
+                "created_time": "2023-01-31T21:29:10",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1620534679375077377",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Thanks to Pamela Gent with @AANP_NEWS for dropping by my office to discuss legislation impacting nurses and patients across the country. https://t.co/0TPXaaxjxN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "AANP_NEWS"
+                ],
+                "text_tagged_users_ids": [
+                    "91137301"
+                ],
+                "text_tags": null,
+                "timestamp": 1675200550,
+                "view_count": 690
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1623151685693591557",
+                "created_time": "2023-02-08T02:48:13",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1623151685693591557",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Republicans will not cut social security or Medicare. That lie is pure fear mongering. #SOTU",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "sotu"
+                ],
+                "timestamp": 1675824493,
+                "view_count": 712
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FprCRAjWAAEFVmg.jpg?name=small",
+                    "https://pbs.twimg.com/media/FprCRAhXgAAHNOA.jpg?name=small",
+                    "https://pbs.twimg.com/media/FprCRAlWcAM8-1y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FprCRAjWAAEFVmg.jpg",
+                    "https://pbs.twimg.com/media/FprCRAhXgAAHNOA.jpg",
+                    "https://pbs.twimg.com/media/FprCRAlWcAM8-1y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1628827817298329601",
+                "created_time": "2023-02-23T18:43:08",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1628827817298329601",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to the great team at @OhioHealth for bringing my colleague, @RepBeatty, and myself together to discuss the work we\u2019re doing in Washington on behalf of the healthcare industry and all of Central Ohio. https://t.co/3MIpXF52Az",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "OhioHealth",
+                    "RepBeatty"
+                ],
+                "text_tagged_users_ids": [
+                    "16134261",
+                    "1531521632"
+                ],
+                "text_tags": null,
+                "timestamp": 1677177788,
+                "view_count": 1085
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fprzzq4XEAARh5t.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fprzzq5XgAEXYY5.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fprzzq3XgAYyNoW.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fprzzq6WcAExFFv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fprzzq4XEAARh5t.jpg",
+                    "https://pbs.twimg.com/media/Fprzzq5XgAEXYY5.jpg",
+                    "https://pbs.twimg.com/media/Fprzzq3XgAYyNoW.jpg",
+                    "https://pbs.twimg.com/media/Fprzzq6WcAExFFv.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1628882298987810821",
+                "created_time": "2023-02-23T22:19:37",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1628882298987810821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I had the opportunity to tour @thebuckeyeranch today and discuss their approach to family-focused mental healthcare for our youth. \n\nI look forward to continue working with these great people and to seeing their future expansion in the coming years. https://t.co/ojE1YEfQbT",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "thebuckeyeranch"
+                ],
+                "text_tagged_users_ids": [
+                    "36214547"
+                ],
+                "text_tags": null,
+                "timestamp": 1677190777,
+                "view_count": 671
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://m.facebook.com/story.php?story_fbid=pfbid0yYuj5BPHHy4hLA9KW49yw9yxoaF2BFTmCKCTFoFCJxubzFQhi3p7TQTxrS4nUQzhl&id=100068052733180&mibextid=qC1gEa"
+                ],
+                "attached_links_url": [
+                    "https://t.co/B7XLjWfxzY"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1632370526243938307",
+                "created_time": "2023-03-05T13:20:36",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1632370526243938307",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I've spoken with state & local leaders about the @nscorp train derailment in Clark County & will monitor the situation until cleanup is completed & power restored to all residents. Fortunately at this time, there is no indication of a risk to public health\nhttps://t.co/B7XLjWfxzY",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "nscorp"
+                ],
+                "text_tagged_users_ids": [
+                    "66472414"
+                ],
+                "text_tags": null,
+                "timestamp": 1678022436,
+                "view_count": 2069
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1638572189149458435",
+                "created_time": "2023-03-22T16:03:47",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1638572189149458435",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1638318706538233856",
+                "quoted_status_profile_id": "12788332",
+                "quoted_status_profile_username": "WaysandMeansGOP",
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "House Republicans want to protect and strengthen Medicare. Meanwhile, the Biden admin is proposing changes that could negatively impact seniors who rely on Medicare Advantage. Read more below \u2b07\ufe0f",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1679501027,
+                "view_count": 1111
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1657044886183456778/pu/img/d7eBWU9qf5e4IjSm.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1657044886183456778/pu/vid/1418x720/9nD4w4qEKql-UIu8.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 127,
+                        "id": "1657044886183456778",
+                        "url": "https://video.twimg.com/ext_tw_video/1657044886183456778/pu/vid/1418x720/9nD4w4qEKql-UIu8.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1657046596578680833",
+                "created_time": "2023-05-12T15:34:29",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1657046596578680833",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Yesterday @HouseGOP passed the Protecting Taxpayers and Victims of Unemployment Fraud Act to address fraud & overpayments of pandemic unemployment insurance. \n\nFraudsters stole billions of taxpayer dollars from expanded UI programs. Fixing this shouldn't be a partisan issue. https://t.co/mubOPzG5Od",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1683905669,
+                "view_count": 1147
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1658272374284861442/pu/img/hYbxsHofW2lx-uMe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1658272374284861442/pu/vid/730x720/a-qBmp9XAjDF_IW9.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 140,
+                        "id": "1658272374284861442",
+                        "url": "https://video.twimg.com/ext_tw_video/1658272374284861442/pu/vid/730x720/a-qBmp9XAjDF_IW9.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1658272489548464130",
+                "created_time": "2023-05-16T00:45:45",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1658272489548464130",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Thanks @HouseVetAffairs for allowing me to participate in your hearing on the plagued VA Electronic Health Record System.\n\nIn Nov I sent a letter regarding two Ohio veterans that may have died as a result of the system's errors. Watch my questions about the EHR system below: https://t.co/hIsoX1DmA9",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "282093902"
+                ],
+                "text_tags": null,
+                "timestamp": 1684197945,
+                "view_count": 874
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FxnyT_bWYAAAThm.jpg?name=small",
+                    "https://pbs.twimg.com/media/FxnyT_kWAAEb7hq.jpg?name=small",
+                    "https://pbs.twimg.com/media/FxnyT_fXoAAHkHh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FxnyT_bWYAAAThm.jpg",
+                    "https://pbs.twimg.com/media/FxnyT_kWAAEb7hq.jpg",
+                    "https://pbs.twimg.com/media/FxnyT_fXoAAHkHh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1664627978419011585",
+                "created_time": "2023-06-02T13:40:12",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1664627978419011585",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Our veterans caseworkers manned the Military Outpost at the @MemorialGolf to raise awareness of our office\u2019s services and upcoming Veterans Wellness Day in August. \n\nThey even had a chance to meet Medal of Honor recipient, Major General Patrick Henry Brady! https://t.co/qMBcbwgJ1f",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MemorialGolf"
+                ],
+                "text_tagged_users_ids": [
+                    "21209381"
+                ],
+                "text_tags": null,
+                "timestamp": 1685713212,
+                "view_count": 852
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fz9js6_XwAA4jwp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fz9js6_XwAA4jwp.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1675220224239620096",
+                "created_time": "2023-07-01T19:10:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1675220224239620096",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "TweetDeck Web App",
+                "text": "Yesterday marked the end of PTSD Awareness Month. But that doesn\u2019t mean the fight is over. If you\u2019re a veteran struggling with PTSD or a mental health crisis, call 988 and press 1 for the Vets Crisis Line. https://t.co/pvXOwgNbML",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1688238600,
+                "view_count": 670
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://carey.house.gov/media/press-releases/rep-carey-introduces-legislation-increase-transparency-health-care-costs"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rXh9Z4dL8S"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F142rD2WcAA0M2c.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F142rD2WcAA0M2c.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1683843583252611072",
+                "created_time": "2023-07-25T14:16:09",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1683843583252611072",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "This week, I introduced legislation to increase transparency in health care by requiring medical providers to disclose upfront the cost of X-Ray, CT, and MRI scans. https://t.co/rXh9Z4dL8S @WaysandMeansGOP https://t.co/VMMZ6sBrlK",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1690294569,
+                "view_count": 1749
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://carey.house.gov/media/press-releases/rep-carey-introduces-legislation-increase-transparency-health-care-costs"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rXh9Z4dL8S"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F2XrDskXYAI8ObY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F2XrDskXYAI8ObY.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1686012206645698567",
+                "created_time": "2023-07-31T13:53:29",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1686012206645698567",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Our bill to increase transparency in health care by requiring medical providers to disclose upfront the cost of X-Ray, CT, and MRI scans is on the move! https://t.co/rXh9Z4dL8S @WaysandMeansGOP https://t.co/XpTwXrIYZM",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1690811609,
+                "view_count": 844
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.iheart.com/podcast/76-brandon-boxer-73400390/episode/healthcare-costs-must-be-more-transparent-120231743/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/nPOGu3hn0n"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1686713174924337157/pu/img/ZjwOOxZfO-ag2NT1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1686713174924337157/pu/vid/1280x720/uwRYeqr0w20KfqlQ.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 100,
+                        "id": "1686713174924337157",
+                        "url": "https://video.twimg.com/ext_tw_video/1686713174924337157/pu/vid/1280x720/uwRYeqr0w20KfqlQ.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1686715716265779200",
+                "created_time": "2023-08-02T12:28:59",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1686715716265779200",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I joined @theboxershow this morning to discuss my new bill to unleash America\u2019s energy independence. Listen to the full interview here: https://t.co/nPOGu3hn0n https://t.co/5ShVoLB0WA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "theboxershow"
+                ],
+                "text_tagged_users_ids": [
+                    "84304276"
+                ],
+                "text_tags": null,
+                "timestamp": 1690979339,
+                "view_count": 2770
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.iheart.com/podcast/76-brandon-boxer-73400390/episode/healthcare-costs-must-be-more-transparent-120231743/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/nPOGu3hn0n"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1686786242879406084/pu/img/6l0YXE7eWYPF9d6c.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1686786242879406084/pu/vid/1280x720/TRHdsrE9bQZWrEfH.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 124,
+                        "id": "1686786242879406084",
+                        "url": "https://video.twimg.com/ext_tw_video/1686786242879406084/pu/vid/1280x720/TRHdsrE9bQZWrEfH.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1457745193197780993",
+                "author_username": "RepMikeCarey",
+                "community_notes": null,
+                "conversation_id": "1686786400631373833",
+                "created_time": "2023-08-02T17:09:51",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1686786400631373833",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Great to chat with @theboxershow this morning about the Farm Bill and my legislation to increase price transparency in health care. Listen to the full interview here: https://t.co/nPOGu3hn0n https://t.co/rIo8eZKTSi",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "theboxershow"
+                ],
+                "text_tagged_users_ids": [
+                    "84304276"
+                ],
+                "text_tags": null,
+                "timestamp": 1690996191,
+                "view_count": 436
+            }
+        ],
+        "page_info": {
+            "cursor": "aWRfYXNjfDE2ODY3ODY0MDA2MzEzNzM4MzM=",
+            "has_next_page": true
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,496 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqSVtnqWAAALfqh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqSVtnqWAAALfqh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1919823955700912483",
+                "created_time": "2025-05-06T18:37:54",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1919823955700912483",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Great to catch up with our friends from @Lee_Health today. Thanks for all you do. Welcome to Washington! https://t.co/weaWVrzbh5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Lee_Health"
+                ],
+                "text_tagged_users_ids": [
+                    "29549391"
+                ],
+                "text_tags": null,
+                "timestamp": 1746556674,
+                "view_count": 2321
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/4krih6c"
+                ],
+                "attached_links_url": [
+                    "https://t.co/imxUvAQOhQ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1927853509149401189",
+                "created_time": "2025-05-28T22:24:29",
+                "favorite_count": 199,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1927853509149401189",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 9,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 39,
+                "retweet_count": 40,
+                "source": "Twitter for iPhone",
+                "text": "My office has been in touch with @USDA to get to the bottom of the deaths & treatment of the dolphins at Gulf World. All options are on the table, including legislation, to ensure those responsible are held to account & to protect these amazing animals. https://t.co/imxUvAQOhQ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1748471069,
+                "view_count": 128810
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GxIiy0wXcAACW2F.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GxIiy0wXcAACW2F.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1950659851253928194",
+                "created_time": "2025-07-30T20:48:44",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1950659851253928194",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Today, my staff received a VA briefing and tour at the Joint Ambulatory Care Center in Pensacola. Thanks for presenting our team with an overview of the Gulf Coast veterans healthcare system, and ways that we can improve care for veterans! https://t.co/KdER3r83T1",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1753908524,
+                "view_count": 465
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968696933859430400/img/qfSWdF2dWbt-4EzI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968696933859430400/vid/avc1/1568x884/fYQFCly3w5Qfn4K0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 122,
+                        "id": "1968696933859430400",
+                        "url": "https://video.twimg.com/amplify_video/1968696933859430400/vid/avc1/1568x884/fYQFCly3w5Qfn4K0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1968697544470331458",
+                "created_time": "2025-09-18T15:24:05",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968697544470331458",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "For the health of our kids, we need to develop better protections when it comes to social media and other apps that collect their data. https://t.co/JwsFH2ou5y",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758209045,
+                "view_count": 225
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/46zpOvB"
+                ],
+                "attached_links_url": [
+                    "https://t.co/RcN0tErt4T"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2R_fN9WIAAeLqC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2R_fN9WIAAeLqC.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1973842714841215029",
+                "created_time": "2025-10-02T20:09:10",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973842714841215029",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": ".@SenSchumer and Senate Democrats would rather fund healthcare for illegals while our servicemembers go unpaid. View my full press release with the link below.\n\nRead more\u27a1\ufe0f https://t.co/RcN0tErt4T https://t.co/k1m82Hu8tY",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenSchumer"
+                ],
+                "text_tagged_users_ids": [
+                    "17494010"
+                ],
+                "text_tags": null,
+                "timestamp": 1759435750,
+                "view_count": 1000
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/4gWRj5R"
+                ],
+                "attached_links_url": [
+                    "https://t.co/TUyE7ltrlL"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2W3bBbWgAAvfBT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2W3bBbWgAAvfBT.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1974185691241460192",
+                "created_time": "2025-10-03T18:52:02",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974185691241460192",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8DAY #3: SCHUMER SHUTDOWN\ud83d\udea8\nCongressman Patronis: Schumer Shutdown Freezes Flood Insurance During Hurricane Season\n\nFlorida families deserve better.\n\nRead more\u27a1\ufe0f https://t.co/TUyE7ltrlL https://t.co/9g6ephM3rm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759517522,
+                "view_count": 303
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2l6c-YW0AA2b4O.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2l6c-YW0AA2b4O.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1975246613124616635",
+                "created_time": "2025-10-06T17:07:45",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975246613124616635",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019ve seen firsthand the devastation hurricanes leave behind, families picking up the pieces after losing everything. In those moments, the last thing they should worry about is whether their flood insurance will come through.\n\nThat\u2019s why I\u2019m proud to support H.R. 5574, led by Congressman Ezell, to keep the National Flood Insurance Program funded during the Schumer Shutdown. While Democrats play politics, we\u2019re making sure disaster victims aren\u2019t left behind. Keeping NFIP alive means keeping our word, and putting people over politics.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759770465,
+                "view_count": 216
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2mkj3eXoAA2UY8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2mkj3eXoAA2UY8.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1975290851199963486",
+                "created_time": "2025-10-06T20:03:32",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975290851199963486",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "If hardworking Americans aren\u2019t getting paid, neither should I. While @SenSchumer fights for free healthcare for illegal immigrants, I\u2019ll keep standing on the right side of history, fighting for the American people. #SchumerShutdown https://t.co/7I2WTRKaWw",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenSchumer"
+                ],
+                "text_tagged_users_ids": [
+                    "17494010"
+                ],
+                "text_tags": [
+                    "schumershutdown"
+                ],
+                "timestamp": 1759781012,
+                "view_count": 168
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/3WwEBB6"
+                ],
+                "attached_links_url": [
+                    "https://t.co/WTaE2WGc5o"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G21BDPNWAAA5DNn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G21BDPNWAAA5DNn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1976307339276784060",
+                "created_time": "2025-10-09T15:22:42",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976307339276784060",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8PRESS RELEASE \nAs Americans who live paycheck to paycheck are struggling, @SenSchumer is fighting for illegal aliens healthcare. Read my full press release with the link below \ud83d\udc47\n\nhttps://t.co/WTaE2WGc5o https://t.co/iy6vBWlbht",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenSchumer"
+                ],
+                "text_tagged_users_ids": [
+                    "17494010"
+                ],
+                "text_tags": null,
+                "timestamp": 1760023362,
+                "view_count": 152
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1978926607436849153/img/z2G4RuiLGWFWd4Iz.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3aPQ75XwAAVKxV.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3aPQ76XUAAaZAA.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1978926607436849153/vid/avc1/1280x720/x9hfcywNa0E9SXTj.mp4?tag=21",
+                    "https://pbs.twimg.com/media/G3aPQ75XwAAVKxV.jpg",
+                    "https://pbs.twimg.com/media/G3aPQ76XUAAaZAA.jpg"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1978926607436849153",
+                        "url": "https://video.twimg.com/amplify_video/1978926607436849153/vid/avc1/1280x720/x9hfcywNa0E9SXTj.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1978926675791614199",
+                "created_time": "2025-10-16T20:51:00",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978926675791614199",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "Day 16 of the #SchumerShutdown, and I had the honor of visiting Hurlburt Field to discuss key priorities from housing and childcare to traffic and mental health. We toured the flight line, saw the MC-130 and A-26 up close, and received briefings on how these operations impact Florida\u2019s 1st District. Grateful for the men and women who work to remain mission ready and our nation safe. While Senate Democrats focus on illegal immigarnts healthcare , I\u2019ll keep fighting for the people back home.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "schumershutdown"
+                ],
+                "timestamp": 1760647860,
+                "view_count": 1149
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,985 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GArF9-3WYAEIoai.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GArF9-3WYAEIoai.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1732416137042735543",
+                "created_time": "2023-12-06T15:06:08",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1732416137042735543",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Last week, I testified before the @EdWorkforceCmte about my bill, the #SafeStepAct, which provides guardrails for patients to make sure health insurance companies follow a clear process that allows patients to get their needed medication. Thank you, @virginiafoxx for allowing me to discuss this bipartisan legislation.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EdWorkforceCmte",
+                    "virginiafoxx"
+                ],
+                "text_tagged_users_ids": [
+                    "16424044",
+                    "16256269"
+                ],
+                "text_tags": [
+                    "safestepact"
+                ],
+                "timestamp": 1701875168,
+                "view_count": 1249
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1734940926743564775",
+                "created_time": "2023-12-13T14:18:45",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1734940926743564775",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Proud to see the Lower Costs, More Transparency Act, H.R. 5378, pass in the house this week. This bipartisan bill puts patients at the center of their health care by ensuring they have timely and accurate information on the cost of services and medication. The bill also supports community health centers, which are vital to serving rural communities.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1702477125,
+                "view_count": 1894
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1748405448020008961/pu/img/OJI9FlIATtU9xHts.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1748405448020008961/pu/vid/avc1/1280x720/Xo20lxts1-VC6VsK.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 139,
+                        "id": "1748405448020008961",
+                        "url": "https://video.twimg.com/ext_tw_video/1748405448020008961/pu/vid/avc1/1280x720/Xo20lxts1-VC6VsK.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1748406699302502596",
+                "created_time": "2024-01-19T18:06:55",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1748406699302502596",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "If we do not swiftly act to address recent cuts to the Medicare physician reimbursement rates now, and in the long term, the nation's physician shortage will continue to rise, rural communities and underserved areas will become health care deserts, and America's seniors will be left with no option for high quality, affordable health care. \n\nMy fellow @GOPDoctors and I spoke on the House floor about the recent 3.4% cut to the Medicare physician fee schedule and how this will hurt patient access to health care. I urge Congressional leadership to put the health of Americans first and stop the full cut. Watch my full remarks below.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1705687615,
+                "view_count": 4144
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GEng9WHXAAACSaK.jpg?name=small",
+                    "https://pbs.twimg.com/media/GEng9WEW4AACy4v.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GEng9WHXAAACSaK.jpg",
+                    "https://pbs.twimg.com/media/GEng9WEW4AACy4v.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1750178207326707888",
+                "created_time": "2024-01-24T15:26:16",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1750178207326707888",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I had a great visit to PharmaLogic yesterday for a tour of their state-of-the-art facilities and a discussion on pharmaceutical advancements and improving health care for all Americans. https://t.co/K4UaMGreuf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1706109976,
+                "view_count": 1548
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFrkIfwWEAAcbEH.jpg?name=small",
+                    "https://pbs.twimg.com/media/GFrkEhPWoAAO1Q4.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFrkIfwWEAAcbEH.jpg",
+                    "https://pbs.twimg.com/media/GFrkEhPWoAAO1Q4.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1754967270806233397",
+                "created_time": "2024-02-06T20:36:17",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1754967270806233397",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "I enjoyed my visit to @Alkermes facility in Wilmington, Ohio, for a tour of their state-of-the-art facilities. Their work in developing innovative medicines to treat psychiatric and neurological disorders is critical to expanding the health spans of Americans and I am proud of the work being done right here in #OH02 to make America the Healthiest Nation on the Planet.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Alkermes"
+                ],
+                "text_tagged_users_ids": [
+                    "844964348019773442"
+                ],
+                "text_tags": null,
+                "timestamp": 1707251777,
+                "view_count": 947
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1755238681995005952/pu/img/m8Zy2KL9cacXX9-E.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1755238681995005952/pu/vid/avc1/1280x720/WXr4_WHq37_HVge2.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 356,
+                        "id": "1755238681995005952",
+                        "url": "https://video.twimg.com/ext_tw_video/1755238681995005952/pu/vid/avc1/1280x720/WXr4_WHq37_HVge2.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1755239936662421782",
+                "created_time": "2024-02-07T14:39:46",
+                "favorite_count": 30,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1755239936662421782",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 31,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Relying on foreign adversaries like China for basic medical supplies not only threatens the lives of our service members but also threatens the health spans of all Americans. \n\nAt a @waysandmeansGOP hearing yesterday, I spoke about the importance of manufacturing these items here at home.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1707316786,
+                "view_count": 2174
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://wenstrup.house.gov/updates/documentsingle.aspx?DocumentID=408064"
+                ],
+                "attached_links_url": [
+                    "https://t.co/wvW8lcMUAQ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1755287306724929708",
+                "created_time": "2024-02-07T17:48:00",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1755287306724929708",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I am proud the House voted to protect individuals with chronic illnesses and disabilities from discrimination today by passing legislation I helped lead, the Protecting Health Care for All Patients Act (H.R. 485). \n\nhttps://t.co/wvW8lcMUAQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1707328080,
+                "view_count": 706
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1755325967822647296/pu/img/C9bs0J7TwK62dFKu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1755325967822647296/pu/vid/avc1/1280x720/GlLgGD7GdG22OyhQ.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 121,
+                        "id": "1755325967822647296",
+                        "url": "https://video.twimg.com/ext_tw_video/1755325967822647296/pu/vid/avc1/1280x720/GlLgGD7GdG22OyhQ.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1755327403486769191",
+                "created_time": "2024-02-07T20:27:20",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1755327403486769191",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I spoke in favor of legislation I helped lead, the Protecting Health Care for All Patients Act, on the House floor. Watch my full remarks\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1707337640,
+                "view_count": 864
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GGPZ8z-WYAAjr14.jpg?name=small",
+                    "https://pbs.twimg.com/media/GGPbkJ6XgAA8OVU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GGPZ8z-WYAAjr14.jpg",
+                    "https://pbs.twimg.com/media/GGPbkJ6XgAA8OVU.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1757489810007118108",
+                "created_time": "2024-02-13T19:39:57",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1757489810007118108",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I enjoyed my visit with @TriHealth and touring Good Samaritan Hospital's phenomenal facilities, including their free health clinic, food pantry, and College of Nursing and Health Science. \n\nWe had a fruitful discussion on investments in behavioral health and preparing our future health care workers for success.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "TriHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "171556020"
+                ],
+                "text_tags": null,
+                "timestamp": 1707853197,
+                "view_count": 1065
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GGfIezTW4AASu2o.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GGfIezTW4AASu2o.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1758594928463016344",
+                "created_time": "2024-02-16T20:51:18",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1758594928463016344",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 18,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "This week is National Salute to Veteran Patients Week. As a physician, lawmaker, and veteran, I am proud of the work we have done so far to improve the health care veterans receive every day, and I am committed to ensuring all of our nation's veterans get the care they deserve. https://t.co/hvIwUlYOku",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1708116678,
+                "view_count": 1621
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1770459875115479040/pu/img/A_MeufAzbB4DGHvQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1770459875115479040/pu/vid/avc1/1280x720/B0KpxlL3Junm8ip1.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 230,
+                        "id": "1770459875115479040",
+                        "url": "https://video.twimg.com/ext_tw_video/1770459875115479040/pu/vid/avc1/1280x720/B0KpxlL3Junm8ip1.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1770460896516559272",
+                "created_time": "2024-03-20T14:42:25",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1770460896516559272",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "I joined @RepGregMurphy for a press conference to discuss our bill, the EDUCATE Act, to bar federal funding from going to medical schools using divisive DEI practices. Our future physicians should be advanced on merit, not through acts of discrimination. Watch my full remarks \ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGregMurphy"
+                ],
+                "text_tagged_users_ids": [
+                    "1173978070535024642"
+                ],
+                "text_tags": null,
+                "timestamp": 1710945745,
+                "view_count": 1649
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1770555090656501760/pu/img/2-JAwJenm6_8iucZ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1770555090656501760/pu/vid/avc1/1280x720/BU1EItv4guwVU2Lx.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 97,
+                        "id": "1770555090656501760",
+                        "url": "https://video.twimg.com/ext_tw_video/1770555090656501760/pu/vid/avc1/1280x720/BU1EItv4guwVU2Lx.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1770555856490303521",
+                "created_time": "2024-03-20T20:59:46",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1770555856490303521",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I spoke in support of @michaelcburgess' Preventative Health Savings Act on the House floor yesterday. You can watch my remarks below. https://t.co/WdZzBFBZVe",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "michaelcburgess"
+                ],
+                "text_tagged_users_ids": [
+                    "15751083"
+                ],
+                "text_tags": null,
+                "timestamp": 1710968386,
+                "view_count": 959
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nationalreview.com/2024/04/dei-is-poisoning-american-medical-training/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/PpWTIO65UM"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1780242158445797614",
+                "created_time": "2024-04-16T14:29:40",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1780242158445797614",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Dangerous DEI Ideology is infiltrating American medical schools, threatening the health spans of all Americans.\n\nI joined my friend and fellow physician, @RepGregMurphy on H.R. 7725, a bill to bar Federal funding from flowing to medical schools that practice this harmful discriminatory ideology.\n\nRead more on the dangers of DEI in medicine from my op-ed here: https://t.co/PpWTIO65UM",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGregMurphy"
+                ],
+                "text_tagged_users_ids": [
+                    "1173978070535024642"
+                ],
+                "text_tags": null,
+                "timestamp": 1713277780,
+                "view_count": 2493
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1780645313033715712/pu/img/dVt4nkqDoR3bs-Yy.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1780645313033715712/pu/vid/avc1/640x360/ABSv6I3IDEyY7UWJ.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 339,
+                        "id": "1780645313033715712",
+                        "url": "https://video.twimg.com/ext_tw_video/1780645313033715712/pu/vid/avc1/640x360/ABSv6I3IDEyY7UWJ.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1780645938547048812",
+                "created_time": "2024-04-17T17:14:09",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1780645938547048812",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 23,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "We rely on China for too many of our health care supplies - ranging from personal protective equipment to the vital prescriptions Americans use every day. \n\nIt's critical that our trade policies match the goal of securing our critical supply chains. \n\nI raised my concerns with @AmbassadorTai at this week's @WaysandMeansGOP hearing.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1713374049,
+                "view_count": 1997
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1788292550878494720/pu/img/Z4Nh5syna9N2-nVy.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1788292550878494720/pu/vid/avc1/1280x720/OqWAkI3rgaobBs9i.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 177,
+                        "id": "1788292550878494720",
+                        "url": "https://video.twimg.com/ext_tw_video/1788292550878494720/pu/vid/avc1/1280x720/OqWAkI3rgaobBs9i.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1788293311993708821",
+                "created_time": "2024-05-08T19:42:05",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1788293311993708821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Proud to see key health care provisions from two of my bills included in H.R. 8261, the Preserving Telehealth, Hospital, and Ambulance Access Act, reported favorably today out of @WaysandMeansGOP.\n\nAs a physician, I know that many patients heal better in the comforts of their own homes. By extending these critical provisions, we can ensure that patients, especially those in rural and underserved areas, have access to the care that best fits their needs. \n\nWatch my full remarks \ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1715197325,
+                "view_count": 1404
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://wenstrup.house.gov/updates/documentsingle.aspx?DocumentID=408278"
+                ],
+                "attached_links_url": [
+                    "https://t.co/RPIddfcIkR"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1790832565886075046",
+                "created_time": "2024-05-15T19:52:10",
+                "favorite_count": 41,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1790832565886075046",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 14,
+                "source": "Twitter Web App",
+                "text": "My bill, the BIOSECURE Act, was reported favorably out of @GOPoversight today, the first in what I hope will be a multi-step approach to fortifying U.S. national health security and ending our dependence on foreign adversaries, like China, for genomic testing or basic pharmaceutical ingredients. Read my full statement \ud83d\udc47\nhttps://t.co/RPIddfcIkR",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1715802730,
+                "view_count": 5677
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.foxnews.com/politics/life-death-house-gop-faces-mounting-pressure-target-dei-medical-schools"
+                ],
+                "attached_links_url": [
+                    "https://t.co/W9MjFxdXx9",
+                    "https://t.co/HAe9TcNVgm"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1806245050164162560/fI36km9O?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1806707257788256521",
+                "created_time": "2024-06-28T15:12:31",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1806707257788256521",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Proud to lead the EDUCATE Act with @RepGregMurphy. Our Medical Schools should be focused on admitting our most qualified students, not discriminating against certain groups.  https://t.co/HAe9TcNVgm",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGregMurphy"
+                ],
+                "text_tagged_users_ids": [
+                    "1173978070535024642"
+                ],
+                "text_tags": null,
+                "timestamp": 1719587551,
+                "view_count": 810
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1836149578388652032/pu/img/csLCvUjuq_vMlYEy.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1836149578388652032/pu/vid/avc1/1280x720/S7IsJm_7Pi1rQrsn.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 123,
+                        "id": "1836149578388652032",
+                        "url": "https://video.twimg.com/ext_tw_video/1836149578388652032/pu/vid/avc1/1280x720/S7IsJm_7Pi1rQrsn.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1836150864529998206",
+                "created_time": "2024-09-17T21:10:54",
+                "favorite_count": 52,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1836150864529998206",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 18,
+                "source": "Twitter Web App",
+                "text": "Today, the House passed my bill, the Chronic Disease Flexible Coverage Act, to expand coverage of preventative care for chronic conditions under high-deductible health plans. \n\nBy expanding access, we can work towards making America the healthiest nation on the planet while reducing the price of care in the future. Watch my remarks \ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1726607454,
+                "view_count": 4953
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wlwt.com/article/uc-health-opens-emergency-preparedness-and-response-center/62455164"
+                ],
+                "attached_links_url": [
+                    "https://t.co/I2d5GpQHLp"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1840943987575668737/DAp7Nd0A?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1841491511449415794",
+                "created_time": "2024-10-02T14:52:44",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1841491511449415794",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It was great to join @UC_Health to unveil their newest facility, the Emergency Preparedness and Readiness Center, as they continue to expand and serve our region! https://t.co/I2d5GpQHLp",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "UC_Health"
+                ],
+                "text_tagged_users_ids": [
+                    "462332791"
+                ],
+                "text_tags": null,
+                "timestamp": 1727880764,
+                "view_count": 781
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "518644221",
+                "author_username": "RepBradWenstrup",
+                "community_notes": null,
+                "conversation_id": "1864052136285483070",
+                "created_time": "2024-12-03T21:00:36",
+                "favorite_count": 213,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1864052136285483070",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 4,
+                "quoted_status_id": "1863961494121017797",
+                "quoted_status_profile_id": "827279765287559171",
+                "quoted_status_profile_username": "SpeakerJohnson",
+                "reply_count": 53,
+                "retweet_count": 55,
+                "source": "Twitter for iPhone",
+                "text": "I want to thank @SpeakerJohnson for his continued support of @COVIDSelect\u2019s investigation into our nation\u2019s response to the COVID-19 pandemic. \n\nAmongst many other findings, our final report details far too much fraud and abuse within our public health systems. It will take all of us to rebuild the American people\u2019s faith in public health - and our report is a major step towards this goal.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson",
+                    "COVIDSelect"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171",
+                    "1261286876142604288"
+                ],
+                "text_tags": null,
+                "timestamp": 1733259636,
+                "view_count": 25585
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

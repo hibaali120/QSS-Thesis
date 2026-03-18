@@ -1,0 +1,188 @@
+{
+    "politician": "CarlForAlabama",
+    "posts": [
+        {
+            "conversation_id": "1481737775951065095",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1002382154",
+                    "author_username": "ae995tony",
+                    "community_notes": null,
+                    "conversation_id": "1481737775951065095",
+                    "created_time": "2022-01-15T22:17:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1482476972559241222",
+                    "in_reply_to_post_id": "1481737775951065095",
+                    "in_reply_to_profile_id": "2237925464",
+                    "in_reply_to_profile_username": "CarlForAlabama",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@CarlForAlabama Tell us Jerry,,what\u2019s the deal with health care workers.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CarlForAlabama"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2237925464"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642285028,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1392083386550923269",
+                    "author_username": "BaldwinDemsAL",
+                    "community_notes": null,
+                    "conversation_id": "1481737775951065095",
+                    "created_time": "2022-01-13T21:32:48",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1481741041871081478",
+                    "in_reply_to_post_id": "1481737775951065095",
+                    "in_reply_to_profile_id": "2237925464",
+                    "in_reply_to_profile_username": "CarlForAlabama",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@CarlForAlabama Did you even read the ruling @CarlForAlabama or just the headline?  Because it\u2019s a mixed ruling \u2014 which means that politicians like you can pick and choose what to highlight on social media, but it\u2019s not a complete rebuke on mandates. Facts, not Fox.  #alpolitics",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CarlForAlabama"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2237925464"
+                    ],
+                    "text_tags": [
+                        "alpolitics"
+                    ],
+                    "timestamp": 1642109568,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "260506200",
+                    "author_username": "drockhutch",
+                    "community_notes": null,
+                    "conversation_id": "1481737775951065095",
+                    "created_time": "2022-01-13T21:32:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1481740979707203598",
+                    "in_reply_to_post_id": "1481737775951065095",
+                    "in_reply_to_profile_id": "2237925464",
+                    "in_reply_to_profile_username": "CarlForAlabama",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@CarlForAlabama I have never seen someone so happy that people will die. You are a huge douche.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CarlForAlabama"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2237925464"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642109553,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "25964256",
+                    "author_username": "ChadNiblettAL",
+                    "community_notes": null,
+                    "conversation_id": "1481737775951065095",
+                    "created_time": "2022-01-13T21:20:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1481737976904302601",
+                    "in_reply_to_post_id": "1481737775951065095",
+                    "in_reply_to_profile_id": "2237925464",
+                    "in_reply_to_profile_username": "CarlForAlabama",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@CarlForAlabama Roll Tide to that!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CarlForAlabama"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2237925464"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642108837,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1848448283439743132",
+            "replies": []
+        }
+    ]
+}

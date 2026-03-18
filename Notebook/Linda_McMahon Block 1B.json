@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMMkUXnWIAAC8YF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMMkUXnWIAAC8YF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "65522706",
+                "author_username": "Linda_McMahon",
+                "community_notes": null,
+                "conversation_id": "1784310859705000356",
+                "created_time": "2024-04-27T19:57:14",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1784310859705000356",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Seems like the scales of Justice have tipped. One side can speak freely. The other muzzled. Clearly, this \"Fair trial's treatment\" of the freedom of speech has an on/off switch. Fair? Really? What if you were on trial? #lawfare https://t.co/b8U5BBmoRI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "lawfare"
+                ],
+                "timestamp": 1714247834,
+                "view_count": 1734
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

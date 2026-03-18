@@ -1,0 +1,61 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.newsmax.com/newsmax-tv/victoria-spartz-biden-putin/2022/08/23/id/1084340/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/vjCj4n9dVa"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1344845201479663621",
+                "author_username": "RepSpartz",
+                "community_notes": null,
+                "conversation_id": "1562456732936196097",
+                "created_time": "2022-08-24T15:08:08",
+                "favorite_count": 451,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1562456732936196097",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 15,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 74,
+                "retweet_count": 154,
+                "source": "Twitter Web App",
+                "text": "Atrocities of the Putin\u2019s war in Ukraine & treatment of POWs by Russians are barbaric - and what they are doing to the defenders of Azovstal is inhumane.\nIntl community cannot continue to be silent.\n\nI joined @Newsmax last night to discuss it with @greta\n\nhttps://t.co/vjCj4n9dVa",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Newsmax",
+                    "greta"
+                ],
+                "text_tagged_users_ids": [
+                    "20545835",
+                    "16031927"
+                ],
+                "text_tags": null,
+                "timestamp": 1661353688,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FR_i9oZXoAE5Gdh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FR_i9oZXoAE5Gdh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1078741899572240384",
+                "author_username": "RepRussFulcher",
+                "community_notes": null,
+                "conversation_id": "1522184749804105728",
+                "created_time": "2022-05-05T12:01:39",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1522184749804105728",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 7,
+                "source": "Hootsuite Inc.",
+                "text": "Happy National Day of Prayer. We are so fortunate to live in a country that guarantees the freedom of each citizen to exercise their religion. I look forward to joining our nation in prayer today. https://t.co/x7K2jGChke",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1651752099,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1078741899572240384",
+                "author_username": "RepRussFulcher",
+                "community_notes": null,
+                "conversation_id": "1849483159550988514",
+                "created_time": "2024-10-24T16:08:41",
+                "favorite_count": 94,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1849483159550988514",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 35,
+                "retweet_count": 29,
+                "source": "Twitter for iPhone",
+                "text": "Americans who exercise their First Amendment right in the defense of \ud835\uddf9\ud835\uddf6\ud835\uddf3\ud835\uddf2 should never have to worry about their federal government targeting them because of their beliefs.\n\nVery proud to co-sponsor @RepChipRoy\u2019s bill to repeal the weaponized and unconstitutional FACE Act.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepChipRoy"
+                ],
+                "text_tagged_users_ids": [
+                    "1082790600292925440"
+                ],
+                "text_tags": null,
+                "timestamp": 1729786121,
+                "view_count": 3426
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

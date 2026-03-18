@@ -1,0 +1,68 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1623327830753918976/img/nS6OY5QsxQ39aw2z.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1623327830753918976/vid/1920x1080/ANkIK0adbs0chFKo.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 519,
+                        "id": "1623327830753918976",
+                        "url": "https://video.twimg.com/amplify_video/1623327830753918976/vid/1920x1080/ANkIK0adbs0chFKo.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1623330415888027650",
+                "created_time": "2023-02-08T14:38:25",
+                "favorite_count": 818,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1623330415888027650",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 9,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 93,
+                "retweet_count": 263,
+                "source": "Twitter Media Studio",
+                "text": "Twitter, under the leadership of our witnesses today, was a private company the government used to accomplish what it constitutionally cannot: limit the free exercise of speech.\n\n@GOPoversight will examine this coordination between the government & Big Tech. @MariaBartiromo https://t.co/QCWsbM3NYc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "MariaBartiromo"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "208155240"
+                ],
+                "text_tags": null,
+                "timestamp": 1675867105,
+                "view_count": 33436
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

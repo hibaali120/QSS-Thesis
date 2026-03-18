@@ -1,0 +1,199 @@
+{
+    "politician": "RepJeffHurd",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1988748686013124688",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G5pxaL_boAAi3a-.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G5pxaL_boAAi3a-.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2769456961",
+                    "author_username": "LadyKnute",
+                    "community_notes": null,
+                    "conversation_id": "1988748686013124688",
+                    "created_time": "2025-11-13T17:45:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1989026883179278774",
+                    "in_reply_to_post_id": "1988748686013124688",
+                    "in_reply_to_profile_id": "1870164247419736064",
+                    "in_reply_to_profile_username": "RepJeffHurd",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJeffHurd It is long overdue that Republicans focus on affordable, attainable healthcare. \nHonestly, I'll believe it when I see it. https://t.co/TVrpdUMK1b",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJeffHurd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1870164247419736064"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763055937,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G5pw5sabMAACj4O.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G5pw5sabMAACj4O.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2769456961",
+                    "author_username": "LadyKnute",
+                    "community_notes": null,
+                    "conversation_id": "1988748686013124688",
+                    "created_time": "2025-11-13T17:43:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1989026324514767281",
+                    "in_reply_to_post_id": "1988748686013124688",
+                    "in_reply_to_profile_id": "1870164247419736064",
+                    "in_reply_to_profile_username": "RepJeffHurd",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJeffHurd https://t.co/BPtXqLxdJz",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJeffHurd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1870164247419736064"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763055804,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "http://congress.org"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/qzUVeoYlE5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1985936240311468033/2kJhcX5t?format=jpg&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "860576612470882305",
+                    "author_username": "mike4colorado",
+                    "community_notes": null,
+                    "conversation_id": "1988748686013124688",
+                    "created_time": "2025-11-13T01:06:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988775454925549955",
+                    "in_reply_to_post_id": "1988748686013124688",
+                    "in_reply_to_profile_id": "1870164247419736064",
+                    "in_reply_to_profile_username": "RepJeffHurd",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJeffHurd What bill is that Jeff? I don't see anything you've sponsored or cosponsored about extending #ACA subsidies on https://t.co/qzUVeoYlE5.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJeffHurd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1870164247419736064"
+                    ],
+                    "text_tags": [
+                        "aca"
+                    ],
+                    "timestamp": 1762995992,
+                    "view_count": 17
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1643064941589696512",
+                    "author_username": "PeterLamirada",
+                    "community_notes": null,
+                    "conversation_id": "1988748686013124688",
+                    "created_time": "2025-11-12T23:46:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988755272148607225",
+                    "in_reply_to_post_id": "1988748686013124688",
+                    "in_reply_to_profile_id": "1870164247419736064",
+                    "in_reply_to_profile_username": "RepJeffHurd",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJeffHurd The ACA is the root cause. It\u2019s by design. To make health care so unaffordable people will accept single payer. Don\u2019t try and make this more difficult than it is.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJeffHurd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1870164247419736064"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762991180,
+                    "view_count": 18
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,846 @@
+{
+    "politician": "RepAprilDelaney",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1877723623881920745",
+            "replies": []
+        },
+        {
+            "conversation_id": "1889074198024511713",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GjdWtNbWkAAjVW5.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GjdWtNbWkAAjVW5.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1874580463752196096",
+                    "author_username": "RepAprilDelaney",
+                    "community_notes": null,
+                    "conversation_id": "1889074198024511713",
+                    "created_time": "2025-02-10T22:09:21",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1889074199504859645",
+                    "in_reply_to_post_id": "1889074198024511713",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "I also toured @HememicsI, a small business developing lab-quality testing for drug use, biotoxins & proteins via a handheld instrument for use in the field, which has applications in environmental safety, the military and in urgent care to better diagnose patients and save lives. https://t.co/TuxLLNGqjg",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HememicsI"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1244985931666513920"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739225361,
+                    "view_count": 220
+                }
+            ]
+        },
+        {
+            "conversation_id": "1894047099227931115",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1458131781127913474",
+                    "author_username": "TunesOnX",
+                    "community_notes": null,
+                    "conversation_id": "1894047099227931115",
+                    "created_time": "2025-02-24T21:23:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894136011648565408",
+                    "in_reply_to_post_id": "1894047099227931115",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAprilDelaney Greetings April  +1\n\nWhat if the $880,000,000,000 in savings actually consists of fraud, waste, and abuse?\n\nAre you still against it?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740432191,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "27697593",
+                    "author_username": "crLawther",
+                    "community_notes": null,
+                    "conversation_id": "1894047099227931115",
+                    "created_time": "2025-02-24T15:41:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894049974687588806",
+                    "in_reply_to_post_id": "1894047099227931115",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney The government is the worst vehicle for delivering any service of value. \nCongress has also put us in 36 trillion in debt. \nI\u2019m sure you can find a way to support these cuts or find a way to be out of office in 2026.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740411678,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1919830226453803246",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1211543874914533378",
+                    "author_username": "Rodrigo12742435",
+                    "community_notes": null,
+                    "conversation_id": "1919830226453803246",
+                    "created_time": "2025-05-07T08:00:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1920025865385128267",
+                    "in_reply_to_post_id": "1919830226453803246",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Inside trading = Corruption",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1746604813,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1583584049855078420",
+                    "author_username": "AlexMil92241944",
+                    "community_notes": null,
+                    "conversation_id": "1919830226453803246",
+                    "created_time": "2025-05-06T20:00:10",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1919844660098322437",
+                    "in_reply_to_post_id": "1919830226453803246",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Why are you insider trader Miss Delaney? Do you not think the laws apply to you?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1746561610,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "255846274",
+                    "author_username": "gstaad2024",
+                    "community_notes": null,
+                    "conversation_id": "1919830226453803246",
+                    "created_time": "2025-05-06T19:12:18",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1919832614908690673",
+                    "in_reply_to_post_id": "1919830226453803246",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Nice insider stock purchase! Pelosi taught you well",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1746558738,
+                    "view_count": 31
+                }
+            ]
+        },
+        {
+            "conversation_id": "1947371743666127014",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "272551645",
+                    "author_username": "CosaSandoval",
+                    "community_notes": null,
+                    "conversation_id": "1947371743666127014",
+                    "created_time": "2025-07-21T20:35:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1947395132845883465",
+                    "in_reply_to_post_id": "1947371743666127014",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney Sounds like fear mongering on your part",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753130155,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1948533691010957384",
+            "replies": []
+        },
+        {
+            "conversation_id": "1961133321666154823",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973840601457307725",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/gop/status/1973800680055009462?s=46"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/DCi8zbs7ft"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1742332950165794816",
+                    "author_username": "JP4480689226065",
+                    "community_notes": null,
+                    "conversation_id": "1973840601457307725",
+                    "created_time": "2025-10-03T03:52:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973959229041266994",
+                    "in_reply_to_post_id": "1973840601457307725",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney https://t.co/DCi8zbs7ft",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759463529,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/ronaledo4/status/1973828602434060592?t=-8gb2F8puuxeWzo1y-A9VQ&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/VWctmSvxi0"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1755008469558591488",
+                    "author_username": "TD_1098",
+                    "community_notes": null,
+                    "conversation_id": "1973840601457307725",
+                    "created_time": "2025-10-02T22:05:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973871965787336866",
+                    "in_reply_to_post_id": "1973840601457307725",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney Nor does anyone another expensive war, but few have the courage to oppose the babysteps being taken towards one. Remember the last big message of Dwight Eisenhower - all the money spent on weapons is mostly lost... @jimmy_dore Note this US man's view.\n\nhttps://t.co/VWctmSvxi0",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "jimmy_dore"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "98992586"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759442724,
+                    "view_count": 161
+                }
+            ]
+        },
+        {
+            "conversation_id": "1977029897873748333",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978457205570478366",
+            "replies": []
+        },
+        {
+            "conversation_id": "1979254692493561956",
+            "replies": []
+        },
+        {
+            "conversation_id": "1979281292094062822",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1156163386763304965",
+                    "author_username": "AStuart57831725",
+                    "community_notes": null,
+                    "conversation_id": "1979281292094062822",
+                    "created_time": "2025-10-20T08:29:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980189724670079287",
+                    "in_reply_to_post_id": "1979281292094062822",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAprilDelaney 3 days and 2 likes. Wow, aren't you popular. \nOr, just maybe, even democrats aren't too happy w/what those mail-in ballots are delivering.\n\ud83d\ude02",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760948995,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1979311533353242670",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1156163386763304965",
+                    "author_username": "AStuart57831725",
+                    "community_notes": null,
+                    "conversation_id": "1979311533353242670",
+                    "created_time": "2025-10-20T08:42:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980192884419953072",
+                    "in_reply_to_post_id": "1979311533353242670",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAprilDelaney \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83e\udd21",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760949748,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1981475695734690258",
+            "replies": []
+        },
+        {
+            "conversation_id": "1982922039179854220",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1742332950165794816",
+                    "author_username": "JP4480689226065",
+                    "community_notes": null,
+                    "conversation_id": "1982922039179854220",
+                    "created_time": "2025-10-27T21:38:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1982924856732885388",
+                    "in_reply_to_post_id": "1982922039179854220",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Nice try to change the subject, Who cares about anything accept opening the Government right now so 36,000 federal employees can get paid. Largest Union is telling you and your radical Democrats to allow them to get a pay check",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761601101,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1983643442732241278",
+            "replies": []
+        },
+        {
+            "conversation_id": "1988696372133130641",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996289274522800594",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996967922879594706",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1695294792241229824",
+                    "author_username": "bdsigno78276",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-20T03:16:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002216612225495365",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Well you better REALLY know what your getting behind other than union $ as this could put cripple the majority of American citizens of whom you are suppose to be representing.!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766200614,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3141672447",
+                    "author_username": "People4Bernie",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-19T03:05:50",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001851441183682686",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Thank you",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766113550,
+                    "view_count": 61
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "422863622",
+                    "author_username": "meganessaheb",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-19T02:11:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001837801403461901",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Thank you for your leadership on this! You\u2019re starting a wave of new cosponsors!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766110298,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1686582159564263425",
+                    "author_username": "chray_754",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-07T04:15:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1997520358157795559",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen When considering tax credits keep in mind that I already pay for my insurance without tax credits.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765080940,
+                    "view_count": 36
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1686582159564263425",
+                    "author_username": "chray_754",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-07T04:14:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1997520099507634229",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen I\u2019m pretty certain that Health Care is not a right protected in any United States amendments nor the bill of rights. \nPlease reference and provide the part in the ACA provision guaranteeing healthcare as a right.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765080878,
+                    "view_count": 38
+                }
+            ]
+        }
+    ]
+}

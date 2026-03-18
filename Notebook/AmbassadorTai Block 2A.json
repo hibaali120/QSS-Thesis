@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1358117090268446721",
+                "author_username": "AmbassadorTai",
+                "community_notes": null,
+                "conversation_id": "1766220750451593559",
+                "created_time": "2024-03-08T21:53:36",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1766220750451593559",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Last month we saw 275,000 jobs created:\n\n\ud83c\udfe567,000 in Healthcare\n\u2696\ufe0f52,000 in Government\n\ud83c\udf7442,000 in Restaurants/Bars\n\ud83e\udd1d24,000 in Social Assistance\n\ud83d\udc7723,000 in Construction\n\ud83d\ude9a20,000 in Transportation and Warehousing\n\ud83d\udcb519,000 in Retail\n\nThis is Bidenomics at work.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1709934816,
+                "view_count": 1943
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

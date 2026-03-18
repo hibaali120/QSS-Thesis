@@ -1,0 +1,165 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GkGsZVVWQAANZXv.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkGsZVVX0AA4g0r.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkGsZVWWMAEY4_E.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkGsZVWXkAAjCED.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GkGsZVVWQAANZXv.jpg",
+                    "https://pbs.twimg.com/media/GkGsZVVX0AA4g0r.jpg",
+                    "https://pbs.twimg.com/media/GkGsZVWWMAEY4_E.jpg",
+                    "https://pbs.twimg.com/media/GkGsZVWXkAAjCED.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1891982876973072800",
+                "created_time": "2025-02-18T22:47:23",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1891982876973072800",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": ".@NEVHC's WIC program is one of many WIC programs that help families access the resources they need for a healthier life, including food vouchers, nutrition education, and healthcare referrals.\n\nI will work to secure funding for NEVHC so it can continue providing valuable services to our community.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NEVHC"
+                ],
+                "text_tagged_users_ids": [
+                    "289696083"
+                ],
+                "text_tags": null,
+                "timestamp": 1739918843,
+                "view_count": 268
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1931418581914222592/img/fhyeQsSNc53HjwG5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1931418581914222592/vid/avc1/360x640/JrSWaHScdnbLgdVq.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 117,
+                        "id": "1931418581914222592",
+                        "url": "https://video.twimg.com/amplify_video/1931418581914222592/vid/avc1/360x640/JrSWaHScdnbLgdVq.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1931418647588692120",
+                "created_time": "2025-06-07T18:31:04",
+                "favorite_count": 99,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1931418647588692120",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 112,
+                "retweet_count": 33,
+                "source": "Twitter for iPhone",
+                "text": "Whether Donald Trump and his Administration likes it or not, our job as Members of Congress is to shine a light on their actions and hold them accountable.\n\nMy colleagues and I will continue to exercise our oversight duties to protect our most vulnerable from this Administration's harmful policies. (cc: @RepJimmyGomez, @NormaJTorres, @RepLouCorrea)",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749321064,
+                "view_count": 3883
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1961121292381208576/img/idztdccfWLkwXPIO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1961121292381208576/vid/avc1/360x640/75voRV1WEFy1xiYQ.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 16,
+                        "id": "1961121292381208576",
+                        "url": "https://video.twimg.com/amplify_video/1961121292381208576/vid/avc1/360x640/75voRV1WEFy1xiYQ.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1961121348958261330",
+                "created_time": "2025-08-28T17:39:00",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961121348958261330",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019m back at Adelanto to conduct oversight of the facility and perform a wellness check on Benjamin Guerrero-Cruz from Reseda.\n\nICE transferred Benjamin from Adelanto to Arizona and then back to Adelanto without notifying his family.\n\nThat is unacceptable, and I\u2019m here to demand answers.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756402740,
+                "view_count": 232
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

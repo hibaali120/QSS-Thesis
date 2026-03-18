@@ -1,0 +1,151 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1941902722657046528/img/IYsBkNZA3TbdfRpB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1941902722657046528/vid/avc1/1280x720/aZSu6eqBpRM4Vqn6.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 44,
+                        "id": "1941902722657046528",
+                        "url": "https://video.twimg.com/amplify_video/1941902722657046528/vid/avc1/1280x720/aZSu6eqBpRM4Vqn6.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1889019333960998912",
+                "author_username": "SecScottBessent",
+                "community_notes": null,
+                "conversation_id": "1941903172139675953",
+                "created_time": "2025-07-06T16:52:49",
+                "favorite_count": 20513,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1941903172139675953",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 90,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 638,
+                "retweet_count": 3883,
+                "source": "Twitter Web App",
+                "text": "Only in D.C. is a 20% hike to Medicaid over 10 years considered a 'cut'.\n\nMedicaid should focus on helping the vulnerable people it was designed for. Work requirements are broadly supported by the public and already implemented in many states.\n\nAble-bodied adults are not vulnerable.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751820769,
+                "view_count": 583326
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1889019333960998912",
+                "author_username": "SecScottBessent",
+                "community_notes": null,
+                "conversation_id": "1942628880575009237",
+                "created_time": "2025-07-08T16:56:32",
+                "favorite_count": 6960,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1942628880575009237",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 31,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 387,
+                "retweet_count": 1293,
+                "source": "Twitter Web App",
+                "text": "Under the One Big Beautiful Bill, we are putting Medicaid on a more sustainable fiscal trajectory and ensuring the program refocuses, as intended, towards serving the most vulnerable Americans.\n\nRecent polling shows that two-thirds of voters (66%) agree there is waste, fraud, and abuse in Medicaid that must be addressed. An even larger majority (72%) agree that able-bodied adults should demonstrate they are looking for a job or are employed to receive Medicaid benefits.\n\nThis bill will NOT reduce benefits for all those who Medicaid was intended to serve: the legal, eligible, and vulnerable.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751993792,
+                "view_count": 132061
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1988631204371795968/img/zq_FrSGwQXxx0UCw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1988631204371795968/vid/avc1/1280x720/cwDRZ_7GqpAlT5o7.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 42,
+                        "id": "1988631204371795968",
+                        "url": "https://video.twimg.com/amplify_video/1988631204371795968/vid/avc1/1280x720/cwDRZ_7GqpAlT5o7.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1889019333960998912",
+                "author_username": "SecScottBessent",
+                "community_notes": null,
+                "conversation_id": "1988631622296408467",
+                "created_time": "2025-11-12T15:35:00",
+                "favorite_count": 24289,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1988631622296408467",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 254,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2679,
+                "retweet_count": 5533,
+                "source": "Twitter Web Client",
+                "text": "The shutdown was never about healthcare for Democrats\u2014it was about stopping President Trump\u2019s agenda at any cost. And they were willing to waste tens of billions of taxpayer dollars to do it.\n\nMeanwhile, the economy is thriving with 3.8% growth, and we\u2019re on track to accelerate even further into 2026.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762961700,
+                "view_count": 485310
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

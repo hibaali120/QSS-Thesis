@@ -1,0 +1,145 @@
+{
+    "politician": "RepBillJohnson",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1505922526626598915",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1506044609599877120",
+                    "author_username": "DanSpeedy2",
+                    "community_notes": null,
+                    "conversation_id": "1505922526626598915",
+                    "created_time": "2022-03-21T23:30:50",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506050734030303236",
+                    "in_reply_to_post_id": "1505922526626598915",
+                    "in_reply_to_profile_id": "211530910",
+                    "in_reply_to_profile_username": "RepBillJohnson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBillJohnson Sir, Thank you for you thoughts concerning my son,  James.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBillJohnson"
+                    ],
+                    "text_tagged_users_ids": [
+                        "211530910"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647905450,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1696306944657457433",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1172646282055360517",
+                    "author_username": "Xenophone3",
+                    "community_notes": null,
+                    "conversation_id": "1696306944657457433",
+                    "created_time": "2023-08-29T00:31:00",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1696319504408572157",
+                    "in_reply_to_post_id": "1696306944657457433",
+                    "in_reply_to_profile_id": "211530910",
+                    "in_reply_to_profile_username": "RepBillJohnson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBillJohnson As a constituent I expect more than your lunch itinerary. How about posting your schedule so we can tag along and see what you accomplish for our district?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBillJohnson"
+                    ],
+                    "text_tagged_users_ids": [
+                        "211530910"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693269060,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1325276337725116417",
+                    "author_username": "wampa_guy",
+                    "community_notes": null,
+                    "conversation_id": "1696306944657457433",
+                    "created_time": "2023-08-29T00:30:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1696319416877621299",
+                    "in_reply_to_post_id": "1696306944657457433",
+                    "in_reply_to_profile_id": "211530910",
+                    "in_reply_to_profile_username": "RepBillJohnson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBillJohnson BIDEN 2024 \ud83d\ude0e",
+                    "text_lang": "eu",
+                    "text_tagged_users": [
+                        "RepBillJohnson"
+                    ],
+                    "text_tagged_users_ids": [
+                        "211530910"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693269039,
+                    "view_count": 8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,982 @@
+{
+    "politician": "RepAlGreen",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1484233363036774400",
+            "replies": []
+        },
+        {
+            "conversation_id": "1496698177000460288",
+            "replies": []
+        },
+        {
+            "conversation_id": "1509597909838356485",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1095113697595400193",
+                    "author_username": "LaShrewdness",
+                    "community_notes": null,
+                    "conversation_id": "1509597909838356485",
+                    "created_time": "2022-03-31T18:59:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1509606335100424203",
+                    "in_reply_to_post_id": "1509597909838356485",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen #TermLimits you are too fat and too late. \ud83e\udd21",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": [
+                        "termlimits"
+                    ],
+                    "timestamp": 1648753172,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1537613027083788288",
+            "replies": []
+        },
+        {
+            "conversation_id": "1540452499806617602",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/FWG6MW8WIAA5H-B.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/FWG6MW8WIAA5H-B.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1365077176144564225",
+                    "author_username": "Robert24244240",
+                    "community_notes": null,
+                    "conversation_id": "1540452499806617602",
+                    "created_time": "2022-06-25T15:23:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1540717275984035840",
+                    "in_reply_to_post_id": "1540452499806617602",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen So, you mean like the Chinavirus vaccine that was experimental that you forced men and women to take? Is that what you mean? Roe v. Wade was unconstitutional and you know dammm well that it goes back to the states now. https://t.co/rZ1qCBi13s",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656170598,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1347314334872064001",
+                    "author_username": "Judybilyeu2",
+                    "community_notes": null,
+                    "conversation_id": "1540452499806617602",
+                    "created_time": "2022-06-25T15:22:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1540717015584780290",
+                    "in_reply_to_post_id": "1540452499806617602",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepAlGreen get rid of the mask, you\u2019re by yourself, pathetic display. Quit using my body and gender to get votes, you have no right to pretend. Vote yesterday was a great day for the millions of babies aborted without, ironically enough, choice. I can take care of my body, I don\u2019t need you",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656170536,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "840447601",
+                    "author_username": "GeorgeBarba",
+                    "community_notes": null,
+                    "conversation_id": "1540452499806617602",
+                    "created_time": "2022-06-25T05:33:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1540568889154629637",
+                    "in_reply_to_post_id": "1540452499806617602",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen God has spoken for his innocent little ones against bloodthirsty demons like you! May God have mercy on your dark soul! There is still time for you to repent and show God that you are sorry for your past evil thoughts and deeds before your time of judgement!\nGI\ud83d\ude4f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656135220,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1563259614627389440",
+            "replies": []
+        },
+        {
+            "conversation_id": "1616258699688812545",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FnGd0uPWIAQXPJD.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FnGd0uPWIAQXPJD.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1173703539849334785",
+                    "author_username": "beper_mcskeper",
+                    "community_notes": null,
+                    "conversation_id": "1616258699688812545",
+                    "created_time": "2023-01-22T19:46:53",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617247449030225920",
+                    "in_reply_to_post_id": "1616258699688812545",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen @IbnSinaUSA Honorable Representative Green,\nI think Ukraine needs more of your help.\n\nI remember when you spoke before passage of the Lend Lease act.\n\nAnd I remember your passion to #ArmUkraineToTheTeeth\n\nCould you speak to German counterparts about how important the German Marshall Fund is? https://t.co/6TUpeTk3L9",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "IbnSinaUSA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "877200766808854530"
+                    ],
+                    "text_tags": [
+                        "armukrainetotheteeth"
+                    ],
+                    "timestamp": 1674416813,
+                    "view_count": 90
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4307365153",
+                    "author_username": "Col_Batman",
+                    "community_notes": null,
+                    "conversation_id": "1616258699688812545",
+                    "created_time": "2023-01-21T23:30:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1616941433575067650",
+                    "in_reply_to_post_id": "1616258699688812545",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen @IbnSinaUSA I hope it\u2019s for you and your mental illness.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "IbnSinaUSA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "877200766808854530"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674343853,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1619522211072843777",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4487926474",
+                    "author_username": "cjjohns1951",
+                    "community_notes": null,
+                    "conversation_id": "1619522211072843777",
+                    "created_time": "2023-01-29T02:32:15",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1619523790148362242",
+                    "in_reply_to_post_id": "1619522211072843777",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepAlGreen @houmayor @SylvesterTurner @RodneyEllis @RepThierry146 I love you for i troducing impeachment for trump from the very beginning",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "houmayor",
+                        "SylvesterTurner",
+                        "RodneyEllis"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1099080229111369728",
+                        "115105973",
+                        "23438894"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674959535,
+                    "view_count": 63
+                }
+            ]
+        },
+        {
+            "conversation_id": "1621648455910268928",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1587171104",
+                    "author_username": "BWAYJR_Dubb",
+                    "community_notes": null,
+                    "conversation_id": "1621648455910268928",
+                    "created_time": "2023-02-04T00:14:01",
+                    "favorite_count": 0,
+                    "geo_lat": 30.7564684,
+                    "geo_lon": -81.58710119999999,
+                    "id": "1621663328455081986",
+                    "in_reply_to_post_id": "1621648455910268928",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "St Marys, GA",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen Montana need you to guard an Prison, good luck, your mission starts today, Maverick.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1675469641,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1678490374203928594",
+            "replies": []
+        },
+        {
+            "conversation_id": "1678834844418166798",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1587171104",
+                    "author_username": "BWAYJR_Dubb",
+                    "community_notes": null,
+                    "conversation_id": "1678834844418166798",
+                    "created_time": "2023-07-11T18:38:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1678836196460441600",
+                    "in_reply_to_post_id": "1678834844418166798",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen Maverick.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689100715,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1679619491871748096",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "254217041",
+                    "author_username": "Voices4Service",
+                    "community_notes": null,
+                    "conversation_id": "1679619491871748096",
+                    "created_time": "2023-07-14T17:14:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1679902110035456015",
+                    "in_reply_to_post_id": "1679619491871748096",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen Thank you for your support of @AmeriCorps Congressman! #Stand4Service",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "AmeriCorps"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "17967675"
+                    ],
+                    "text_tags": [
+                        "stand4service"
+                    ],
+                    "timestamp": 1689354848,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "1726678142595838094",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "16708133",
+                    "author_username": "Kellie_Pryor",
+                    "community_notes": null,
+                    "conversation_id": "1726678142595838094",
+                    "created_time": "2023-11-28T01:01:27",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1729304464438460601",
+                    "in_reply_to_post_id": "1726678142595838094",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "Which did absolutely nothing for your constituents who sleep under the highway overpasses.  \nThat was a symbolic gesture that was no problem to the admin because no monies had to be spent.  \nYou, \"black\" elected officials represent everyone EXCEPT the very Black people you come running to for their votes.  \n#AllSkinFolkAintKinfolk",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1701133287,
+                    "view_count": 27
+                }
+            ]
+        },
+        {
+            "conversation_id": "1912943863838237026",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1341133179609034753",
+                    "author_username": "Kenneth69135728",
+                    "community_notes": null,
+                    "conversation_id": "1912943863838237026",
+                    "created_time": "2025-04-17T22:32:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1912997519778595187",
+                    "in_reply_to_post_id": "1912943863838237026",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 4,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen @HHH_Health @TheArcHouston That\u2019s my tax money being misspent and stolen. So I take what you\u2019re doing personal. You see my on the street you better find a goddamn hole to crawl into",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "HHH_Health",
+                        "TheArcHouston"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1450125435614941187",
+                        "3506323752"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744929125,
+                    "view_count": 49
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "35021120",
+                    "author_username": "amIwalrus",
+                    "community_notes": null,
+                    "conversation_id": "1912943863838237026",
+                    "created_time": "2025-04-17T19:02:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1912944678976045520",
+                    "in_reply_to_post_id": "1912943863838237026",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen @HHH_Health @TheArcHouston Medicare cuts to the Ilgals you keep skipping that part!! why do you not say that- same with SS all illgals have been removed, All Americans SS & Medcare will not be inturrupted, only for Illgals you are so Anti Amercian",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "HHH_Health",
+                        "TheArcHouston"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1450125435614941187",
+                        "3506323752"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744916526,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1912943863838237026",
+                    "created_time": "2025-04-17T19:01:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1912944435031163100",
+                    "in_reply_to_post_id": "1912943863838237026",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Medicaid's structural rot is the problem, not funding levels. The program hemorrhages cash into administrative bloat and fraud while patients wait years for basic services. DOGE's latest audit exposed $33B in terminated grants - including $1.75B to GAVI Foundation's duplicate vaccine programs and $877M in HHS slush funds with zero outcome metrics.\n\nReal reform means gutting the 40% administrative overhead that siphons resources from patients, not performative budget battles. The previous administration enabled this waste cycle - now we're forcing accountability.\n\nRedirect every dollar saved to direct care providers and block-granting states to bypass D.C. middlemen.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "HHH_Health",
+                        "TheArcHouston"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1450125435614941187",
+                        "3506323752"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744916468,
+                    "view_count": 47
+                }
+            ]
+        },
+        {
+            "conversation_id": "1979911283802583331",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1885800619484827648",
+                    "author_username": "DavidFred135355",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-20T06:43:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980163041217167870",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen The Washington Post is just so trustworthy, and so are you you little freaky racist ridiculous little caveman. We see that your state has been redistricted to represent the people the way it should. Shut the hell up Al Green. You're a corrupt idiotic corrupt little bitch. Bye ass",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760942633,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1897435301011730432",
+                    "author_username": "Gremlins420420",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-20T03:10:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980109296151974267",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen You are a racist pos and a dumb one at that",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760929819,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1823387631990034432",
+                    "author_username": "AManjier65605",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-19T15:08:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979927602610532687",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen Idiot",
+                    "text_lang": "sv",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760886500,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G3odn_CXYAAM8zF.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G3odn_CXYAAM8zF.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1823387631990034432",
+                    "author_username": "AManjier65605",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-19T15:08:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979927561380475116",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen https://t.co/BD6nZ1sH3H",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760886490,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1753543220191989760",
+                    "author_username": "0ldWeirdDave",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-19T14:07:11",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979912214661226608",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen al green, still the village idiot",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760882831,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1979911283802583331?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/atU8qT7xKj"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1979911283802583331",
+                    "created_time": "2025-10-19T14:06:00",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979911916790132967",
+                    "in_reply_to_post_id": "1979911283802583331",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The shutdown isn\u2019t about workers\u2019 healthcare\u2014it\u2019s about Democrats sneaking benefits for illegal immigrants into every spending bill. Trump\u2019s stance forces accountability: protect Social Security, Medicare, and veterans\u2019 care FIRST.\n\nWhile freelancers face uncertainty, D.C. prioritizes expanding loopholes for non-citizens over securing citizens\u2019 needs. McGovern\u2019s theatrics won\u2019t hide the truth\u2014Democrats refuse to cut waste but demand endless handouts for those breaking our laws.\n\nTaxpayer dollars should fund Americans, not subsidize illegal entry.\n\nSee which spending provisions are buried in the latest bills: https://t.co/atU8qT7xKj",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760882760,
+                    "view_count": 27
+                }
+            ]
+        }
+    ]
+}

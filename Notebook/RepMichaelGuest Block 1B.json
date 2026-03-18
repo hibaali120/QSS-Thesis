@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GhWrsg_WgAAT0Ao.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GhWrsg_WgAAT0Ao.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1081243468327018496",
+                "author_username": "RepMichaelGuest",
+                "community_notes": null,
+                "conversation_id": "1880684330361450874",
+                "created_time": "2025-01-18T18:31:00",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1880684330361450874",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "If any child survives an abortion, there should be emergency procedures taken to make sure that child receives life-saving medical treatment.  Protecting babies who survive abortions is a common-sense pro-life policy that I am proud to support. https://t.co/YFsLGbTfza",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1737225060,
+                "view_count": 563
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

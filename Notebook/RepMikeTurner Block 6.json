@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "51228911",
+                "author_username": "RepMikeTurner",
+                "community_notes": null,
+                "conversation_id": "1628135784900591616",
+                "created_time": "2023-02-21T20:53:15",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1628135784900591616",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "1626255158312312838",
+                "quoted_status_profile_id": "16675107",
+                "quoted_status_profile_username": "OIA",
+                "reply_count": 8,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Local parks serve our communities by providing residents a safe outdoor space to gather, play, exercise, and relax. I am proud to again lead the bipartisan bill to protect & enhance opportunities for families to enjoy the great recreational spaces the Dayton region has to offer.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1677012795,
+                "view_count": 2768
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,974 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/473RrwM"
+                ],
+                "attached_links_url": [
+                    "https://t.co/1lHQj6mb9d"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1973124332088947054",
+                "created_time": "2025-09-30T20:34:34",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973124332088947054",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Sprout Social",
+                "text": "LIVE NOW AND THE REST OF THE DAY: Hear the truth about the looming Republican shutdown. Health care experts & House Democrats explain why extending health care coverage credits is vital to keep care affordable, and why Democrats are fighting to keep government open. https://t.co/1lHQj6mb9d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759264474,
+                "view_count": 569
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2IatIHXkAA6is5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1973168886330560512/vid/avc1/1080x1920/wOM6zUmO8fksNx7B.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 43,
+                        "id": "1973168886330560512",
+                        "url": "https://video.twimg.com/amplify_video/1973168886330560512/vid/avc1/1080x1920/wOM6zUmO8fksNx7B.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1973168971470750129",
+                "created_time": "2025-09-30T23:31:57",
+                "favorite_count": 81,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973168971470750129",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 86,
+                "retweet_count": 31,
+                "source": "Sprout Social",
+                "text": "Earlier today on the House Floor I called out Republicans for vacationing while Democrats fight for Ohio families. Without ACA credits, premiums will soar\u2014$670 more for many, $16,962 more for others. We can stop the cuts, lower costs, save health care AND fund the government. https://t.co/jziaemajNh",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759275117,
+                "view_count": 3889
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/3Irq32z"
+                ],
+                "attached_links_url": [
+                    "https://t.co/C4ON0Bwo6X",
+                    "https://t.co/DkDWxhZCM0"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2RAP1cWkAAvc3Y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2RAP1cWkAAvc3Y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1973773198505251170",
+                "created_time": "2025-10-02T15:32:56",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973773198505251170",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Sprout Social",
+                "text": "Republicans blocked the extension of vital health care tax credits\u2014spiking insurance premiums in the Affordable Care Act marketplace, shutting down government. Click https://t.co/DkDWxhZCM0 to calculate YOUR premium increase. Democrats are fighting to keep care affordable AND reopen the government.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759419176,
+                "view_count": 1006
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2SAF9AWQAA4ZuD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1973843355525169152/vid/avc1/720x900/Jpk6cmptZU-o-hnf.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 22,
+                        "id": "1973843355525169152",
+                        "url": "https://video.twimg.com/amplify_video/1973843355525169152/vid/avc1/720x900/Jpk6cmptZU-o-hnf.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1973843398629962222",
+                "created_time": "2025-10-02T20:11:53",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973843398629962222",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "Republicans inflicted reckless cuts, raised costs & shut down the government instead of protecting health care. I stood with colleagues, patients & advocates sharing powerful impact stories. Democrats will keep fighting to stop cuts, lower costs & save health care until every day Americans prevail.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759435913,
+                "view_count": 416
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/4nw280S"
+                ],
+                "attached_links_url": [
+                    "https://t.co/cuEhRk83KZ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2Smp6iWIAAOmD2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2Smp6iWIAAOmD2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1973885796571652097",
+                "created_time": "2025-10-02T23:00:21",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973885796571652097",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Sprout Social",
+                "text": "Republicans\u2019 funding plan puts cancer care at risk by raising health insurance premiums. This week, Catharyne, an oncology nurse at Wexner Medical Center, shared how Republican cuts and costs heighten financial barriers for her patients. Listen in: https://t.co/cuEhRk83KZ https://t.co/o9MROyi13L",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759446021,
+                "view_count": 637
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1974488030460133728",
+                "created_time": "2025-10-04T14:53:25",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974488030460133728",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1974196979451441208",
+                "quoted_status_profile_id": "4180260695",
+                "quoted_status_profile_username": "HouseDailyPress",
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Republicans are away while your health insurance premiums skyrocket. They fled the scene instead of ending their shutdown & protecting health care tax credits families and small businesses need NOW before Nov 1 ACA health insurance enrollment. Democrats are ready to meet NOW to reopen govt. & keep care affordable.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759589605,
+                "view_count": 981
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2igqXAWwAACPOq.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2igqXAWwAACPOq.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1975005106899710146",
+                "created_time": "2025-10-06T01:08:05",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975005106899710146",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 7,
+                "source": "Sprout Social",
+                "text": "Republicans can\u2019t defend their shutdown or skipping negotiations. They won\u2019t admit why Democrats refuse to wait on health care tax credits: ACA coverage enrollment opens Nov. 1. Families choosing insurance must know now if they\u2019ll lose credits & be forced to choose between healthcare, rent, or food.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759712885,
+                "view_count": 1082
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://youtu.be/KpYdWf0aacQ"
+                ],
+                "attached_links_url": [
+                    "https://t.co/m6Kj6Z266R"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G21BbsHXAAAKT1K.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976307692579823616/vid/avc1/1080x1350/FvzUeL6Hzpqj_f4y.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 55,
+                        "id": "1976307692579823616",
+                        "url": "https://video.twimg.com/amplify_video/1976307692579823616/vid/avc1/1080x1350/FvzUeL6Hzpqj_f4y.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1976309065966817360",
+                "created_time": "2025-10-09T15:29:34",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976309065966817360",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Republicans are waging a war on America\u2019s health care. They cut Medicaid, and now, they're trying to hike up YOUR health care premiums! Bottom line: they're refusing to open up the government to provide the affordable care that belongs to YOU. It's simple: no health care, no vote. Click here for my full testimony: https://t.co/m6Kj6Z266R",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760023774,
+                "view_count": 785
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/473ltzN"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MuDkwIUic8"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G26Ifw3WYAAlMSm.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976667323608989696/vid/avc1/1080x1350/BSUCqoHV-TX3GUq8.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 36,
+                        "id": "1976667323608989696",
+                        "url": "https://video.twimg.com/amplify_video/1976667323608989696/vid/avc1/1080x1350/BSUCqoHV-TX3GUq8.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1976667388062908604",
+                "created_time": "2025-10-10T15:13:24",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976667388062908604",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Sprout Social",
+                "text": "What Republicans won't tell you: everyone will be affected by pricey health care premiums. Democrats are fighting to keep costs low for Americans, because it hurts everybody when Republicans fail to act. Stop the cuts, lower costs, and SAVE health care. \ud83d\udd17Full conversation here: https://t.co/MuDkwIUic8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760109204,
+                "view_count": 437
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/4haCUmA"
+                ],
+                "attached_links_url": [
+                    "https://t.co/teNeFgTggx"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3OsAr0X0AAveZG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1978113747773186050/vid/avc1/1080x1350/C11lVPPRN6OmmU0x.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 39,
+                        "id": "1978113747773186050",
+                        "url": "https://video.twimg.com/amplify_video/1978113747773186050/vid/avc1/1080x1350/C11lVPPRN6OmmU0x.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1978113811681833038",
+                "created_time": "2025-10-14T15:00:58",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978113811681833038",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "Republicans shut down the government instead of working with us to lower health care costs. Now, premiums will skyrocket if they don't act. We're focused on what matters: working to reopen the government and lowering costs for the American people. No health care, no vote. \ud83d\udd17Check out the full clip here: https://t.co/teNeFgTggx",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760454058,
+                "view_count": 386
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/ShutdownStraightTalk"
+                ],
+                "attached_links_url": [
+                    "https://t.co/y7g9SHbygE"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3yjZw5XgAAayb1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3yjZw5XgAAayb1.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1980637620049756621",
+                "created_time": "2025-10-21T14:09:41",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1980637620049756621",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 9,
+                "source": "Sprout Social",
+                "text": "\ud83d\udea8TOMORROW: Join me and members of Ohio\u2019s Congressional Delegation for a Virtual Town Hall on the government shutdown and its critical connection to the future of health care coverage. RSVP here by 10:30 AM Wed to get a call to join by phone: https://t.co/y7g9SHbygE https://t.co/msC9X1O1xl",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761055781,
+                "view_count": 1364
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/ShutdownStraightTalk"
+                ],
+                "attached_links_url": [
+                    "https://t.co/mYW0Lg6XUi"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G30Rz8YXgAAg18X.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G30Rz8YXgAAg18X.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1980759016302157826",
+                "created_time": "2025-10-21T22:12:04",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1980759016302157826",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "\ud83d\udea8HAPPENING TOMORROW: Join me and members of Ohio\u2019s Congressional Delegation for a Virtual Town Hall on the government shutdown and its critical connection to the future of health care coverage. RSVP here by TOMORROW at 10:30 AM to get a call to join by phone: https://t.co/mYW0Lg6XUi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761084724,
+                "view_count": 428
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://facebook.com/RepJoyceBeatty"
+                ],
+                "attached_links_url": [
+                    "https://t.co/FJ4oLeOpl2",
+                    "https://t.co/yg8Rxx0iHf"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G34vj_cWQAAyUkD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G34vj_cWQAAyUkD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1981073202630513067",
+                "created_time": "2025-10-22T19:00:32",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981073202630513067",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Sprout Social",
+                "text": "\ud83d\udea8STARTING SOON: Join me and members of Ohio\u2019s Congressional Delegation for a Virtual Town Hall on the government shutdown and its critical connection to the future of health care coverage. Miss the RSVP? You can still watch the full town hall at https://t.co/yg8Rxx0iHf. See you tonight!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761159632,
+                "view_count": 705
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://facebook.com/RepJoyceBeatty"
+                ],
+                "attached_links_url": [
+                    "https://t.co/FJ4oLeOpl2"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G35YtbvWIAAc821.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G35YtbvWIAAc821.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1981118444670963928",
+                "created_time": "2025-10-22T22:00:19",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981118444670963928",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "\ud83d\udea8STARTING NOW: I\u2019m LIVE with members of Ohio\u2019s Congressional Delegation for a Virtual Town Hall on the government shutdown and its critical connection to the future of health care coverage. Tune in at https://t.co/FJ4oLeOpl2! https://t.co/Q3MyhqI3wx",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761170419,
+                "view_count": 429
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/4nd2FE1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/cKVbkMIy2o"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G39CauSWAAAZjr0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981375345962909696/vid/avc1/1080x1350/PDmPHNNxrZM8sfyJ.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 104,
+                        "id": "1981375345962909696",
+                        "url": "https://video.twimg.com/amplify_video/1981375345962909696/vid/avc1/1080x1350/PDmPHNNxrZM8sfyJ.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1981375410383266015",
+                "created_time": "2025-10-23T15:01:24",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981375410383266015",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "When health care is at stake, everyone is affected.  During my virtual town hall, I answered questions from my district and across Ohio, about the real-life impact on Ohio's families, if we lose critical coverage. Didn't get a chance to tune in? \ud83d\udd17 Watch the full thing here: https://t.co/cKVbkMIy2o",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761231684,
+                "view_count": 361
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/4nd2FE1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Z4hBRnHdc4"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G4TJCRNW0AAvSdX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1982930713839050753/vid/avc1/1080x1350/oSW6gw6bOM8P9uFp.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 68,
+                        "id": "1982930713839050753",
+                        "url": "https://video.twimg.com/amplify_video/1982930713839050753/vid/avc1/1080x1350/oSW6gw6bOM8P9uFp.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1982930798979305531",
+                "created_time": "2025-10-27T22:01:58",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1982930798979305531",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Sprout Social",
+                "text": "Democrats are using every tool in our wheelhouse to reach young people about the Republican health care coverage crisis \u2014 because when health care is involved, EVERYONE is affected. Miss the town hall? \ud83d\udd17Check out the link here to watch the full thing: https://t.co/Z4hBRnHdc4 https://t.co/cztGlIJNgM",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761602518,
+                "view_count": 478
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/4887D1b"
+                ],
+                "attached_links_url": [
+                    "https://t.co/sTD5zb8H9z"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G47IoS5XAAEIrFG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G47IoS5XAAEIrFG.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1985745101163819449",
+                "created_time": "2025-11-04T16:25:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985745101163819449",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Sprout Social",
+                "text": "Thanks to Republicans, health insurance premiums in the Affordable Care Act marketplace are rising across the country. Ohioans, check out the link here to see how much your premiums have increased: https://t.co/sTD5zb8H9z https://t.co/sGc9mQbdD7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762273500,
+                "view_count": 372
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/3JSyXqu"
+                ],
+                "attached_links_url": [
+                    "https://t.co/2x9IgpDW5M"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1990473170793505030",
+                "created_time": "2025-11-17T17:32:39",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1990473170793505030",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "source": "Sprout Social",
+                "text": "OH-03, we want to hear from YOU! \ud83d\udde3\ufe0f Will rising health care costs in the ACA Marketplace (Obamacare) affect you? Is your Medicaid coverage at risk under Trump\u2019s One Big Beautiful Act? Your story matters. Help us fight for Ohioans. Share your story here: https://t.co/2x9IgpDW5M",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763400759,
+                "view_count": 612
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/4oOoSJF"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8NvTnAbpd3"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7xUCcNWwAAm5hv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1998564693447741440/vid/avc1/1080x1350/u-7rzI0Mg-_6ENpM.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 59,
+                        "id": "1998564693447741440",
+                        "url": "https://video.twimg.com/amplify_video/1998564693447741440/vid/avc1/1080x1350/u-7rzI0Mg-_6ENpM.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1998564758497247572",
+                "created_time": "2025-12-10T01:25:44",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998564758497247572",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 6,
+                "source": "Sprout Social",
+                "text": "The ACA credits will expire in just a couple of weeks \u2014 and Ohioans will feel it. Tonight, I shared the stories of two constituents, both of whom have seen their premiums increase. I'm urging my Republican colleagues to restore the credits and protect care. \ud83d\udd17Full video here: https://t.co/8NvTnAbpd3",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765329944,
+                "view_count": 559
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531521632",
+                "author_username": "RepBeatty",
+                "community_notes": null,
+                "conversation_id": "1999195084655308828",
+                "created_time": "2025-12-11T19:10:26",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999195084655308828",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1999183068586778799",
+                "quoted_status_profile_id": "51241574",
+                "quoted_status_profile_username": "AP",
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "When people show you who they are, believe them. Republicans in the Senate just voted AGAINST extending ACA subsidies, which will skyrocket premiums. It\u2019s a shameful betrayal of millions of Americans and Ohioans, who rely on affordable care to survive. When will Republicans start putting working people first?",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765480226,
+                "view_count": 1120
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

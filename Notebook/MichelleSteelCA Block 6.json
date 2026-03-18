@@ -1,0 +1,58 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Ft8gkQLakAA_G-C.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Ft8gkQLakAA_G-C.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1122934522134315009",
+                "author_username": "MichelleSteelCA",
+                "community_notes": null,
+                "conversation_id": "1648071803041103877",
+                "created_time": "2023-04-17T21:11:52",
+                "favorite_count": 39,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1648071803041103877",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 24,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Fantastic turnout for our 2nd Intern Canvass in #CA45! Welcome to our new intern recruits that participated in their first door knocking exercise! #StandWithSteel https://t.co/XpkFqDIs02",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "ca45",
+                    "standwithsteel"
+                ],
+                "timestamp": 1681765912,
+                "view_count": 4158
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

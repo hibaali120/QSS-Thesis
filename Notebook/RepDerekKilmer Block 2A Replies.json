@@ -1,0 +1,990 @@
+{
+    "politician": "RepDerekKilmer",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1693790088122036450",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1542553871335055360",
+                    "author_username": "donyo1149",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T19:32:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1694070020190674978",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekKilmer Does not cover the State of Washington gouging at the pumps. \ud83e\udd2c\ud83e\udd2c\ud83e\udd2c",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692732741,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3008274234",
+                    "author_username": "RichRichwb2",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T18:55:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1694060692645781706",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekKilmer The well is drying up if you haven\u2019t noticed!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692730517,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "914961984101113860",
+                    "author_username": "mrandystevens",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T17:52:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1694044809948971178",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekKilmer Almost makes up for the $709 dollars a month more that Americans are spending to afford the same goods and services, caused by inflation.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692726731,
+                    "view_count": 61
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1596160961165275137",
+                    "author_username": "twanohdennis",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T14:28:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1693993448016339037",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekKilmer Families are spending more on gasoline, heating their homes and groceries. You are lying, trying to make the senile old fool in the a White House look competent. You should be ashamed!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692714485,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "770441775630516224",
+                    "author_username": "shanolivers",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T13:19:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1693976123271684603",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekKilmer No we don't. Gas is $5 a gallon, hamburger $7 a pound. No better way to compound inflation than to borrow trillions from a central bank and then send a good chunk of it directly to the most corrupt nation in Central Europe while flooding our nation with destitute foreigners.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692710354,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1693790088122036450",
+                    "created_time": "2023-08-22T03:07:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1693822293729062941",
+                    "in_reply_to_post_id": "1693790088122036450",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer This is pol BS. The savings doesn't come from the insurance co. reducing prices but from tax payers subsidizing the policies.  The insurers love this as they get to raise prices accordingly.  Win-win for the insurance lobby and the pols they buy.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692673679,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1696602366823276866",
+            "replies": []
+        },
+        {
+            "conversation_id": "1696895322587300175",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1696895322587300175",
+                    "created_time": "2023-09-02T04:02:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697822208431931467",
+                    "in_reply_to_post_id": "1696895322587300175",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @HouseDemocrats @HouseBudgetDems Come back and brag AFTER you save them money.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "HouseDemocrats",
+                        "HouseBudgetDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "43963249",
+                        "151963505"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693627333,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1696895322587300175",
+                    "created_time": "2023-08-30T15:00:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1696900703002718500",
+                    "in_reply_to_post_id": "1696895322587300175",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @HouseDemocrats @HouseBudgetDems While this is a positive step it is a tiny percentage of help. This is what the D's are famous for:  Incrementalism \nGive the people a small taste of what they desperately need and brag about it. We are desperate for real help but corporations & their politicians say F-NO",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "HouseDemocrats",
+                        "HouseBudgetDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "43963249",
+                        "151963505"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693407629,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1697685755299069986",
+            "replies": []
+        },
+        {
+            "conversation_id": "1702125010129977591",
+            "replies": []
+        },
+        {
+            "conversation_id": "1703891652333453494",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1703891652333453494",
+                    "created_time": "2023-09-19T16:42:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704174201848897922",
+                    "in_reply_to_post_id": "1703891652333453494",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @komonews Also the cap isn't on the cost but the copay. In other words Big Pharm still gets the total cost just paid by other subscribers.  How misleading.  \nAnd this hasn't yielded a single savings yet and may never just like the BBB Big D lie.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "komonews"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "16086928"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695141766,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1703891652333453494",
+                    "created_time": "2023-09-19T16:35:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704172405814444070",
+                    "in_reply_to_post_id": "1703891652333453494",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @komonews Not sure which is worse, the R's openly against the People or the D's that pretend to be for the People. The D's use incrementalism to give a crumb & brag about it when people are dying. Negotiations for only 10 drugs only for Seniors starting years away is an insult. Shame on U",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "komonews"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "16086928"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695141338,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1729617411467628731",
+            "replies": []
+        },
+        {
+            "conversation_id": "1757857246695022670",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1757857246695022670",
+                    "created_time": "2024-02-14T20:46:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1757868968919122331",
+                    "in_reply_to_post_id": "1757857246695022670",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @WACounties Why are you avoiding talking about your stand on the most pressing issue of the day?  \nThe genocide that Congress has bought into. Is there any limit to the number of dead babies before our country stops assisting. Using military intel to help locate civilians to bomb.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "WACounties"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "380397716"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707943596,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1770208766505390402",
+            "replies": []
+        },
+        {
+            "conversation_id": "1770978707009859968",
+            "replies": []
+        },
+        {
+            "conversation_id": "1772665668447416442",
+            "replies": []
+        },
+        {
+            "conversation_id": "1789324592898875692",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1688028532549767168",
+                    "author_username": "PhilPhrog",
+                    "community_notes": null,
+                    "conversation_id": "1789324592898875692",
+                    "created_time": "2024-05-11T16:06:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1789326267327959381",
+                    "in_reply_to_post_id": "1789324592898875692",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer Why do the @HouseDemocrats and @SenateDems fight against universal healthcare.  Oh yeah, it's all about money.  \nWe live in an oligarchy (Princeton study) no thanks to @RepDerekKilmer",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "HouseDemocrats",
+                        "SenateDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "43963249",
+                        "73238146"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715443600,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1804545072781742576",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1804545072781742576",
+                    "created_time": "2024-06-23T12:22:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1804852524131725364",
+                    "in_reply_to_post_id": "1804545072781742576",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @RepDerekKilmer: Thank you for supporting Ukraine with military aid. We hope for NATO membership. #OnThisDay Ukraine needs protection against Russian aggression.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": [
+                        "onthisday"
+                    ],
+                    "timestamp": 1719145348,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1058917562",
+                    "author_username": "RepDerekKilmer",
+                    "community_notes": null,
+                    "conversation_id": "1804545072781742576",
+                    "created_time": "2024-06-22T16:00:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1804545074874700069",
+                    "in_reply_to_post_id": "1804545072781742576",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 3,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Our nation owes a debt of gratitude to those who put their lives on the line to defend our freedom and I\u2019ll keep fighting to ensure that those who have served our country get the benefits they deserve.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1719072047,
+                    "view_count": 306
+                }
+            ]
+        },
+        {
+            "conversation_id": "1818330720542064894",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1818330720542064894",
+                    "created_time": "2024-07-30T22:26:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1818412956129923485",
+                    "in_reply_to_post_id": "1818330720542064894",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekKilmer @RepDerekKilmer: Grateful for US military aid to Ukraine. Thank you! As a Ukrainian, I urge for NATO membership to defend against Russian aggression #OnThisDay.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekKilmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562"
+                    ],
+                    "text_tags": [
+                        "onthisday"
+                    ],
+                    "timestamp": 1722378407,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1824182135898640829",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.nytimes.com/2024/08/14/world/europe/nord-stream-explosion-germany-ukraine-arrest-warrant.html"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ZN7bc8HhZN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1729141789846855680",
+                    "author_username": "Kkjj296779Kkjj",
+                    "community_notes": null,
+                    "conversation_id": "1824182135898640829",
+                    "created_time": "2024-08-16T14:43:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824456837170860160",
+                    "in_reply_to_post_id": "1824182135898640829",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekKilmer @washdems https://t.co/ZN7bc8HhZN",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "washdems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "14746298"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723819381,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1058917562",
+                    "author_username": "RepDerekKilmer",
+                    "community_notes": null,
+                    "conversation_id": "1824182135898640829",
+                    "created_time": "2024-08-15T20:31:27",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824182137614119266",
+                    "in_reply_to_post_id": "1824182135898640829",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Made possible by the #InflationReductionAct, this announcement is a huge deal for folks across our region who rely on Medicare, saving enrollees nationwide $1.5 billion in out-of-pocket costs. @HouseDemocrats will keep pushing to reduce prescription costs for everyday Americans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "43963249"
+                    ],
+                    "text_tags": [
+                        "inflationreductionact"
+                    ],
+                    "timestamp": 1723753887,
+                    "view_count": 319
+                }
+            ]
+        },
+        {
+            "conversation_id": "1824182135898640829",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.nytimes.com/2024/08/14/world/europe/nord-stream-explosion-germany-ukraine-arrest-warrant.html"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ZN7bc8HhZN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1729141789846855680",
+                    "author_username": "Kkjj296779Kkjj",
+                    "community_notes": null,
+                    "conversation_id": "1824182135898640829",
+                    "created_time": "2024-08-16T14:43:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824456837170860160",
+                    "in_reply_to_post_id": "1824182135898640829",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekKilmer @washdems https://t.co/ZN7bc8HhZN",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDerekKilmer",
+                        "washdems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058917562",
+                        "14746298"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723819381,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1058917562",
+                    "author_username": "RepDerekKilmer",
+                    "community_notes": null,
+                    "conversation_id": "1824182135898640829",
+                    "created_time": "2024-08-15T20:31:27",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824182137614119266",
+                    "in_reply_to_post_id": "1824182135898640829",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Made possible by the #InflationReductionAct, this announcement is a huge deal for folks across our region who rely on Medicare, saving enrollees nationwide $1.5 billion in out-of-pocket costs. @HouseDemocrats will keep pushing to reduce prescription costs for everyday Americans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "43963249"
+                    ],
+                    "text_tags": [
+                        "inflationreductionact"
+                    ],
+                    "timestamp": 1723753887,
+                    "view_count": 319
+                }
+            ]
+        },
+        {
+            "conversation_id": "1825658393937457521",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GVYKpCXaMAY8Zst.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GVYKpCXaMAY8Zst.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1058917562",
+                    "author_username": "RepDerekKilmer",
+                    "community_notes": null,
+                    "conversation_id": "1825658393937457521",
+                    "created_time": "2024-08-19T22:17:38",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1825658409838129364",
+                    "in_reply_to_post_id": "1825658393937457521",
+                    "in_reply_to_profile_id": "1058917562",
+                    "in_reply_to_profile_username": "RepDerekKilmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "I'll keep pushing to get federal funding to support this project across the finish line! https://t.co/YzUBjwR8xY",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1724105858,
+                    "view_count": 331
+                }
+            ]
+        },
+        {
+            "conversation_id": "1827028087776890914",
+            "replies": []
+        },
+        {
+            "conversation_id": "1852380080108122426",
+            "replies": []
+        },
+        {
+            "conversation_id": "1853482344696422599",
+            "replies": []
+        }
+    ]
+}

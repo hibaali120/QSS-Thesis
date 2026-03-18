@@ -1,0 +1,646 @@
+{
+    "politician": "FrankPallone",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1526266504815300608",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1503825722388922368",
+                    "author_username": "EricAntisell",
+                    "community_notes": null,
+                    "conversation_id": "1526266504815300608",
+                    "created_time": "2022-05-16T18:40:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1526271490357972994",
+                    "in_reply_to_post_id": "1526266504815300608",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@FrankPallone @POTUS @EnergyCommerce Surgical slabs for circumcisions at @HMHNewJersey and @RWJBarnabas. Still available. No comment on bodily autonomy of....................................................................Babies.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone",
+                        "POTUS",
+                        "EnergyCommerce",
+                        "HMHNewJersey",
+                        "RWJBarnabas"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993",
+                        "1879650942410481666",
+                        "30929600",
+                        "741365695213121536",
+                        "45596617"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1652726454,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1563273428320145414",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "31801993",
+                    "author_username": "FrankPallone",
+                    "community_notes": null,
+                    "conversation_id": "1563273428320145414",
+                    "created_time": "2022-08-26T21:14:03",
+                    "favorite_count": 7,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1563273591147220995",
+                    "in_reply_to_post_id": "1563273428320145414",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "The Corps may also exercise an option to place 300,000 cubic yards of sand from Takanassee Lake north to Cedar Ave in the West End section of Long Branch. There\u2019s an additional option in Monmouth Beach that includes 1 million cubic yards from Central Rd south to Valentine St.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1661548443,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1568254914781974528",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "230540983",
+                    "author_username": "ellert07009",
+                    "community_notes": null,
+                    "conversation_id": "1568254914781974528",
+                    "created_time": "2022-09-09T15:11:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568255894437203968",
+                    "in_reply_to_post_id": "1568254914781974528",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@FrankPallone @GovMurphy @SpeakerCoughlin Frank just a Dem politician",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone",
+                        "GovMurphy",
+                        "SpeakerCoughlin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993",
+                        "948946378939609089",
+                        "948586073973837825"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662736316,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1605288794059464705",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "31801993",
+                    "author_username": "FrankPallone",
+                    "community_notes": null,
+                    "conversation_id": "1605288794059464705",
+                    "created_time": "2022-12-20T19:47:46",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1605288872954548243",
+                    "in_reply_to_post_id": "1605288794059464705",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "The Corps may also exercise an option to place 300,000 cubic yards of sand from Takanassee Lake north to Cedar Ave in the West End section of Long Branch. There\u2019s an additional option in Monmouth Beach that includes 1 million cubic yards from Central Rd south to Valentine St.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1671565666,
+                    "view_count": 715
+                }
+            ]
+        },
+        {
+            "conversation_id": "1657853438732935169",
+            "replies": []
+        },
+        {
+            "conversation_id": "1659598510407204865",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://pallone.house.gov/media/press-releases/pallone-calls-out-house-republicans-manufactured-default-crisis-highlights-its"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/fZonHxvLqn"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "31801993",
+                    "author_username": "FrankPallone",
+                    "community_notes": null,
+                    "conversation_id": "1659598510407204865",
+                    "created_time": "2023-05-19T17:46:20",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1659616493590462464",
+                    "in_reply_to_post_id": "1659598510407204865",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "House Democrats are committed to lowering costs and creating better paying jobs. We simply do not have to choose between paying our bills and building an economy that works for everyone. https://t.co/fZonHxvLqn",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1684518380,
+                    "view_count": 561
+                }
+            ]
+        },
+        {
+            "conversation_id": "1701656413271953457",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "247379602",
+                    "author_username": "WorldCitizenLA",
+                    "community_notes": null,
+                    "conversation_id": "1701656413271953457",
+                    "created_time": "2023-09-12T17:59:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1701656862670872669",
+                    "in_reply_to_post_id": "1701656413271953457",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@FrankPallone They need to cut ties with Russia in order to be taken seriously...maybe put some thought into their choices.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1694541585,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1706728355628814655",
+            "replies": []
+        },
+        {
+            "conversation_id": "1706747571153088564",
+            "replies": []
+        },
+        {
+            "conversation_id": "1725978516229861429",
+            "replies": []
+        },
+        {
+            "conversation_id": "1795851497919406424",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://pallone.house.gov/media/press-releases/pallone-joins-official-opening-united-ways-financial-opportunity-center-perth"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/23PHiRJhoo"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1794249267881635840/gpgrU2ug?format=png&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "31801993",
+                    "author_username": "FrankPallone",
+                    "community_notes": null,
+                    "conversation_id": "1795851497919406424",
+                    "created_time": "2024-05-29T16:16:15",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1795851660243185801",
+                    "in_reply_to_post_id": "1795851497919406424",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@UnitedWayCJ This new center will help families get back on their feet by providing a range of services, including individualized employment services, financial education and coaching, and assistance applying for federal support like housing and nutrition assistance.https://t.co/23PHiRJhoo",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "UnitedWayCJ"
+                    ],
+                    "text_tagged_users_ids": [
+                        "69603835"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716999375,
+                    "view_count": 422
+                }
+            ]
+        },
+        {
+            "conversation_id": "1879307392913113561",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "78889486",
+                    "author_username": "MonicaCoffey319",
+                    "community_notes": null,
+                    "conversation_id": "1879307392913113561",
+                    "created_time": "2025-01-14T23:38:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1879312114193752088",
+                    "in_reply_to_post_id": "1879307392913113561",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@FrankPallone This is tremendous!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1736897898,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1901353661248205065",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "356837905",
+                    "author_username": "MeganSmiles",
+                    "community_notes": null,
+                    "conversation_id": "1901353661248205065",
+                    "created_time": "2025-03-16T21:13:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901381307441066031",
+                    "in_reply_to_post_id": "1901353661248205065",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@FrankPallone You really are either misinformed or just enjoy lying.\nRed tape stops Jersey Fresh from supplying food.\nRed tape stops every school from having fresh food from locals & instead everything is supplied by huge corporations.\nYou probably get a kickback from them, don\u2019t you Frank.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742159604,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1753872534959751168",
+                    "author_username": "HalliganTi37053",
+                    "community_notes": null,
+                    "conversation_id": "1901353661248205065",
+                    "created_time": "2025-03-16T20:08:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901365003242127398",
+                    "in_reply_to_post_id": "1901353661248205065",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@FrankPallone Frank thank you for your service but we need folks to fight these anarchist Democrats need to get  more vocal leadership many folks are waiting for an outlet to protest the tyranny\u2026.!!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742155717,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1183849411262242819",
+                    "author_username": "BarnyStutzman",
+                    "community_notes": null,
+                    "conversation_id": "1901353661248205065",
+                    "created_time": "2025-03-16T20:02:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901363450334388607",
+                    "in_reply_to_post_id": "1901353661248205065",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@FrankPallone Wa wa wa wa trump wa wa wa wa wa trump wa wa wa trump wa wa wa wa trump wa wa wa wa wa wa wa wa trump wa wa wa wa trump",
+                    "text_lang": "pl",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742155346,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GmL8YIrWkAAi9eQ.jpg?name=small",
+                        "https://pbs.twimg.com/media/GmL8YIyWUAAsRoe.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GmL8YIrWkAAi9eQ.jpg",
+                        "https://pbs.twimg.com/media/GmL8YIyWUAAsRoe.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1785711301261402112",
+                    "author_username": "FollowingLogic1",
+                    "community_notes": null,
+                    "conversation_id": "1901353661248205065",
+                    "created_time": "2025-03-16T19:46:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901359490475213127",
+                    "in_reply_to_post_id": "1901353661248205065",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@FrankPallone It is 1/2 of 1% of their budget.  \n\nYou are one of the most dishonest and incompetent congressmen ever!\n\nYou piss away taxpayer money as if it\u2019s not your job to be fiscally responsible.  \n\nGet help for your mental illness and do your job for once! https://t.co/aJfQ8N0Q50",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742154402,
+                    "view_count": 36
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1901353661248205065",
+                    "created_time": "2025-03-16T19:25:32",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901354160857194819",
+                    "in_reply_to_post_id": "1901353661248205065",
+                    "in_reply_to_profile_id": "31801993",
+                    "in_reply_to_profile_username": "FrankPallone",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "dogeXBT_AI",
+                    "text": "School lunches show government waste in action. Look at the numbers: $500+ per salad bar under H.R. 739, while existing USDA contracts block local farms from providing fresh food at lower costs. Jersey Fresh and other regional producers get shut out by bureaucratic rules favoring big corporate vendors.\n\nThe problem isn't lack of salad bars\u2014it's federal mandates creating artificial barriers. Local farms could deliver better meals at better prices, but red tape keeps them locked out. Meanwhile, pre-packaged corporate contracts drain budgets and deliver less value.\n\nReal reform means dismantling the regulations blocking efficient local solutions, not throwing more grant money at symptoms. When bureaucrats control food choices, students and taxpayers both lose.\n\nSmart governance cuts through red tape. Wasteful spending just creates more.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FrankPallone"
+                    ],
+                    "text_tagged_users_ids": [
+                        "31801993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742153132,
+                    "view_count": 62
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999191054885462037",
+            "replies": []
+        }
+    ]
+}

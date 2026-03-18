@@ -1,0 +1,112 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GoRrYRdXsAA9opd.jpg?name=small",
+                    "https://pbs.twimg.com/media/GoRrYRMWoAArDQq.jpg?name=small",
+                    "https://pbs.twimg.com/media/GoRrYQTWoAA_6kj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GoRrYQqWEAAXzo_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GoRrYRdXsAA9opd.jpg",
+                    "https://pbs.twimg.com/media/GoRrYRMWoAArDQq.jpg",
+                    "https://pbs.twimg.com/media/GoRrYQTWoAA_6kj.jpg",
+                    "https://pbs.twimg.com/media/GoRrYQqWEAAXzo_.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874831517706256384",
+                "author_username": "RepGoodlander",
+                "community_notes": null,
+                "conversation_id": "1910770686550822987",
+                "created_time": "2025-04-11T19:03:26",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1910770686550822987",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I learned to swim at the old YMCA right on Prospect Street in Nashua. I know firsthand the role the @NMYMCA and YMCAs across New Hampshire play in our communities.\n\nWhether it\u2019s child care, health and wellness support, or sports programs for young Granite Staters, I am proud to support the YMCA\u2019s critical mission here in New Hampshire. I will keep fighting to defend every federal dollar that makes their programming possible.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NMYMCA"
+                ],
+                "text_tagged_users_ids": [
+                    "48367448"
+                ],
+                "text_tags": null,
+                "timestamp": 1744398206,
+                "view_count": 686
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.unionleader.com/opinion/op-eds/rep-maggie-goodlander-its-more-than-a-day-a-sacred-promise-and-shared-mission/article_b0623e49-8e1d-4dd5-ab5d-9cc61a46dae1.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/bPi4mob7sQ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5exPfiW0AAeqZg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5exPfiW0AAeqZg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874831517706256384",
+                "author_username": "RepGoodlander",
+                "community_notes": null,
+                "conversation_id": "1988253882498118128",
+                "created_time": "2025-11-11T14:34:00",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1988253882498118128",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Veterans Day is a profound and personal reminder for us, as Americans, to reflect on the sacred promise we made to care for our veterans, servicemembers, and military families.\n\nHonoring this sacred promise is not a partisan exercise. It is an American imperative. I learned this from Senator John McCain, a true American hero who showed me that service to our country always comes before service to any party. That is the spirit I\u2019m working to bring to the United States Congress every day.\n\nRead my full op-ed in the @UnionLeader \u27a1\ufe0f https://t.co/bPi4mob7sQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762871640,
+                "view_count": 897
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

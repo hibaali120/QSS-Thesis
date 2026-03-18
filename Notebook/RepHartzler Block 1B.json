@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fd6YA8TXwAAWt6h.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fd6YA8TXwAAWt6h.png"
+                ],
+                "attached_videos": null,
+                "author_id": "237763317",
+                "author_username": "RepHartzler",
+                "community_notes": null,
+                "conversation_id": "1575864989545811970",
+                "created_time": "2022-09-30T15:07:49",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1575865002959212544",
+                "in_reply_to_post_id": "1575864998076686339",
+                "in_reply_to_profile_id": "237763317",
+                "in_reply_to_profile_username": "RepHartzler",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Earlier this year, I visited Lane Change in Lebanon, MO which helps families receive counseling and inpatient treatment for substance abuse.\n\nLauren Mitchell has spent the last three years transforming many lives through education, outreach, prevention, and prayer. https://t.co/m3KJVJtHlj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1664550469,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

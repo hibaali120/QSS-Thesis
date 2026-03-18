@@ -1,0 +1,1460 @@
+{
+    "politician": "RepAnnieKuster",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1773721551428374835",
+            "replies": []
+        },
+        {
+            "conversation_id": "1783583082672500872",
+            "replies": []
+        },
+        {
+            "conversation_id": "1785412925160608223",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GMcVv8tXQAANgUd.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GMcVv8tXQAANgUd.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1238538199452049410",
+                    "author_username": "Silence03062",
+                    "community_notes": null,
+                    "conversation_id": "1785412925160608223",
+                    "created_time": "2024-04-30T21:23:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1785419692426809821",
+                    "in_reply_to_post_id": "1785412925160608223",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnnieKuster @EnergyCommerce When the heck are you leaving!! Stop spending our money https://t.co/ioMtHJ0Mv2",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1714512200,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1786142243562127853",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1786142243562127853",
+                    "created_time": "2024-05-03T12:59:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1786380078416294247",
+                    "in_reply_to_post_id": "1786142243562127853",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Thank you, @RepAnnieKuster, for supporting funding to combat substance use disorder. From Ukraine, we thank US legislators for aiding us in our fight against Russia. God bless and may we prevail in this war for the sake of freedom and peace. #UkraineStrong #StandWithUkraine.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": [
+                        "standwithukraine",
+                        "ukrainestrong"
+                    ],
+                    "timestamp": 1714741174,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GMm4t7mWkAEm78E.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GMm4t7mWkAEm78E.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "4549503022",
+                    "author_username": "lauraand3js",
+                    "community_notes": null,
+                    "conversation_id": "1786142243562127853",
+                    "created_time": "2024-05-02T22:32:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1786161828579434602",
+                    "in_reply_to_post_id": "1786142243562127853",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnnieKuster Democrats have blood on their hands for causing and then doing nothing to stop Biden's border crisis. https://t.co/bncJPc082x",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1714689139,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15799197",
+                    "author_username": "shdwstar",
+                    "community_notes": null,
+                    "conversation_id": "1786142243562127853",
+                    "created_time": "2024-05-02T21:32:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1786146788707098668",
+                    "in_reply_to_post_id": "1786142243562127853",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster People don't have substance use disorders they are suffering from prohibition of drugs.\nDoctors won't prescribe what drugs people need and there are no legal stores.\nYou would get the same results if you prohibited alcohol.\nEvery FDA approved drug needs to be sold like alcohol.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1714685554,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1791158584824250480",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://kffhealthnews.org/news/article/cdc-new-opioid-guidelines-chronic-pain-patients/amp/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/iocRZT49jd"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1446913491546300423",
+                    "author_username": "SpeakPain2Power",
+                    "community_notes": null,
+                    "conversation_id": "1791158584824250480",
+                    "created_time": "2024-05-24T07:40:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793909969626239459",
+                    "in_reply_to_post_id": "1791158584824250480",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster @EnergyCommerce Sensible. Now restore access to opioid pain meds for the millions in chronic pain who have lost their jobs, who are left with no option but suicide, simply because they can no longer get their Vicodin.  https://t.co/iocRZT49jd",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716536440,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1792659388307836961",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1776239574773051392",
+                    "author_username": "MichaelMarco41",
+                    "community_notes": null,
+                    "conversation_id": "1792659388307836961",
+                    "created_time": "2024-05-20T21:36:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1792670813184987588",
+                    "in_reply_to_post_id": "1792659388307836961",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster It\u2019s not the government\u2019s responsibility. The government is the problem",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716241002,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1800568008798351499",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1800568008798351499",
+                    "created_time": "2024-06-12T12:24:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1800866870733775264",
+                    "in_reply_to_post_id": "1800568008798351499",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Thank you for aid to Ukraine. As a Ukrainian citizen, I hope for NATO membership. Our country needs security & support in face of Russian aggression. #UkraineNATO2023",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": [
+                        "ukrainenato2023"
+                    ],
+                    "timestamp": 1718195095,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1802745156245872708",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "28234138",
+                    "author_username": "mikeroche",
+                    "community_notes": null,
+                    "conversation_id": "1802745156245872708",
+                    "created_time": "2024-06-17T17:24:47",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1802754277082907064",
+                    "in_reply_to_post_id": "1802745156245872708",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Annie tried to find the most obscure issue to make her look busy.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1718645087,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1812849926449033414",
+            "replies": []
+        },
+        {
+            "conversation_id": "1814298989547737204",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://bit.ly/4cKxRq0"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/a3d7WkICc0"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1813615658619281408/pjbF-4aN?format=jpg&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1058717720",
+                    "author_username": "RepAnnieKuster",
+                    "community_notes": null,
+                    "conversation_id": "1814298989547737204",
+                    "created_time": "2024-07-19T13:59:22",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1814298991443558857",
+                    "in_reply_to_post_id": "1814298989547737204",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "This crucial extension will allow New Hampshire to better coordinate treatment and care services for inmates, help reduce recidivism rates, and most importantly, improve health outcomes for justice-involved individuals when they reenter their communities.\nhttps://t.co/a3d7WkICc0",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1721397562,
+                    "view_count": 349
+                }
+            ]
+        },
+        {
+            "conversation_id": "1824109515413074200",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GVCXaLWXsAouhnl.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GVCXaLWXsAouhnl.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "17749700",
+                    "author_username": "Audio911",
+                    "community_notes": null,
+                    "conversation_id": "1824109515413074200",
+                    "created_time": "2024-08-15T16:41:44",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824124327429648574",
+                    "in_reply_to_post_id": "1824109515413074200",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnnieKuster https://t.co/i1jzn0sYzP",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723740104,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GVCLSPwWYAA2rkO.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GVCLSPwWYAA2rkO.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "789775777",
+                    "author_username": "NatteringNinny",
+                    "community_notes": null,
+                    "conversation_id": "1824109515413074200",
+                    "created_time": "2024-08-15T15:48:47",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824111001136247258",
+                    "in_reply_to_post_id": "1824109515413074200",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster You\u2019ve sat silently while our country is invaded https://t.co/rULcUWPEyC",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723736927,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1828801143809409102",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "881140270103965696",
+                    "author_username": "Cynthia45269",
+                    "community_notes": null,
+                    "conversation_id": "1828801143809409102",
+                    "created_time": "2024-08-28T17:39:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1828849892665479570",
+                    "in_reply_to_post_id": "1828801143809409102",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster BS.",
+                    "text_lang": null,
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1724866767,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GWE1nEXWgAEJ5A6.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GWE1nEXWgAEJ5A6.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "789775777",
+                    "author_username": "NatteringNinny",
+                    "community_notes": null,
+                    "conversation_id": "1828801143809409102",
+                    "created_time": "2024-08-28T14:28:39",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1828801875753439432",
+                    "in_reply_to_post_id": "1828801143809409102",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster Hey Maggie where\u2019s all that fentanyl coming from? https://t.co/HRvCcViHQP",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1724855319,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1829945887251902912",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1829945887251902912",
+                    "created_time": "2024-09-01T17:26:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830296277697151330",
+                    "in_reply_to_post_id": "1829945887251902912",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster @RepAnnieKuster Thank you for your efforts to combat addiction. As #Ukraine faces war, we also seek your support for NATO membership to defend our nation.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": [
+                        "ukraine"
+                    ],
+                    "timestamp": 1725211612,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1776239574773051392",
+                    "author_username": "MichaelMarco41",
+                    "community_notes": null,
+                    "conversation_id": "1829945887251902912",
+                    "created_time": "2024-09-01T11:07:50",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830200890667516179",
+                    "in_reply_to_post_id": "1829945887251902912",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster You opened the border. You are too blame",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1725188870,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1831390045213008258",
+            "replies": []
+        },
+        {
+            "conversation_id": "1834249240018604363",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1834249240018604363",
+                    "created_time": "2024-09-12T18:34:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1834299661106201011",
+                    "in_reply_to_post_id": "1834249240018604363",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Thank you, @RepAnnieKuster, for supporting those in need. As a Ukrainian, we also seek NATO membership to defend against Russia's aggression. #SupportUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": [
+                        "supportukraine"
+                    ],
+                    "timestamp": 1726166093,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1836811131194597859",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GX6tT8lW8AAaweE.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GX6tT8lW8AAaweE.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "749711195075178508",
+                    "author_username": "jas_bav",
+                    "community_notes": null,
+                    "conversation_id": "1836811131194597859",
+                    "created_time": "2024-09-20T11:47:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1837096262966915273",
+                    "in_reply_to_post_id": "1836811131194597859",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster @EnergyCommerce This you?? Thank god you are retiring. Complete disgrace. https://t.co/w2vhS8rQwB",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1726832855,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GX48PwJWYAIiOKk.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GX48PwJWYAIiOKk.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "925207555265118208",
+                    "author_username": "MMF92691",
+                    "community_notes": null,
+                    "conversation_id": "1836811131194597859",
+                    "created_time": "2024-09-20T03:33:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1836971946614862016",
+                    "in_reply_to_post_id": "1836811131194597859",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster @EnergyCommerce https://t.co/K12pSfdVQa",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1726803216,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1369288116549324802",
+                    "author_username": "oldfart4279",
+                    "community_notes": null,
+                    "conversation_id": "1836811131194597859",
+                    "created_time": "2024-09-19T17:35:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1836821411874164864",
+                    "in_reply_to_post_id": "1836811131194597859",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster @EnergyCommerce its too bad you're not interested in the root cause of the substance abuse issues in NH.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1726767325,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1838712747699388506",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1238538199452049410",
+                    "author_username": "Silence03062",
+                    "community_notes": null,
+                    "conversation_id": "1838712747699388506",
+                    "created_time": "2024-09-25T20:13:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1839035411621884246",
+                    "in_reply_to_post_id": "1838712747699388506",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster You're not gone yet ??",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727295184,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1839670472029450355",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1839670472029450355",
+                    "created_time": "2024-09-28T16:44:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1840070170988970095",
+                    "in_reply_to_post_id": "1839670472029450355",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Thank you @RepAnnieKuster for your support in addressing the opioid crisis. Your dedication is crucial. Now, let's talk NATO membership for Ukraine.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727541890,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1839670472029450355",
+                    "created_time": "2024-09-28T10:34:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1839976851541827909",
+                    "in_reply_to_post_id": "1839670472029450355",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Thank you, @RepAnnieKuster, for supporting efforts to combat addiction in NH. Now it's time to support Ukraine too - NATO membership can save lives. #NATOforUkraine \ud83c\uddfa\ud83c\udde6",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": [
+                        "natoforukraine"
+                    ],
+                    "timestamp": 1727519641,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1841537432140861473",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1841537432140861473",
+                    "created_time": "2024-10-03T15:29:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841863060970959267",
+                    "in_reply_to_post_id": "1841537432140861473",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster @POTUS Thank you @RepAnnieKuster for recognizing the importance of telehealth! We are grateful for US military aid and urge for NATO membership as we defend against Russian aggression. #StandWithUkraine #NATOmembership",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": [
+                        "natomembership",
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1727969348,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "382647376",
+                    "author_username": "ASAMorg",
+                    "community_notes": null,
+                    "conversation_id": "1841537432140861473",
+                    "created_time": "2024-10-02T21:59:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841598925980963269",
+                    "in_reply_to_post_id": "1841537432140861473",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster @POTUS Thank you for your leadership!  Together, we will help treat addiction and save lives!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727906373,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "891008249717301250",
+                    "author_username": "davec_NH",
+                    "community_notes": null,
+                    "conversation_id": "1841537432140861473",
+                    "created_time": "2024-10-02T20:00:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841568850086895865",
+                    "in_reply_to_post_id": "1841537432140861473",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster @POTUS Congress STOLE $42 BILLION dollars from us, to \"connect rural America to Broadband\".\nNot ONE HOME has been connected.  \nWhere did the money go?????",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727899203,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1842193791601819753",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1797274028463263744",
+                    "author_username": "JackFromHollis",
+                    "community_notes": null,
+                    "conversation_id": "1842193791601819753",
+                    "created_time": "2024-10-05T13:38:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842560100982259968",
+                    "in_reply_to_post_id": "1842193791601819753",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnnieKuster Get off the stage.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728135535,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3697707441",
+                    "author_username": "4ever_right",
+                    "community_notes": null,
+                    "conversation_id": "1842193791601819753",
+                    "created_time": "2024-10-04T15:17:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842222482842964438",
+                    "in_reply_to_post_id": "1842193791601819753",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster If, by \"we\", you mean you and the others in the medical research industry that you plan on moving into, then power to you. And God speed.\n\nOtherwise... STOP. SPENDING. OUR. MONEY. ON. THINGS. YOU. SHOULDN'T. BE. FUNDING!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728055041,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GZDXmkzX0AAG-Rr.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GZDXmkzX0AAG-Rr.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "4549503022",
+                    "author_username": "lauraand3js",
+                    "community_notes": null,
+                    "conversation_id": "1842193791601819753",
+                    "created_time": "2024-10-04T14:25:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842209311159624075",
+                    "in_reply_to_post_id": "1842193791601819753",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnnieKuster It's the death jab. https://t.co/mzguiuht21",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728051901,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1590006476466159616",
+                    "author_username": "WasRobrtPaulson",
+                    "community_notes": null,
+                    "conversation_id": "1842193791601819753",
+                    "created_time": "2024-10-04T13:56:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842202250774470794",
+                    "in_reply_to_post_id": "1842193791601819753",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnnieKuster Then why aren't you leading congress to question the CDC and Fauci for their horrifying policies that lead to loss of human life during COVID?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728050217,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "17749700",
+                    "author_username": "Audio911",
+                    "community_notes": null,
+                    "conversation_id": "1842193791601819753",
+                    "created_time": "2024-10-04T13:43:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842198756080439544",
+                    "in_reply_to_post_id": "1842193791601819753",
+                    "in_reply_to_profile_id": "1058717720",
+                    "in_reply_to_profile_username": "RepAnnieKuster",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnnieKuster Why not investigate Fauci and his gain of function research???",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAnnieKuster"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1058717720"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728049384,
+                    "view_count": 10
+                }
+            ]
+        }
+    ]
+}

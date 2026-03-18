@@ -1,0 +1,97 @@
+{
+    "politician": "VernBuchanan",
+    "block": "5",
+    "posts": [
+        {
+            "conversation_id": "1950317158379946075",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "16437164",
+                    "author_username": "useless_rants",
+                    "community_notes": null,
+                    "conversation_id": "1950317158379946075",
+                    "created_time": "2025-07-30T19:48:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1950644715294261487",
+                    "in_reply_to_post_id": "1950317158379946075",
+                    "in_reply_to_profile_id": "20467163",
+                    "in_reply_to_profile_username": "VernBuchanan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@VernBuchanan Teach it in school mor more spending until debt is under control",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "VernBuchanan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "20467163"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753904916,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1328050140356210689",
+                    "author_username": "BananaNoRice",
+                    "community_notes": null,
+                    "conversation_id": "1950317158379946075",
+                    "created_time": "2025-07-30T01:03:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1950361507562188990",
+                    "in_reply_to_post_id": "1950317158379946075",
+                    "in_reply_to_profile_id": "20467163",
+                    "in_reply_to_profile_username": "VernBuchanan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@VernBuchanan You can't do anything about it buddy! Big pharma and the deep state win every time!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "VernBuchanan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "20467163"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753837394,
+                    "view_count": 5
+                }
+            ]
+        }
+    ]
+}

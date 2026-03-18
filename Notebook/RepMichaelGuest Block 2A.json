@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F29Ray7WkAEUSFu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F29Ray7WkAEUSFu.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1081243468327018496",
+                "author_username": "RepMichaelGuest",
+                "community_notes": null,
+                "conversation_id": "1688657915593252864",
+                "created_time": "2023-08-07T21:06:35",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1688657915593252864",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I appreciate the update from Rep. Charles Young and Terry Dale Cruse about the incredible things going on @msstate - Meridian Campus. I am proud to have secured funding to expand the physician assistant program. MSU-Meridian continues to lead in healthcare. https://t.co/pNxZmTXHfE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "msstate"
+                ],
+                "text_tagged_users_ids": [
+                    "13399402"
+                ],
+                "text_tags": null,
+                "timestamp": 1691442395,
+                "view_count": 698
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GPaNil_WkAAD6rd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GPaNil_WkAAD6rd.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1081243468327018496",
+                "author_username": "RepMichaelGuest",
+                "community_notes": null,
+                "conversation_id": "1799580918652235985",
+                "created_time": "2024-06-08T23:15:00",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1799580918652235985",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "My office is proud to announce that Alice Williams is interning with us this summer. Alice is from Jackson, and is a senior at MSU majoring in finance with a minor in insurance and risk management. Alice plans to earn a master's degree in business administration after graduation. https://t.co/s0soVIjhQX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717888500,
+                "view_count": 939
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyVMwJpWgAAzQ_a.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyVMwJpWgAAzQ_a.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1081243468327018496",
+                "author_username": "RepMichaelGuest",
+                "community_notes": null,
+                "conversation_id": "1956054050803216727",
+                "created_time": "2025-08-14T18:03:22",
+                "favorite_count": 38,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956054050803216727",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 73,
+                "retweet_count": 14,
+                "source": "Twitter Web App",
+                "text": "I spoke with reporters about the Budget Reconciliation Bill and how Republicans are cutting taxes, increasing pay for our service members, and ensuring only those who deserve Medicaid are receiving it. https://t.co/AyH3LfZXX7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755194602,
+                "view_count": 5247
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

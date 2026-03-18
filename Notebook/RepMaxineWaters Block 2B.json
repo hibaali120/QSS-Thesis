@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "36686040",
+                "author_username": "RepMaxineWaters",
+                "community_notes": null,
+                "conversation_id": "1852148183717040565",
+                "created_time": "2024-11-01T00:38:32",
+                "favorite_count": 265,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1852148183717040565",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 107,
+                "retweet_count": 61,
+                "source": "Twitter for iPhone",
+                "text": "In honor of National Breast Cancer Awareness Month, I introduced two bills to support cancer patients. H.R. 10058 requires states to provide both cancer treatment and inform the recipients they are eligible for reconstruction after mastectomy! H.R. 10060 requires doctors who perform mastectomies for Medicare patients to tell them that Medicare covers breast reconstruction!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1730421512,
+                "view_count": 36359
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

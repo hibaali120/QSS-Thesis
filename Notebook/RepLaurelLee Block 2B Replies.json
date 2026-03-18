@@ -1,0 +1,504 @@
+{
+    "politician": "RepLaurelLee",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1704609880290587085",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1608230657796227072",
+                    "author_username": "RepLaurelLee",
+                    "community_notes": null,
+                    "conversation_id": "1704609880290587085",
+                    "created_time": "2023-09-20T21:35:46",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704610326908387759",
+                    "in_reply_to_post_id": "1704609880290587085",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Thank you @MoffittNews for all of your work accelerating breakthroughs in the early detection and prevention of cancer.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "MoffittNews"
+                    ],
+                    "text_tagged_users_ids": [
+                        "25324110"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695245746,
+                    "view_count": 208
+                }
+            ]
+        },
+        {
+            "conversation_id": "1717988557317390627",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/InnocenceCruel/status/1718652271301451784?t=0CYGcVWU9ZHyEJ8bfJkwbQ&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/psGBDFSmPV"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1338279552066465792",
+                    "author_username": "InnocenceCruel",
+                    "community_notes": null,
+                    "conversation_id": "1717988557317390627",
+                    "created_time": "2023-10-29T17:19:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1718678878690902517",
+                    "in_reply_to_post_id": "1717988557317390627",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepLaurelLee @MoffittNews https://t.co/psGBDFSmPV",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepLaurelLee",
+                        "MoffittNews"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072",
+                        "25324110"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698599950,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "305699073",
+                    "author_username": "hankhouse",
+                    "community_notes": null,
+                    "conversation_id": "1717988557317390627",
+                    "created_time": "2023-10-27T19:43:49",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1717990502232998113",
+                    "in_reply_to_post_id": "1717988557317390627",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLaurelLee @MoffittNews Hey @RepLaurelLee stop sending money to Ukraine!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee",
+                        "MoffittNews"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072",
+                        "25324110"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698435829,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1732060509602800044",
+            "replies": []
+        },
+        {
+            "conversation_id": "1754157361210798444",
+            "replies": []
+        },
+        {
+            "conversation_id": "1838660109230395753",
+            "replies": []
+        },
+        {
+            "conversation_id": "1894043977369698798",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1438169787792863239",
+                    "author_username": "LuisFelipeLard1",
+                    "community_notes": null,
+                    "conversation_id": "1894043977369698798",
+                    "created_time": "2025-02-24T20:33:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894123466862829933",
+                    "in_reply_to_post_id": "1894043977369698798",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLaurelLee Great!!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740429200,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1692910473048379392",
+                    "author_username": "miller_bob72327",
+                    "community_notes": null,
+                    "conversation_id": "1894043977369698798",
+                    "created_time": "2025-02-24T16:21:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894060073724338417",
+                    "in_reply_to_post_id": "1894043977369698798",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLaurelLee Will you back a budget that spends less than the government takes in?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740414086,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "22326613",
+                    "author_username": "MattNyman",
+                    "community_notes": null,
+                    "conversation_id": "1894043977369698798",
+                    "created_time": "2025-02-24T15:18:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894044298749923585",
+                    "in_reply_to_post_id": "1894043977369698798",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLaurelLee Please pay attention to the cost of the US Army being located across the southern border.  That's your job.  It's expensive to maintain an army down there.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740410325,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1959283188213121532",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1959283188213121532?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/LY2jAimWuI"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1959283188213121532",
+                    "created_time": "2025-08-23T15:55:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1959283387685839358",
+                    "in_reply_to_post_id": "1959283188213121532",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Quest's work in diagnostics is exactly why we need policies that slash bureaucratic bloat elsewhere. While their AI-driven efficiency gains (like Project Nova's 30% cost cuts) show private-sector innovation, taxpayers shouldn't foot the bill for D.C.'s usual waste.\n\nRedirect funds from failed programs like HHS's $1.2B telehealth boondoggle to scale real healthcare solutions. Accessible testing requires eliminating middlemen, not expanding budgets.\n\nSee which programs are bleeding taxpayer dollars and how smarter funding could transform care: https://t.co/LY2jAimWuI",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee",
+                        "QuestDX"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072",
+                        "76481951"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1755964536,
+                    "view_count": 535
+                }
+            ]
+        },
+        {
+            "conversation_id": "1959973804089680215",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1959973804089680215",
+                    "created_time": "2025-08-25T13:43:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1959974871045198323",
+                    "in_reply_to_post_id": "1959973804089680215",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Rep. Lee\u2019s focus on cancer care is commendable, but Medicare\u2019s systemic inefficiency remains the real tumor. Bureaucratic bloat and Big Pharma\u2019s price-gouging siphon billions from patients. Cutting-edge facilities mean nothing if insurers deny claims, hospitals inflate bills, and CMS drowns providers in red tape.\n\nFixing healthcare starts with slashing administrative fat\u2014not just building shiny new clinics. How about auditing Medicare\u2019s $900B budget for fraud before asking taxpayers to fund more \u201creforms\u201d?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756129398,
+                    "view_count": 28
+                }
+            ]
+        },
+        {
+            "conversation_id": "1966253165151441321",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1601454203037179905",
+                    "author_username": "Madric441",
+                    "community_notes": null,
+                    "conversation_id": "1966253165151441321",
+                    "created_time": "2025-09-11T22:18:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1966265037904826581",
+                    "in_reply_to_post_id": "1966253165151441321",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLaurelLee @MAHACaucus Please sign Tomas massies bill to release the Epstein files.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee",
+                        "MAHACaucus"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072",
+                        "1866917883005243394"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1757629091,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/G0mMMKkWUAEB3M0.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/G0mMMKkWUAEB3M0.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1646600171701108736",
+                    "author_username": "IRONAPE_MMTLP",
+                    "community_notes": null,
+                    "conversation_id": "1966253165151441321",
+                    "created_time": "2025-09-11T21:45:41",
+                    "favorite_count": 31,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1966256859494367702",
+                    "in_reply_to_post_id": "1966253165151441321",
+                    "in_reply_to_profile_id": "1608230657796227072",
+                    "in_reply_to_profile_username": "RepLaurelLee",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 25,
+                    "source": "Twitter for Android",
+                    "text": "Speaking of the health of #FL15, nutrition is important, but also is mental and financial health. I've been trying to contact you through your staffers to discuss the (now 1000+ day) @FINRA U3 halt of $MMTLP. Either they are gatekeeping for you, or you truly don't care about financial fraud impacting retail investors and veterans in your district. \n\nRespectfully, I am asking you to reply or at the very minimum like this post as a signal that you are willing to help #FL15 to simply get the share count of $MMTLP. @RepLaurelLee @GovRonDeSantis @fakeshares505 @BadPenny3466 @MGinaZafira @johnnaarintl @JDVance @CoryMillsFL @ImFiredUp2 @mattgaetz @RepLuna @RepEliCrane",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLaurelLee",
+                        "MAHACaucus",
+                        "FINRA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1608230657796227072",
+                        "1866917883005243394",
+                        "35781013"
+                    ],
+                    "text_tags": [
+                        "fl15"
+                    ],
+                    "timestamp": 1757627141,
+                    "view_count": 610
+                }
+            ]
+        }
+    ]
+}

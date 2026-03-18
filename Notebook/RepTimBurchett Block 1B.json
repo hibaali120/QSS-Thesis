@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://video.foxbusiness.com/v/6322698407112?playlist_id=937116503001#sp=show-clips"
+                ],
+                "attached_links_url": [
+                    "https://t.co/2lYGGn8cDa"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1028854804087492613",
+                "author_username": "RepTimBurchett",
+                "community_notes": null,
+                "conversation_id": "1636808152346705945",
+                "created_time": "2023-03-17T19:14:08",
+                "favorite_count": 62,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1636808152346705945",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 31,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Take a look at who gets these bailouts. I guarantee you a bank in East Tennessee that doesn't push \"diversity, equity, and inclusion\" agendas wouldn't get the same treatment as Silicon Valley Bank. This administration takes care of their own. \nhttps://t.co/2lYGGn8cDa",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1679080448,
+                "view_count": 3331
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.youtube.com/watch?v=o8Y9--BAm4Q"
+                ],
+                "attached_links_url": [
+                    "https://t.co/uIj32c48e0"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1028854804087492613",
+                "author_username": "RepTimBurchett",
+                "community_notes": null,
+                "conversation_id": "1745114271061549215",
+                "created_time": "2024-01-10T16:03:59",
+                "favorite_count": 39,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1745114271061549215",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Randy Massey, Owner of Cold Creek Equine joined me on this episode of Tennessee Talks to discuss his work in the equine industry, how he developed his cold water spa treatment, and how it helps a performance horse's career stand the test of time.\nhttps://t.co/uIj32c48e0",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704902639,
+                "view_count": 3700
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

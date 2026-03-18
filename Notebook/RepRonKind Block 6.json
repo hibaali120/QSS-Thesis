@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "112740986",
+                "author_username": "RepRonKind",
+                "community_notes": null,
+                "conversation_id": "1514630146548027396",
+                "created_time": "2022-04-14T15:42:22",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1514630146548027396",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1514332670456745988",
+                "quoted_status_profile_id": "22034448",
+                "quoted_status_profile_username": "LeaderTelegram",
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "\"They are trying to decide do they eat, do they have a place to sleep or do they take their insulin\"\n\nThe cost of insulin shouldn't be out of reach for hardworking families. That's why I voted to cap insulin costs at $35 per month. Now it's time for the Senate to follow suit.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1649950942,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

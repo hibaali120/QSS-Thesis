@@ -1,0 +1,143 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GnLY2uRXoAA6pYg.jpg?name=small",
+                    "https://pbs.twimg.com/media/GnLY2uEXAAAO75_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GnLY2uRXoAA6pYg.jpg",
+                    "https://pbs.twimg.com/media/GnLY2uEXAAAO75_.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875008939714056192",
+                "author_username": "RepLiccardo",
+                "community_notes": null,
+                "conversation_id": "1905824029572751452",
+                "created_time": "2025-03-29T03:27:11",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1905824029572751452",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Buffer",
+                "text": "Today was a fantastic day at the 53rd annual Mel Mello Farm Day in Half Moon Bay!\nI was honored to present awards to farmers, farmworkers, and community leaders who tirelessly work to make our land a source of prosperity, nutrition, and delight. https://t.co/ubTy3wukVi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1743218831,
+                "view_count": 353
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://a23.asmdc.org/event/20250920-family-health-and-wellness-fair"
+                ],
+                "attached_links_url": [
+                    "https://t.co/QZ7wI4AngP"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1875008939714056192",
+                "author_username": "RepLiccardo",
+                "community_notes": null,
+                "conversation_id": "1966916951730446732",
+                "created_time": "2025-09-13T17:28:39",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1966916951730446732",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "You can get ahead of California's surging COVID rates. Mark your calendar for this Family Health & Wellness Fair on September 20 from 1\u20133:30 PM. Come by for free COVID-19 and flu vaccines, plus dental, vision, and mental health screenings\u2014and so much more. Protecting our health means protecting our community. \n\nhttps://t.co/QZ7wI4AngP",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1757784519,
+                "view_count": 417
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.mercurynews.com/2025/12/09/trumo-homeless-housing-funding-california/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HbHkSRy7Bo"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1875008939714056192",
+                "author_username": "RepLiccardo",
+                "community_notes": null,
+                "conversation_id": "1999938070460989905",
+                "created_time": "2025-12-13T20:22:47",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999938070460989905",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Thanks to coordinated legal action from states, local governments, and nonprofits \u2014 and from the pressure we applied in our congressional advocacy \u2014 more than 170,000 struggling American families nationwide can sleep easier knowing they won\u2019t be pushed out of their apartments into the street.\n\nhttps://t.co/HbHkSRy7Bo",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765657367,
+                "view_count": 253
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,147 @@
+{
+    "politician": "Andy_Levin",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1484901000435707908",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "http://vaccines.gov"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/eKwFjoQOZm"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "21061366",
+                    "author_username": "Andy_Levin",
+                    "community_notes": null,
+                    "conversation_id": "1484901000435707908",
+                    "created_time": "2022-01-22T14:49:21",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1484901002457272322",
+                    "in_reply_to_post_id": "1484901000435707908",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "And please get vaccinated if you haven\u2019t already! Cases remain high in Michigan but symptoms are proving to be much milder if you\u2019re vaccinated than if you\u2019re not. Let\u2019s do our part to keep everyone safe and healthy. Find out where you can get yours at https://t.co/eKwFjoQOZm.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1642862961,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1516912825410666498",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "14109342",
+                    "author_username": "andyrchicago",
+                    "community_notes": null,
+                    "conversation_id": "1516912825410666498",
+                    "created_time": "2022-04-21T01:34:02",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1516953373840494593",
+                    "in_reply_to_post_id": "1516912825410666498",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Andy_Levin You are tenacious. Keep up the fight!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Andy_Levin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21061366"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1650504842,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1089659940350889984",
+                    "author_username": "CarolWidder",
+                    "community_notes": null,
+                    "conversation_id": "1516912825410666498",
+                    "created_time": "2022-04-20T23:39:46",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1516924616345796608",
+                    "in_reply_to_post_id": "1516912825410666498",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Andy_Levin @DUH4Healthcare And if we take out the profit motive, we might actually get adequate and appropriate mental health care.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Andy_Levin",
+                        "DUH4Healthcare"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21061366",
+                        "959227039"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1650497986,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

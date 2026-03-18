@@ -1,0 +1,108 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://flood.house.gov/media/press-releases/congressman-flood-leads-uniform-treatment-custodial-assets-act-bipartisan"
+                ],
+                "attached_links_url": [
+                    "https://t.co/7fpZ92JeWb"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1547025742529167360",
+                "author_username": "USRepMikeFlood",
+                "community_notes": null,
+                "conversation_id": "1707088460232753407",
+                "created_time": "2023-09-27T17:42:59",
+                "favorite_count": 137,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1707088460232753407",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 8,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 40,
+                "source": "Twitter Web App",
+                "text": "The Uniform Treatment of Custodial Assets Act would rescind @SECGov's disastrous SAB 121.\n\nThanks to @RepRitchie, @RepFrenchHill, and @RepWileyNickel for helping lead this bipartisan effort. \n\nRead all about it here \ud83d\udc47\n\nhttps://t.co/7fpZ92JeWb",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SECGov",
+                    "RepRitchie",
+                    "RepFrenchHill",
+                    "RepWileyNickel"
+                ],
+                "text_tagged_users_ids": [
+                    "18481050",
+                    "1276403757224546304",
+                    "2953974395",
+                    "1591085093220671491"
+                ],
+                "text_tags": null,
+                "timestamp": 1695836579,
+                "view_count": 14757
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1547025742529167360",
+                "author_username": "USRepMikeFlood",
+                "community_notes": null,
+                "conversation_id": "2003521428801618376",
+                "created_time": "2025-12-23T17:41:46",
+                "favorite_count": 25,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003521428801618376",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "2003483746540965891",
+                "quoted_status_profile_id": "1480852568",
+                "quoted_status_profile_username": "BenSasse",
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "A remarkable response to a devastating diagnosis. \n\nFrom Nebraska to Florida and all across the country, we are with you and praying for you, Melissa, and your kids as you take on this new battle, @BenSasse.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BenSasse"
+                ],
+                "text_tagged_users_ids": [
+                    "1480852568"
+                ],
+                "text_tags": null,
+                "timestamp": 1766511706,
+                "view_count": 1781
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

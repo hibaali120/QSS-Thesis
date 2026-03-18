@@ -1,0 +1,150 @@
+{
+    "politician": "RepLawrence",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1564651831350935556",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/rashidatlaib/status/1565052383247335426"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/nsanCF1R5y"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2548926230",
+                    "author_username": "Sage_Simone",
+                    "community_notes": null,
+                    "conversation_id": "1564651831350935556",
+                    "created_time": "2022-09-01T01:12:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1565145469776498689",
+                    "in_reply_to_post_id": "1564651831350935556",
+                    "in_reply_to_profile_id": "2863006655",
+                    "in_reply_to_profile_username": "RepLawrence",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLawrence @DTE_Energy https://t.co/nsanCF1R5y",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepLawrence",
+                        "DTE_Energy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2863006655",
+                        "56693003"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661994733,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "268409903",
+                    "author_username": "ccbugggg",
+                    "community_notes": null,
+                    "conversation_id": "1564651831350935556",
+                    "created_time": "2022-08-30T17:02:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1564659918384283649",
+                    "in_reply_to_post_id": "1564651831350935556",
+                    "in_reply_to_profile_id": "2863006655",
+                    "in_reply_to_profile_username": "RepLawrence",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLawrence @DTE_Energy You\u2019re a congresswoman in Michigan and nobody is commenting and or retweeting this???   Why aren\u2019t you the popular one\u2026",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLawrence",
+                        "DTE_Energy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2863006655",
+                        "56693003"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661878969,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "268409903",
+                    "author_username": "ccbugggg",
+                    "community_notes": null,
+                    "conversation_id": "1564651831350935556",
+                    "created_time": "2022-08-30T16:33:12",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1564652465567531010",
+                    "in_reply_to_post_id": "1564651831350935556",
+                    "in_reply_to_profile_id": "2863006655",
+                    "in_reply_to_profile_username": "RepLawrence",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLawrence @DTE_Energy Please, we\u2019re not idiots.  I see you have a blue check next to your name, start making some phone calls and find out why DTE is not giving their customers updates, almost 19 hours for us here.  This is abuse by a corporation!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLawrence",
+                        "DTE_Energy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2863006655",
+                        "56693003"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661877192,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

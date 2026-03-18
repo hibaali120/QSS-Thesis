@@ -1,0 +1,54 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "240812994",
+                "author_username": "RepYvetteClarke",
+                "community_notes": null,
+                "conversation_id": "1520052410428895232",
+                "created_time": "2022-04-29T14:48:30",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1520052410428895232",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Democrats are fighting to lower health care costs and prescription drug prices nationwide because we must level the playing field for American patients. \n\n#DemocratsDeliver #LowerDrugPrices",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "democratsdeliver",
+                    "lowerdrugprices"
+                ],
+                "timestamp": 1651243710,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

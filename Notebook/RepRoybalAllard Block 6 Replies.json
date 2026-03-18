@@ -1,0 +1,279 @@
+{
+    "politician": "RepRoybalAllard",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1501899437022625795",
+            "replies": []
+        },
+        {
+            "conversation_id": "1517295879325208578",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/e9p34zsubde3kjb/status/1517470373020901376"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Tslkp99LrW"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1246151954587418628",
+                    "author_username": "E9P34zsUBDe3KJb",
+                    "community_notes": null,
+                    "conversation_id": "1517295879325208578",
+                    "created_time": "2022-04-22T11:54:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1517471804734025729",
+                    "in_reply_to_post_id": "1517295879325208578",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRoybalAllard @HHSGov @USDANutrition @SNAPtoHealth https://t.co/Tslkp99LrW",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRoybalAllard",
+                        "HHSGov",
+                        "USDANutrition",
+                        "SNAPtoHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233",
+                        "44783853",
+                        "3130357581",
+                        "361872364"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1650628446,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1517295879325208578",
+                    "created_time": "2022-04-22T00:15:02",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1517295880893833217",
+                    "in_reply_to_post_id": "1517295879325208578",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Tonight, I\u2019m pleased to share that @ACFHHS has announced that Head Start programs will now consider SNAP as public assistance to determine eligibility in addition to (TANF) and (SSI).\n\n2/2",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "ACFHHS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1337539945"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1650586502,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1524395579182301184",
+            "replies": []
+        },
+        {
+            "conversation_id": "1524448260991209477",
+            "replies": []
+        },
+        {
+            "conversation_id": "1526303852538081281",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1396023132",
+                    "author_username": "woodstockish",
+                    "community_notes": null,
+                    "conversation_id": "1526303852538081281",
+                    "created_time": "2022-05-17T14:05:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1526564645833687046",
+                    "in_reply_to_post_id": "1526303852538081281",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRoybalAllard @POTUS @VP Thank you for your support in '16 in regards to @TSA BABES Act, but clearly TSA has dropped the ball. Current formula crisis really highlights the importance of breastfeeding/pumping support. @TheSpaceGal",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard",
+                        "POTUS",
+                        "VP",
+                        "TSA",
+                        "TheSpaceGal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233",
+                        "1879650942410481666",
+                        "1879652428490149888",
+                        "414331122",
+                        "40221971"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1652796348,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1537462373778350080",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FVYqVh1UsAA4t81.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FVYqVh1UsAA4t81.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1171562395195432960",
+                    "author_username": "S42917714",
+                    "community_notes": null,
+                    "conversation_id": "1537462373778350080",
+                    "created_time": "2022-06-16T15:51:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1537462876260081669",
+                    "in_reply_to_post_id": "1537462373778350080",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRoybalAllard If you\u2019re ready to elect a leader who can\u2019t be bought by corporations and lobbyists, who will address the most important issues facing our city, and who has a proven track record of reducing crime and strengthening LA communities https://t.co/Emz5CmPDSA",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1655394689,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1539731696601505793",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://appropriations.house.gov/news/press-releases/appropriations-committee-approves-fiscal-year-2023-legislative-branch-funding"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/YsqVdpYWL5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1539731696601505793",
+                    "created_time": "2022-06-22T22:06:58",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1539731698195349508",
+                    "in_reply_to_post_id": "1539731696601505793",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "2/2\n\nIt also makes critical investments that will secure the Capitol Complex; increase paid internship opportunities & invest in retaining & recruiting a diverse & talented workforce.\n\nRead more: \n\nhttps://t.co/YsqVdpYWL5",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1655935618,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1539974455442542592",
+            "replies": []
+        }
+    ]
+}

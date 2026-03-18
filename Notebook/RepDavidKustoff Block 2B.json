@@ -1,0 +1,1203 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FvKRBsZXsAAh-jz.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FvKRBsZXsAAh-jz.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1653545133411803136",
+                "created_time": "2023-05-02T23:40:55",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1653545133411803136",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, I traveled to Madison County to speak with @WTHealthcare President and CEO JR Ross, COO Tina Prescott, State @SenEdJackson, and other hospital officials. \n\nThank you for working hard to ensure the health and well-being of patients in our communities! https://t.co/GsoeR27mFi",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WTHealthcare",
+                    "SenEdJackson"
+                ],
+                "text_tagged_users_ids": [
+                    "61268889",
+                    "998761812031102976"
+                ],
+                "text_tags": null,
+                "timestamp": 1683070855,
+                "view_count": 533
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FvO2oKfXsAAT_FO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FvO2oKfXsAAT_FO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1653866709500002305",
+                "created_time": "2023-05-03T20:58:45",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1653866709500002305",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I was happy to tour Crestwyn Behavioral Health, part of Acadia Healthcare, in Shelby County today. \n\nThank you to CEO Lindsey Blevins and CFO Hunter Ross, for showing me around and telling me how you provide mental healthcare services to patients in our community. https://t.co/uy2W43GiZ0",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1683147525,
+                "view_count": 1711
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fz50XYtWIAIV4sf.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fz50XYyWYAMgBsF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fz50XYtWIAIV4sf.jpg",
+                    "https://pbs.twimg.com/media/Fz50XYyWYAMgBsF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1674904072774623235",
+                "created_time": "2023-06-30T22:13:43",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1674904072774623235",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to Clinical Coordinator Ethan Mullis at the @DaVita Dialysis Center for allowing me to tour today. I appreciate all you do to care for patients in McNairy County and West Tennessee. https://t.co/2svzxqKQmq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DaVita"
+                ],
+                "text_tagged_users_ids": [
+                    "28676469"
+                ],
+                "text_tags": null,
+                "timestamp": 1688163223,
+                "view_count": 479
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F0dh_NgWcAMFElI.jpg?name=small",
+                    "https://pbs.twimg.com/media/F0dh_NhXgAAeaKc.jpg?name=small",
+                    "https://pbs.twimg.com/media/F0dh_NeXwAEiDUD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F0dh_NgWcAMFElI.jpg",
+                    "https://pbs.twimg.com/media/F0dh_NhXgAAeaKc.jpg",
+                    "https://pbs.twimg.com/media/F0dh_NeXwAEiDUD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1677417327728500736",
+                "created_time": "2023-07-07T20:40:30",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1677417327728500736",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Great to tour @encompasshlth\u2019s West Tennessee Healthcare Rehabilitation Hospital Jackson today with CEO Julie Taylor and Senior VP Justin Hunter. Thank you for showing me how you care for patients in Madison County. https://t.co/WzZh3iIgGl",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "encompasshlth"
+                ],
+                "text_tagged_users_ids": [
+                    "16117864"
+                ],
+                "text_tags": null,
+                "timestamp": 1688762430,
+                "view_count": 648
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F029QFhWIAALk4W.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F029QFhWIAALk4W.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1679206769761873934",
+                "created_time": "2023-07-12T19:11:06",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1679206769761873934",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I am honored to be named a Champion of Healthcare Innovation by @HealthInFocus today. \n\nTogether, we can find innovative ways to care for patients across the country. https://t.co/w9gWaw4TtT",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HealthInFocus"
+                ],
+                "text_tagged_users_ids": [
+                    "1909703610533134337"
+                ],
+                "text_tags": null,
+                "timestamp": 1689189066,
+                "view_count": 1077
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F1fu53SXwAUtUI5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F1fu53SXwAUtUI5.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1682090745820225547",
+                "created_time": "2023-07-20T18:11:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1682090745820225547",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "It was great to visit with Brad Cannon, President of Global Orthopedics at @SmithNephewPLC, today in Washington. \n\nThank you for being a valued employer in Shelby County and for working to create innovative devices that help improve the health and wellbeing of all patients. https://t.co/d9CkenW12V",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SmithNephewPLC"
+                ],
+                "text_tagged_users_ids": [
+                    "771195086"
+                ],
+                "text_tags": null,
+                "timestamp": 1689876660,
+                "view_count": 518
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3HvYFcXsAAshBu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3HvYFcXsAAshBu.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1689394637486653440",
+                "created_time": "2023-08-09T21:54:03",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1689394637486653440",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with @LifespanHealth COO Matt McGinley this morning to discuss ways to further support rural healthcare. Thank you for meeting with me and caring for patients in Hardin County. https://t.co/grVh96zfsf",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "LifespanHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "3233487993"
+                ],
+                "text_tags": null,
+                "timestamp": 1691618043,
+                "view_count": 579
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3H7NmPWcAAUphe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3H7NmPWcAAUphe.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1689411237095079939",
+                "created_time": "2023-08-09T23:00:01",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1689411237095079939",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I appreciated visiting @HardinMedical to meet with CEO Jim Edmonson and County Mayor Kevin Davis. Thank you for your dedication to providing good-quality care to patients and families in West Tennessee. https://t.co/NyXk2x8Tr5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HardinMedical"
+                ],
+                "text_tagged_users_ids": [
+                    "2389075446"
+                ],
+                "text_tags": null,
+                "timestamp": 1691622001,
+                "view_count": 701
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3qs_53XAAAEzXI.jpg?name=small",
+                    "https://pbs.twimg.com/media/F3qs_55XgAUM8WS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3qs_53XAAAEzXI.jpg",
+                    "https://pbs.twimg.com/media/F3qs_55XgAUM8WS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1691854898638323959",
+                "created_time": "2023-08-16T16:50:15",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1691854898638323959",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I enjoyed meeting with @EveryLifeOrg, including with Leeya Alperin from Shelby County, today. Thank you for working to raise awareness and support rare disease patients across the country. https://t.co/fqvGvpo0Qj",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EveryLifeOrg"
+                ],
+                "text_tagged_users_ids": [
+                    "95460562"
+                ],
+                "text_tags": null,
+                "timestamp": 1692204615,
+                "view_count": 649
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F5_PBu_WoAAs9oW.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F5_PBu_WoAAs9oW.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1702308357246230703",
+                "created_time": "2023-09-14T13:08:34",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1702308357246230703",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I appreciated meeting with @ASHPOfficial members Jennifer Robertson and Alex Rodriguez from Shelby County, as well as Simran Chahal from Madison County. Thank you for being a strong voice for pharmaceutical members and patients. https://t.co/drtPkjGCGH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ASHPOfficial"
+                ],
+                "text_tagged_users_ids": [
+                    "74537529"
+                ],
+                "text_tags": null,
+                "timestamp": 1694696914,
+                "view_count": 1779
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GBz4onuWUAA8BQi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GBz4onuWUAA8BQi.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1737540824781455443",
+                "created_time": "2023-12-20T18:29:49",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1737540824781455443",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Yesterday, I visited Dr. Mark Dearth at his pharmacy in Chester County.\n\nFor years, the Henderson Family Pharmacy has ensured patients have access to the medication they need. Thank you for playing an important role in West Tennessee's healthcare system. https://t.co/BYVdeLLH9e",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1703096989,
+                "view_count": 405
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GC38Y4FWsAAepxj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GC38Y4FWcAAUAo1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GC38Y4FWsAAepxj.jpg",
+                    "https://pbs.twimg.com/media/GC38Y4FWcAAUAo1.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1742326140725817467",
+                "created_time": "2024-01-02T23:24:57",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1742326140725817467",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Today, I visited @IVXHealth in Shelby County to meet with Senior VP of Strategy & Product Katie Thackston, Senior VP of Operations Carsten Bick, and Memphis Regional Operations Director Sherry Whitten. Thank you for offering quality health care to patients across West TN. https://t.co/QlWTvWzkqP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "IVXHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "1072923985"
+                ],
+                "text_tags": null,
+                "timestamp": 1704237897,
+                "view_count": 481
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GC8R8WvXQAEmrt9.jpg?name=small",
+                    "https://pbs.twimg.com/media/GC8R8WxXAAAyz3j.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GC8R8WvXQAEmrt9.jpg",
+                    "https://pbs.twimg.com/media/GC8R8WxXAAAyz3j.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1742631317848621272",
+                "created_time": "2024-01-03T19:37:37",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1742631317848621272",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with Master Medical Equipment Owners Mark and Jill Taylor in Madison County today. Thank you for ensuring healthcare organizations have the innovative, high-quality products they need to care for patients. https://t.co/hRYCy8kmsi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704310657,
+                "view_count": 678
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GF6zrZ7WsAAQXvT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GF6zrZ7WsAAQXvT.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1756049076276121759",
+                "created_time": "2024-02-09T20:15:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1756049076276121759",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Thank you to @alzassociation Advocate, Amy Elder from Lauderdale County for meeting with me. I appreciated hearing about how we can best aid Alzheimer\u2019s research, as well as help patients and their families in West Tennessee. https://t.co/4Zlqqwv5xv",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "alzassociation"
+                ],
+                "text_tagged_users_ids": [
+                    "21121491"
+                ],
+                "text_tags": null,
+                "timestamp": 1707509700,
+                "view_count": 455
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GI_KSM4WoAAK67D.jpg?name=small",
+                    "https://pbs.twimg.com/media/GI_KSM2WAAEhyCD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GI_KSM4WoAAK67D.jpg",
+                    "https://pbs.twimg.com/media/GI_KSM2WAAEhyCD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1769855596688298221",
+                "created_time": "2024-03-18T22:37:11",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1769855596688298221",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Nearly 4.5 million Americans face challenges accessing emergency healthcare services where they live.\n\nToday, @WaysandMeansGOP conducted a field hearing in Denton, TX to hear from emergency care providers and patients to address this issue. It is important to ensure all Americans have access to healthcare services, especially in rural and underserved communities.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1710801431,
+                "view_count": 1412
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GKHFH8OWMAAJPZj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GKHFI4CWkAAEs_o.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GKHFH8OWMAAJPZj.jpg",
+                    "https://pbs.twimg.com/media/GKHFI4CWkAAEs_o.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1774917055138996706",
+                "created_time": "2024-04-01T21:49:36",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1774917055138996706",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "This afternoon, I met with @llbloodservices CEO John Miller and Marketing Manager Melinda Reed in Madison County. Thank you for providing lifesaving services for patients and healthcare facilities throughout West Tennessee.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "llbloodservices"
+                ],
+                "text_tagged_users_ids": [
+                    "507811505"
+                ],
+                "text_tags": null,
+                "timestamp": 1712008176,
+                "view_count": 501
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GKwSCS8WwAAjnkl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GKwSCS8WwAAjnkl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1777817043636470227",
+                "created_time": "2024-04-09T21:53:08",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1777817043636470227",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I enjoyed meeting with advocates from @endalztn and @ALZIMPACT, including Amy Gammel from Lauderdale County. Thank you for discussing ways we can support Alzheimer\u2019s research and enhance care for patients and families across the nation. https://t.co/W3jykYQ9h0",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "endalztn",
+                    "ALZIMPACT"
+                ],
+                "text_tagged_users_ids": [
+                    "55246572",
+                    "204905640"
+                ],
+                "text_tags": null,
+                "timestamp": 1712699588,
+                "view_count": 1429
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GOIER4JXIAEvjNi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GOIER4JXIAEvjNi.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1793001380405199272",
+                "created_time": "2024-05-21T19:30:16",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1793001380405199272",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Today, I met with members of @aafp, including Dr. Jason Goolsby from Madison County. Thank you for working hard for patients across Tennessee! https://t.co/FmwiILoupP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "aafp"
+                ],
+                "text_tagged_users_ids": [
+                    "14500190"
+                ],
+                "text_tags": null,
+                "timestamp": 1716319816,
+                "view_count": 678
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GP5_KFoWsAIxlFd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GP5_KFoWsAIxlFd.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1801016788915831019",
+                "created_time": "2024-06-12T22:20:38",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1801016788915831019",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "It was great to meet with @uthsc Chancellor Peter Buckley, MD and David Mills from Shelby County today in Washington. I am grateful for all UTHSC does to train our state\u2019s next generation of health care workers, care for patients, and research cures for the diseases that affect families across Tennessee.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "uthsc"
+                ],
+                "text_tagged_users_ids": [
+                    "14277692"
+                ],
+                "text_tags": null,
+                "timestamp": 1718230838,
+                "view_count": 1016
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GU9wcrOWIAA8LfR.jpg?name=small",
+                    "https://pbs.twimg.com/media/GU9wcrPWAAA5oGC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GU9wcrOWIAA8LfR.jpg",
+                    "https://pbs.twimg.com/media/GU9wcrPWAAA5oGC.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1823800021827084474",
+                "created_time": "2024-08-14T19:13:04",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1823800021827084474",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "I appreciated visiting Baptist Memorial Hospital-Union City today and meeting with Administrator and CEO Skipper Bondurant. Thank you for caring for patients in Obion County. https://t.co/BbFS0aRRWj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1723662784,
+                "view_count": 902
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GWkIEScXEAcjqwR.jpg?name=small",
+                    "https://pbs.twimg.com/media/GWkIEucW4AAMNTg.jpg?name=small",
+                    "https://pbs.twimg.com/media/GWkIFILXMAA8H0i.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GWkIEScXEAcjqwR.jpg",
+                    "https://pbs.twimg.com/media/GWkIEucW4AAMNTg.jpg",
+                    "https://pbs.twimg.com/media/GWkIFILXMAA8H0i.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1831004036482429248",
+                "created_time": "2024-09-03T16:19:15",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1831004036482429248",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I visited @west_cancer in Henry County to see their new telemedicine device, the Proto Epic, which is the first of its kind in the US. This device projects a realistic life-sized image that allows patients to meet with cancer specialists in Memphis or any other location without having to leave Henry County. I appreciate Chief Medical Officer Dr. Sylvia Richey, Paris Site Manager Audrey Boyd & the staff at the West Cancer Center for meeting with me.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "west_cancer"
+                ],
+                "text_tagged_users_ids": [
+                    "905141702977101824"
+                ],
+                "text_tags": null,
+                "timestamp": 1725380355,
+                "view_count": 1211
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GXX-kliWAAAp1vh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GXX-kliWAAAp1vh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1834652418467918277",
+                "created_time": "2024-09-13T17:56:37",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1834652418467918277",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I appreciate CEO of @encompasshlth's West Tennessee Healthcare Rehabilitation Hospital Jackson, Julie Taylor from Madison County, for meeting with me in Washington. \n\nThank you for working with rehabilitation patients on their road to recovery. https://t.co/U1c0vhs5m8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "encompasshlth"
+                ],
+                "text_tagged_users_ids": [
+                    "16117864"
+                ],
+                "text_tags": null,
+                "timestamp": 1726250197,
+                "view_count": 371
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gb5CsGjXQAAQohq.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gb5CsGjXEAERhQ-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gb5CsGjXQAAQohq.jpg",
+                    "https://pbs.twimg.com/media/Gb5CsGjXEAERhQ-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1854993442038039017",
+                "created_time": "2024-11-08T21:04:35",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1854993442038039017",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "I met with @MemphisDocs members Dr. George Woodbury, Dr. Emily Coursey, and Dr. Donna Pendergrass from Shelby County & Dr. Ron Kirkland from Madison County. I appreciate your work advocating for the physicians and patients in our community. https://t.co/7hE5TNRxc1",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MemphisDocs"
+                ],
+                "text_tagged_users_ids": [
+                    "806985146326978560"
+                ],
+                "text_tags": null,
+                "timestamp": 1731099875,
+                "view_count": 740
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GdVT_C4XoAAMJf0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GdVT_C4XoAAMJf0.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1861486370507628691",
+                "created_time": "2024-11-26T19:05:10",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1861486370507628691",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "It was good to meet with @west_cancer CEO Mitch Graves today in Shelby County. Thank you for taking care of cancer patients and their families across our community. https://t.co/Ze4E3DiY4E",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "west_cancer"
+                ],
+                "text_tagged_users_ids": [
+                    "905141702977101824"
+                ],
+                "text_tags": null,
+                "timestamp": 1732647910,
+                "view_count": 420
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GifnSZwXIAARXO7.jpg?name=small",
+                    "https://pbs.twimg.com/media/GifnSZ1XAAEwPPu.jpg?name=small",
+                    "https://pbs.twimg.com/media/GifnSZxWIAANnGN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GifnSZwXIAARXO7.jpg",
+                    "https://pbs.twimg.com/media/GifnSZ1XAAEwPPu.jpg",
+                    "https://pbs.twimg.com/media/GifnSZxWIAANnGN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1884729301183979915",
+                "created_time": "2025-01-29T22:24:16",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1884729301183979915",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to @RegOneHealthFDN\u2019s President & CEO Dr. Reginald Coopwood & Executive VP & CAO Tish Towns for giving me a tour of Regional One Health\u2019s new hybrid operating room in Shelby County. \n\nThis state-of-the-art facility will provide life-saving care to patients across the Mid-South. Our community is fortunate to have the only Level 1 Trauma Center in a 150-mile radius.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RegOneHealthFDN"
+                ],
+                "text_tagged_users_ids": [
+                    "86836905"
+                ],
+                "text_tags": null,
+                "timestamp": 1738189456,
+                "view_count": 462
+            }
+        ],
+        "page_info": {
+            "cursor": "aWRfYXNjfDE4ODQ3MjkzMDExODM5Nzk5MTU=",
+            "has_next_page": true
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cbo.gov/publication/60237"
+                ],
+                "attached_links_url": [
+                    "https://t.co/kFJNVpkb4r"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1801646457423909077",
+                "created_time": "2024-06-14T16:02:43",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1801646457423909077",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "CBO describes its initial analysis of the potential federal budgetary effects of policies that would increase treatment of hepatitis C, focusing on two sample national policies that would increase treatment rates among Medicaid enrollees. https://t.co/kFJNVpkb4r",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1718380963,
+                "view_count": 1896
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cbo.gov/publication/60238"
+                ],
+                "attached_links_url": [
+                    "https://t.co/319kfgC4cG"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1801648549412675584/5ofPM9Yv?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1801648571264954389",
+                "created_time": "2024-06-14T16:11:07",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1801648571264954389",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "CBO is looking for new research on the effectiveness of efforts to increase the treatment of hepatitis C, the costs of treating hepatitis C with direct-acting antiviral medications, and the costs of treating complications if the disease is untreated. https://t.co/319kfgC4cG",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1718381467,
+                "view_count": 1905
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cbo.gov/publication/60775"
+                ],
+                "attached_links_url": [
+                    "https://t.co/JEnhTOPjiC"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1886864372439412736/YhR9s8Or?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1874172884106830035",
+                "created_time": "2024-12-31T19:16:50",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1874172884106830035",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Gene therapies replace or modify disease-causing genes in human cells. In this report, CBO discusses how it would estimate the budgetary effects of policies that sought to increase the use of gene therapy treatment for sickle cell disease. https://t.co/JEnhTOPjiC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1735672610,
+                "view_count": 1474
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

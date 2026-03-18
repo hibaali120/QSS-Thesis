@@ -1,0 +1,160 @@
+{
+    "politician": "RepDerekSchmidt",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1890057090506330489",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15554235",
+                    "author_username": "kirkemitchell",
+                    "community_notes": null,
+                    "conversation_id": "1890057090506330489",
+                    "created_time": "2025-02-13T15:52:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1890066416759677137",
+                    "in_reply_to_post_id": "1890057090506330489",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekSchmidt @kansashospitals @KsMedSoc Photo ops don't ensure anything. We know you asses have your eyes on destroying Medicaid and are sniffing around Medicare and Social Security.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt",
+                        "kansashospitals",
+                        "KsMedSoc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440",
+                        "40303906",
+                        "1209477037"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739461924,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1890461003172733042",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15554235",
+                    "author_username": "kirkemitchell",
+                    "community_notes": null,
+                    "conversation_id": "1890461003172733042",
+                    "created_time": "2025-02-14T18:26:12",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1890467595758825662",
+                    "in_reply_to_post_id": "1890461003172733042",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekSchmidt @RepTroyDowning Redundant? With more than 50 states and territories with their different laws concerning all aspects of insurance?\nStupidity is Repugnikkklans overwhelming strength, it appears.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt",
+                        "RepTroyDowning"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440",
+                        "1873876193960763392"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739557572,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1990827154779595255",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15554235",
+                    "author_username": "kirkemitchell",
+                    "community_notes": null,
+                    "conversation_id": "1990827154779595255",
+                    "created_time": "2025-11-18T17:08:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1990829367535009995",
+                    "in_reply_to_post_id": "1990827154779595255",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekSchmidt Odd that you\u2019d vote to strip funds for the rural hospitals they likely work at. Take away $200 billion, then make a big deal of giving back $50 billion, now patting them on their heads knowing they won\u2019t find a job.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763485683,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999625906441113813",
+            "replies": []
+        }
+    ]
+}

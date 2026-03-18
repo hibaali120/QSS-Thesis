@@ -1,0 +1,1265 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1888281686946832632",
+                "created_time": "2025-02-08T17:40:11",
+                "favorite_count": 138,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1888281686946832632",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 21,
+                "source": "Hootsuite Inc.",
+                "text": "\u203c\ufe0fHuge news! After Trump's federal funding freeze prevented Prisma Community Care in Phoenix from accessing grant funds they needed to do their work, my team and I worked with HHS to restore their funding.\n\nNow, thousands of Arizonans can access critical care like HIV treatment.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1739036411,
+                "view_count": 4830
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GkmSJ7mWIAAZm_H.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkmSJ7fWcAAmmPU.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkmSJ71XoAIgKHR.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkmSJ7sXwAArDr2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GkmSJ7mWIAAZm_H.jpg",
+                    "https://pbs.twimg.com/media/GkmSJ7fWcAAmmPU.jpg",
+                    "https://pbs.twimg.com/media/GkmSJ71XoAIgKHR.jpg",
+                    "https://pbs.twimg.com/media/GkmSJ7sXwAArDr2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1894205819727519762",
+                "created_time": "2025-02-25T02:00:34",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894205819727519762",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Hootsuite Inc.",
+                "text": "Trump and Republicans want to rip away your health care with their cruel budget proposal that would cut Medicaid. That means parents and grandparents without home care, new mothers unable to access postpartum treatment, and children without a lifeline. https://t.co/tgDRPDORh2",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740448834,
+                "view_count": 1318
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.azcentral.com/story/news/politics/arizona/2025/02/24/trumps-doge-layoffs-hit-usdas-arizona-rural-development-office/79470232007/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/sdL1oSBqgq"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1891535027147825152/FguAAjbh?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1894819237765533747",
+                "created_time": "2025-02-26T18:38:04",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894819237765533747",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Federal workers like Joshua make sure rural Arizonans have clean drinking water and safe hospitals.\n\nLaid off by DOGE, the 100 projects he oversees are at risk. https://t.co/sdL1oSBqgq",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740595084,
+                "view_count": 543
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1928276090159538176/img/1SB7S-XvPgLAFOQQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1928276090159538176/vid/avc1/1440x2560/a1QrYTB4weHgAURW.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 343,
+                        "id": "1928276090159538176",
+                        "url": "https://video.twimg.com/amplify_video/1928276090159538176/vid/avc1/1440x2560/a1QrYTB4weHgAURW.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1928276468754182178",
+                "created_time": "2025-05-30T02:25:10",
+                "favorite_count": 790,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1928276468754182178",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 65,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1425,
+                "retweet_count": 278,
+                "source": "Twitter for iPhone",
+                "text": "I was sickened by the testimonies I heard today of inhumane treatment at the Eloy ICE Detention Center. \n\nI\u2019ll be taking this straight to the Trump Administration, demanding answers and more independent oversight. https://t.co/wUGgz8ToQR",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748571910,
+                "view_count": 58747
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GvxBQVvWwAAaFMf.jpg?name=small",
+                    "https://pbs.twimg.com/media/GvxBQWJWMAAdkiX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GvxBQVvWwAAaFMf.jpg",
+                    "https://pbs.twimg.com/media/GvxBQWJWMAAdkiX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1944500891945414677",
+                "created_time": "2025-07-13T20:55:14",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1944500891945414677",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 3,
+                "source": "Hootsuite Inc.",
+                "text": "More than 365,000 people in Arizona will be kicked off of healthcare outright because of Republicans' Big Ugly Bill\u2013but thousands more people will lose care when rural hospitals across our state close.\n\nHealthcare should be a human right, not a privilege. https://t.co/D7yEoxXWsn",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1752440114,
+                "view_count": 1224
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.msnbc.com/msnbc/democrats-are-making-obamacare-central-shutdown-strategy-rcna232034"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Fa63I9Pjve"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1968845510036406360",
+                "created_time": "2025-09-19T01:12:03",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968845510036406360",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 9,
+                "source": "Twitter for iPhone",
+                "text": "Unlike Republicans, Democrats are fighting for the healthcare of working families. \n\nWe\u2019re pushing to repeal Trump\u2019s Big Ugly Bill cuts to Medicaid, stopping the closure of nursing homes and hospitals, and protecting coverage for 15M Americans\u2014including kids, seniors, and people with disabilities.\n\nhttps://t.co/Fa63I9Pjve",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758244323,
+                "view_count": 1125
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1970927132306989056/img/gvbr1aUEAvViVqfk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1970927132306989056/vid/avc1/1080x1920/c8ck13L8frejwH-3.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 118,
+                        "id": "1970927132306989056",
+                        "url": "https://video.twimg.com/amplify_video/1970927132306989056/vid/avc1/1080x1920/c8ck13L8frejwH-3.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1970927668871954749",
+                "created_time": "2025-09-24T19:05:48",
+                "favorite_count": 33,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970927668871954749",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 45,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "I voted NO on the GOP CR because it rips health care away from Arizonans\u2014including patients served by @ValledelSolAZ.\n\nTrump refuses to meet with Democrats because he thinks he\u2019s a King. Republicans run Congress. A shutdown would be 100% on them. https://t.co/GZivCVpyJt",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ValledelSolAZ"
+                ],
+                "text_tagged_users_ids": [
+                    "116867062"
+                ],
+                "text_tags": null,
+                "timestamp": 1758740748,
+                "view_count": 3456
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1973946277101506560/img/4aoPbCdk0yF5BvJo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1973946277101506560/vid/avc1/360x640/e83VvlYYptx_Jgxl.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 117,
+                        "id": "1973946277101506560",
+                        "url": "https://video.twimg.com/amplify_video/1973946277101506560/vid/avc1/360x640/e83VvlYYptx_Jgxl.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1973946376167067690",
+                "created_time": "2025-10-03T03:01:04",
+                "favorite_count": 27,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973946376167067690",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "The Trump shutdown is authoritarian politics hurting real people. Tonight I heard from a teacher struggling with healthcare costs, a senior worried about Social Security, parents fearing ICE. We\u2019re fighting back. https://t.co/sIH6pgnzWK",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759460464,
+                "view_count": 1230
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1974568981953425408/img/8YsKMgmdcqmdRSkC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1974568981953425408/vid/avc1/360x640/Xdk18Rs7amHo9Wqw.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 141,
+                        "id": "1974568981953425408",
+                        "url": "https://video.twimg.com/amplify_video/1974568981953425408/vid/avc1/360x640/Xdk18Rs7amHo9Wqw.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1974569132088783069",
+                "created_time": "2025-10-04T20:15:41",
+                "favorite_count": 34,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974569132088783069",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": "Proud to stand with @LUCHA_AZ, Democratic and labor leaders to call out Trump and Republicans for their reckless shutdown and the health care crisis they created.\n\n300K+ Arizonans could lose coverage. Premiums are doubling. People will die. We won\u2019t back down. https://t.co/MAXNyJUS39",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "LUCHA_AZ"
+                ],
+                "text_tagged_users_ids": [
+                    "306487042"
+                ],
+                "text_tags": null,
+                "timestamp": 1759608941,
+                "view_count": 1294
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1974937357762593201",
+                "created_time": "2025-10-05T20:38:53",
+                "favorite_count": 183,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974937357762593201",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 5,
+                "quoted_status_id": "1974913750391300390",
+                "quoted_status_profile_id": "65707359",
+                "quoted_status_profile_username": "CaptMarkKelly",
+                "reply_count": 378,
+                "retweet_count": 79,
+                "source": "Twitter for iPhone",
+                "text": "Appreciate @CaptMarkKelly for saying it plainly. When healthcare premiums go up, families suffer. Republicans can\u2019t spin, distract, or scapegoat their way out of that.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CaptMarkKelly"
+                ],
+                "text_tagged_users_ids": [
+                    "65707359"
+                ],
+                "text_tags": null,
+                "timestamp": 1759696733,
+                "view_count": 9553
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1975667994106728448/img/uoyuO2CxLlaczTQK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1975667994106728448/vid/avc1/1080x1920/2yg2V5Qhv95blFKI.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1975667994106728448",
+                        "url": "https://video.twimg.com/amplify_video/1975667994106728448/vid/avc1/1080x1920/2yg2V5Qhv95blFKI.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1975668658795171971",
+                "created_time": "2025-10-07T21:04:49",
+                "favorite_count": 30,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975668658795171971",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 22,
+                "retweet_count": 18,
+                "source": "Twitter Web App",
+                "text": "When Trump and Republicans claim undocumented immigrants get federal health care, they\u2019re lying. It\u2019s a distraction from the fact that they\u2019re ripping health care away from 17 million Americans \u2014 and your premiums are about to double or worse. https://t.co/EDDuPm1YXg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759871089,
+                "view_count": 1678
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1976700361411813377/img/UHSO-rsvu5gyLZgR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976700361411813377/vid/avc1/1080x1920/TSKTY4e4LRSc-Aar.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 191,
+                        "id": "1976700361411813377",
+                        "url": "https://video.twimg.com/amplify_video/1976700361411813377/vid/avc1/1080x1920/TSKTY4e4LRSc-Aar.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1976700754426839340",
+                "created_time": "2025-10-10T17:25:59",
+                "favorite_count": 30,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976700754426839340",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 19,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "In Arizona, families like Jennifer\u2019s depend on Medicaid for their children\u2019s care. But Trump and Republicans are manufacturing a health care crisis that puts them at risk.\n\nJennifer\u2014and millions like her\u2014are counting on us to fight back. https://t.co/RgWoF9uG8j",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760117159,
+                "view_count": 1541
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1976784593651929088/img/1Wkv54psjr6k12oN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976784593651929088/vid/avc1/1080x1920/2yXExM7tB3HQDdpU.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 77,
+                        "id": "1976784593651929088",
+                        "url": "https://video.twimg.com/amplify_video/1976784593651929088/vid/avc1/1080x1920/2yXExM7tB3HQDdpU.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1976786067438379453",
+                "created_time": "2025-10-10T23:05:00",
+                "favorite_count": 32,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976786067438379453",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "Today is #WorldMentalHealthDay \u2014 and none of us are immune.\n\nI\u2019ve dealt with anxiety myself, and I know how hard it can be to find support when you need it.\n\nThat\u2019s why I joined @RepBonnie  to introduce the Mental Health Emergency Package\u2014three bills that strengthen crisis response, expand care, and save lives.\n\nBecause people in crisis deserve care, not criminalization. \ud83d\udc9a\n\nIf you or someone you know is struggling, call or text 988 for free, confidential help.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepBonnie"
+                ],
+                "text_tagged_users_ids": [
+                    "2968451607"
+                ],
+                "text_tags": [
+                    "worldmentalhealthday"
+                ],
+                "timestamp": 1760137500,
+                "view_count": 1892
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2_A7PxWIAAAsf_.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2_A7PxW4AAPeyi.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2_A7P1W8AAB15V.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2_A7P3WAAABjR1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2_A7PxWIAAAsf_.jpg",
+                    "https://pbs.twimg.com/media/G2_A7PxW4AAPeyi.jpg",
+                    "https://pbs.twimg.com/media/G2_A7P1W8AAB15V.jpg",
+                    "https://pbs.twimg.com/media/G2_A7P3WAAABjR1.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1977010890848583805",
+                "created_time": "2025-10-11T13:58:22",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1977010890848583805",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Celebrating Native heritage all weekend ahead of #IndigenousPeoplesDay on Monday \u2014 from the Downtown Phoenix Night Market to Native Health\u2019s Open House and Health Fair.\n\nSee what\u2019s going on in #AZ03 \u2b07\ufe0f https://t.co/fNb5ILemIj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "az03",
+                    "indigenouspeoplesday"
+                ],
+                "timestamp": 1760191102,
+                "view_count": 1875
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1977503760269148160/img/yHBuL2d3sLQ4ff_G.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1977503760269148160/vid/avc1/1080x1920/XSKfvqrxaWCa51WU.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 49,
+                        "id": "1977503760269148160",
+                        "url": "https://video.twimg.com/amplify_video/1977503760269148160/vid/avc1/1080x1920/XSKfvqrxaWCa51WU.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1977504256782397548",
+                "created_time": "2025-10-12T22:38:49",
+                "favorite_count": 103,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1977504256782397548",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 13,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 151,
+                "retweet_count": 45,
+                "source": "Twitter for iPhone",
+                "text": "\u203c\ufe0f It\u2019s Day 12 of the Trump Shutdown.\u203c\ufe0f Millions of Americans across the country are now receiving notices with massive premium increases because of the Republican health care crisis. \n\nYet @SpeakerJohnson wants @HouseGOP to stay on vacation. Make that make sense? https://t.co/K2mgIXwyJN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson",
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171",
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1760308729,
+                "view_count": 6084
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://Ansari.House.Gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/aI5lm9mA0r"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3PjQn-aIAAXQuR.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3PjR6ebAAAAcWH.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3PjTiza4AAu6XD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3PjQn-aIAAXQuR.jpg",
+                    "https://pbs.twimg.com/media/G3PjR6ebAAAAcWH.jpg",
+                    "https://pbs.twimg.com/media/G3PjTiza4AAu6XD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1978174695129178293",
+                "created_time": "2025-10-14T19:02:54",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978174695129178293",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "While we wait for Trump and Republicans to work with us to end their shutdown and fix the health care crisis they\u2019ve created, my office is a resource to serve you. \n\nPlease reach out to us at https://t.co/aI5lm9mA0r https://t.co/khQV2iTc2B",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760468574,
+                "view_count": 878
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1978217135295041536/img/2Aq5F9Dz8ATQ4LUO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1978217135295041536/vid/avc1/1080x1920/yPmKXRyNtS7HnVd8.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 145,
+                        "id": "1978217135295041536",
+                        "url": "https://video.twimg.com/amplify_video/1978217135295041536/vid/avc1/1080x1920/yPmKXRyNtS7HnVd8.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1978217549079728532",
+                "created_time": "2025-10-14T21:53:11",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978217549079728532",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Proud to have hosted my first Veterans\u2019 Advisory Board meeting last month. Now, VA services are at risk because of the Trump-Republican shutdown.\n\nWhile Republicans keep our government in limbo, veterans can reach out to my office for assistance with the VA, Medicare & more. https://t.co/UvpBrdcVkd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760478791,
+                "view_count": 1030
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1979230040354078721/img/vzYUr_r89LiZOR_x.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1979230040354078721/vid/avc1/1080x1920/FkdmS99RFFM1P7KT.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 146,
+                        "id": "1979230040354078721",
+                        "url": "https://video.twimg.com/amplify_video/1979230040354078721/vid/avc1/1080x1920/FkdmS99RFFM1P7KT.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1979230527421894865",
+                "created_time": "2025-10-17T16:58:24",
+                "favorite_count": 26,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1979230527421894865",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 27,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "I called my constituents to hear directly how the Trump and Republican health care crisis and government shutdown are hurting our community. They have a few thoughts for @SpeakerJohnson. https://t.co/Tf3GExSBEv",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1760720304,
+                "view_count": 1751
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1979692414441754624/img/0AiIwRZB_pQX6hY5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1979692414441754624/vid/avc1/1080x1920/8hHWiMcf1RCyWBrm.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 170,
+                        "id": "1979692414441754624",
+                        "url": "https://video.twimg.com/amplify_video/1979692414441754624/vid/avc1/1080x1920/8hHWiMcf1RCyWBrm.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1979692762535743673",
+                "created_time": "2025-10-18T23:35:10",
+                "favorite_count": 2573,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1979692762535743673",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 198,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4691,
+                "retweet_count": 541,
+                "source": "Twitter for iPhone",
+                "text": "As the youngest woman in Congress, I know who pays the price when the government fails: we do. Women.\n\nWhile Trump and Republicans take vacations, we\u2019re here fighting to reopen the government and protect our healthcare. https://t.co/iw0TosUbS7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760830510,
+                "view_count": 112750
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G34vM0zXAAAZPCg.jpg?name=small",
+                    "https://pbs.twimg.com/media/G34vM00XEAADtEU.jpg?name=small",
+                    "https://pbs.twimg.com/media/G34vM03WwAACd98.jpg?name=small",
+                    "https://pbs.twimg.com/media/G34vM01XwAA3Fm2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G34vM0zXAAAZPCg.jpg",
+                    "https://pbs.twimg.com/media/G34vM00XEAADtEU.jpg",
+                    "https://pbs.twimg.com/media/G34vM03WwAACd98.jpg",
+                    "https://pbs.twimg.com/media/G34vM01XwAA3Fm2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981075089983430876",
+                "created_time": "2025-10-22T19:08:02",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981075089983430876",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 32,
+                "retweet_count": 18,
+                "source": "Twitter for iPhone",
+                "text": "Week 4 of the Trump-Republican shutdown. Trump & @SpeakerJohnson are betraying 34,460 federal workers in Arizona who are furloughed or working without pay \u2014 & more than 300,000 Arizonans impacted by their healthcare crisis. \n\nI\u2019m proud to stand with @AFGEnational & fight for them.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson",
+                    "AFGENational"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171",
+                    "47402168"
+                ],
+                "text_tags": null,
+                "timestamp": 1761160082,
+                "view_count": 1754
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981138240196288512/img/uO4dMmY-HhJReXy1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981138240196288512/vid/avc1/1080x1920/30Wg8H80oDZVCO23.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 89,
+                        "id": "1981138240196288512",
+                        "url": "https://video.twimg.com/amplify_video/1981138240196288512/vid/avc1/1080x1920/30Wg8H80oDZVCO23.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981138435865006444",
+                "created_time": "2025-10-22T23:19:45",
+                "favorite_count": 65,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981138435865006444",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 90,
+                "retweet_count": 30,
+                "source": "Twitter for iPhone",
+                "text": "Republicans are still on vacation while @SEIU workers in Arizona like Raul and Ezra at @PHXSkyHarbor are worried about affording healthcare and keeping a roof over their heads.\n\nDemocrats are at the negotiating table. Will @SpeakerJohnson and Republicans finally show up? https://t.co/xpK0Ti0pbG",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SEIU",
+                    "PHXSkyHarbor",
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "14695985",
+                    "17510987",
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1761175185,
+                "view_count": 4542
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981496274214903808/img/c-JPUXNPBIquLOHM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981496274214903808/vid/avc1/1080x1920/UzJp3s5c78pKs0Ne.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 157,
+                        "id": "1981496274214903808",
+                        "url": "https://video.twimg.com/amplify_video/1981496274214903808/vid/avc1/1080x1920/UzJp3s5c78pKs0Ne.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981497125025566757",
+                "created_time": "2025-10-23T23:05:03",
+                "favorite_count": 374,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981497125025566757",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 37,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 809,
+                "retweet_count": 104,
+                "source": "Twitter for iPhone",
+                "text": "My constituent Yari, who has cancer, has been detained since Feb 10, and her health has deteriorated severely.\n\nProud to stand with Trans Queer Pueblo and grassroots orgs today demanding her release. I\u2019ll never stop fighting for Yari & every person suffering at the hands of ICE. https://t.co/IwtON9SZ0d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761260703,
+                "view_count": 35296
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981506455384535458",
+                "created_time": "2025-10-23T23:42:08",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981506455384535458",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 18,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Tune in at 8pm ET\u2014I\u2019ll be on with @chrislhayes to talk about Trump\u2019s $300 million ballroom, bankrolled by billionaires and corporations, while millions of Americans lose healthcare.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "chrislhayes"
+                ],
+                "text_tagged_users_ids": [
+                    "4207961"
+                ],
+                "text_tags": null,
+                "timestamp": 1761262928,
+                "view_count": 1390
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981541650162720768/img/P5w3g7XPbytkFbSh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981541650162720768/vid/avc1/1080x1920/KJpKpr7hseLcnQTI.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 115,
+                        "id": "1981541650162720768",
+                        "url": "https://video.twimg.com/amplify_video/1981541650162720768/vid/avc1/1080x1920/KJpKpr7hseLcnQTI.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981542540882133134",
+                "created_time": "2025-10-24T02:05:31",
+                "favorite_count": 639,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981542540882133134",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 73,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1844,
+                "retweet_count": 233,
+                "source": "Twitter for iPhone",
+                "text": "While millions of Americans are missing paychecks and losing health care, Donald Trump is building himself a $350 million palace funded by corporations and billionaires buying influence. It\u2019s disgusting. \n\nI\u2019m demanding answers with @RepRobertGarcia and @RepHuffman. https://t.co/2cdUSR9YsK",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepRobertGarcia",
+                    "RepHuffman"
+                ],
+                "text_tagged_users_ids": [
+                    "1602792195878047744",
+                    "1071102246"
+                ],
+                "text_tags": null,
+                "timestamp": 1761271531,
+                "view_count": 36999
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981862791905411072/img/SIr8PDij-zFbMs8U.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981862791905411072/vid/avc1/1080x1920/3nekHwbd62cCjCKS.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 95,
+                        "id": "1981862791905411072",
+                        "url": "https://video.twimg.com/amplify_video/1981862791905411072/vid/avc1/1080x1920/3nekHwbd62cCjCKS.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1871623075822772224",
+                "author_username": "RepYassAnsari",
+                "community_notes": null,
+                "conversation_id": "1981864219487474120",
+                "created_time": "2025-10-24T23:23:45",
+                "favorite_count": 757,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981864219487474120",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 14,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 217,
+                "retweet_count": 236,
+                "source": "Twitter Web App",
+                "text": "After our office demanded that ICE allow Yari to see an oncologist for her cancer, they finally did. Now they\u2019re withholding her medical results.\n\nThis is unacceptable. Yari is in critical condition. We demand her release and immediate treatment now. https://t.co/tSFQsX188T",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761348225,
+                "view_count": 14454
+            }
+        ],
+        "page_info": {
+            "cursor": "aWRfYXNjfDE5ODE4NjQyMTk0ODc0NzQxMjA=",
+            "has_next_page": true
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

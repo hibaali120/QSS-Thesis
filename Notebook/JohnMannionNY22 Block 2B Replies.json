@@ -1,0 +1,217 @@
+{
+    "politician": "JohnMannionNY22",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1563502525911044101",
+            "replies": []
+        },
+        {
+            "conversation_id": "1572535035353534464",
+            "replies": []
+        },
+        {
+            "conversation_id": "1619705143234269186",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1339969133899857921",
+                    "author_username": "JohnMannionNY22",
+                    "community_notes": null,
+                    "conversation_id": "1619705143234269186",
+                    "created_time": "2023-01-29T14:34:20",
+                    "favorite_count": 2,
+                    "geo_lat": 43.038890800000004,
+                    "geo_lon": -76.1439436,
+                    "id": "1619705506247114754",
+                    "in_reply_to_post_id": "1619705143234269186",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Syracuse, NY",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "2/2 Many necessary conversations happened around recruitment, insurance coverage & training. \nA new law allows for volunteer firefighters to receive a 10% reduction in their property & school taxes. However, municipalities and school districts must opt in. The bill is S9131.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1675002860,
+                    "view_count": 239
+                }
+            ]
+        },
+        {
+            "conversation_id": "1628449233853349888",
+            "replies": []
+        },
+        {
+            "conversation_id": "1648043766459125769",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1638935426776834049",
+                    "author_username": "ny2justice",
+                    "community_notes": null,
+                    "conversation_id": "1648043766459125769",
+                    "created_time": "2023-04-18T04:18:48",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648179243962998786",
+                    "in_reply_to_post_id": "1648043766459125769",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1648175893787951104",
+                    "quoted_status_profile_id": "1638935426776834049",
+                    "quoted_status_profile_username": "ny2justice",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@SenJohnMannion @1199SEIU \ud83d\ude4f\ud83c\udffb\ud83d\ude4f\ud83c\udffb",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "1199SEIU"
+                    ],
+                    "text_tagged_users_ids": [
+                        "66754934"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681791528,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1650935634805006359",
+            "replies": []
+        },
+        {
+            "conversation_id": "1737887590307471639",
+            "replies": []
+        },
+        {
+            "conversation_id": "1737961976041529471",
+            "replies": []
+        },
+        {
+            "conversation_id": "1885699750944731629",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GthLDm2WIAALo4o.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GthLDm2WIAALo4o.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "749468547672207360",
+                    "author_username": "BradIcebirdz",
+                    "community_notes": null,
+                    "conversation_id": "1885699750944731629",
+                    "created_time": "2025-06-15T22:32:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1934378575265669484",
+                    "in_reply_to_post_id": "1885699750944731629",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@JohnMannionNY22 https://t.co/yN4BaMs7iJ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "JohnMannionNY22"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1339969133899857921"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1750026766,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1815347714689060864",
+                    "author_username": "tattoogizmo2133",
+                    "community_notes": null,
+                    "conversation_id": "1885699750944731629",
+                    "created_time": "2025-04-30T13:10:43",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1917567290465464595",
+                    "in_reply_to_post_id": "1885699750944731629",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@JohnMannionNY22 You should have been aborted",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JohnMannionNY22"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1339969133899857921"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1746018643,
+                    "view_count": 4
+                }
+            ]
+        }
+    ]
+}

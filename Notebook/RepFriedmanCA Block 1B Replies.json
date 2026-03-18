@@ -1,0 +1,165 @@
+{
+    "politician": "RepFriedmanCA",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1886169593950941337",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/elonmusk/status/1886278064012689707?s=46"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/9HOPkEHNXK"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1229517124168642560",
+                    "author_username": "_GabriV",
+                    "community_notes": null,
+                    "conversation_id": "1886169593950941337",
+                    "created_time": "2025-02-03T19:47:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1886501763366424733",
+                    "in_reply_to_post_id": "1886169593950941337",
+                    "in_reply_to_profile_id": "1618683941464195072",
+                    "in_reply_to_profile_username": "RepFriedmanCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1886278064012689707",
+                    "quoted_status_profile_id": "44196397",
+                    "quoted_status_profile_username": "elonmusk",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepFriedmanCA Keep yourself updated on the fraud within USAID\n\nhttps://t.co/9HOPkEHNXK",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFriedmanCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1618683941464195072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738612044,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1618683941464195072",
+                    "author_username": "RepFriedmanCA",
+                    "community_notes": null,
+                    "conversation_id": "1886169593950941337",
+                    "created_time": "2025-02-02T21:47:29",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1886169595611922804",
+                    "in_reply_to_post_id": "1886169593950941337",
+                    "in_reply_to_profile_id": "1618683941464195072",
+                    "in_reply_to_profile_username": "RepFriedmanCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "LGBTQ care includes mental health services, AIDS treatment, domestic violence protection, and homelessness prevention. I will fight to protect the crucial services offered by these orgs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1738532849,
+                    "view_count": 173
+                }
+            ]
+        },
+        {
+            "conversation_id": "1913014842681897294",
+            "replies": []
+        },
+        {
+            "conversation_id": "1924944371591627009",
+            "replies": []
+        },
+        {
+            "conversation_id": "1954581040179151099",
+            "replies": []
+        },
+        {
+            "conversation_id": "1979216090912661546",
+            "replies": []
+        },
+        {
+            "conversation_id": "1995183530528198871",
+            "replies": []
+        },
+        {
+            "conversation_id": "2005730529954447400",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1470887006964092928",
+                    "author_username": "Michael0Hoss",
+                    "community_notes": null,
+                    "conversation_id": "2005730529954447400",
+                    "created_time": "2025-12-29T20:25:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2005736839135781288",
+                    "in_reply_to_post_id": "2005730529954447400",
+                    "in_reply_to_profile_id": "1618683941464195072",
+                    "in_reply_to_profile_username": "RepFriedmanCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepFriedmanCA You are amazing.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFriedmanCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1618683941464195072"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1767039901,
+                    "view_count": 12
+                }
+            ]
+        }
+    ]
+}

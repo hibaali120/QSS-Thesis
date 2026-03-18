@@ -1,0 +1,151 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3gbvJkX0A8Z25b.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3gbvJkX0A8Z25b.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1691132166221058056",
+                "created_time": "2023-08-14T16:58:22",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1691132166221058056",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "The Wisconsin Academy of Nutrition and Dietetics is an organization of #WI nutrition professionals that are dedicating to improving the health of Wisconsinites. Thanks for coming to my office in #FDL! #WI06 https://t.co/rZE5FjirSd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fdl",
+                    "wi",
+                    "wi06"
+                ],
+                "timestamp": 1692032302,
+                "view_count": 1834
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GKQHkMoXwAAkEiG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GKQHkMoXwAAkEiG.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1775552479997907057",
+                "created_time": "2024-04-03T15:54:34",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1775552479997907057",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I had a meeting on Monday with the School Nutrition Association of Wisconsin to discuss the group's key priorities and strategies for providing healthier school meals. https://t.co/yVgUYc41tb",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1712159674,
+                "view_count": 1334
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GypxavtWgAAeKlb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GypxavtWgAAeKlb.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1957501991871004867",
+                "created_time": "2025-08-18T17:56:58",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1957501991871004867",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Had a fantastic time at the @mtChamberOrg Cookout in Thiensville Village Park! Great food, great conversations, and a chance to connect with so many friendly faces and local businesses like Health In Balance Physical Therapy, Fitness, and Wellness and @aireservofns It is always a pleasure to celebrate our #WI06 community together!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "mtChamberOrg",
+                    "aireservofns"
+                ],
+                "text_tagged_users_ids": [
+                    "277229362",
+                    "1897767397698027521"
+                ],
+                "text_tags": null,
+                "timestamp": 1755539818,
+                "view_count": 397
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

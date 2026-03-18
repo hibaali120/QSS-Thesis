@@ -1,0 +1,101 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1747663900286267392/img/7LfLAgSY58SPliej.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1747663900286267392/vid/avc1/888x496/9IBsMJt8NAvBMYZu.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 62,
+                        "id": "1747663900286267392",
+                        "url": "https://video.twimg.com/amplify_video/1747663900286267392/vid/avc1/888x496/9IBsMJt8NAvBMYZu.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1611138873496637440",
+                "author_username": "RepMillsPress",
+                "community_notes": null,
+                "conversation_id": "1747663974160621991",
+                "created_time": "2024-01-17T16:55:36",
+                "favorite_count": 218,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1747663974160621991",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 21,
+                "retweet_count": 77,
+                "source": "Twitter for iPhone",
+                "text": "The only reason the Houthis are not on the global terrorism list is because Joe Biden removed them after Pres. Trump designated them as terrorists. \n\nWith these attacks in the Red Sea, we're continuing to treat the symptoms  without recognizing the disease, which is the increase of  oil export out of Iran, loosening of sanctions, and not addressing China's relationship to support funding Iran\u2019s malign activities.\n\nWe need to emphasize that this isn't an isolated incident but part of a broader coordinated effort by our adversaries and their geopolitical alignment to harm the West economically. \n\nWeakness invites aggression, but so does Biden\u2019s failed foreign policies.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1705510536,
+                "view_count": 7338
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1611138873496637440",
+                "author_username": "RepMillsPress",
+                "community_notes": null,
+                "conversation_id": "2003540963990310928",
+                "created_time": "2025-12-23T18:59:24",
+                "favorite_count": 25,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003540963990310928",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "2003483746540965891",
+                "quoted_status_profile_id": "1480852568",
+                "quoted_status_profile_username": "BenSasse",
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "My prayers are with Senator Ben Sasse, his wife Melissa, and their children as their family faces a devastating medical reality. He is meeting it with courage, faith, and grace.\n\nIn his recent statement, Senator Sasse acknowledged the gravity of his diagnosis while pointing us to the deeper hope of Advent, not \nassurance of Christ as our Deliverer. \n\nAs Paul says in Romans 8, \u201cFor I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.\u201d\n\nIn times of adversity, my hope is that we can take challenges head on with the same strength as Senator Ben Sasse.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766516364,
+                "view_count": 1793
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

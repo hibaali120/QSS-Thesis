@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1578455747263766528",
+                "author_username": "RepHageman",
+                "community_notes": null,
+                "conversation_id": "1935333557527871810",
+                "created_time": "2025-06-18T13:47:31",
+                "favorite_count": 492,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1935333557527871810",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 4,
+                "quoted_status_id": "1934584950348755103",
+                "quoted_status_profile_id": "106430958",
+                "quoted_status_profile_username": "Aaron_Glantz",
+                "reply_count": 22,
+                "retweet_count": 184,
+                "source": "Twitter for iPhone",
+                "text": "The claims regarding new VA guidelines denying treatment to unmarried veterans are nothing but fake news. \n\nThis narrative is not only false but also harmful. All eligible veterans will continue to receive the care and services they have rightfully earned.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750254451,
+                "view_count": 8015
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

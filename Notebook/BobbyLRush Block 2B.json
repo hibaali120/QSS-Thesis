@@ -1,0 +1,148 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://apnews.com/article/joe-biden-business-lifestyle-health-congress-97780383edbcd9848b601fb38137a631"
+                ],
+                "attached_links_url": [
+                    "https://t.co/KHdCWmM9cX"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305216911",
+                "author_username": "BobbyLRush",
+                "community_notes": null,
+                "conversation_id": "1482024751954636803",
+                "created_time": "2022-01-14T16:20:10",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1482024751954636803",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8The deadline to sign up for #healthcare coverage is TOMORROW. Don't miss this chance to get quality health insurance for 2022 \u2014 coverage that is cheaper than ever thanks to the #AmericanRescuePlan.\nhttps://t.co/KHdCWmM9cX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "americanrescueplan",
+                    "healthcare"
+                ],
+                "timestamp": 1642177210,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FMJeRpWX0A4I2G-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FMJeRpWX0A4I2G-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305216911",
+                "author_username": "BobbyLRush",
+                "community_notes": null,
+                "conversation_id": "1495861687886528512",
+                "created_time": "2022-02-21T20:43:12",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1495861687886528512",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Barack Obama became the first Black president of the United States after the 2008 election, which saw record turnout among African Americans & Hispanics. As president, he signed the Affordable Care Act into law, providing health care coverage to millions of Americans. #IL01BHM https://t.co/XzqWlfi2D0",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "il01bhm"
+                ],
+                "timestamp": 1645476192,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FSGgZWwWQAILT9g.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FSGgZWwWQAILT9g.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305216911",
+                "author_username": "BobbyLRush",
+                "community_notes": null,
+                "conversation_id": "1522674608599707650",
+                "created_time": "2022-05-06T20:28:11",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1522674608599707650",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "As today marks the beginning of #NationalNursesWeek, I want to give a heartfelt thanks to nurses in the 1st District & across the country. Their experience, expertise, & compassion makes a major impact on their patients & helps keep our communities strong. https://t.co/khUAhP10rT",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationalnursesweek"
+                ],
+                "timestamp": 1651868891,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

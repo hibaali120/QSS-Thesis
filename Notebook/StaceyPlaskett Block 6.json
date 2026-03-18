@@ -1,0 +1,53 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2724095695",
+                "author_username": "StaceyPlaskett",
+                "community_notes": null,
+                "conversation_id": "1540384082902802432",
+                "created_time": "2022-06-24T17:19:18",
+                "favorite_count": 205,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1540384082902802432",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 28,
+                "source": "Twitter for iPhone",
+                "text": "This is the runway for removal of so many rights. Don\u2019t sleep and don\u2019t grow weary. House Democrats voted to make abortion the law of the land. WE NEED MORE Democratic Senators. #Sendussoldiersforourdemocracy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "sendussoldiersforourdemocracy"
+                ],
+                "timestamp": 1656091158,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,289 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1553094782976663552",
+                "created_time": "2022-07-29T19:07:06",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1553094784587370499",
+                "in_reply_to_post_id": "1553094782976663552",
+                "in_reply_to_profile_id": "1364332024929148932",
+                "in_reply_to_profile_username": "SecVilsack",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Expanding access to healthcare via telehealth.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1659121626,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Ff6y6cQWYAE90ow.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Ff6y6cQWYAE90ow.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1584900874719137798",
+                "created_time": "2022-10-25T13:33:09",
+                "favorite_count": 91,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1584900874719137798",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 28,
+                "source": "Twitter Web App",
+                "text": "Today @USDA is hosting the National Summit on Nutrition Security and Healthcare as a direct follow-up to last month\u2019s @WhiteHouse Conference on Hunger, Nutrition, and Health. #foodismedicine #nutritionsecurity https://t.co/v5oep0vaeq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA",
+                    "WhiteHouse"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389",
+                    "1879644163769335808"
+                ],
+                "text_tags": [
+                    "foodismedicine",
+                    "nutritionsecurity"
+                ],
+                "timestamp": 1666704789,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FgALc1qXoAEf7zw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FgALc1qXoAEf7zw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1585279828353327105",
+                "created_time": "2022-10-26T14:38:58",
+                "favorite_count": 133,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1585279828353327105",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 19,
+                "source": "Twitter Web App",
+                "text": "Yesterday, @USDA hosted the national Nutrition Security and Healthcare Summit. It was a great event, and I was energized to see the momentum from the @WhiteHouse Conference on Hunger, Nutrition, and Health continues. https://t.co/YsPhvH37IQ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA",
+                    "WhiteHouse"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389",
+                    "1879644163769335808"
+                ],
+                "text_tags": null,
+                "timestamp": 1666795138,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1635421518447640576",
+                "created_time": "2023-03-13T23:24:09",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1635421518447640576",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Last week, @POTUS released the President\u2019s Budget for FY24, building on his historic progress for working Americans by:  \n\n\ud83d\udc6a  Lowering costs for families  \n\ud83d\udee1\ufe0f  Protecting and strengthening Medicare & Social Security  \n\ud83c\udfd7\ufe0f  Investing in American manufacturing & innovation",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1678749849,
+                "view_count": 2385
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www2.ed.gov/policy/gen/guid/secletter/231106.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/M0w40LnMTa"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1722646291547590857",
+                "created_time": "2023-11-09T16:04:15",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1722646291547590857",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "I joined @SecCardona in sending a letter to higher ed leaders, including those based in land-grant institutions, with important information to help connect students & their families to affordable health coverage through Medicaid, CHIP & ACA. Learn more:\u00a0https://t.co/M0w40LnMTa",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecCardona"
+                ],
+                "text_tagged_users_ids": [
+                    "1364259892299767810"
+                ],
+                "text_tags": null,
+                "timestamp": 1699545855,
+                "view_count": 3591
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/11/15/a-proclamation-on-national-rural-health-day-2023/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/sUgEJQFGLr"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1364332024929148932",
+                "author_username": "SecVilsack",
+                "community_notes": null,
+                "conversation_id": "1724916575067599299",
+                "created_time": "2023-11-15T22:25:33",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1724916575067599299",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 8,
+                "source": "Twitter Web App",
+                "text": "Access to high-quality healthcare is a basic necessity for every community. Through @USDA's Emergency Rural Health Care Grants program, we're working to ensure that rural communities receive the healthcare they need & deserve, regardless of their zip code.https://t.co/sUgEJQFGLr",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1700087133,
+                "view_count": 1332
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

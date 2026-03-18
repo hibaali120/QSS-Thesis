@@ -1,0 +1,167 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/3DBd1IK"
+                ],
+                "attached_links_url": [
+                    "https://t.co/pXQp6ogHLS"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1511020841491910658/pu/img/9uITTfz3IZr3E4TT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1511020841491910658/pu/vid/1280x720/Q_Q8Y-yUbeiVOYE5.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 76,
+                        "id": "1511020841491910658",
+                        "url": "https://video.twimg.com/ext_tw_video/1511020841491910658/pu/vid/1280x720/Q_Q8Y-yUbeiVOYE5.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2951574214",
+                "author_username": "RepGarretGraves",
+                "community_notes": null,
+                "conversation_id": "1511022188861837315",
+                "created_time": "2022-04-04T16:45:37",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1511022188861837315",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Last Friday, FEMA implemented Risk Rating 2.0.\n\nWe need more transparency on the new flood insurance program and its potential impact. \n\nFull interview with @NewellWWL on the flood insurance price surges: https://t.co/pXQp6ogHLS https://t.co/1xYUmHzsaE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NewellWWL"
+                ],
+                "text_tagged_users_ids": [
+                    "1142243147545743361"
+                ],
+                "text_tags": null,
+                "timestamp": 1649090737,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2951574214",
+                "author_username": "RepGarretGraves",
+                "community_notes": null,
+                "conversation_id": "1557422355575705603",
+                "created_time": "2022-08-10T17:43:20",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1557422360239767563",
+                "in_reply_to_post_id": "1557422357987328001",
+                "in_reply_to_profile_id": "2951574214",
+                "in_reply_to_profile_username": "RepGarretGraves",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "These screenings will be offered at no cost to patients and at locations that are convenient and close to home.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1660153400,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/ShannonHeckt/status/1563572782683676678?s=20&t=WyunNQTw9HqEWTQQJE6y6Q"
+                ],
+                "attached_links_url": [
+                    "https://t.co/zth5AszbLZ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FbQ7FG0X0AEQGsJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1563938348888195080/vid/1280x720/4s67OfeLU3o2e49K.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 274,
+                        "id": "1563938348888195080",
+                        "url": "https://video.twimg.com/amplify_video/1563938348888195080/vid/1280x720/4s67OfeLU3o2e49K.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2951574214",
+                "author_username": "RepGarretGraves",
+                "community_notes": null,
+                "conversation_id": "1563940283640958979",
+                "created_time": "2022-08-28T17:23:14",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1563940283640958979",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1563572782683676678",
+                "quoted_status_profile_id": "809157554643222528",
+                "quoted_status_profile_username": "ShannonHeckt",
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Media Studio",
+                "text": "We will keep bringing attention to communities impacted by Hurricane Ida - especially Grand Isle. \n\nTalked with @ShannonHeckt about Louisiana's hurricane recovery. \nFull coverage: https://t.co/zth5AszbLZ https://t.co/yQMoC3APoc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ShannonHeckt"
+                ],
+                "text_tagged_users_ids": [
+                    "809157554643222528"
+                ],
+                "text_tags": null,
+                "timestamp": 1661707394,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

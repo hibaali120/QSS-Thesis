@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://helenair.com/opinion/column/tim-sheehy-montana-health-care-election-2024/article_168ba245-1b90-5184-b906-ca95ed3ded59.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Daj4Zx3zPC"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1630649273191743488",
+                "author_username": "TimSheehyMT",
+                "community_notes": null,
+                "conversation_id": "1834266324383461539",
+                "created_time": "2024-09-12T16:22:25",
+                "favorite_count": 329,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1834266324383461539",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 30,
+                "retweet_count": 99,
+                "source": "Twitter for iPhone",
+                "text": "As your Senator, I will protect rural hospitals and health care for seniors, veterans, and Montanans with pre-existing conditions.\n\nIt\u2019s time to focus on increasing access, lowering costs, and ensuring Montanans have access to good, reliable health care.\n\nhttps://t.co/Daj4Zx3zPC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1726158145,
+                "view_count": 5404
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.ekalakaeagle.com/story/2024/09/13/opinion/health-care-professionals-condemn-tester-ad/5375.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/RRsLRJf3sf"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1630649273191743488",
+                "author_username": "TimSheehyMT",
+                "community_notes": null,
+                "conversation_id": "1836092429629559209",
+                "created_time": "2024-09-17T17:18:42",
+                "favorite_count": 157,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1836092429629559209",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 32,
+                "retweet_count": 48,
+                "source": "Twitter for iPhone",
+                "text": "Appreciate the support of health care professionals from all across Montana!\u00a0\n\nAs your Senator, I will complete our mission: protect rural hospitals and increase Montanans\u2019 access to affordable, high-quality health care.\n\nhttps://t.co/RRsLRJf3sf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1726593522,
+                "view_count": 3785
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

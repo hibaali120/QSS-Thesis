@@ -1,0 +1,151 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1878848847717208065",
+                "author_username": "Sen_Alsobrooks",
+                "community_notes": null,
+                "conversation_id": "1887637295454400690",
+                "created_time": "2025-02-06T22:59:37",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1887637298247823639",
+                "in_reply_to_post_id": "1887637296968618197",
+                "in_reply_to_profile_id": "1878848847717208065",
+                "in_reply_to_profile_username": "Sen_Alsobrooks",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "\ud83c\uddfa\ud83c\uddf8The first generation college student that loses their Pell Grant and Federal Work Study, and can't afford to stay in school. \n\n\ud83c\uddfa\ud83c\uddf8The veteran whose appointment at the VA gets canceled, delaying his screening and treatment from his battlefield exposure.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1738882777,
+                "view_count": 1359
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1950187176848732160/img/J0RvgGw2mVI4MkUU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1950187176848732160/vid/avc1/1080x1920/Vxzqg531qX8qk0PA.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 22,
+                        "id": "1950187176848732160",
+                        "url": "https://video.twimg.com/amplify_video/1950187176848732160/vid/avc1/1080x1920/Vxzqg531qX8qk0PA.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1878848847717208065",
+                "author_username": "Sen_Alsobrooks",
+                "community_notes": null,
+                "conversation_id": "1950187228220518796",
+                "created_time": "2025-07-29T13:30:42",
+                "favorite_count": 1005,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1950187228220518796",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 21,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 423,
+                "retweet_count": 435,
+                "source": "Twitter Web App",
+                "text": "It was abundantly clear that the people working at the ICE facility in Baltimore have been instructed to hide the inhumane treatment of the people in their custody. https://t.co/ExwSIoVXmm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1753795842,
+                "view_count": 14381
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1996346041638031360/img/GMc1HSrhCvHs0Z_1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1996346041638031360/vid/avc1/1920x1080/MzCYK4FZLTIOvcyt.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 77,
+                        "id": "1996346041638031360",
+                        "url": "https://video.twimg.com/amplify_video/1996346041638031360/vid/avc1/1920x1080/MzCYK4FZLTIOvcyt.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1878848847717208065",
+                "author_username": "Sen_Alsobrooks",
+                "community_notes": null,
+                "conversation_id": "1996346097091178985",
+                "created_time": "2025-12-03T22:29:34",
+                "favorite_count": 966,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996346097091178985",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 13,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 160,
+                "retweet_count": 202,
+                "source": "Twitter Web App",
+                "text": "It feels like we\u2019ve taken a time machine back to when health care in America isn\u2019t just more expensive, but it is completely out of reach for millions of Americans.\n\nI am not willing to go back to a time when a family member\u2019s cancer diagnosis is a sentence for bankruptcy. https://t.co/hE43ytKUrx",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764800974,
+                "view_count": 12929
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

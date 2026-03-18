@@ -1,0 +1,440 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1900268540755619840/pu/img/rPhOB5Q1EupS1HIo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1900268540755619840/pu/vid/avc1/1280x720/QHJB2eU0AKl-5N10.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 174,
+                        "id": "1900268540755619840",
+                        "url": "https://video.twimg.com/ext_tw_video/1900268540755619840/pu/vid/avc1/1280x720/QHJB2eU0AKl-5N10.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1900268694158102574",
+                "created_time": "2025-03-13T19:32:16",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1900268694158102574",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "This week, during the @HouseVetAffairs Health Subcommittee hearing, I advocated for more accessible telehealth care for our veterans. I also discussed with our witnesses the new, promising TBI and PTSD medical treatments for veterans. https://t.co/09t5sEwS2g",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "282093902"
+                ],
+                "text_tags": null,
+                "timestamp": 1741894336,
+                "view_count": 591
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GneusjOWwAAZbbB.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GneusjOWwAAZbbB.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1907187399836180716",
+                "created_time": "2025-04-01T21:44:44",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1907187399836180716",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "A big thank you to the CNMI veterans who joined me for lunch a few weeks ago to share their experiences and discuss the ongoing challenges in accessing healthcare and benefits in the Commonwealth. Your time, honesty, and insight are invaluable as we continue the fight in Congress to ensure you receive the care and support you\u2019ve earned. \n\nWe talked about the vacancy at the CNMI VA Office, issues with the BeneTravel program, and the burden of traveling to Guam for basic services like physical therapy. Veterans also raised concerns about registration barriers, data accuracy, and how we can get accurate data on our veteran population. \n\nI\u2019m committed to continuing our collaboration\u2014supporting veteran registration drives, sharing updates on Guam CBOC outreach to the CNMI, and working on policy and legislative solutions that lead to real, lasting improvements in the services you receive. Thank you for your service\u2014and for helping guide this work.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1743543884,
+                "view_count": 406
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GoSFUp3XYAAC0TN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GoSFUp3XYAAC0TN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1910798824496377980",
+                "created_time": "2025-04-11T20:55:15",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1910798824496377980",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "This week, the Subcommittee on Economic Opportunity convened to vote on legislation that will directly impact our veterans. If signed into law, these bills will increase  accessibility to mental healthcare, educational and vocational counseling, and more. One example is H.R. 1793, or the Veterans Readiness and Employment Transparency Act of 2025. I\u2019m a proud cosponsor and fully support its mission to reduce wait times for disabled veterans seeking career assistance, establish a dedicated hotline for VR&E, and require regional offices to post information about transitional programs. \n\nWhen veterans transition from the military to the civilian world, resources must be readily available to ensure they have everything they need to succeed academically and professionally. Our veterans serve us, and I will always vote in favor of safeguarding their future.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1744404915,
+                "view_count": 198
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://king-hinds.house.gov/media/press-releases/congresswoman-king-hinds-introduces-veterans-travel-act"
+                ],
+                "attached_links_url": [
+                    "https://t.co/IPqwmY12ws"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GrFX7ZrXQAYt9tP.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GrFX7ZrXQAYt9tP.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1923416864643862745",
+                "created_time": "2025-05-16T16:34:50",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1923416864643862745",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "When I speak to veterans back home, they share with me the immense challenges they face when trying to access medical care. Far too often, they are forced to travel thousands of miles for basic care while the federal government fails to provide sufficient support.\n\nThis week, I introduced the TRAVEL Act, which aims to change that.\n\nOnce passed, the TRAVEL Act will empower the Secretary of Veterans Affairs to appoint traveling physicians to aid underserved communities like the Marianas and improve healthcare access for our veterans.\n\nThank you to @HouseVetAffairs Chair @RepBost for supporting this bill and @RepMoylan and @RepAmata for cosponsoring. This is the first step in a long journey to get our heroes the care they so rightfully deserve.\n\nTo learn more about the TRAVEL Act, read my press release here: https://t.co/IPqwmY12ws",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747413290,
+                "view_count": 984
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsDNN6eWYAQaA5L.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsDNN6eWYAQaA5L.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1928073851763888534",
+                "created_time": "2025-05-29T13:00:02",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1928073851763888534",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "A few weeks ago, I met with @NatResources Chair @RepWesterman to provide an update on the CNMI\u2019s economic health. As Chair, he has overall jurisdiction over Insular Affairs, which works directly with communities like ours. Thank you, Chairman Westerman. https://t.co/PPh81tgMf2",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NatResources",
+                    "RepWesterman"
+                ],
+                "text_tagged_users_ids": [
+                    "41445718",
+                    "2852998461"
+                ],
+                "text_tags": null,
+                "timestamp": 1748523602,
+                "view_count": 243
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1kdv1AaYAAJ4Al.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1kdv1DbQAAB5wd.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1kdv1CaoAEtc_V.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1kdv1AaYAAJ4Al.jpg",
+                    "https://pbs.twimg.com/media/G1kdv1DbQAAB5wd.jpg",
+                    "https://pbs.twimg.com/media/G1kdv1CaoAEtc_V.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1970639027482317291",
+                "created_time": "2025-09-23T23:58:51",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970639027482317291",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to the Nutrition Assistance Program for the tour and insightful discussions on the challenges and opportunities within your services.\n\nYour team\u2019s dedication to supporting the well-being of families across the CNMI is truly commendable. I look forward to continuing our collaboration to strengthen food security and community health.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758671931,
+                "view_count": 73
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1983314856469245953/img/FleOTSi2eSnZxEQE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1983314856469245953/vid/avc1/1080x1920/byknMBMsxGeNFWvE.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 159,
+                        "id": "1983314856469245953",
+                        "url": "https://video.twimg.com/amplify_video/1983314856469245953/vid/avc1/1080x1920/byknMBMsxGeNFWvE.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1983315075021844724",
+                "created_time": "2025-10-28T23:28:56",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983315075021844724",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Let\u2019s Talk About It.\nNAP Update\n\nWe understand the community\u2019s concerns and want to assure everyone that we are actively working with our federal and local partners to address current challenges within the Nutrition Assistance Program. Our goal is to ensure that families continue receiving the support they need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761694136,
+                "view_count": 51
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1985841394813136896/img/zNqbZPp1feRhuDpU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1985841394813136896/vid/avc1/1080x1920/3iOEOslV0RB4rSTQ.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 200,
+                        "id": "1985841394813136896",
+                        "url": "https://video.twimg.com/amplify_video/1985841394813136896/vid/avc1/1080x1920/3iOEOslV0RB4rSTQ.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1985841637571117156",
+                "created_time": "2025-11-04T22:48:36",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985841637571117156",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Let\u2019s Talk About It.\nNAP Update Pt. 2\n\nWe hear the concerns of our community and want to reassure everyone that we\u2019re working hand in hand with our federal and local partners to overcome the challenges within the Nutrition Assistance Program. Our commitment is to make sure families continue to get the support they need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762296516,
+                "view_count": 61
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G84z8PkasAAO0bf.jpg?name=small",
+                    "https://pbs.twimg.com/media/G84z8PobYAA0lmR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G84z8PkasAAO0bf.jpg",
+                    "https://pbs.twimg.com/media/G84z8PobYAA0lmR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "2003596002897674412",
+                "created_time": "2025-12-23T22:38:06",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003596002897674412",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Healthcare access matters. \n\nI introduced H.R. 6690 to bring fair Medicaid funding to the CNMI and ensure our families and elders get the care they deserve. \n\nThis bill would raise Medicaid support to over $90 million. https://t.co/juy07reUlq",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766529486,
+                "view_count": 60
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

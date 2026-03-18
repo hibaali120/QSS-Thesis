@@ -1,0 +1,500 @@
+{
+    "politician": "RepLiccardo",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1882451908914458896",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1452673471343837190",
+                    "author_username": "No_Reply_Guy",
+                    "community_notes": null,
+                    "conversation_id": "1882451908914458896",
+                    "created_time": "2025-01-25T17:37:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1883207684637548964",
+                    "in_reply_to_post_id": "1882451908914458896",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLiccardo @CoveredCA I heard cover ca only gives $250,000. That does not cover cleanup.  Who do you actually work for?  You do not represent the voters.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo",
+                        "CoveredCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192",
+                        "915514734"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1737826674,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1886468710958776412",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1875008939714056192",
+                    "author_username": "RepLiccardo",
+                    "community_notes": null,
+                    "conversation_id": "1886468710958776412",
+                    "created_time": "2025-02-03T17:36:04",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1886468713119191105",
+                    "in_reply_to_post_id": "1886468710958776412",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "These \"Executive Disorders\" literally defund police departments that would otherwise put more officers on the street and strip resources from fire departments and public hospitals like Valley Med, all because of an obsession with social policy.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1738604164,
+                    "view_count": 173
+                }
+            ]
+        },
+        {
+            "conversation_id": "1936058364301095040",
+            "replies": []
+        },
+        {
+            "conversation_id": "1959647119213555748",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2263579963",
+                    "author_username": "derbyfig",
+                    "community_notes": null,
+                    "conversation_id": "1959647119213555748",
+                    "created_time": "2025-08-27T01:51:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1960520635475747209",
+                    "in_reply_to_post_id": "1959647119213555748",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepLiccardo Wtf? It's expensive b/c you're giving it away for free to illegals & lazy citizens! Car insur is expensive b/c many illegals can't drive/crash (ask an insur agent to be honest w/you). Housing is unattainable b/c millions of people who shouldn't be here are competing for housing.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756259518,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1970585240142791009",
+            "replies": []
+        },
+        {
+            "conversation_id": "1972684749832360335",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2844066156",
+                    "author_username": "mjdix8",
+                    "community_notes": null,
+                    "conversation_id": "1972684749832360335",
+                    "created_time": "2025-10-01T16:04:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973418782694711552",
+                    "in_reply_to_post_id": "1972684749832360335",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLiccardo Something else I would like explained:\n\nSpending on Medicaid ballooned by a full third in just four years.\nWhy? Why didn't it return to pre-pandemic levels?\n\nTotal annual Medicaid spending ($billion)\n2017: 600\n2018: 616\n2019: 627\n2020: 683\n\n2021: 748\n2022: 824\n2023: 887\n2024: 914",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759334676,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2844066156",
+                    "author_username": "mjdix8",
+                    "community_notes": null,
+                    "conversation_id": "1972684749832360335",
+                    "created_time": "2025-10-01T15:58:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973417254357443053",
+                    "in_reply_to_post_id": "1972684749832360335",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLiccardo I voted for Sam because I thought from his booklet, that he was thoughtful and intelligent.\n\nSo where is the case for continuing the health care credits Congress made bc of the COVID emergency?\n\nBiden signed a bipartisan resolution to end the national emergency over iwo years ago",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759334312,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1729587582013775872",
+                    "author_username": "PourMeUnaMas",
+                    "community_notes": null,
+                    "conversation_id": "1972684749832360335",
+                    "created_time": "2025-10-01T06:46:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973278249305444804",
+                    "in_reply_to_post_id": "1972684749832360335",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLiccardo If you really wanted to save ACA, you would fight to block funding to Israel.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759301171,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "250202064",
+                    "author_username": "PlantladyMegs",
+                    "community_notes": null,
+                    "conversation_id": "1972684749832360335",
+                    "created_time": "2025-09-29T15:42:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1972688542343037005",
+                    "in_reply_to_post_id": "1972684749832360335",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLiccardo Where is it in the legislation?  Where does it cut ACA directly?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759160573,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974142635762655323",
+            "replies": []
+        },
+        {
+            "conversation_id": "1980702913061126237",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "430274783",
+                    "author_username": "lbuuck",
+                    "community_notes": null,
+                    "conversation_id": "1980702913061126237",
+                    "created_time": "2025-10-21T18:35:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980704396880363845",
+                    "in_reply_to_post_id": "1980702913061126237",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLiccardo @RepZoeLofgren @RepJimmyPanetta Some REALLY SCARY times!! Do not bow down to this incompetent regime!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo",
+                        "RepZoeLofgren",
+                        "RepJimmyPanetta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192",
+                        "267938462",
+                        "796736612554117120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761071702,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1987916714655228177",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1478572315847892994",
+                    "author_username": "LindaRenner11",
+                    "community_notes": null,
+                    "conversation_id": "1987916714655228177",
+                    "created_time": "2025-11-11T23:46:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988393044924920214",
+                    "in_reply_to_post_id": "1987916714655228177",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLiccardo Issue is this needs to move fast. Approval needs to work through system no later than Nov 30, so system can get updated and people can get enrolled in healthcare by December 15th.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762904819,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "885691500",
+                    "author_username": "get_to_the_pnt",
+                    "community_notes": null,
+                    "conversation_id": "1987916714655228177",
+                    "created_time": "2025-11-11T00:44:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988045164913541573",
+                    "in_reply_to_post_id": "1987916714655228177",
+                    "in_reply_to_profile_id": "1875008939714056192",
+                    "in_reply_to_profile_username": "RepLiccardo",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepLiccardo You voted to allow boys in girls sports.  Explain that first before you think you can solve anything.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLiccardo"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875008939714056192"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762821878,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1989049390024290352",
+            "replies": []
+        },
+        {
+            "conversation_id": "1993043582853497010",
+            "replies": []
+        },
+        {
+            "conversation_id": "1993492401651171685",
+            "replies": []
+        },
+        {
+            "conversation_id": "1995598781929107652",
+            "replies": []
+        },
+        {
+            "conversation_id": "1999581259102613740",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "politician": "RepScottPeters",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1484250628226433027",
+            "replies": []
+        },
+        {
+            "conversation_id": "1590034186735603712",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1190632606351556608",
+                    "author_username": "JohnMcferon",
+                    "community_notes": null,
+                    "conversation_id": "1590034186735603712",
+                    "created_time": "2022-11-08T18:00:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1590041470287106048",
+                    "in_reply_to_post_id": "1590034186735603712",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepScottPeters Curious to see your comments after the next few weeks when California doesn\u2019t have election results for tight congressional districts",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667930402,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.sdvote.com/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/vuElWjXgTt"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1135486501",
+                    "author_username": "RepScottPeters",
+                    "community_notes": null,
+                    "conversation_id": "1590034186735603712",
+                    "created_time": "2022-11-08T17:31:06",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1590034189021499393",
+                    "in_reply_to_post_id": "1590034186735603712",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Here in California, millions have already voted via mail-in ballots thanks to our effective and transparent system. For more election information, visit @SDVOTE's website here: https://t.co/vuElWjXgTt.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SDVOTE"
+                    ],
+                    "text_tagged_users_ids": [
+                        "40075093"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667928666,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1775995142643875957",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1135486501",
+                    "author_username": "RepScottPeters",
+                    "community_notes": null,
+                    "conversation_id": "1775995142643875957",
+                    "created_time": "2024-04-04T21:14:09",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1775995296927056369",
+                    "in_reply_to_post_id": "1775995142643875957",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "In January, when I participated in the @RTFHSD homeless count, I saw people in desperate need of a safe place to sleep and the help of case managers who could connect them to services. I'm certain this new shelter will transform many lives.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RTFHSD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "97509241"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712265249,
+                    "view_count": 567
+                }
+            ]
+        },
+        {
+            "conversation_id": "1793373641817956705",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.10news.com/news/local-news/annual-count-shows-large-rise-in-north-county-homeless-population"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/3iV1il83Vy"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "827697609795989505",
+                    "author_username": "KenPlatt45",
+                    "community_notes": null,
+                    "conversation_id": "1793373641817956705",
+                    "created_time": "2024-05-24T05:00:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793869766668746765",
+                    "in_reply_to_post_id": "1793373641817956705",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepScottPeters Annual count shows large rise in North County homeless population https://t.co/3iV1il83Vy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716526855,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "916739715151273984",
+                    "author_username": "WatchCoast",
+                    "community_notes": null,
+                    "conversation_id": "1793373641817956705",
+                    "created_time": "2024-05-23T18:42:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793714059449348452",
+                    "in_reply_to_post_id": "1793373641817956705",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepScottPeters Take a look at the expensive measures CA causes for building and cut out the government graft....this will lower the housing costs.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716489732,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "565115563",
+                    "author_username": "DennisOKLA",
+                    "community_notes": null,
+                    "conversation_id": "1793373641817956705",
+                    "created_time": "2024-05-23T03:22:12",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793482534069891171",
+                    "in_reply_to_post_id": "1793373641817956705",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepScottPeters It was so STUPID on Newsom & Peters to grant FREE HEALTHCARE to 900,000 Illegals. That just enhances the housing shortage problem.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716434532,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15308621",
+                    "author_username": "gregsandiego",
+                    "community_notes": null,
+                    "conversation_id": "1793373641817956705",
+                    "created_time": "2024-05-23T01:52:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793459839563338011",
+                    "in_reply_to_post_id": "1793373641817956705",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepScottPeters At what point does a price drop take someone off the street? I've never followed this argument.  Don't most of the homeless have zero or very small income?\n\nFree/subsidized housing might work.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716429121,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "160717385",
+                    "author_username": "bvagency",
+                    "community_notes": null,
+                    "conversation_id": "1793373641817956705",
+                    "created_time": "2024-05-22T20:23:50",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793377249162588324",
+                    "in_reply_to_post_id": "1793373641817956705",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepScottPeters Can you address the elephant in the room, or in San Diego? All the illegals immigrants crossing our border!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716409430,
+                    "view_count": 25
+                }
+            ]
+        },
+        {
+            "conversation_id": "1836096130653839624",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GX-ko6uaUAA9BY0.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GX-ko6uaUAA9BY0.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1965818053",
+                    "author_username": "Liz_Myrie",
+                    "community_notes": null,
+                    "conversation_id": "1836096130653839624",
+                    "created_time": "2024-09-21T05:48:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1837368200084017586",
+                    "in_reply_to_post_id": "1836096130653839624",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepScottPeters @SenatorBennet @SenToddYoung @RepScottPeters what about illegal immigrants who commit 5ex crimes? Can we prevent them from harming Americans in CA? https://t.co/NtjNkYZwOD",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters",
+                        "SenatorBennet",
+                        "SenToddYoung"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501",
+                        "224285242",
+                        "234128524"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1726897690,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1909281258745872653",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1909281258745872653",
+                    "created_time": "2025-04-08T08:51:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1909529626805674243",
+                    "in_reply_to_post_id": "1909281258745872653",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepScottPeters @RepScottPeters, as a Ukrainian seeking NATO membership, I'd like to know if these accounts can help me cover war-related expenses & aid Ukraine's recovery?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744102315,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1909281258745872653",
+                    "created_time": "2025-04-08T00:27:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1909402730830913711",
+                    "in_reply_to_post_id": "1909281258745872653",
+                    "in_reply_to_profile_id": "1135486501",
+                    "in_reply_to_profile_username": "RepScottPeters",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepScottPeters @RepScottPeters, as Ukraine fights for freedom, I'd like to join NATO to safeguard my nation's independence & inclusivity for all citizens, including those with disabilities. Let's strengthen international partnerships for a brighter future!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepScottPeters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1135486501"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744072060,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1915572962880835739",
+            "replies": []
+        }
+    ]
+}

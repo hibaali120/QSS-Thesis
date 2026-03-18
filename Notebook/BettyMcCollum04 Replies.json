@@ -1,0 +1,566 @@
+{
+    "politician": "BettyMcCollum04",
+    "posts": [
+        {
+            "conversation_id": "1505240718012526593",
+            "replies": []
+        },
+        {
+            "conversation_id": "1516496352561270789",
+            "replies": []
+        },
+        {
+            "conversation_id": "1518302755361808386",
+            "replies": []
+        },
+        {
+            "conversation_id": "1519407490290573314",
+            "replies": []
+        },
+        {
+            "conversation_id": "1527315078131097600",
+            "replies": []
+        },
+        {
+            "conversation_id": "1528094274386022400",
+            "replies": []
+        },
+        {
+            "conversation_id": "1536069072227549185",
+            "replies": []
+        },
+        {
+            "conversation_id": "1537858614127476736",
+            "replies": []
+        },
+        {
+            "conversation_id": "1543367664386686976",
+            "replies": []
+        },
+        {
+            "conversation_id": "1550856007235948546",
+            "replies": []
+        },
+        {
+            "conversation_id": "1555665013066665985",
+            "replies": []
+        },
+        {
+            "conversation_id": "1556644786131566592",
+            "replies": []
+        },
+        {
+            "conversation_id": "1557020641295060998",
+            "replies": []
+        },
+        {
+            "conversation_id": "1563316864717099009",
+            "replies": []
+        },
+        {
+            "conversation_id": "1563907003486912514",
+            "replies": []
+        },
+        {
+            "conversation_id": "1565457866844213254",
+            "replies": []
+        },
+        {
+            "conversation_id": "1566215464434278402",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "42242071",
+                    "author_username": "XedgerX",
+                    "community_notes": null,
+                    "conversation_id": "1566215464434278402",
+                    "created_time": "2022-09-04T01:49:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1566241896695037953",
+                    "in_reply_to_post_id": "1566215464434278402",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@BettyMcCollum04 Batty McDumdum will trash anything her puppet master tells her.  Even those saving lives.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662256142,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1567294072313843712",
+            "replies": []
+        },
+        {
+            "conversation_id": "1568331910106910720",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2765502038",
+                    "author_username": "DeltaSierra1008",
+                    "community_notes": null,
+                    "conversation_id": "1568331910106910720",
+                    "created_time": "2022-09-10T03:11:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568437004341317632",
+                    "in_reply_to_post_id": "1568331910106910720",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@BettyMcCollum04 All of these tech nerds talking about the CHIPS Act have completely lost the plot if they don't think about immigration.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662779496,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2765502038",
+                    "author_username": "DeltaSierra1008",
+                    "community_notes": null,
+                    "conversation_id": "1568331910106910720",
+                    "created_time": "2022-09-10T03:11:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568436875395743745",
+                    "in_reply_to_post_id": "1568331910106910720",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@BettyMcCollum04 We don't have enough workers. The money for the CHIPS Act will go to waste. Immigration provisions needed to be included.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662779465,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2169112914",
+                    "author_username": "Robt_VC",
+                    "community_notes": null,
+                    "conversation_id": "1568331910106910720",
+                    "created_time": "2022-09-09T20:23:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568334280295649281",
+                    "in_reply_to_post_id": "1568331910106910720",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@BettyMcCollum04 Betty??  Betty Fkn McCollum??\nElection Day must be getting close.  Have to show the \"Victims\" of CD4 you're still alive!!!\nAs far a Failed Joe Biden and this give away, when is he going to actually do something for the Tax Paying Citizens of the United States of America? \n#FJB",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": [
+                        "fjb"
+                    ],
+                    "timestamp": 1662755005,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1434481878766063619",
+                    "author_username": "JbradfordIII",
+                    "community_notes": null,
+                    "conversation_id": "1568331910106910720",
+                    "created_time": "2022-09-09T20:22:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568334144144572421",
+                    "in_reply_to_post_id": "1568331910106910720",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@BettyMcCollum04 \u2764\ufe0f\u2764\ufe0f",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662754972,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1570141275860643840",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "633905576",
+                    "author_username": "EliasonRich",
+                    "community_notes": null,
+                    "conversation_id": "1570141275860643840",
+                    "created_time": "2022-09-15T01:20:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1570221035416612865",
+                    "in_reply_to_post_id": "1570141275860643840",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@BettyMcCollum04 How many more millions of our tax dollars is this going to cost?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663204842,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1571915272121769984",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "633905576",
+                    "author_username": "EliasonRich",
+                    "community_notes": null,
+                    "conversation_id": "1571915272121769984",
+                    "created_time": "2022-09-19T18:23:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1571928037763198976",
+                    "in_reply_to_post_id": "1571915272121769984",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@BettyMcCollum04 Liberalism is a mental health problem.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663611823,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1575118881475141634",
+            "replies": []
+        },
+        {
+            "conversation_id": "1575165121311014925",
+            "replies": []
+        },
+        {
+            "conversation_id": "1578835873285677062",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FeknPkBXkAEzLLa.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FeknPkBXkAEzLLa.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1302446196577968128",
+                    "author_username": "BurtDoggYo",
+                    "community_notes": null,
+                    "conversation_id": "1578835873285677062",
+                    "created_time": "2022-10-08T19:55:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1578836398291181569",
+                    "in_reply_to_post_id": "1578835873285677062",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@BettyMcCollum04 @All435Reps @MNsure Stop lying. You are going to \"pick-pocket\" Americas poorest! https://t.co/YKbC1rpCQ1",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "BettyMcCollum04",
+                        "All435Reps",
+                        "MNsure"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804",
+                        "1124447266205503488",
+                        "1130039840"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665258905,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1587902241234632710",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://img.datawrapper.de/yGPxG/full.png"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/VCiiWKn5VW"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "584042802",
+                    "author_username": "MNCD4Conserv",
+                    "community_notes": null,
+                    "conversation_id": "1587902241234632710",
+                    "created_time": "2022-11-04T16:49:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588574185076686849",
+                    "in_reply_to_post_id": "1587902241234632710",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@BettyMcCollum04 Hmm https://t.co/VCiiWKn5VW",
+                    "text_lang": null,
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667580574,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/FgldVFbX0AIeONe.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/FgldVFbX0AIeONe.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1567261145626546177",
+                    "author_username": "WraysPervrmnceR",
+                    "community_notes": null,
+                    "conversation_id": "1587902241234632710",
+                    "created_time": "2022-11-02T20:22:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587902969068097537",
+                    "in_reply_to_post_id": "1587902241234632710",
+                    "in_reply_to_profile_id": "516880804",
+                    "in_reply_to_profile_username": "BettyMcCollum04",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@BettyMcCollum04 #GainOfFunction #MedicalTyranny #Gremlins2 #Fauci #Origin #Negligence https://t.co/90SmRycxf7",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "BettyMcCollum04"
+                    ],
+                    "text_tagged_users_ids": [
+                        "516880804"
+                    ],
+                    "text_tags": [
+                        "fauci",
+                        "gainoffunction",
+                        "gremlins2",
+                        "medicaltyranny",
+                        "negligence",
+                        "origin"
+                    ],
+                    "timestamp": 1667420544,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

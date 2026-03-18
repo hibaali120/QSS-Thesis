@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861318683475251201",
+                "author_username": "RepHaridopolos",
+                "community_notes": null,
+                "conversation_id": "1990869217869246671",
+                "created_time": "2025-11-18T19:46:24",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1990869217869246671",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, I voted in favor of releasing the Epstein files because the American people deserve full transparency and accountability. No exceptions, no special treatment. For too long, a cloud of secrecy has lingered over this topic, raising serious questions about who knew what and when. I also commend the House Oversight Committee for doing the work congressional Democrats should have done years ago to investigate the scumbag Epstein and his scumbag friends.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763495184,
+                "view_count": 413
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

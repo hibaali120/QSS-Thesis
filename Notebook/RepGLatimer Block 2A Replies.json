@@ -1,0 +1,849 @@
+{
+    "politician": "RepGLatimer",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1968376684685758824",
+            "replies": []
+        },
+        {
+            "conversation_id": "1969085230754509013",
+            "replies": []
+        },
+        {
+            "conversation_id": "1969193539872702927",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "260847814",
+                    "author_username": "mediaadmom",
+                    "community_notes": null,
+                    "conversation_id": "1969193539872702927",
+                    "created_time": "2025-09-20T03:09:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1969237479455600739",
+                    "in_reply_to_post_id": "1969193539872702927",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Please explain to your constituents why you couldn\u2019t bring yourself to vote\n\u201cYes\u201d on the resolution honoring Charlie Kirk.  Shameful.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758337776,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1969481939641123069",
+            "replies": []
+        },
+        {
+            "conversation_id": "1969801797318349274",
+            "replies": []
+        },
+        {
+            "conversation_id": "1970218309556584474",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1719698940235329536",
+                    "author_username": "86_kaitlyn",
+                    "community_notes": null,
+                    "conversation_id": "1970218309556584474",
+                    "created_time": "2025-09-23T01:05:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1970293471027311052",
+                    "in_reply_to_post_id": "1970218309556584474",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer This is a critical issue. Many families are already stretched thin by rising costs in other areas, and losing these tax credits would make healthcare unaffordable for thousands. @RepGLatimer",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758589544,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1971262580900422101",
+            "replies": []
+        },
+        {
+            "conversation_id": "1971652383601295585",
+            "replies": []
+        },
+        {
+            "conversation_id": "1972016137962684834",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G169oIRWUAAc2AP.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G169oIRWUAAc2AP.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1962914547720744960",
+                    "author_username": "Thejuicejuicer",
+                    "community_notes": null,
+                    "conversation_id": "1972016137962684834",
+                    "created_time": "2025-09-28T08:49:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1972222188641247678",
+                    "in_reply_to_post_id": "1972016137962684834",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer https://t.co/nTPbD9i3uA",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759049386,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1972751742438912252",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973106257234997478",
+            "replies": []
+        },
+        {
+            "conversation_id": "1974200028525965496",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1623107515381587968",
+                    "author_username": "noticemyname1",
+                    "community_notes": null,
+                    "conversation_id": "1974200028525965496",
+                    "created_time": "2025-10-05T14:23:05",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974842786513035505",
+                    "in_reply_to_post_id": "1974200028525965496",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer You could  probably pay it yourself with the 15 million you\u2019ve received from Israel.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759674185,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1275602888908251136",
+                    "author_username": "DonogLo10",
+                    "community_notes": null,
+                    "conversation_id": "1974200028525965496",
+                    "created_time": "2025-10-03T20:04:00",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974203805110841609",
+                    "in_reply_to_post_id": "1974200028525965496",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Shows the failure of the ACA it never brought down prices at all we still have to have subsidies. We need better healthcare reform.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759521840,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1975671634855141614",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978560811049037898",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G3VmrplXEAA4g3V.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G3VmrplXEAA4g3V.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1568002450010902532",
+                    "author_username": "ThomasHBROOLYN",
+                    "community_notes": null,
+                    "conversation_id": "1978560811049037898",
+                    "created_time": "2025-10-15T23:15:00",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978600523361107973",
+                    "in_reply_to_post_id": "1978560811049037898",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer @HouseDemocrats Are you kidding me with this?? Just saw it. Did you sell your entire soul to AIPAC and the Zionists?? https://t.co/nSSpeVoNcC",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760570100,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1978560811049037898",
+                    "created_time": "2025-10-15T21:37:36",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978576014704783426",
+                    "in_reply_to_post_id": "1978560811049037898",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer @HouseDemocrats Do you know the difference between health insurance and healthcare? Make healthcare free, the they do in Israel.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760564256,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15416812",
+                    "author_username": "jbreeves",
+                    "community_notes": null,
+                    "conversation_id": "1978560811049037898",
+                    "created_time": "2025-10-15T20:43:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978562314195656891",
+                    "in_reply_to_post_id": "1978560811049037898",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "TweetDeck Web App",
+                    "text": "\ud835\udff0\ud835\udff0 \ud835\uddd7\ud835\uddf2\ud835\uddfa\ud835\uddfc\ud835\uddf0\ud835\uddff\ud835\uddee\ud835\ude01\ud835\ude00 \ud835\uddf5\ud835\uddee\ud835\ude03\ud835\uddf2 \ud835\ude03\ud835\uddfc\ud835\ude01\ud835\uddf2\ud835\uddf1 \ud835\udff4 \ud835\ude01\ud835\uddf6\ud835\uddfa\ud835\uddf2\ud835\ude00 \ud835\ude01\ud835\uddfc \ud835\ude00\ud835\uddf5\ud835\ude02\ud835\ude01 \ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\uddfb \ud835\ude01\ud835\uddf5\ud835\uddf2 \ud835\uddf4\ud835\uddfc\ud835\ude03\ud835\uddf2\ud835\uddff\ud835\uddfb\ud835\uddfa\ud835\uddf2\ud835\uddfb\ud835\ude01. \ud835\udde7\ud835\uddf5\ud835\uddf2\ud835\ude06 \ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddfb \ud835\uddfd\ud835\ude02\ud835\ude01 \ud835\ude01\ud835\uddf5\ud835\uddf2\ud835\uddf6\ud835\uddff \ud835\uddfb\ud835\uddee\ud835\uddfa\ud835\uddf2\ud835\ude00 \ud835\uddfc\ud835\uddfb \ud835\uddf6\ud835\ude01 \ud835\ude00\ud835\uddfc \ud835\ude01\ud835\uddf5\ud835\uddee\ud835\ude01 \ud835\uddf2\ud835\ude03\ud835\uddf2\ud835\uddfb \ud835\uddf2\ud835\ude05\ud835\ude01\ud835\uddff\ud835\uddf2\ud835\uddfa\ud835\uddf2\ud835\uddf9\ud835\ude06 \ud835\uddf9\ud835\uddfc\ud835\ude04 \ud835\udddc\ud835\udde4 \ud835\uddfd\ud835\uddf2\ud835\uddfc\ud835\uddfd\ud835\uddf9\ud835\uddf2 \ud835\ude04\ud835\uddfc\ud835\ude02\ud835\uddf9\ud835\uddf1 \ud835\uddf8\ud835\uddfb\ud835\uddfc\ud835\ude04 \ud835\ude04\ud835\uddf5\ud835\uddfc \ud835\ude00\ud835\uddf5\ud835\ude02\ud835\ude01 \ud835\uddf6\ud835\ude01 \ud835\uddf1\ud835\uddfc\ud835\ude04\ud835\uddfb.\nAngela Alsobrooks (D-MD)\nTammy Baldwin (D-WI)\nMichael Bennet (D-CO)\nRichard Blumenthal (D-CT)\nLisa Blunt Rochester (D-DE)\nCory Booker (D-NJ)\nMaria Cantwell (D-WA)\nChris Coons (D-DE)\nTammy Duckworth (D-IL)\nDick Durbin (D-IL)\nRuben Gallego (D-AZ)\nKirsten Gillibrand (D-NY)\nMaggie Hassan (D-NH)\nMartin Heinrich (D-NM)\nJohn Hickenlooper (D-CO)\nMazie Hirono (D-HI)\nTim Kaine (D-VA)\nMark Kelly (D-AZ)\nAndy Kim (D-NJ)\nAmy Klobuchar (D-MN)\nBen Ray Luj\u00e1n (D-NM)\nEd Markey (D-MA)\nJeff Merkley (D-OR)\nChris Murphy (D-CT)\nPatty Murray (D-WA)\nJon Ossoff (D-GA)\nAlex Padilla (D-CA)\nGary Peters (D-MI)\nJack Reed (D-RI)\nJacky Rosen (D-NV)\nBrian Schatz (D-HI)\nAdam Schiff (D-CA)\nChuck Schumer (D-NY)\nJeanne Shaheen (D-NH)\nElissa Slotkin (D-MI)\nTina Smith (D-MN)\nChris Van Hollen (D-MD)\nMark Warner (D-VA)\nRaphael Warnock (D-GA)\nElizabeth Warren (D-MA)\nPeter Welch (D-VT)\nSheldon Whitehouse (D-RI)\nRon Wyden (D-OR)\nBernie Sanders (I-VT)\nRand Paul (R-KY)",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760560990,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978909173275394533",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1978909173275394533",
+                    "created_time": "2025-10-18T11:42:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979513368806347238",
+                    "in_reply_to_post_id": "1978909173275394533",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer How many billions has the US given to Isntreal? No comment on that? \ud83e\udd14",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760787739,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1981097188886561192",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G4ColnOXsAA16PS.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G4ColnOXsAA16PS.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1526727448230084608",
+                    "author_username": "gmoneyandpey",
+                    "community_notes": null,
+                    "conversation_id": "1981097188886561192",
+                    "created_time": "2025-10-24T17:06:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981769204488716411",
+                    "in_reply_to_post_id": "1981097188886561192",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Curious to know why you congressman @RepGLatimer  have the highest payout from AIPAC\u2026. Nothing says Israel first like 19 MILLION $$. https://t.co/yGGbLc5G3u",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761325572,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1983276548963676420",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1599167188858015746",
+                    "author_username": "dAlto04646689",
+                    "community_notes": null,
+                    "conversation_id": "1983276548963676420",
+                    "created_time": "2025-11-07T20:37:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1986895867983335631",
+                    "in_reply_to_post_id": "1983276548963676420",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "That can be reduced by getting rid of foreigners who Americans are subsidizing through the ACA.  The ACA is also used as an income redististribution scheme, a.k.a., welfare, with millions paying nothing, including migrants/non Americans, transferring money from working Americans to foreigners.\n\nIndividuals at or below 130% of the Federal Poverty Level (FPL) typically pay little to nothing in monthly premiums, often a $0 monthly premium for a benchmark Silver plan or even a Gold-like plan (due to cost-sharing reductions).\n\nHere is a breakdown of the price range after subsidies and tax credits, based on current (2025) guidelines:\nPremium Tax Credits (APTC): The Affordable Care Act (ACA) provides enhanced premium tax credits (subsidies) to make coverage affordable. Under current law (as of November 2025), individuals and families with incomes between 100% and 150% of the FPL are eligible for fully subsidized benchmark plans, meaning their expected contribution is 0% of their income for the benchmark Silver plan.\n\nCost-Sharing Reductions (CSRs): In addition to premium subsidies, people in this income bracket who enroll in a Silver plan also qualify for significant cost-sharing reductions. These subsidies reduce their out-of-pocket costs (deductibles, copayments, and out-of-pocket maximums) to levels similar to Gold or Platinum plans, effectively providing a high-value plan for little or no premium.\n\nAverage Cost: The resulting average net premium paid by these enrollees is usually in the range of $0 to a few dollars per month. For example, a single individual making $22,000 (around 140% FPL) might see their monthly premium rise from $0 to around $66 if the enhanced tax credits expire (which is not the case for the 2025 plan year), illustrating how effective the current subsidies are at eliminating premiums for this income group.\n\nThe exact price can vary slightly based on the specific plan chosen (if they opt for a plan more expensive than the benchmark), age, and location, but the subsidy ensures the cost of the benchmark plan is zero or near-zero.\n\nNon US citizens can participate in the ACA, receiving both subsidies and tax credits (direct cash payments for people who haven't even paid taxes), all at the expense  of Americans. These people must be removed from eligibility. Green card holders, refugees, asylees, and Cuban/Haitian entrants are some examples of foreigners being subsidized out of the pockets of Americans. Get them off and then fund it for Americans only.\n\nThis is bullshit. This is how Democrats fucked Americans to pay for foreigners. Our country is 38 TRILLION in debt and any such programs need to be exclusively for Americans, which will reduce the costs of the ACA.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762547864,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1983276548963676420",
+                    "created_time": "2025-11-01T15:36:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1984645610038087995",
+                    "in_reply_to_post_id": "1983276548963676420",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer And to think this could have been prevented if Democrats had fought for Medicare for All instead of Romneycare, aka Obamacare.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762011361,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "18534209",
+                    "author_username": "HankMiller",
+                    "community_notes": null,
+                    "conversation_id": "1983276548963676420",
+                    "created_time": "2025-10-28T22:06:30",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1983294327741903274",
+                    "in_reply_to_post_id": "1983276548963676420",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepGLatimer Why don't you fight for small businesses like my family's? For decades we took pride in offering our employees solid HI plans. Today,  we struggle with skyrocketing prems (despite $140] deductibles) and higher co-pays. You do nothing for people like us.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761689190,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "18534209",
+                    "author_username": "HankMiller",
+                    "community_notes": null,
+                    "conversation_id": "1983276548963676420",
+                    "created_time": "2025-10-28T22:04:21",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1983293787670753386",
+                    "in_reply_to_post_id": "1983276548963676420",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepGLatimer Tell the truth. Show the enormous deductibles, out of pocket limits, and co-pays on that ACA Silver junk insurance plan. Other than offering some relief from catastrophic health issues, it does nothing else.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761689061,
+                    "view_count": 33
+                }
+            ]
+        },
+        {
+            "conversation_id": "1985089029021298765",
+            "replies": []
+        },
+        {
+            "conversation_id": "1993052536933433419",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1993052536933433419",
+                    "created_time": "2025-11-25T13:43:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1993314645009219712",
+                    "in_reply_to_post_id": "1993052536933433419",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Besides bloviating to an empty House, what are your plans to fight back? More pictures of you on an escalator or of an Amtrak car? Blatherbore.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764078220,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1996389668808511631",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G7XWKTKXIAAtUfu.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G7XWKTKXIAAtUfu.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1148236397352038400",
+                    "author_username": "ediblewasshit",
+                    "community_notes": null,
+                    "conversation_id": "1996389668808511631",
+                    "created_time": "2025-12-05T00:24:49",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1996737489227124830",
+                    "in_reply_to_post_id": "1996389668808511631",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer I don\u2019t know why ur complaining about the American government when ur Israeli https://t.co/kwffo2pjXN",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764894289,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1996389668808511631",
+                    "created_time": "2025-12-04T14:47:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1996592314420953098",
+                    "in_reply_to_post_id": "1996389668808511631",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Blatherbore is at it again. Sharing old-man opinions with no action steps. Go retire so you can spend time with your grandchildren.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764859677,
+                    "view_count": 30
+                }
+            ]
+        }
+    ]
+}

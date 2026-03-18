@@ -1,0 +1,659 @@
+{
+    "politician": "DebbieLesko",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1489633848723918852",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://m.usw.org/blog/2019/183-republicans-vote-against-bill-to-protect-people-with-pre-existing-conditions"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ySqJYgPANI"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "851991324068909056",
+                    "author_username": "ScottS_PHXAZ",
+                    "community_notes": null,
+                    "conversation_id": "1489633848723918852",
+                    "created_time": "2022-02-04T19:47:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1489686986990383105",
+                    "in_reply_to_post_id": "1489633848723918852",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDLesko @UAZCancer And then you voted to deny people with cancer healthcare coverage.  Outrageous!    https://t.co/ySqJYgPANI",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "UAZCancer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "63202045"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644004029,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "960359287955456000",
+                    "author_username": "BordleyStephen",
+                    "community_notes": null,
+                    "conversation_id": "1489633848723918852",
+                    "created_time": "2022-02-04T18:09:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1489662332951097345",
+                    "in_reply_to_post_id": "1489633848723918852",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1489448776959991815",
+                    "quoted_status_profile_id": "1017500185356853248",
+                    "quoted_status_profile_username": "SenBillCassidy",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDLesko @UAZCancer Care to comment or are you just going to continue being a waste of space?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "UAZCancer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "63202045"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643998151,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1494093232732528643",
+            "replies": []
+        },
+        {
+            "conversation_id": "1509671910644273153",
+            "replies": []
+        },
+        {
+            "conversation_id": "1510637497096757250",
+            "replies": []
+        },
+        {
+            "conversation_id": "1515788941164617728",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549766075331624961",
+            "replies": []
+        },
+        {
+            "conversation_id": "1550224366507540481",
+            "replies": []
+        },
+        {
+            "conversation_id": "1575587469042524197",
+            "replies": []
+        },
+        {
+            "conversation_id": "1575892661000876032",
+            "replies": []
+        },
+        {
+            "conversation_id": "1590807759380918273",
+            "replies": []
+        },
+        {
+            "conversation_id": "1590819084664307713",
+            "replies": []
+        },
+        {
+            "conversation_id": "1592578181323685889",
+            "replies": []
+        },
+        {
+            "conversation_id": "1596555520240160771",
+            "replies": []
+        },
+        {
+            "conversation_id": "1629858831378575361",
+            "replies": []
+        },
+        {
+            "conversation_id": "1644346792522252288",
+            "replies": []
+        },
+        {
+            "conversation_id": "1651715347735560195",
+            "replies": []
+        },
+        {
+            "conversation_id": "1659193457787715585",
+            "replies": []
+        },
+        {
+            "conversation_id": "1671971322576904192",
+            "replies": []
+        },
+        {
+            "conversation_id": "1672620600177614849",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1129101396",
+                    "author_username": "TonyGotAwesome",
+                    "community_notes": null,
+                    "conversation_id": "1672620600177614849",
+                    "created_time": "2023-06-24T16:18:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1672640398974668801",
+                    "in_reply_to_post_id": "1672620600177614849",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDLesko @StellasWishFnd If a cancer patient is pregnant, would you still support the Dobbs decision?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "StellasWishFnd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "747394091663560706"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1687623521,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1040759320760049664",
+                    "author_username": "azdquiz",
+                    "community_notes": null,
+                    "conversation_id": "1672620600177614849",
+                    "created_time": "2023-06-24T15:13:58",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1672624111640608768",
+                    "in_reply_to_post_id": "1672620600177614849",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDLesko @StellasWishFnd Traitor",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "StellasWishFnd"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "747394091663560706"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1687619638,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1695103743162024006",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "82009160",
+                    "author_username": "anfuzzi",
+                    "community_notes": null,
+                    "conversation_id": "1695103743162024006",
+                    "created_time": "2023-08-25T19:14:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1695152569000014206",
+                    "in_reply_to_post_id": "1695103743162024006",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDLesko @RepBradWenstrup not simply dental fauci",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692990841,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "875819338707730432",
+                    "author_username": "Bluestocking66",
+                    "community_notes": null,
+                    "conversation_id": "1695103743162024006",
+                    "created_time": "2023-08-25T17:53:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1695132233835700497",
+                    "in_reply_to_post_id": "1695103743162024006",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDLesko @RepBradWenstrup you're kidding, right???!!!   you mean 'the best medical care' that your party will allow",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692985993,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1378901377481547778",
+                    "author_username": "JellyRoll85",
+                    "community_notes": null,
+                    "conversation_id": "1695103743162024006",
+                    "created_time": "2023-08-25T16:13:14",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1695107073766461710",
+                    "in_reply_to_post_id": "1695103743162024006",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDLesko @RepBradWenstrup One good deed doesn't absolve you from signing up with Biggsy and other freedumb caucus members trying to void our votes for one ugly mug shot taker.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692979994,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1732856252697383127",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "770247208956342272",
+                    "author_username": "kittenhawk1",
+                    "community_notes": null,
+                    "conversation_id": "1732856252697383127",
+                    "created_time": "2023-12-07T21:43:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1732878531443478916",
+                    "in_reply_to_post_id": "1732856252697383127",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDLesko @WLGore You mean Universal Healthcare?\n\nYes, that's desperately needed if we're going to keep healthcare costs under control.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "WLGore"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "702570380528062465"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1701985411,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1737188577266503858",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3065334295",
+                    "author_username": "Joan20Francisco",
+                    "community_notes": null,
+                    "conversation_id": "1737188577266503858",
+                    "created_time": "2023-12-21T15:56:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1737864563603677582",
+                    "in_reply_to_post_id": "1737188577266503858",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDLesko @ACSCANAZ Reelection president @POTUS45 2024 @VP45 @SpeakerPelosi @FLOTUS45 @IvankaTrump @RepEspaillat @marcorubio @RepDean @RepDMP @NancyMace @RepAOC @RepMMM @WUVimenca @RepMeuser @CoryBooker @SenCapito @RandPaul @RepDLesko @TiffanyATrump @VSuarezd  @UniNoticias @CNN @FoxNews @Vimenpaq",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "ACSCANAZ",
+                        "POTUS45",
+                        "VP45",
+                        "SpeakerPelosi",
+                        "FLOTUS45",
+                        "IvankaTrump",
+                        "RepEspaillat",
+                        "marcorubio",
+                        "RepDean",
+                        "RepDMP",
+                        "NancyMace",
+                        "RepAOC",
+                        "RepMMM",
+                        "WUVimenca",
+                        "RepMeuser",
+                        "CoryBooker",
+                        "SenCapito",
+                        "RandPaul",
+                        "TiffanyATrump",
+                        "VSuarezd",
+                        "CNN",
+                        "FoxNews",
+                        "Vimenpaq"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "3797348176",
+                        "822215679726100480",
+                        "818910970567344128",
+                        "15764644",
+                        "818876014390603776",
+                        "52544275",
+                        "817076257770835968",
+                        "15745368",
+                        "567508925",
+                        "1080941062028447744",
+                        "914815520842616834",
+                        "1079104563280527364",
+                        "1345807954604412929",
+                        "2479891514",
+                        "1080574793630527505",
+                        "15808765",
+                        "193794406",
+                        "216881337",
+                        "245963716",
+                        "50660313",
+                        "759251",
+                        "1367531",
+                        "201772574"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1703174174,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1753463842028351795",
+            "replies": []
+        },
+        {
+            "conversation_id": "1755264405967949909",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1467961750049878019",
+                    "author_username": "Ted10748148",
+                    "community_notes": null,
+                    "conversation_id": "1755264405967949909",
+                    "created_time": "2024-02-07T18:17:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1755294837748961585",
+                    "in_reply_to_post_id": "1755264405967949909",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDLesko @soleohealth AZ8 has excellent healthcare but honestly, what does Congress have to do with helping this company. Its a free market, right?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "soleohealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "1962646471"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707329875,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GFv0tDyakAA-kEg.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GFv0tDyakAA-kEg.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1708685949629292544",
+                    "author_username": "killererererer",
+                    "community_notes": null,
+                    "conversation_id": "1755264405967949909",
+                    "created_time": "2024-02-07T16:21:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1755265539931517366",
+                    "in_reply_to_post_id": "1755264405967949909",
+                    "in_reply_to_profile_id": "996094929733652481",
+                    "in_reply_to_profile_username": "DebbieLesko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDLesko @soleohealth https://t.co/yTH1ffdBl0",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDLesko",
+                        "soleohealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2584816104",
+                        "1962646471"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707322890,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1770540312567611663",
+            "replies": []
+        }
+    ]
+}

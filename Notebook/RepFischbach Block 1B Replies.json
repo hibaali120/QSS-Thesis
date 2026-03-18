@@ -1,0 +1,151 @@
+{
+    "politician": "RepFischbach",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1732153478452048333",
+            "replies": []
+        },
+        {
+            "conversation_id": "1841843469184106512",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1664089543694327808",
+                    "author_username": "scarbo26097",
+                    "community_notes": null,
+                    "conversation_id": "1841843469184106512",
+                    "created_time": "2024-10-04T23:52:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842352080440132092",
+                    "in_reply_to_post_id": "1841843469184106512",
+                    "in_reply_to_profile_id": "1344375287484723205",
+                    "in_reply_to_profile_username": "RepFischbach",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepFischbach @TrumpWarRoom He is good with murdering new born. Alot of people want to adopt babies. My brother did and they are hard to come by.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFischbach",
+                        "TrumpWarRoom"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1344375287484723205",
+                        "1108472017144201216"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728085939,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.revisor.mn.gov/laws/2023/0/70/#laws.4.113.0"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/3J2reWcqLV"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1344375287484723205",
+                    "author_username": "RepFischbach",
+                    "community_notes": null,
+                    "conversation_id": "1841843469184106512",
+                    "created_time": "2024-10-03T14:11:17",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841843471230865418",
+                    "in_reply_to_post_id": "1841843469184106512",
+                    "in_reply_to_profile_id": "1344375287484723205",
+                    "in_reply_to_profile_username": "RepFischbach",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 4,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "He REPEALED the requirement that reasonable measures be taken to \u201cpreserve the life and health\u201d of infants born alive. Now they are only required to provide \u201ccare,\u201d meaning a newborn could be denied life-saving treatment. https://t.co/3J2reWcqLV",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1727964677,
+                    "view_count": 181
+                }
+            ]
+        },
+        {
+            "conversation_id": "1842338374603940229",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1623566083213893633",
+                    "author_username": "willom202",
+                    "community_notes": null,
+                    "conversation_id": "1842338374603940229",
+                    "created_time": "2024-10-05T18:12:07",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842628853937918406",
+                    "in_reply_to_post_id": "1842338374603940229",
+                    "in_reply_to_profile_id": "1344375287484723205",
+                    "in_reply_to_profile_username": "RepFischbach",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepFischbach And yet Shelly voted against infrastructure funds to ensure technological access in rural areas!!?!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFischbach"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1344375287484723205"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728151927,
+                    "view_count": 6
+                }
+            ]
+        }
+    ]
+}

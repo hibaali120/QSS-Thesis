@@ -1,0 +1,253 @@
+{
+    "politician": "RepEdCase",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1483874515159597060",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/FJgADWMUUAAYRLT.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/FJgADWMUUAAYRLT.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1877356945",
+                    "author_username": "NoTrueJohnson",
+                    "community_notes": null,
+                    "conversation_id": "1483874515159597060",
+                    "created_time": "2022-01-19T22:55:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1483936144135839745",
+                    "in_reply_to_post_id": "1483874515159597060",
+                    "in_reply_to_profile_id": "1081350574589833221",
+                    "in_reply_to_profile_username": "RepEdCase",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepEdCase Wow, way to make it seem like you had ANYTHING to do with this.\n\n\"Congressman Case announces $48 million in federal assistance...\"\n\nBy \"announces\", it's in the sense of being a little court herald, rather than as the person calling the shots. https://t.co/eSlNlSrV9e",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepEdCase"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1081350574589833221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642632921,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2393297959",
+                    "author_username": "explorethelore",
+                    "community_notes": null,
+                    "conversation_id": "1483874515159597060",
+                    "created_time": "2022-01-19T19:23:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1483882769201569792",
+                    "in_reply_to_post_id": "1483874515159597060",
+                    "in_reply_to_profile_id": "1081350574589833221",
+                    "in_reply_to_profile_username": "RepEdCase",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepEdCase That\u2019s good news! Please abandon HR 4980 it makes no logical sense. Breakthrough cases are now the norm. If u really want to ensure safety, require a test.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepEdCase"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1081350574589833221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642620196,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1494030728954187781",
+            "replies": []
+        },
+        {
+            "conversation_id": "1550207574120841218",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1081350574589833221",
+                    "author_username": "RepEdCase",
+                    "community_notes": null,
+                    "conversation_id": "1550207574120841218",
+                    "created_time": "2022-07-21T19:54:22",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1550207576201199616",
+                    "in_reply_to_post_id": "1550207574120841218",
+                    "in_reply_to_profile_id": "1081350574589833221",
+                    "in_reply_to_profile_username": "RepEdCase",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "hosted by our Honolulu Rotary Club, to compare with our military & civilian trauma hospitals and rehab facilities. (2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1658433262,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1715427661194113527",
+            "replies": []
+        },
+        {
+            "conversation_id": "1766526181715644563",
+            "replies": []
+        },
+        {
+            "conversation_id": "1766875747329663429",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GIU0H4gWYAAzvSm.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GIU0H4gWYAAzvSm.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1081350574589833221",
+                    "author_username": "RepEdCase",
+                    "community_notes": null,
+                    "conversation_id": "1766875747329663429",
+                    "created_time": "2024-03-10T17:16:20",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1766875750345355277",
+                    "in_reply_to_post_id": "1766875747329663429",
+                    "in_reply_to_profile_id": "1081350574589833221",
+                    "in_reply_to_profile_username": "RepEdCase",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "(2/2) for toxic exposure and passage of a solid \u201824 funding measure, but much more still to do both nationally and in Hawai\u2019i. https://t.co/AxpQ4ru3Zk",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1710090980,
+                    "view_count": 178
+                }
+            ]
+        },
+        {
+            "conversation_id": "1901732485685542968",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "580065455",
+                    "author_username": "scottgoold",
+                    "community_notes": null,
+                    "conversation_id": "1901732485685542968",
+                    "created_time": "2025-03-17T21:52:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901753507507749115",
+                    "in_reply_to_post_id": "1901732485685542968",
+                    "in_reply_to_profile_id": "1081350574589833221",
+                    "in_reply_to_profile_username": "RepEdCase",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepEdCase Why do you consider their efforts to be ILLEGAL? What law are they breaking?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepEdCase"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1081350574589833221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742248343,
+                    "view_count": 4
+                }
+            ]
+        }
+    ]
+}

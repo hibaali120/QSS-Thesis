@@ -1,0 +1,215 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GLXXc5pWoAAbFla.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GLXXc5pWoAAbFla.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "235312723",
+                "author_username": "DesJarlaisTN04",
+                "community_notes": null,
+                "conversation_id": "1780566123169062972",
+                "created_time": "2024-04-17T11:56:59",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1780566123169062972",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Great to have @tnhospitals in the office yesterday! I appreciate the update on issues impacting hospitals in #TN04 and how we can work together to provide the best care for our district. https://t.co/jZKtGGr3ft",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "tnhospitals"
+                ],
+                "text_tagged_users_ids": [
+                    "3073343214"
+                ],
+                "text_tags": [
+                    "tn04"
+                ],
+                "timestamp": 1713355019,
+                "view_count": 1081
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.newsnationnow.com/us-news/immigration/border-coverage/biden-border-executive-order-4000-crossings-report/?fbclid=IwZXh0bgNhZW0CMTEAAR269U3I9P-gg8dscgaXq7R9evciYARkeA9OZlxtkQ5bpmTFL3BtvBsxfH0_aem_AShyy32nzhdc_6Y52yDRZ3st4_n2O0C7xwZFBzGaBQhWIDfqlK4Wig1oVjDnE1fli3GhkwpN2y7n0rxEKB2FFIZz"
+                ],
+                "attached_links_url": [
+                    "https://t.co/V7CTnZlSrl"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1791204788626919425/WOKINHGX?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "235312723",
+                "author_username": "DesJarlaisTN04",
+                "community_notes": null,
+                "conversation_id": "1791204959511343375",
+                "created_time": "2024-05-16T20:31:55",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1791204959511343375",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The White House now appears to flip flop and say they do have the authority to take action at the border. \n\nThe problem is their solution now appears to be the equivalent of an usher allowing people into the theater while pushing a tally counter clicker.\nhttps://t.co/V7CTnZlSrl",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1715891515,
+                "view_count": 570
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1932774609981505536/img/p0YkhZkXqNMf6NoX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1932774609981505536/vid/avc1/888x490/vr0PveVuS_vy3EuB.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 143,
+                        "id": "1932774609981505536",
+                        "url": "https://video.twimg.com/amplify_video/1932774609981505536/vid/avc1/888x490/vr0PveVuS_vy3EuB.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "235312723",
+                "author_username": "DesJarlaisTN04",
+                "community_notes": null,
+                "conversation_id": "1932774720874643479",
+                "created_time": "2025-06-11T12:19:37",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1932774720874643479",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "The far-Left media coverage of the L.A. riots has been absolutely laughable.\n\nI applaud President Trump\u2019s swift response to the ongoing unrest and hope that these destructive protests end soon. \n\nMy thoughts on the @mattmurphyshow on @997wtn \ud83d\udc47 https://t.co/EvAzGV1Q2q",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "mattmurphyshow",
+                    "997wtn"
+                ],
+                "text_tagged_users_ids": [
+                    "23477691",
+                    "262747745"
+                ],
+                "text_tags": null,
+                "timestamp": 1749644377,
+                "view_count": 380
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzfCzyXWsAAySYA.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzfCzyVWYAEMvuh.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzfCzyfXAAATyDt.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzfCzyeWAAEAwim.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzfCzyXWsAAySYA.jpg",
+                    "https://pbs.twimg.com/media/GzfCzyVWYAEMvuh.jpg",
+                    "https://pbs.twimg.com/media/GzfCzyfXAAATyDt.jpg",
+                    "https://pbs.twimg.com/media/GzfCzyeWAAEAwim.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "235312723",
+                "author_username": "DesJarlaisTN04",
+                "community_notes": null,
+                "conversation_id": "1961250364398641378",
+                "created_time": "2025-08-29T02:11:39",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961250364398641378",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Grateful for the time I got to spend with the residents and staff at @NHC Healthcare Sequatchie! The attentiveness these amazing healthcare providers give to the patients here is second to none. \n\nI am proud to have this award winning facility known for its cleanliness and care right here in #TN04!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NHC"
+                ],
+                "text_tagged_users_ids": [
+                    "124450424"
+                ],
+                "text_tags": null,
+                "timestamp": 1756433499,
+                "view_count": 533
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

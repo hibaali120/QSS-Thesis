@@ -1,0 +1,109 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FWR9ApxXgAMytTa.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FWR9ApxXgAMytTa.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18967498",
+                "author_username": "CongressmanGT",
+                "community_notes": null,
+                "conversation_id": "1541494486974578697",
+                "created_time": "2022-06-27T18:51:39",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1541494486974578697",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 8,
+                "source": "Twitter Web App",
+                "text": "June is #NationalPTSDAwarenessMonth & today is #NationalPTSDAwarenessDay. More than 8 million Americans are living with #PTSD. \n\nThis month is not only an opportunity to raise #PTSD awareness but also an opportunity to raise awareness about the treatment options. #YouAreNotAlone https://t.co/7U2kzPrCGo",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationalptsdawarenessday",
+                    "nationalptsdawarenessmonth",
+                    "ptsd",
+                    "youarenotalone"
+                ],
+                "timestamp": 1656355899,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMcT59YWAAAl7WA.jpg?name=small",
+                    "https://pbs.twimg.com/media/GMcT59ZWcAA4snY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMcT59YWAAAl7WA.jpg",
+                    "https://pbs.twimg.com/media/GMcT59ZWcAA4snY.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18967498",
+                "author_username": "CongressmanGT",
+                "community_notes": null,
+                "conversation_id": "1785417914272624805",
+                "created_time": "2024-04-30T21:16:16",
+                "favorite_count": 709,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1785417914272624805",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 39,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 55,
+                "retweet_count": 65,
+                "source": "Twitter Web App",
+                "text": "Today I rang the bell to celebrate my final cancer treatment @MedStarGUH . Thank you to the doctors and nurses who provided excellent care during the course of my treatment, and to my wife, children, friends, and colleagues for their support and prayers during this battle. https://t.co/0iosP4pXBh",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MedStarGUH"
+                ],
+                "text_tagged_users_ids": [
+                    "343544081"
+                ],
+                "text_tags": null,
+                "timestamp": 1714511776,
+                "view_count": 262233
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

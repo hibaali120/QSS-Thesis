@@ -1,0 +1,65 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gw4Ff_dXIAAjooy.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gw4Ff_mXIAADN02.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gw4FgALWAAA77XQ.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gw4Ff_jXQAAhS66.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gw4Ff_dXIAAjooy.jpg",
+                    "https://pbs.twimg.com/media/Gw4Ff_mXIAADN02.jpg",
+                    "https://pbs.twimg.com/media/Gw4FgALWAAA77XQ.jpg",
+                    "https://pbs.twimg.com/media/Gw4Ff_jXQAAhS66.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875267238309351424",
+                "author_username": "SenMcCormickPA",
+                "community_notes": null,
+                "conversation_id": "1949501742413967727",
+                "created_time": "2025-07-27T16:06:50",
+                "favorite_count": 134,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1949501742413967727",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 41,
+                "retweet_count": 28,
+                "source": "Twitter for iPhone",
+                "text": "Spent Saturday morning with members of the incredible team at @ChildrensPgh. The innovative and lifesaving work they\u2019re doing on behalf of courageous young patients like Jade exemplifies so much of what makes Pennsylvania truly the land of \u201ceds and meds.\u201d https://t.co/gGjCj5DjHv",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ChildrensPgh"
+                ],
+                "text_tagged_users_ids": [
+                    "73444381"
+                ],
+                "text_tags": null,
+                "timestamp": 1753632410,
+                "view_count": 13600
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

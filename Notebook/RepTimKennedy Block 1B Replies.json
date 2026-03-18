@@ -1,0 +1,68 @@
+{
+    "politician": "RepTimKennedy",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1564291361746173953",
+            "replies": []
+        },
+        {
+            "conversation_id": "1770215312467571197",
+            "replies": []
+        },
+        {
+            "conversation_id": "1825548277074587740",
+            "replies": []
+        },
+        {
+            "conversation_id": "1886865860721013068",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2510661150",
+                    "author_username": "CharlesSickler",
+                    "community_notes": null,
+                    "conversation_id": "1886865860721013068",
+                    "created_time": "2025-02-05T03:23:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1886978885138440496",
+                    "in_reply_to_post_id": "1886865860721013068",
+                    "in_reply_to_profile_id": "221176170",
+                    "in_reply_to_profile_username": "RepTimKennedy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTimKennedy @RoswellPark Keep up the good fight against cancer ! \u2764\ufe0f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTimKennedy",
+                        "RoswellPark"
+                    ],
+                    "text_tagged_users_ids": [
+                        "221176170",
+                        "16044589"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738725799,
+                    "view_count": 21
+                }
+            ]
+        }
+    ]
+}

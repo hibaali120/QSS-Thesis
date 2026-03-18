@@ -1,0 +1,222 @@
+{
+    "politician": "JohnMannionNY22",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1509895242371248163",
+            "replies": []
+        },
+        {
+            "conversation_id": "1529779726696472578",
+            "replies": []
+        },
+        {
+            "conversation_id": "1587403071851732993",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.binghamtonhomepage.com/news/new-york-state-news/governor-inks-legislation-requiring-narcan-in-college/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/dRs4uUC2Mv"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2354228635",
+                    "author_username": "BroochOpioidEMS",
+                    "community_notes": null,
+                    "conversation_id": "1587403071851732993",
+                    "created_time": "2022-11-01T13:35:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587438301979385858",
+                    "in_reply_to_post_id": "1587403071851732993",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenJohnMannion @SenatorHinchey @GovKathyHochul inks legislation requiring Narcan in college https://t.co/dRs4uUC2Mv @NYSOASAS\n #NYNARCAN  @AuburnPolice\n@OnondagaHealth @OnondagaSheriff\n@OnondagaCounty @SyracusePolice #NYNARCAN @CEJRyanMcMahon",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SenatorHinchey",
+                        "GovKathyHochul",
+                        "NYSOASAS",
+                        "AuburnPolice",
+                        "OnondagaHealth",
+                        "OnondagaSheriff",
+                        "OnondagaCounty",
+                        "SyracusePolice",
+                        "CEJRyanMcMahon"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1346231563940474882",
+                        "2977083957",
+                        "44428362",
+                        "803772763135758336",
+                        "3513974957",
+                        "3080248918",
+                        "1259698362",
+                        "1087332705774329856",
+                        "1316727212066902017"
+                    ],
+                    "text_tags": [
+                        "nynarcan"
+                    ],
+                    "timestamp": 1667309759,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1638668965403607041",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "786657451412160513",
+                    "author_username": "HorowitzFaigie",
+                    "community_notes": null,
+                    "conversation_id": "1638668965403607041",
+                    "created_time": "2023-03-23T15:01:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638918797171077121",
+                    "in_reply_to_post_id": "1638668965403607041",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenJohnMannion Thank you for your efforts to redress the inequalities for DSPs in the community caregiving spaces. Cuomo  only raised the DSPs in state facilities  & during his tenure parents were encouraged to put children in them as opposed to community placement.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1679583665,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1486901494687444992",
+                    "author_username": "CHHUNY_NYS",
+                    "community_notes": null,
+                    "conversation_id": "1638668965403607041",
+                    "created_time": "2023-03-23T12:24:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638879432621301761",
+                    "in_reply_to_post_id": "1638668965403607041",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenJohnMannion Thank you for your support for an 8.5% COLA for Human Service workers. Unfortunately, Children's Health Home has been left out of this COLA for the last 2 years due to the bifurcation of our program and being under DOH. Please make sure that Children's HH is included in the COLA",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1679574280,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4476704543",
+                    "author_username": "rozorazio",
+                    "community_notes": null,
+                    "conversation_id": "1638668965403607041",
+                    "created_time": "2023-03-23T04:50:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638765168430665729",
+                    "in_reply_to_post_id": "1638668965403607041",
+                    "in_reply_to_profile_id": "1339969133899857921",
+                    "in_reply_to_profile_username": "JohnMannionNY22",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenJohnMannion Senator some agencies are taking the cola and not giving dsps raises. If it's for the dsps why are they taking it citing rising costs. Its literally for dsps",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1679547037,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1679232235554107392",
+            "replies": []
+        },
+        {
+            "conversation_id": "1766835145368039912",
+            "replies": []
+        },
+        {
+            "conversation_id": "1794027479025520871",
+            "replies": []
+        },
+        {
+            "conversation_id": "1869107889065132359",
+            "replies": []
+        }
+    ]
+}

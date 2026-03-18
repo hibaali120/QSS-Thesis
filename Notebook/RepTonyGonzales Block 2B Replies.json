@@ -1,0 +1,808 @@
+{
+    "politician": "RepTonyGonzales",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1565399588768403457",
+            "replies": []
+        },
+        {
+            "conversation_id": "1577373739452350468",
+            "replies": []
+        },
+        {
+            "conversation_id": "1595057512121651201",
+            "replies": []
+        },
+        {
+            "conversation_id": "1600617705920692224",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FjaJ713UoAMf90l.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FjaJ713UoAMf90l.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "759601184848031745",
+                    "author_username": "Desert_yoSemite",
+                    "community_notes": null,
+                    "conversation_id": "1600617705920692224",
+                    "created_time": "2022-12-07T22:28:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1600618382805463040",
+                    "in_reply_to_post_id": "1600617705920692224",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales @umcelpaso Guns are the biggest killer of children than anything else in America. Your party is the killer of children, not healers. https://t.co/CGabZhke9w",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales",
+                        "umcelpaso"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992",
+                        "2967237157"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1670452135,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1611453046961086477",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/DCarmardelle/status/1612525738435170304?t=BW7Vn8Ilu4SXS6gUvqt2vg&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/J0VwLuhFva"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1600396744235393025",
+                    "author_username": "DCarmardelle",
+                    "community_notes": null,
+                    "conversation_id": "1611453046961086477",
+                    "created_time": "2023-01-09T19:14:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1612528198000193536",
+                    "in_reply_to_post_id": "1611453046961086477",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepTonyGonzales https://t.co/J0VwLuhFva",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1673291656,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fl9QnfFakAAlDut.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fl9QnfFakAAlDut.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "974822001553522688",
+                    "author_username": "DavidMo66984563",
+                    "community_notes": null,
+                    "conversation_id": "1611453046961086477",
+                    "created_time": "2023-01-08T14:36:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1612095861668077576",
+                    "in_reply_to_post_id": "1611453046961086477",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepTonyGonzales Raising awareness, but never lifting a finger to help? https://t.co/LhyQtKpojR",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1673188579,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1635768214536744961",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1635768214536744961",
+                    "created_time": "2023-03-15T12:30:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1635981729428119553",
+                    "in_reply_to_post_id": "1635768214536744961",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepTonyGonzales Russia must be humiliated",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1678883414,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4130529533",
+                    "author_username": "loftywishes",
+                    "community_notes": null,
+                    "conversation_id": "1635768214536744961",
+                    "created_time": "2023-03-15T11:46:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1635970787768188930",
+                    "in_reply_to_post_id": "1635768214536744961",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepTonyGonzales Daughters....you left out Daughters",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1678880805,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1705347018330087584",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "492318083",
+                    "author_username": "Quastar9000",
+                    "community_notes": null,
+                    "conversation_id": "1705347018330087584",
+                    "created_time": "2023-09-23T11:32:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1705545659372437628",
+                    "in_reply_to_post_id": "1705347018330087584",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepTonyGonzales Yet you won\u2019t revise immigration laws. Pathetic.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695468747,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "22215802",
+                    "author_username": "jeromecylin",
+                    "community_notes": null,
+                    "conversation_id": "1705347018330087584",
+                    "created_time": "2023-09-22T22:54:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1705354806884221396",
+                    "in_reply_to_post_id": "1705347018330087584",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": null,
+                    "text": "@RepTonyGonzales Hey...\n\nDo Republicans vote against EVERYTHING to combat this issue?\nAnswer: YES.\n\nWhy?\nAnswer: To cause chaos in the US to force people to vote for them.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1695423244,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "49160033",
+                    "author_username": "aquamarine_13",
+                    "community_notes": null,
+                    "conversation_id": "1705347018330087584",
+                    "created_time": "2023-09-22T22:41:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1705351639895581026",
+                    "in_reply_to_post_id": "1705347018330087584",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepTonyGonzales They're illegal aliens. Unvetted foreign nationals. Mass invasion of a country is an act of war.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695422489,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1741185341115990083",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "913574056926072833",
+                    "author_username": "ArtemGrankin5",
+                    "community_notes": null,
+                    "conversation_id": "1741185341115990083",
+                    "created_time": "2024-01-08T06:53:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1744250879924904344",
+                    "in_reply_to_post_id": "1741185341115990083",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales Awesome job Samuel.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1704696791,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "532796385",
+                    "author_username": "paulg5537jy",
+                    "community_notes": null,
+                    "conversation_id": "1741185341115990083",
+                    "created_time": "2023-12-30T21:04:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1741203524157882757",
+                    "in_reply_to_post_id": "1741185341115990083",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales Rino",
+                    "text_lang": "it",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1703970244,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GCn5FMLWMAAsDhi.jpg?name=small",
+                        "https://pbs.twimg.com/media/GCn5FbGWYAEF7Gi.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GCn5FMLWMAAsDhi.jpg",
+                        "https://pbs.twimg.com/media/GCn5FbGWYAEF7Gi.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1519047819948134402",
+                    "author_username": "KelleyT4570",
+                    "community_notes": null,
+                    "conversation_id": "1741185341115990083",
+                    "created_time": "2023-12-30T20:36:35",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1741196605007495430",
+                    "in_reply_to_post_id": "1741185341115990083",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepTonyGonzales BIG  TIME  Representation for #TX23 \nLife just got easier for Texans \n\n#LetsGoBrandon https://t.co/nvdDcMCeM9",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": [
+                        "letsgobrandon",
+                        "tx23"
+                    ],
+                    "timestamp": 1703968595,
+                    "view_count": 57
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=DXnHIJkZZAs&t=32s"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/0P2jrsBJGV"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1554668266911666178",
+                    "author_username": "southdintegrity",
+                    "community_notes": null,
+                    "conversation_id": "1741185341115990083",
+                    "created_time": "2023-12-30T19:58:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1741187093106196976",
+                    "in_reply_to_post_id": "1741185341115990083",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepTonyGonzales Here is the mob that attacked your Capitol after Trump repeatedly lied, attacked his own VP, and said to \"fight like hell\" 16 times.\n\nThose he told to \"stand back and standby\" are convicted seditionists.\n\nOver 1,000 Trump supporters are officially felons.\n\nhttps://t.co/0P2jrsBJGV",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1703966327,
+                    "view_count": 21
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/2dNhjkj6ef"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1554668266911666178",
+                    "author_username": "southdintegrity",
+                    "community_notes": null,
+                    "conversation_id": "1741185341115990083",
+                    "created_time": "2023-12-30T19:58:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1741187060088639534",
+                    "in_reply_to_post_id": "1741185341115990083",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepTonyGonzales Trump stole our military secrets and called veterans \"losers.\"\n\nHe called Russian forces invading Ukraine a \"peace force\" and refused to acknowledge bounties to kill US soldiers.\n\nHe even called for the extra-judicial murder of US General Mark Milley.\nhttps://t.co/2dNhjkj6ef",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1703966319,
+                    "view_count": 39
+                }
+            ]
+        },
+        {
+            "conversation_id": "1760713768483328047",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1641531116602662912",
+                    "author_username": "davemllc",
+                    "community_notes": null,
+                    "conversation_id": "1760713768483328047",
+                    "created_time": "2024-02-23T03:40:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1760872314739085582",
+                    "in_reply_to_post_id": "1760713768483328047",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepTonyGonzales Absolutely!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1708659649,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1499931552490262532",
+                    "author_username": "truePhilAllard",
+                    "community_notes": null,
+                    "conversation_id": "1760713768483328047",
+                    "created_time": "2024-02-22T23:24:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1760807804363800858",
+                    "in_reply_to_post_id": "1760713768483328047",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales Exactly what are your credentials in cybersecurity?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1708644269,
+                    "view_count": 34
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1587038406109978624",
+                    "author_username": "AcrylicStew",
+                    "community_notes": null,
+                    "conversation_id": "1760713768483328047",
+                    "created_time": "2024-02-22T18:49:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1760738590915743850",
+                    "in_reply_to_post_id": "1760713768483328047",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales Let\u2019s go Brandon",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1708627767,
+                    "view_count": 23
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1631177676542148608",
+                    "author_username": "ErnDawg76",
+                    "community_notes": null,
+                    "conversation_id": "1760713768483328047",
+                    "created_time": "2024-02-22T17:16:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1760715101911306270",
+                    "in_reply_to_post_id": "1760713768483328047",
+                    "in_reply_to_profile_id": "1343627416120532992",
+                    "in_reply_to_profile_username": "RepTonyGonzales",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepTonyGonzales So do you have a plan?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepTonyGonzales"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343627416120532992"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1708622167,
+                    "view_count": 88
+                }
+            ]
+        }
+    ]
+}

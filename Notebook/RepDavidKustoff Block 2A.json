@@ -1,0 +1,960 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GKHFH8OWMAAJPZj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GKHFI4CWkAAEs_o.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GKHFH8OWMAAJPZj.jpg",
+                    "https://pbs.twimg.com/media/GKHFI4CWkAAEs_o.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1774917055138996706",
+                "created_time": "2024-04-01T21:49:36",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1774917055138996706",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "This afternoon, I met with @llbloodservices CEO John Miller and Marketing Manager Melinda Reed in Madison County. Thank you for providing lifesaving services for patients and healthcare facilities throughout West Tennessee.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "llbloodservices"
+                ],
+                "text_tagged_users_ids": [
+                    "507811505"
+                ],
+                "text_tags": null,
+                "timestamp": 1712008176,
+                "view_count": 501
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GK6PPgUWUAAF9-G.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GK6PPgUWUAAF9-G.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1778517462561984605",
+                "created_time": "2024-04-11T20:16:20",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1778517462561984605",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with members of the Independent Insurance Agents & Brokers of America (Big I), including TN Representative @RonTravis31, Chris Allison from Madison County, Portis Tanner from Obion County, and Richard Whitley from Shelby County. Thank you for your work supporting families and small businesses in West Tennessee.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RonTravis31"
+                ],
+                "text_tagged_users_ids": [
+                    "713538869"
+                ],
+                "text_tags": null,
+                "timestamp": 1712866580,
+                "view_count": 707
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GOMA-p5WkAAinLW.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GOMA-p5WkAAinLW.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1793279837223657550",
+                "created_time": "2024-05-22T13:56:45",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1793279837223657550",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with Ben Sanders from @FBITN in Washington. I appreciate you stopping by my office with @TeamAPCIA to discuss priorities for the insurance industry! https://t.co/bSBkfjkc2I",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FBITN",
+                    "TeamAPCIA"
+                ],
+                "text_tagged_users_ids": [
+                    "885794413",
+                    "41164967"
+                ],
+                "text_tags": null,
+                "timestamp": 1716386205,
+                "view_count": 490
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GPVNjabWsAACu7Y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GPVNjabWsAACu7Y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1798431799544045735",
+                "created_time": "2024-06-05T19:08:48",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1798431799544045735",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with Tennessee members of @NAMIC, including @FBITN Executive Director Ben Sanders, in Washington. Thank you for stopping in to advocate for our state\u2019s insurance industry. https://t.co/vhke9HyhVA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NAMIC",
+                    "FBITN"
+                ],
+                "text_tagged_users_ids": [
+                    "50300435",
+                    "885794413"
+                ],
+                "text_tags": null,
+                "timestamp": 1717614528,
+                "view_count": 1024
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GU4k-jlW0AEtEFH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GU4k-jlW0AEtEFH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1823435562675544416",
+                "created_time": "2024-08-13T19:04:50",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1823435562675544416",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to the local healthcare leaders who attended a roundtable discussion today in Shelby County. I appreciate @west_cancer CEO Mitch Graves for organizing this important meeting. \n\nI am committed to ensuring you all have the resources and support you need to continue caring for patients across our community.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "west_cancer"
+                ],
+                "text_tagged_users_ids": [
+                    "905141702977101824"
+                ],
+                "text_tags": null,
+                "timestamp": 1723575890,
+                "view_count": 662
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GWwBk02WYAAndp7.jpg?name=small",
+                    "https://pbs.twimg.com/media/GWwBk00XsAAwkZK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GWwBk02WYAAndp7.jpg",
+                    "https://pbs.twimg.com/media/GWwBk00XsAAwkZK.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1831841508598935784",
+                "created_time": "2024-09-05T23:47:04",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1831841508598935784",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "I enjoyed visiting NHC HealthCare Somerville in Fayette County to see first-hand how they are providing innovative, quality healthcare for senior citizens in West TN. Thank you to Administrator Janet Hunt for all you do & @FayetteCoMayor Skip Taylor for joining me! https://t.co/zVPzmHYdFR",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FayetteCoMayor"
+                ],
+                "text_tagged_users_ids": [
+                    "17040644"
+                ],
+                "text_tags": null,
+                "timestamp": 1725580024,
+                "view_count": 524
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GXX-kliWAAAp1vh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GXX-kliWAAAp1vh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1834652418467918277",
+                "created_time": "2024-09-13T17:56:37",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1834652418467918277",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I appreciate CEO of @encompasshlth's West Tennessee Healthcare Rehabilitation Hospital Jackson, Julie Taylor from Madison County, for meeting with me in Washington. \n\nThank you for working with rehabilitation patients on their road to recovery. https://t.co/U1c0vhs5m8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "encompasshlth"
+                ],
+                "text_tagged_users_ids": [
+                    "16117864"
+                ],
+                "text_tags": null,
+                "timestamp": 1726250197,
+                "view_count": 371
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1852367837228093650",
+                "created_time": "2024-11-01T15:11:22",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1852367837228093650",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Under Joe Biden and Kamala Harris, families are spending an additional $13,300 annually to buy basic goods and services.\n \n\ud83d\udcc8 Eggs are UP 69.2%\n\ud83d\udcc8 Motor vehicle insurance is UP 56.5%\n\ud83d\udcc8 Gasoline (all types) is UP 38.4%\n\ud83d\udcc8 Baby food and formula are UP 31.0%",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1730473882,
+                "view_count": 744
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gc6eQX3XUAA-YoG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gc6eQX3XUAA-YoG.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1859597703908339885",
+                "created_time": "2024-11-21T14:00:16",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1859597703908339885",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "On National Rural Health Day, we recognize the life-saving work of doctors, nurses, and healthcare providers in our rural communities. Thank you for all that you do to keep West Tennessee families healthy. https://t.co/Q4lhKCaLbC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1732197616,
+                "view_count": 680
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1882586410223386624/pu/img/xDIc0QM9fAfU_3cs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1882586410223386624/pu/vid/avc1/1284x720/NCeMYpKYA4OQzCWC.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 29,
+                        "id": "1882586410223386624",
+                        "url": "https://video.twimg.com/ext_tw_video/1882586410223386624/pu/vid/avc1/1284x720/NCeMYpKYA4OQzCWC.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1882775363287478773",
+                "created_time": "2025-01-24T13:00:01",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1882775363287478773",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 5,
+                "source": "Twitter Web Client",
+                "text": "California\u2019s endless regulations have driven many insurance companies out of the state, leaving residents with limited options. If Californians had access to appropriate insurance policies, the state wouldn\u2019t be so reliant on federal assistance.\n\nWhen government overreach suffocates business, the taxpayers pay the price. Governor Gavin Newsom and the state legislature are to blame. My interview with @connellmcshane on @NewsNation \u2b07\ufe0f",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1737723601,
+                "view_count": 1285
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://kustoff.house.gov/media/press-releases/congressman-kustoff-introduces-bipartisan-rural-america-health-corps-act"
+                ],
+                "attached_links_url": [
+                    "https://t.co/643tkLFIJE"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1885839193026277377/Etlzlx1-?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1887945545978663081",
+                "created_time": "2025-02-07T19:24:29",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1887945545978663081",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "NEW: I introduced the bipartisan Rural America Health Corps Act in the House with @NikkiBudzinski. This bill will help incentivize healthcare professionals to live and work in rural communities.\nhttps://t.co/643tkLFIJE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NikkiBudzinski"
+                ],
+                "text_tagged_users_ids": [
+                    "321748989"
+                ],
+                "text_tags": null,
+                "timestamp": 1738956269,
+                "view_count": 524
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GjcCBOXWsAARs6M.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GjcCBOXWsAARs6M.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1888981220039532674",
+                "created_time": "2025-02-10T15:59:53",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1888981220039532674",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with members of @TNPCA, including Hardeman County Community Health Center CEO Marlita White. Thank you for providing good quality healthcare services to patients across our great state. https://t.co/QepmuFbKIS",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "TNPCA"
+                ],
+                "text_tagged_users_ids": [
+                    "148078542"
+                ],
+                "text_tags": null,
+                "timestamp": 1739203193,
+                "view_count": 434
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GjmjfsbXwAAy3SU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GjmjfsbXwAAy3SU.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1889722566886985934",
+                "created_time": "2025-02-12T17:05:43",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1889722566886985934",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "This morning, I met with members of @TNRuralHealth, including Membership Manager Destiny Shaw and CEO of West Tennessee Healthcare Bolivar-Camden, Ruby Kirby, both from Madison County. Thank you for all that you do to provide access to quality healthcare and emergency services for rural West Tennesseans.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "TNRuralHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "741317918"
+                ],
+                "text_tags": null,
+                "timestamp": 1739379943,
+                "view_count": 703
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1915529943754088565",
+                "created_time": "2025-04-24T22:15:02",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915529943754088565",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Today, on Holocaust Remembrance Day, I introduced the Holocaust Insurance Accountability Act with @RepDWStweets.\n\nThis bipartisan bill will ensure Holocaust-era insurance policy beneficiaries can seek justice in U.S. courts to recover their unpaid claims.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepDWStweets"
+                ],
+                "text_tagged_users_ids": [
+                    "1140648348"
+                ],
+                "text_tags": null,
+                "timestamp": 1745532902,
+                "view_count": 359
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1941236217841872896/img/VX147edaf1HGIrOc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1941236217841872896/vid/avc1/960x540/2kdeGbhO9_nrXJ1I.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 63,
+                        "id": "1941236217841872896",
+                        "url": "https://video.twimg.com/amplify_video/1941236217841872896/vid/avc1/960x540/2kdeGbhO9_nrXJ1I.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1941236348410872081",
+                "created_time": "2025-07-04T20:43:06",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1941236348410872081",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 28,
+                "retweet_count": 10,
+                "source": "Twitter for iPhone",
+                "text": ".@HouseGOP is working to ensure that Medicaid is strengthened for those who need it the most. \n\n\ud83d\udcfa: I joined @brikeilarcnn on @CNN to discuss @POTUS\u2019 One Big Beautiful Bill \u2b07\ufe0f https://t.co/Am2f0d2GQO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "brikeilarcnn",
+                    "CNN",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "46817943",
+                    "759251",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1751661786,
+                "view_count": 1209
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyPsvU5XYAMv2HS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyPsvU5XYAMv2HS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1955666964904333344",
+                "created_time": "2025-08-13T16:25:13",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1955666964904333344",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I met with Tina Prescott, President and CEO of West Tennessee Healthcare, and Jeff Blankenship, CFO, in Madison County to discuss their work serving our communities.\n\nThank you to the @WTHealthcare team for your commitment to supporting the health and well-being of West Tennesseans.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WTHealthcare"
+                ],
+                "text_tagged_users_ids": [
+                    "61268889"
+                ],
+                "text_tags": null,
+                "timestamp": 1755102313,
+                "view_count": 439
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyqgbQaXEAY3D8h.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyqgbQaXEAY3D8h.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1957553382983417870",
+                "created_time": "2025-08-18T21:21:10",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1957553382983417870",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I enjoyed meeting with CEO Paula Bell and the team at West TN Healthcare in Henry County.\u00a0\n\nThank you for your dedication to helping strengthen healthcare in West Tennessee.\n\n@WTHealthcare https://t.co/HfIyDBJDJx",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WTHealthcare"
+                ],
+                "text_tagged_users_ids": [
+                    "61268889"
+                ],
+                "text_tags": null,
+                "timestamp": 1755552070,
+                "view_count": 385
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gyq0374W4AAJigE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gyq0374W4AAJigE.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1957575864981270809",
+                "created_time": "2025-08-18T22:50:30",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1957575864981270809",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "It was nice meeting CEO Ruby Kirby and the team at West TN Healthcare Camden in Benton County.\u00a0\n\nThank you for your commitment to providing quality care for West Tennesseans. \n\n@WTHealthcare https://t.co/F2z9mAwWBT",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WTHealthcare"
+                ],
+                "text_tagged_users_ids": [
+                    "61268889"
+                ],
+                "text_tags": null,
+                "timestamp": 1755557430,
+                "view_count": 447
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GywcDltWkAAj6D6.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GywcDltWkAAj6D6.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1957970789891993705",
+                "created_time": "2025-08-20T00:59:48",
+                "favorite_count": 47,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1957970789891993705",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 22,
+                "retweet_count": 15,
+                "source": "Twitter for iPhone",
+                "text": "Farmers are the backbone of West Tennessee\u2019s economy \u2014 and of our entire nation. \ud83c\udf3e\ud83c\uddfa\ud83c\uddf8\n\n@HouseGOP & @POTUS understand that, which is why the One Big Beautiful Bill makes the largest investment in agriculture in decades.\n\n\u2705 Expands crop insurance & strengthens risk management tools\n\u2705 Boosts market access by reducing trade barriers\n\u2705 Makes permanent the death tax exemption for family-owned farms\n\u2705 Supports @SecRollins\u2019 Farmers First agenda",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1755651588,
+                "view_count": 7179
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gy-i6_LX0AAmCpj.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gy-i6_LX0AAmCpj.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816012124505931780",
+                "author_username": "RepDavidKustoff",
+                "community_notes": null,
+                "conversation_id": "1958963501877125507",
+                "created_time": "2025-08-22T18:44:29",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1958963501877125507",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I met with Skipper Bondurant, Administrator at Baptist Memorial Hospital, in Obion County.\n\nThank you for providing quality healthcare to people across West Tennessee. https://t.co/EO1uxQ7L5C",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755888269,
+                "view_count": 520
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

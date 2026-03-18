@@ -1,0 +1,349 @@
+{
+    "politician": "SenMcNerney",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1866592366385410511",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "385429543",
+                    "author_username": "SenMcNerney",
+                    "community_notes": null,
+                    "conversation_id": "1866592366385410511",
+                    "created_time": "2024-12-10T21:15:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1866592540750921972",
+                    "in_reply_to_post_id": "1866592366385410511",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "The prison was calm, and the incarcerated folks were not threatening. We visited a cell block, conversed with several incarcerated individuals, and stepped inside active cells. ...",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1733865315,
+                    "view_count": 48
+                }
+            ]
+        },
+        {
+            "conversation_id": "1882488750279930352",
+            "replies": []
+        },
+        {
+            "conversation_id": "1884035352266166637",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1296739298822115328",
+                    "author_username": "times_joey",
+                    "community_notes": null,
+                    "conversation_id": "1884035352266166637",
+                    "created_time": "2025-02-01T04:42:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1885549308151247004",
+                    "in_reply_to_post_id": "1884035352266166637",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@SenMcNerney @Scott_Wiener Holy crap, this is such a bad idea. I can\u2019t believe you\u2019re promoting PROUDLY. \n\nSMH",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SenMcNerney",
+                        "Scott_Wiener"
+                    ],
+                    "text_tagged_users_ids": [
+                        "385429543",
+                        "26703365"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738384961,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GiZjI0HbsAARTVM.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GiZjI0HbsAARTVM.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1415699723290218504",
+                    "author_username": "CoffeeGirl_CG",
+                    "community_notes": null,
+                    "conversation_id": "1884035352266166637",
+                    "created_time": "2025-01-28T18:08:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1884302519595307043",
+                    "in_reply_to_post_id": "1884035352266166637",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenMcNerney @Scott_Wiener https://t.co/fzFITwWm9P",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "SenMcNerney",
+                        "Scott_Wiener"
+                    ],
+                    "text_tagged_users_ids": [
+                        "385429543",
+                        "26703365"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738087703,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1415699723290218504",
+                    "author_username": "CoffeeGirl_CG",
+                    "community_notes": null,
+                    "conversation_id": "1884035352266166637",
+                    "created_time": "2025-01-28T17:06:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1884286843799364036",
+                    "in_reply_to_post_id": "1884035352266166637",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SenMcNerney @Scott_Wiener Vote them out",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SenMcNerney",
+                        "Scott_Wiener"
+                    ],
+                    "text_tagged_users_ids": [
+                        "385429543",
+                        "26703365"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738083966,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1889743777176469857",
+            "replies": []
+        },
+        {
+            "conversation_id": "1894804598537466170",
+            "replies": []
+        },
+        {
+            "conversation_id": "1895164012784164924",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1848150715807449088",
+                    "author_username": "WesKnyle",
+                    "community_notes": null,
+                    "conversation_id": "1895164012784164924",
+                    "created_time": "2025-02-27T20:34:00",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1895210800849293749",
+                    "in_reply_to_post_id": "1895164012784164924",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@SenMcNerney Show your work.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SenMcNerney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "385429543"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1740688440,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.sfchronicle.com/politics/article/house-budget-congress-california-20186919.php"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/GGxQlA3Psh"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "385429543",
+                    "author_username": "SenMcNerney",
+                    "community_notes": null,
+                    "conversation_id": "1895164012784164924",
+                    "created_time": "2025-02-27T17:29:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1895164280754036829",
+                    "in_reply_to_post_id": "1895164012784164924",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Read the grim details here --&gt;\nhttps://t.co/GGxQlA3Psh",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1740677349,
+                    "view_count": 101
+                }
+            ]
+        },
+        {
+            "conversation_id": "1899233174825398702",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "385429543",
+                    "author_username": "SenMcNerney",
+                    "community_notes": null,
+                    "conversation_id": "1899233174825398702",
+                    "created_time": "2025-03-10T23:55:18",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1899247722588451035",
+                    "in_reply_to_post_id": "1899233174825398702",
+                    "in_reply_to_profile_id": "385429543",
+                    "in_reply_to_profile_username": "SenMcNerney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Since 2013, @Kyoko4US has organized tirelessly for healthcare access (with Covered California and La Familia), immigrant rights (Families Belong Together), climate justice (March for Science), and countless other grassroots causes.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Kyoko4US"
+                    ],
+                    "text_tagged_users_ids": [
+                        "545305090"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741650918,
+                    "view_count": 119
+                }
+            ]
+        },
+        {
+            "conversation_id": "1942979660486414406",
+            "replies": []
+        }
+    ]
+}

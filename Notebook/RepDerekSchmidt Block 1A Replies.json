@@ -1,0 +1,149 @@
+{
+    "politician": "RepDerekSchmidt",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1882558752068608034",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15554235",
+                    "author_username": "kirkemitchell",
+                    "community_notes": null,
+                    "conversation_id": "1882558752068608034",
+                    "created_time": "2025-01-23T23:13:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1882567475906400358",
+                    "in_reply_to_post_id": "1882558752068608034",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekSchmidt Passing shitty laws against imaginary crimes? What boring political theater.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1737674037,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1874845452488876032",
+                    "author_username": "SerenaDoodleMom",
+                    "community_notes": null,
+                    "conversation_id": "1882558752068608034",
+                    "created_time": "2025-01-23T22:51:30",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1882561827974046017",
+                    "in_reply_to_post_id": "1882558752068608034",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekSchmidt You really are an idiot.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1737672690,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1968067061290295737",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/libsoftiktok/status/1968091204484239607?s=46&t=HsWZ8nJ1BkgRejG-reiN3Q"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Etd312FDmj"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1601810751072583681",
+                    "author_username": "Ace9Stripe",
+                    "community_notes": null,
+                    "conversation_id": "1968067061290295737",
+                    "created_time": "2025-09-17T04:53:32",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968176472054706352",
+                    "in_reply_to_post_id": "1968067061290295737",
+                    "in_reply_to_profile_id": "1875994749443645440",
+                    "in_reply_to_profile_username": "RepDerekSchmidt",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekSchmidt Please do something about this \n\nhttps://t.co/Etd312FDmj",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekSchmidt"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875994749443645440"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758084812,
+                    "view_count": 18
+                }
+            ]
+        }
+    ]
+}

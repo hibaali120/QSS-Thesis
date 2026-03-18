@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "29766367",
+                "author_username": "RepSamGraves",
+                "community_notes": null,
+                "conversation_id": "1929627972732145747",
+                "created_time": "2025-06-02T19:55:34",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1929627972732145747",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1926071168085242297",
+                "quoted_status_profile_id": "2374466929",
+                "quoted_status_profile_username": "TaskandPurpose",
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The Missouri National Guard\u2019s 139th Airlift Wing's Operations Group in St. Joseph recently pulled off a legendary feat during a four-day exercise simulating a cyber-attack.\n\u201cOperations Goes Dark\u201d was successfully executed by conducting normal operations without internet, GPS, or phones. Airmen coordinated missions using hand signals, runners, smoke signals, and old-school tactics to get the job done. \nProud to see the 139th setting the bar not just for Missouri, but for the entire Department of Defense. @SecDef  @SecAFOfficial  @OfficialCSAF  @usairforce  @139AW  @AirMobilityCmd  @Missouri_NG  #warfighting #lethality #cyberwarfare #electronicwarfare",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748894134,
+                "view_count": 1164
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

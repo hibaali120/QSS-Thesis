@@ -1,0 +1,150 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1330278736554582016",
+                "author_username": "RepAuchincloss",
+                "community_notes": null,
+                "conversation_id": "1857216524206895162",
+                "created_time": "2024-11-15T00:18:19",
+                "favorite_count": 12924,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1857216524206895162",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 343,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5072,
+                "retweet_count": 2749,
+                "source": "Twitter for iPhone",
+                "text": "I grew up in a family of medical scientists. I represent a district of healthcare professionals. RFK, Jr. is a conspiracist & quack who threatens the health of Americans. He\u2019s not simply angling for more sunshine & exercise (no one disagrees with that). He seeks to overturn evidence-driven, peer-reviewed research on medicines & more. I will fight back in Washington to protect the integrity of the FDA, the NIH, and the CDC.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1731629899,
+                "view_count": 893740
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.bostonglobe.com/2024/11/25/opinion/jake-auchincloss-reject-robert-kennedy-health-secretary/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/tAZDX0GEWR"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1330278736554582016",
+                "author_username": "RepAuchincloss",
+                "community_notes": null,
+                "conversation_id": "1860396236865499539",
+                "created_time": "2024-11-23T18:53:22",
+                "favorite_count": 758,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1860396236865499539",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 11,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 93,
+                "retweet_count": 277,
+                "source": "Twitter Web App",
+                "text": "Kennedy is masking his MAHA agenda with hand-waving about holistic health. There are thousands of qualified health experts, though, who can improve child nutrition without also bringing back measles.\n\nMy op-ed in the Boston Globe:\nhttps://t.co/tAZDX0GEWR",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1732388002,
+                "view_count": 105952
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1937607272189865984/img/sTQCkA31mxkMO0ZJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1937607272189865984/vid/avc1/1920x1080/1q08fr1kQYnxN9E4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 230,
+                        "id": "1937607272189865984",
+                        "url": "https://video.twimg.com/amplify_video/1937607272189865984/vid/avc1/1920x1080/1q08fr1kQYnxN9E4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1330278736554582016",
+                "author_username": "RepAuchincloss",
+                "community_notes": null,
+                "conversation_id": "1937616623948460229",
+                "created_time": "2025-06-24T20:59:36",
+                "favorite_count": 185,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937616623948460229",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 13,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 53,
+                "retweet_count": 59,
+                "source": "Twitter Web App",
+                "text": "Under questioning about 'radical transparency', @SecKennedy refuses to defend @CalleyMeans' conflict of interest benefiting his own 'wellness' business, which sells saunas & supplements. https://t.co/6AXipptvSN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecKennedy",
+                    "calleymeans"
+                ],
+                "text_tagged_users_ids": [
+                    "1886875846473879552",
+                    "16638965"
+                ],
+                "text_tags": null,
+                "timestamp": 1750798776,
+                "view_count": 59919
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

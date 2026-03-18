@@ -1,0 +1,1007 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1887331571755327654",
+                "created_time": "2025-02-06T02:44:47",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1887331578528792995",
+                "in_reply_to_post_id": "1887331576926634353",
+                "in_reply_to_profile_id": "1089859058",
+                "in_reply_to_profile_username": "RepRaulRuizMD",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Grocery prices will increase, housing construction will be delayed, hospitals and nursing homes will have fewer people to take care of patients, and hotels and restaurants will have fewer employees to serve customers. Everyone will be impacted. (4/5)",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1738809887,
+                "view_count": 314
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1892289728218558464/img/uoJo2-VHg2WNImzb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1892289728218558464/vid/avc1/720x1280/PgfS5r0TAukiAjIh.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 45,
+                        "id": "1892289728218558464",
+                        "url": "https://video.twimg.com/amplify_video/1892289728218558464/vid/avc1/720x1280/PgfS5r0TAukiAjIh.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1892289857495437338",
+                "created_time": "2025-02-19T19:07:13",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1892289857495437338",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I had the honor of joining the @AmerMedicalAssn to discuss protecting Medicare access for seniors and my bill, the Strengthening Medicare for Patients and Providers Act. Let\u2019s get it done! https://t.co/fZHKvdA8ou",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "AmerMedicalAssn"
+                ],
+                "text_tagged_users_ids": [
+                    "27922157"
+                ],
+                "text_tags": null,
+                "timestamp": 1739992033,
+                "view_count": 671
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://kyma.com/education/imperial-education/2025/02/27/calipatria-students-win-congressional-app-challenge-with-medcentral/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/p0SJRrn69K"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1896667854268780544/pu/img/B4jywS9ozxzeKlY1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1896667854268780544/pu/vid/avc1/1280x720/gUpmYILcUl99XIiH.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 103,
+                        "id": "1896667854268780544",
+                        "url": "https://video.twimg.com/ext_tw_video/1896667854268780544/pu/vid/avc1/1280x720/gUpmYILcUl99XIiH.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1896668275540447718",
+                "created_time": "2025-03-03T21:05:29",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1896668275540447718",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Congratulations to this year\u2019s #CA25 Congressional App Challenge winners! It\u2019s great to see the incredible talent of our high school students, including those from Calipatria and Niland.\n\nTheir app, MedCentral, aids patients that speak a foreign language or have a disability better understand their medical condition and prescriptions. Amazing, keep innovating!\n \nCheck out KYMA\u2019s coverage of the MedCentral app here: https://t.co/p0SJRrn69K",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "ca25"
+                ],
+                "timestamp": 1741035929,
+                "view_count": 437
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1908330011536269312/pu/img/ithByn-XgEQiOhyn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1908330011536269312/pu/vid/avc1/720x1280/sTw3hvj8sffPrtLd.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 89,
+                        "id": "1908330011536269312",
+                        "url": "https://video.twimg.com/ext_tw_video/1908330011536269312/pu/vid/avc1/720x1280/sTw3hvj8sffPrtLd.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1908330217833185648",
+                "created_time": "2025-04-05T01:25:53",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1908330217833185648",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I met with Inland Empire Health Plan (#IEHP) leaders to discuss the local impacts that GOP proposed cuts to Medi-Cal would have for the people in our communities. They manage nearly 90% of all Medi-Cal patients in #Riverside and #SanBernardino Counties. They gave it to me straight and handed me a letter stating that some hospitals in my district may be forced to close.\n\nCutting Medi-Cal hurts everyone\u2019s access to health care!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "iehp",
+                    "riverside",
+                    "sanbernardino"
+                ],
+                "timestamp": 1743816353,
+                "view_count": 1253
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1920269783804612609/img/Wsy78-8CAMuaNTIB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1920269783804612609/vid/avc1/1080x1920/3iIoOlffys2ZgsGs.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 153,
+                        "id": "1920269783804612609",
+                        "url": "https://video.twimg.com/amplify_video/1920269783804612609/vid/avc1/1080x1920/3iIoOlffys2ZgsGs.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1920271693315969223",
+                "created_time": "2025-05-08T00:17:03",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1920271693315969223",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Today a report was released by the Congressional Budget Office. This non-partisan analysis is concrete evidence on what we\u2019ve been saying all along: this extreme Republican budget would lead 5.5 people losing their health care coverage. \nThis would be devastating. #handsoffmedicaid",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1746663423,
+                "view_count": 448
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1922426722055573504/img/pJsl5MW9fA3RfRe3.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1922426722055573504/vid/avc1/1080x1920/R-bfBsjFZj9U1Vtg.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 55,
+                        "id": "1922426722055573504",
+                        "url": "https://video.twimg.com/amplify_video/1922426722055573504/vid/avc1/1080x1920/R-bfBsjFZj9U1Vtg.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1922365747260449138",
+                "created_time": "2025-05-13T23:00:48",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922426833598869549",
+                "in_reply_to_post_id": "1922401514330505627",
+                "in_reply_to_profile_id": "1089859058",
+                "in_reply_to_profile_username": "RepRaulRuizMD",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "@EnergyCommerce @NPAlive Hour 3... Going on 4 \u23f0\n\nOur hospitals do not have the funding now, and cutting Medicaid would be catastrophic. https://t.co/1DhjFtgVmp",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EnergyCommerce",
+                    "NPAlive"
+                ],
+                "text_tagged_users_ids": [
+                    "30929600",
+                    "24133371"
+                ],
+                "text_tags": null,
+                "timestamp": 1747177248,
+                "view_count": 469
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1923037497426087936/img/5M41HKXH6kmehqDF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1923037497426087936/vid/avc1/1440x2560/ozygMm_rRxe3l72B.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 58,
+                        "id": "1923037497426087936",
+                        "url": "https://video.twimg.com/amplify_video/1923037497426087936/vid/avc1/1440x2560/ozygMm_rRxe3l72B.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1923037667521970224",
+                "created_time": "2025-05-15T15:28:02",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1923037667521970224",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Republicans say their bill won\u2019t touch traditional Medicaid.\n\nBut here\u2019s the truth: their deep Medicaid cuts mean higher costs for hospitals, putting Labor & Delivery, Pediatrics, and even whole hospitals on the line. https://t.co/vgld7KSxOX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747322882,
+                "view_count": 316
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1925356031028129792/img/rSnrGqsd-DDvP8IW.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1925356031028129792/vid/avc1/1440x2560/IUO43I79ZroKCysG.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 109,
+                        "id": "1925356031028129792",
+                        "url": "https://video.twimg.com/amplify_video/1925356031028129792/vid/avc1/1440x2560/IUO43I79ZroKCysG.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1925356506448306623",
+                "created_time": "2025-05-22T01:02:17",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925356506448306623",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 9,
+                "source": "Twitter for iPhone",
+                "text": "Think Medicaid cuts won\u2019t affect you because you have private insurance? Think again.\n\nWhen hospitals absorb more unpaid care, everyone feels it.\n\nHere are 4 ways we all pay the price\u2026 \ud83d\udc47 https://t.co/G37BqRObvi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747875737,
+                "view_count": 1353
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GrlK6WFXQAASZRg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GrlK6WFXQAASZRg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1925652689788027108",
+                "created_time": "2025-05-22T20:39:12",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925652689788027108",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 6,
+                "source": "Twitter Web App",
+                "text": "I joined @Rep_Magaziner  and @RepDianaDeGette to talk about what Medicaid cuts would mean for our communities, from Rhode Island to Colorado to California.\n\u2028Millions could lose health care. Hospitals could shut down. We should be strengthening our health care system, not tearing it down when people need it most.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Rep_Magaziner",
+                    "RepDianaDeGette"
+                ],
+                "text_tagged_users_ids": [
+                    "1615455207713808384",
+                    "28599820"
+                ],
+                "text_tags": null,
+                "timestamp": 1747946352,
+                "view_count": 506
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsoLhuvWcAAbHPo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsoLhuvWcAAbHPo.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1930368072012980259",
+                "created_time": "2025-06-04T20:56:27",
+                "favorite_count": 15,
+                "geo_lat": 33.7265838,
+                "geo_lon": -116.37340119999999,
+                "id": "1930368072012980259",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Palm Desert, CA",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Met with hospitals in #CA25 about the devastating impact looming Medi-Cal cuts could have on our communities. These cuts threaten lives, jobs, and could force hospitals to close their doors.\n\nThis isn\u2019t just a Medi-Cal issue. If hospitals shut down, everyone loses access to care. I\u2019m fighting to protect our hospitals and the health of our communities.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "ca25"
+                ],
+                "timestamp": 1749070587,
+                "view_count": 709
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1940867932994621440/img/cA5IoKiHVJoZITsI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1940867932994621440/vid/avc1/720x1280/u4PwIefL3_tGxupm.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 68,
+                        "id": "1940867932994621440",
+                        "url": "https://video.twimg.com/amplify_video/1940867932994621440/vid/avc1/720x1280/u4PwIefL3_tGxupm.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1940868052951916737",
+                "created_time": "2025-07-03T20:19:38",
+                "favorite_count": 20,
+                "geo_lat": 38.87924748,
+                "geo_lon": -77.035399,
+                "id": "1940868052951916737",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Washington, DC",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "I\u2019m angry. 17 million people could lose their health insurance. Rural hospitals will close. And the national debt will skyrocket.\n\nBut the fight\u2019s not over. I still believe that hope + action = change.\n\nStay loud. I\u2019m right here with you. https://t.co/3EQ65PpLRZ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751573978,
+                "view_count": 934
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1946666090551033856/img/euQ5VKF9DwYbipNk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1946666090551033856/vid/avc1/1440x2560/KDpCWcGHCf2qK1rn.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 63,
+                        "id": "1946666090551033856",
+                        "url": "https://video.twimg.com/amplify_video/1946666090551033856/vid/avc1/1440x2560/KDpCWcGHCf2qK1rn.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1946666263058551141",
+                "created_time": "2025-07-19T20:19:39",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1946666263058551141",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8 Rural hospitals are a lifeline for communities in #CA25 and across the country. When one closes, it can mean the difference between life and death.\u2028\u2028I raised the alarm while questioning one of @HHSGov\u2019s top rural health officials. Watch here \u2b07\ufe0f https://t.co/BdW4INDkwj",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HHSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "44783853"
+                ],
+                "text_tags": [
+                    "ca25"
+                ],
+                "timestamp": 1752956379,
+                "view_count": 624
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1956541198576836608/img/DoP3tcmTSJYesaHc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1956541198576836608/vid/avc1/1440x2560/qocomVOWB7qP0HI2.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 110,
+                        "id": "1956541198576836608",
+                        "url": "https://video.twimg.com/amplify_video/1956541198576836608/vid/avc1/1440x2560/qocomVOWB7qP0HI2.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1956541410540126316",
+                "created_time": "2025-08-16T02:19:57",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956541410540126316",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I spoke with David Brinkman, CEO of DAP Health, about how the Big Ugly Law passed by Trump and Congressional Republicans threatens Medicaid coverage for vulnerable individuals and families in our communities.\n\u00a0\nHearing directly from health leaders and partnering together are an essential part of protecting the people who depend on life-saving care like Medicaid.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755310797,
+                "view_count": 467
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1965874664233693184/img/eYNU2UOIGFUqRGZG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1965874664233693184/vid/avc1/720x1280/RrmO_Fn_VDhXslzm.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 80,
+                        "id": "1965874664233693184",
+                        "url": "https://video.twimg.com/amplify_video/1965874664233693184/vid/avc1/720x1280/RrmO_Fn_VDhXslzm.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1965876174606971015",
+                "created_time": "2025-09-10T20:32:58",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1965876174606971015",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8 House Republicans are scrambling to fix the damage from their disastrous Big Ugly Law.\n\nThey ripped away your health care coverage, and we won\u2019t let them off the hook. https://t.co/03LkDuf4pj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1757536378,
+                "view_count": 1078
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1970615947338629120/img/ZKArQGo5WeCShpG6.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1970615947338629120/vid/avc1/1440x2560/yAkjaOPhPV99yfE0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 50,
+                        "id": "1970615947338629120",
+                        "url": "https://video.twimg.com/amplify_video/1970615947338629120/vid/avc1/1440x2560/yAkjaOPhPV99yfE0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1970616081547919816",
+                "created_time": "2025-09-23T22:27:40",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970616081547919816",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "As a doctor, I know that detecting cancer early saves lives.\n\nThat\u2019s why I\u2019m an original co-sponsor of the Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act, to ensure Medicare covers innovative screenings that improve early diagnosis and help more patients beat cancer.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758666460,
+                "view_count": 715
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2CS1AvXQAAtjYv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2CS1AvXQAAtjYv.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1972738264529571931",
+                "created_time": "2025-09-29T19:00:28",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1972738264529571931",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "With just one day left before the funding deadline, I\u2019m ready to work across the aisle to keep our government open and lower health care costs for the 30,000 people in our communities who would be directly impacted.\n\nUnless Congress acts, tax credits will expire, premiums will skyrocket, and millions, including cancer patients and those with chronic illnesses, could lose their care.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759172428,
+                "view_count": 1056
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1973551223208108419",
+                "created_time": "2025-10-02T00:50:53",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973551223208108419",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019m taking a few moments during this busy fight to open the government, protect health care, and to recognize the physicians who care for their patients and defend Medicaid. That\u2019s why today we honor #NationalLatinoandLatinaPhysicianDay.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationallatinoandlatinaphysicianday"
+                ],
+                "timestamp": 1759366253,
+                "view_count": 692
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1973960381530865664/img/2-fcQPodS3HuMkIh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1973960381530865664/vid/avc1/1440x2560/tqaBYH2149PyUJYb.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 65,
+                        "id": "1973960381530865664",
+                        "url": "https://video.twimg.com/amplify_video/1973960381530865664/vid/avc1/1440x2560/tqaBYH2149PyUJYb.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1973960520324821468",
+                "created_time": "2025-10-03T03:57:17",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973960520324821468",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Some families in our communities could see their health premiums rise by $1,500 a month, $18,000 a year, if Republicans refuse to extend Affordable Care Act tax credits.\n\nI\u2019m working to reopen the government, protect your health care, and prevent costs from skyrocketing. https://t.co/LfkUbqPcmR",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759463837,
+                "view_count": 759
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1976040006302281728/img/hF_cVT7Bt6fq_XJA.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976040006302281728/vid/avc1/1440x2560/VaU3oEniDApgtSKi.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 37,
+                        "id": "1976040006302281728",
+                        "url": "https://video.twimg.com/amplify_video/1976040006302281728/vid/avc1/1440x2560/VaU3oEniDApgtSKi.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1976040167355056172",
+                "created_time": "2025-10-08T21:41:03",
+                "favorite_count": 180,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976040167355056172",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 11,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 284,
+                "retweet_count": 70,
+                "source": "Twitter for iPhone",
+                "text": "The math doesn\u2019t add up. Republicans cut $600 billion for hospitals and clinics, then called $50 billion for rural hospitals a \u201cwin.\u201d\n\nI\u2019m fighting to protect the funding our rural hospitals need to keep care within reach. https://t.co/wRlc9MgFUc",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759959663,
+                "view_count": 6876
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1984389077441900544/img/n7LRlpEITwrqlca-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1984389077441900544/vid/avc1/720x1280/sQTw1MUmaNHu2rEY.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 103,
+                        "id": "1984389077441900544",
+                        "url": "https://video.twimg.com/amplify_video/1984389077441900544/vid/avc1/720x1280/sQTw1MUmaNHu2rEY.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1089859058",
+                "author_username": "RepRaulRuizMD",
+                "community_notes": null,
+                "conversation_id": "1984389288503509105",
+                "created_time": "2025-10-31T22:37:29",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1984389288503509105",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Tomorrow, November 1, starts the #CoveredCalifornia annual open enrollment period.\u00a0Nearly 2 million Californians rely on the ACA tax credits to lower health care costs.\u00a0\n\u00a0\nThese tax credits make health coverage more affordable. Yet, Congressional Republicans have failed to extend them beyond this year. That\u2019s why I\u2019m continuing to fight for working people to reopen the government, protect health care, and lower costs.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "coveredcalifornia"
+                ],
+                "timestamp": 1761950249,
+                "view_count": 473
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

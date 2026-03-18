@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cbsnews.com/miami/news/first-alzheimers-drug-slow-disease-progression-expected-fda-approval/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MwJ0YtQRO4"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1325928411689349120",
+                "author_username": "RepMariaSalazar",
+                "community_notes": null,
+                "conversation_id": "1678847250104041472",
+                "created_time": "2023-07-11T19:22:30",
+                "favorite_count": 24,
+                "geo_lat": 38.87924748,
+                "geo_lon": -77.035399,
+                "id": "1678847250104041472",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Washington, DC",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "I am encouraged by the FDA's latest announcement regarding Leqembi. This is the 1st treatment that addresses ALZ progression. \n\nI\u2019m proud to work with @alzsefl & my colleagues to support greater access to treatments for those living with Alzheimer's.\n\nhttps://t.co/MwJ0YtQRO4",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "alzsefl"
+                ],
+                "text_tagged_users_ids": [
+                    "183306127"
+                ],
+                "text_tags": null,
+                "timestamp": 1689103350,
+                "view_count": 2394
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://salazar.house.gov/media/press-releases/salazar-helps-save-life-cuban-girl-cancer"
+                ],
+                "attached_links_url": [
+                    "https://t.co/4lUhd2GMQ9"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1325928411689349120",
+                "author_username": "RepMariaSalazar",
+                "community_notes": null,
+                "conversation_id": "1701366884879544734",
+                "created_time": "2023-09-11T22:47:29",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1701366884879544734",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "I got to visit Vanessa Alfonso Lupi\u00e1\u00f1ez, the brave 7-year-old Cuban girl my office helped get from Cuba to the US for the cancer treatment she needed!\n\nHer family shared with me the amazing news that her cancer is now GONE!\n\nRead more about it here \ud83d\udc47\ud83c\udffc\nhttps://t.co/4lUhd2GMQ9",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1694472449,
+                "view_count": 1962
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://salazar.house.gov/media/press-releases/salazar-reintroduces-bill-expand-home-infusions-medicare-beneficiaries-rare"
+                ],
+                "attached_links_url": [
+                    "https://t.co/0AGJRL8HtU"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1325928411689349120",
+                "author_username": "RepMariaSalazar",
+                "community_notes": null,
+                "conversation_id": "1904983702586712411",
+                "created_time": "2025-03-26T19:48:02",
+                "favorite_count": 61,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1904983702586712411",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 15,
+                "source": "Twitter for iPhone",
+                "text": "All Americans deserve life-saving care\u2014especially those with rare diseases. I\u2019m introducing the John W. Walsh Alpha-1 Home Infusion Act to ensure Alpha-1 patients get the treatment they need, at home.\n\nhttps://t.co/0AGJRL8HtU",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1743018482,
+                "view_count": 3920
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

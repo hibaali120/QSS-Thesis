@@ -1,0 +1,443 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQqBja2XwAI9cS2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FQqBja2XwAI9cS2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1516166674856222720",
+                "created_time": "2022-04-18T21:27:58",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1516166674856222720",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 9,
+                "source": "Twitter for iPhone",
+                "text": "Congratulations to one of Kentucky\u2019s own champions in the treatment arena, Tim Robinson on receiving the 2022 Beacon of Hope award at the @RxSummit. Thanks to his network of 30 treatment @arccenters across Kentucky, he has helped save more than 41,000 lives! https://t.co/bGS2uIQMDI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RxSummit",
+                    "arccenters"
+                ],
+                "text_tagged_users_ids": [
+                    "425872825",
+                    "1296138571"
+                ],
+                "text_tags": null,
+                "timestamp": 1650317278,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://halrogers.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X8aVkKwAua"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FcAQ0_8XoAU2W7u.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FcAQ0_8XoAU2W7u.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1567271210341343232",
+                "created_time": "2022-09-06T21:59:09",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1567271210341343232",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The days of boiling water in Buckhorn, Ky. will soon be over, thanks to $8.9 million in funding that @GovAndyBeshear & I announced today for a new water treatment plant. I was grateful to share some good news after the flood. Read more at https://t.co/X8aVkKwAua. https://t.co/3xS8r1ZI07",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GovAndyBeshear"
+                ],
+                "text_tagged_users_ids": [
+                    "1192549822865297409"
+                ],
+                "text_tags": null,
+                "timestamp": 1662501549,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://halrogers.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X8aVkKwAua"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FwRHNWcWYA0zonH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FwRHNWcWYA0zonH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1658529586173337610",
+                "created_time": "2023-05-16T17:47:21",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1658529586173337610",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I am proud to join @RepSpanberger to introduce H.R. 3355 to help pay student loans for more treatment providers who specialize in substance use disorder and mental health care. Learn more at https://t.co/X8aVkKwAua. https://t.co/7m3Y91bjsI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepSpanberger"
+                ],
+                "text_tagged_users_ids": [
+                    "1078771401497161728"
+                ],
+                "text_tags": null,
+                "timestamp": 1684259241,
+                "view_count": 2239
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1798410649975877831",
+                "created_time": "2024-06-05T17:44:46",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1798410649975877831",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1798375146534961322",
+                "quoted_status_profile_id": "301549400",
+                "quoted_status_profile_username": "HouseAppropsGOP",
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Today the U.S. House passed the 1st of 12 funding bills for 2025 - Military Construction & VA includes: \n\u2705Improvements at Ft. Knox & Ft. Campbell\n\u2705Veterans healthcare & benefits\n\u2705Modernization of VA health records\n\u2705Veterans Opioid Treatment & Prevention",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717609486,
+                "view_count": 1347
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=0999A6ED-3BD5-47D7-B8EB-EA94C1E5D984"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MgTZr95PuA"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gly2_i6WsAA4BSg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gly2_i6WsAA4BSg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1899594706973331489",
+                "created_time": "2025-03-11T22:54:05",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1899594706973331489",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 20,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "The House passed a Full-Year Continuing Resolution\n\u2705Avoids a government shutdown on Friday\n\u2705Fully funds Medicaid, Medicare & Social Security \n\u2705Provides increase for Veterans Toxic Exposure Fund\n\u2705Secures our borders\n\u2705Freezes current government funding levels \nClick the link for more details and watch my video statement about the bill:\nhttps://t.co/MgTZr95PuA",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1741733645,
+                "view_count": 1289
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=409F521D-7297-4464-B881-749E77A2ABF9"
+                ],
+                "attached_links_url": [
+                    "https://t.co/eyO9gklgsY"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GrkaBrbWwAEkRDm.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GrkaBrbWwAEkRDm.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1925599374425334015",
+                "created_time": "2025-05-22T17:07:21",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925599374425334015",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": "15207668",
+                "in_reply_to_profile_username": "HouseGOP",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "@HouseGOP passed @POTUS's One Big Beautiful Bill  this morning. I voted for the legislation to protect Medicaid, provide tax cuts for middle & working class families, invest in job creation, make air traffic control safer, secure our borders and restore American energy independence. Despite lies from the extreme left, this package is focused on getting our government programs under control, so we can preserve benefits for those who need them the most. \n\nMEDICAID FACTS: \n\u2705Removes 1.4 million illegal immigrants from the program\n\u2705Removes 1.2 million ineligible recipients + waste, fraud, abuse\n\u2705Puts 4.8 million able-bodied adults ages 19-34 without children back to work - 80 hours per MONTH\n\nMORE FACTS ABOUT THE BILL: \n\u2705Provides historic tax cut for middle & working class\n\u2705Protects Child Tax Credit from being cut in half\n\u2705Eliminates tax on tips\n\u2705Eliminates tax on overtime\n\u2705Slashes social security taxes\n\u2705Secures our borders\n\u2705Invests in energy independence\n\nRead more at: https://t.co/eyO9gklgsY",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1747933641,
+                "view_count": 119
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=B0A79520-BBF9-44EA-817B-B854CD7C3B07"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rna2PpAcGd"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsoyfclXYAAHVXF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsoyfclXYAAHVXF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1930411032154877993",
+                "created_time": "2025-06-04T23:47:10",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930411032154877993",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The House voted to reauthorize the Substance Use Disorder Prevention that Promotes Opioid Recovery and Treatment (SUPPORT) Act, which was first signed into law in 2018 by President Trump. \n\nThe legislation has successfully expanded access to treatment and recovery opportunities, opened the door for more work-to-recovery programs, and is effectively turning the tide on the nation\u2019s drug overdose crisis. \n\nClick the link to learn more about the SUPPORT Act and how it has helped save lives in Kentucky and across the country:\nhttps://t.co/rna2PpAcGd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749080830,
+                "view_count": 446
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=FA395A0C-02FD-465E-98CF-2D7CE564C0DF"
+                ],
+                "attached_links_url": [
+                    "https://t.co/2tqtFk03sY"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GtRS6MJXQAE0Rlr.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GtRS6MJXQAE0Rlr.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1933261373854699542",
+                "created_time": "2025-06-12T20:33:24",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1933261373854699542",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "The House just passed a $9.4 Billion Rescissions Package to eliminate wasteful taxpayer spending, on things like: \n\u274cNet Zero Cities in Mexico \n\u274cElectric buses in Rwanda \n\u274cSexual reproductive health in Venezuela \n\u274cNPR's taxpayer-funded stories about \"queer animals\" \n\nTaxpayers shouldn't be funding those initiatives. We are putting America first and restoring confidence in taxpayer-funded programs. \n\nRead more @ https://t.co/2tqtFk03sY",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749760404,
+                "view_count": 289
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=3177953F-1F2D-49F8-BE85-39112AE422EF"
+                ],
+                "attached_links_url": [
+                    "https://t.co/qP33ojrNQs"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G9XV2fyXcAEa29F.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G9XV2fyXcAEa29F.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "2005746465399005623",
+                "created_time": "2025-12-29T21:03:16",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005746465399005623",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Kentucky has been awarded nearly $213 million for 2026 from the Rural Health Transformation Fund through the Centers for Medicare and Medicaid Services. The new $50 billion fund for rural healthcare was part of the Working Families Tax Cuts legislation that I voted for earlier this year. Over the next 5 years, funding will be provided through this program exclusively to advance rural healthcare. \n\nVisit my website for the full press release: https://t.co/qP33ojrNQs",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1767042196,
+                "view_count": 332
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

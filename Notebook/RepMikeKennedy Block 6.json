@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1875302141440749573",
+                "author_username": "RepMikeKennedy",
+                "community_notes": null,
+                "conversation_id": "1975651002423648375",
+                "created_time": "2025-10-07T19:54:39",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975651002423648375",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "This avoidable government shutdown is impacting 1.3 million active-duty service members, delaying checks for 1.9 million civilian employees, and leaving over 100,000 federal law-enforcement officers working without pay. It halts small-business loans and risks nutrition assistance for women and children.\n\nThe economic toll is severe: each week a shutdown drags on, it costs the nation about $15 billion in GDP and could put 43,000 Americans out of work if it lasts a month.\n\nAll while the latest proposal prioritizes funding new healthcare coverage for illegal immigrants.\n\nWe need to reopen the government and get back to legislating responsibly.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759866879,
+                "view_count": 274
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

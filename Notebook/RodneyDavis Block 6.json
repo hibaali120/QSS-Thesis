@@ -1,0 +1,103 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "993153006",
+                "author_username": "RodneyDavis",
+                "community_notes": null,
+                "conversation_id": "1540046575451471872",
+                "created_time": "2022-06-23T18:58:11",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1540046577045225478",
+                "in_reply_to_post_id": "1540046575451471872",
+                "in_reply_to_profile_id": "993153006",
+                "in_reply_to_profile_username": "RodneyDavis",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Law-abiding citizens shouldn\u2019t have to face undue burdens to exercise their Second Amendment rights so they can protect their life, family, and property.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1656010691,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1540712476014129152/img/yoWcEzmENyjyVzps.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1540712476014129152/vid/960x444/b9Kr5kBSdx_GgDr8.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 107,
+                        "id": "1540712476014129152",
+                        "url": "https://video.twimg.com/amplify_video/1540712476014129152/vid/960x444/b9Kr5kBSdx_GgDr8.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "993153006",
+                "author_username": "RodneyDavis",
+                "community_notes": null,
+                "conversation_id": "1540714940251635714",
+                "created_time": "2022-06-25T15:14:01",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1540714940251635714",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 33,
+                "retweet_count": 2,
+                "source": "Twitter Ads",
+                "text": "President Biden just signed an anti-#2A gun control bill into law this morning. I voted No on this bill yesterday.\n\nWe don\u2019t need more laws and restrictions that make it more difficult for law-abiding citizens to exercise their Constitutional rights and protect their families. https://t.co/MVpqYrZtx6",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "2a"
+                ],
+                "timestamp": 1656170041,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

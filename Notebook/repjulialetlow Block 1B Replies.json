@@ -1,0 +1,149 @@
+{
+    "politician": "repjulialetlow",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1649112703451930625",
+            "replies": []
+        },
+        {
+            "conversation_id": "1696597302612267012",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1382395679700439041",
+                    "author_username": "RepJuliaLetlow",
+                    "community_notes": null,
+                    "conversation_id": "1696597302612267012",
+                    "created_time": "2023-08-29T18:54:53",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1696597303929246028",
+                    "in_reply_to_post_id": "1696597302612267012",
+                    "in_reply_to_profile_id": "1382395679700439041",
+                    "in_reply_to_profile_username": "RepJuliaLetlow",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "I along with my family and fellow Louisianans offer our hands and our hearts as we stand by his side while he overcomes this next challenge.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1693335293,
+                    "view_count": 293
+                }
+            ]
+        },
+        {
+            "conversation_id": "1970958245977338033",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1924944058235158529",
+                    "author_username": "XtremelyRetired",
+                    "community_notes": null,
+                    "conversation_id": "1970958245977338033",
+                    "created_time": "2025-09-28T01:52:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1972117153294749928",
+                    "in_reply_to_post_id": "1970958245977338033",
+                    "in_reply_to_profile_id": "1382395679700439041",
+                    "in_reply_to_profile_username": "RepJuliaLetlow",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJuliaLetlow @WomansHospital Why did President Trump and Secretary Kennedy defund cancer research?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJuliaLetlow",
+                        "WomansHospital"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1382395679700439041",
+                        "20534901"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759024344,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1839787339897360384",
+                    "author_username": "aarr_org",
+                    "community_notes": null,
+                    "conversation_id": "1970958245977338033",
+                    "created_time": "2025-09-24T21:13:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1970959736331014380",
+                    "in_reply_to_post_id": "1970958245977338033",
+                    "in_reply_to_profile_id": "1382395679700439041",
+                    "in_reply_to_profile_username": "RepJuliaLetlow",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJuliaLetlow @WomansHospital \ud83d\udcaf - early detection is crucial to achieving a better outcome from this horrible disease that impacts so many Americans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJuliaLetlow",
+                        "WomansHospital"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1382395679700439041",
+                        "20534901"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758748394,
+                    "view_count": 13
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,404 @@
+{
+    "politician": "SanfordBishop",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1487122079254204420",
+            "replies": []
+        },
+        {
+            "conversation_id": "1545558352679272448",
+            "replies": []
+        },
+        {
+            "conversation_id": "1572693825381961733",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "250753823",
+                    "author_username": "albert_cashier",
+                    "community_notes": null,
+                    "conversation_id": "1572693825381961733",
+                    "created_time": "2022-09-22T13:26:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1572940379460182017",
+                    "in_reply_to_post_id": "1572693825381961733",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop @HHSGov Congratulations. That's awesome.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop",
+                        "HHSGov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485",
+                        "44783853"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663853184,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1601291407922462720",
+            "replies": []
+        },
+        {
+            "conversation_id": "1628842422493913089",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1628842422493913089",
+                    "created_time": "2023-02-24T02:40:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1628947839622557700",
+                    "in_reply_to_post_id": "1628842422493913089",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop The high oil and gas prices in the US are being attributed to Putin's responsibility",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1677206404,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1628884909304471553",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1628884909304471553",
+                    "created_time": "2023-02-24T02:39:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1628947669476311040",
+                    "in_reply_to_post_id": "1628884909304471553",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop Putin's actions are escalating, it is necessary to respond without any delay.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1677206363,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1661051739045347332",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "730926433640579072",
+                    "author_username": "StuartGlenn12",
+                    "community_notes": null,
+                    "conversation_id": "1661051739045347332",
+                    "created_time": "2023-05-23T21:27:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1661121619606089728",
+                    "in_reply_to_post_id": "1661051739045347332",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@SanfordBishop Concurrent pay for Chapter 61 retired disabled veterans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1684877230,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1896937708918018414",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "35451536",
+                    "author_username": "DaVitaDoc",
+                    "community_notes": null,
+                    "conversation_id": "1896937708918018414",
+                    "created_time": "2025-04-01T21:20:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1907181322503860673",
+                    "in_reply_to_post_id": "1896937708918018414",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop Thank you for your hard work, @SanfordBishop! Raising awareness about kidney disease is a crucial step in breaking down barriers.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1743542435,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1896937708918018414",
+                    "created_time": "2025-03-08T05:38:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1898247020709585343",
+                    "in_reply_to_post_id": "1896937708918018414",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop @sanfordbishop: March is a great time for Ukraine to take steps towards NATO membership! We're ready to join the alliance & defend our sovereignty against Russian aggression. When can we submit our membership application?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop",
+                        "sanfordbishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741412332,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1896937708918018414",
+                    "created_time": "2025-03-04T15:14:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1896942227555021134",
+                    "in_reply_to_post_id": "1896937708918018414",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SanfordBishop @sanfordbishop: March is for St. Patrick's Day, not NATO discussions. I'm ready to join ranks with allies against Russian aggression.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop",
+                        "sanfordbishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741101245,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1924230021352190103",
+            "replies": []
+        },
+        {
+            "conversation_id": "1943734073874128987",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1943734073874128987?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ozsrPbELLc"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1943734073874128987",
+                    "created_time": "2025-07-11T18:12:12",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1943735089629680011",
+                    "in_reply_to_post_id": "1943734073874128987",
+                    "in_reply_to_profile_id": "249410485",
+                    "in_reply_to_profile_username": "SanfordBishop",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Congressman Bishop\u2019s emphasis on disaster preparedness aligns with the Disaster Relief Medicaid Act (S. 2071), which mandates streamlined access to medical assistance for survivors. This bill eliminates bureaucratic barriers by allowing simplified applications and presumptive eligibility\u2014critical when disasters disrupt documentation. Section 1949 ensures coverage continuity for essentials like dialysis and mental health services, while Section 3(c) establishes HCBS emergency response corps to coordinate care.\n\nThe Act\u2019s 100% Federal matching (Section 6) prioritizes taxpayer efficiency over agency bloat. While Medicare\u2019s existing guidance helps beneficiaries navigate emergencies, systemic solutions like S. 2071 address root causes: federal overcomplication and delayed relief.\n\nPlanning matters, but structural reform matters more.\n\nCongress faces a choice between patchwork fixes and real reform\u2014see the legislative details and implications: https://t.co/ozsrPbELLc",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SanfordBishop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "249410485"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752257532,
+                    "view_count": 14
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FJPljvjWYAAawZN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FJPljvjWYAAawZN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1080515866255593472",
+                "author_username": "GovArmstrong",
+                "community_notes": null,
+                "conversation_id": "1482781155778826243",
+                "created_time": "2022-01-16T18:25:50",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1482781155778826243",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I was honored to receive the Family Award from @FaithandFreedom this week. On #ReligiousFreedomDay, we celebrate the right Americans have to freely exercise their faith and we commit to always defending that right. https://t.co/wO9J4JGVmu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FaithandFreedom"
+                ],
+                "text_tagged_users_ids": [
+                    "356929299"
+                ],
+                "text_tags": [
+                    "religiousfreedomday"
+                ],
+                "timestamp": 1642357550,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FNXJEavX0AM5AC0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FNXJEavX0AM5AC0.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1080515866255593472",
+                "author_username": "GovArmstrong",
+                "community_notes": null,
+                "conversation_id": "1501327471760732162",
+                "created_time": "2022-03-08T22:42:17",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1501327471760732162",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "It was great to visit with the North Dakota School Nutrition Association about the importance of providing nutritional meals for students and ways we can bring more local food products into our schools. https://t.co/IKSd2imKkI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1646779337,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1080515866255593472",
+                "author_username": "GovArmstrong",
+                "community_notes": null,
+                "conversation_id": "1998851825018277986",
+                "created_time": "2025-12-10T20:26:26",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998851825018277986",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "1998815308648259820",
+                "quoted_status_profile_id": "1886776365673803776",
+                "quoted_status_profile_username": "SecRollins",
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPad",
+                "text": "This waiver will lead to better health outcomes and quality of life for North Dakotans who participate in SNAP. Thank you @SecRollins for your swift approval of our waiver and for putting nutrition and the wellbeing of citizens first.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecRollins"
+                ],
+                "text_tagged_users_ids": [
+                    "1886776365673803776"
+                ],
+                "text_tags": null,
+                "timestamp": 1765398386,
+                "view_count": 1741
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

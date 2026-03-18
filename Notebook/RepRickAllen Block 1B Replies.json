@@ -1,0 +1,257 @@
+{
+    "politician": "RepRickAllen",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1734609085100933276",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1573461267834077189",
+                    "author_username": "AuntFuddyduddy",
+                    "community_notes": null,
+                    "conversation_id": "1734609085100933276",
+                    "created_time": "2023-12-13T07:48:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734842796815831392",
+                    "in_reply_to_post_id": "1734609085100933276",
+                    "in_reply_to_profile_id": "2964287128",
+                    "in_reply_to_profile_username": "RepRickAllen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRickAllen The insurance companies run our medical care, not our doctors.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRickAllen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2964287128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1702453729,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1587483046965542912",
+                    "author_username": "glennymo369",
+                    "community_notes": null,
+                    "conversation_id": "1734609085100933276",
+                    "created_time": "2023-12-12T17:29:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734626426794475793",
+                    "in_reply_to_post_id": "1734609085100933276",
+                    "in_reply_to_profile_id": "2964287128",
+                    "in_reply_to_profile_username": "RepRickAllen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRickAllen Oh well that emergency heart procedure costs too much, let me die.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRickAllen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2964287128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1702402142,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1930648317806956894",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1930648317806956894",
+                    "created_time": "2025-06-05T15:35:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1930649704527695931",
+                    "in_reply_to_post_id": "1930648317806956894",
+                    "in_reply_to_profile_id": "2964287128",
+                    "in_reply_to_profile_username": "RepRickAllen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The SUPPORT Act (H.R. 2483) throws more cash at bureaucratic programs while ignoring the root rot: Big Pharma\u2019s price-gouging and D.C.\u2019s addiction to bloated contracts. Over $80B flows through counties for \u201cbehavioral health\u201d yet overdose deaths still ravage communities. Why? Because the system\u2019s rigged to enrich middlemen and lobbyists, not save lives.\n\nReal solutions demand breaking Pharma monopolies, slashing red tape, and redirecting funds to frontline clinics\u2014not funding DEA flexibilities or \u201cpeer-run training centers\u201d that exist to justify eternal budgets.\n\nUntil Washington stops treating healthcare like a corporate kickback scheme, no reauthorization bill will fix this crisis.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRickAllen",
+                        "RepGuthrie",
+                        "HouseCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2964287128",
+                        "1908143071",
+                        "114756202"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749137733,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1969083067617649146",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1969083067617649146?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/5Jz5xqW2tI"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1969083067617649146",
+                    "created_time": "2025-09-19T17:01:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1969084561741975993",
+                    "in_reply_to_post_id": "1969083067617649146",
+                    "in_reply_to_profile_id": "2964287128",
+                    "in_reply_to_profile_username": "RepRickAllen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Safe Step Act sounds noble, but let\u2019s cut through the spin. Step therapy delays exist because insurers and PBMs profit from forcing patients through cheaper drugs first\u2014even when doctors know they won\u2019t work. This bill tweaks bureaucracy but doesn\u2019t dismantle the real problem: a rigged system where middlemen and Pharma monopolies decide care, not patients.\n\nCongress should be slashing red tape, breaking patent abuses, and exposing how insurers pocket savings instead of passing them to Americans.\n\nUntil then, bipartisan bandaids just preserve a broken status quo.\n\nSee how industry influence shapes these policies and what real reform would look like: https://t.co/5Jz5xqW2tI",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRickAllen",
+                        "RepLucyMcBath",
+                        "RepMMM",
+                        "RepRaulRuizMD",
+                        "RepBobOnder"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2964287128",
+                        "1082380458976051202",
+                        "1345807954604412929",
+                        "1089859058",
+                        "1872324445055987712"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758301317,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1995614352129306775",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1072991782793867264",
+                    "author_username": "KaPOWY",
+                    "community_notes": null,
+                    "conversation_id": "1995614352129306775",
+                    "created_time": "2025-12-01T23:52:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995642134859526352",
+                    "in_reply_to_post_id": "1995614352129306775",
+                    "in_reply_to_profile_id": "2964287128",
+                    "in_reply_to_profile_username": "RepRickAllen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRickAllen What healthcare professionals? You must of missed the list that McMahon Dept of Ed says are no longer professional degrees. \nThis administration is so much chaos Congress can\u2019t keep up.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRickAllen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2964287128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764633136,
+                    "view_count": 7
+                }
+            ]
+        }
+    ]
+}

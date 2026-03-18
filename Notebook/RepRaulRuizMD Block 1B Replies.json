@@ -1,0 +1,1305 @@
+{
+    "politician": "RepRaulRuizMD",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1518741654512963586",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "930228422957187073",
+                    "author_username": "OfficialRCDP",
+                    "community_notes": null,
+                    "conversation_id": "1518741654512963586",
+                    "created_time": "2022-04-26T00:51:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1518754523363168256",
+                    "in_reply_to_post_id": "1518741654512963586",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRaulRuizMD \ud83e\udd29",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1650934270,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1525242231216435200",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1523759198873415680",
+                    "author_username": "urbancamoflauge",
+                    "community_notes": null,
+                    "conversation_id": "1525242231216435200",
+                    "created_time": "2022-05-14T13:44:13",
+                    "favorite_count": 0,
+                    "geo_lat": 33.81594876,
+                    "geo_lon": -116.52738908,
+                    "id": "1525472049312854018",
+                    "in_reply_to_post_id": "1525242231216435200",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Palm Springs, CA",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD What about others with PTSD? I have a chronic illness and PTSD and no one gives 2 shits\u2026? PTSD affects a wide spectrum of adults. Everyone who pumps gas and others like me",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1652535853,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "http://ruiz.house.gov"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/KWA1WRVhCV"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4181788274",
+                    "author_username": "fanofwalt",
+                    "community_notes": null,
+                    "conversation_id": "1525242231216435200",
+                    "created_time": "2022-05-13T22:39:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1525244272630329346",
+                    "in_reply_to_post_id": "1525242231216435200",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD \ud83d\udc4b\ud83c\udffc @RepRaulRuizMD & staff \ud83d\udea8 \n\nThe link to your office is not working. I\u2019ve tried to load it several times today (other sites load fine). Please check on your end.\n\nhttps://t.co/KWA1WRVhCV",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1652481546,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1540130081938497536",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549567266135584768",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549884355039961088",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FYM_TKoUEAEcElF.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FYM_TKoUEAEcElF.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1454834302688980996",
+                    "author_username": "IWalkaloneatsun",
+                    "community_notes": null,
+                    "conversation_id": "1549884355039961088",
+                    "created_time": "2022-07-21T16:14:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1550152297367232518",
+                    "in_reply_to_post_id": "1549884355039961088",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRaulRuizMD @IHSgov @POTUS What about the people  left behind  with these hydrogen bus here at sunline Transit  tax payers at work https://t.co/0Qiub0Z3eF",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "IHSgov",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "911306494536224768",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1658420082,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1402113848115568641",
+                    "author_username": "IILLUSION8",
+                    "community_notes": null,
+                    "conversation_id": "1549884355039961088",
+                    "created_time": "2022-07-21T06:43:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1550008473374470145",
+                    "in_reply_to_post_id": "1549884355039961088",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @IHSgov @POTUS \ud83d\udd95your a joke\ud83d\udd95a water boy for the corporate overlords\u2692\ufe0fhow many dead in Ukraine you evil thing\ud83d\udd95now Pelosi will go to Taiwan to really push ww3\ud83d\udd95PURE EVIL\ud83d\udd95\ud83d\uded1PULL NATO BACK FROM THE BORDERS OF RUSSIA AND CHINA\ud83d\udd95NOW\ud83d\udd95END THE DEMOC--RATS THIS NOV WHO STAND AGAINST SOCIAL SECURITY",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "IHSgov",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "911306494536224768",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1658385792,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://goo.gl/maps/CkTUNtm4UYNtydXG7"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/1Ls1ieZ944"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "16088799",
+                    "author_username": "irishfiregirrl",
+                    "community_notes": null,
+                    "conversation_id": "1549884355039961088",
+                    "created_time": "2022-07-20T22:51:37",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1549889794498408448",
+                    "in_reply_to_post_id": "1549884355039961088",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepRaulRuizMD @IHSgov @POTUS Off Sage Road south of Hemet, Desert Sage Youth Wellness Center\nhttps://t.co/1Ls1ieZ944",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "IHSgov",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "911306494536224768",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1658357497,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1561865808623456256",
+            "replies": []
+        },
+        {
+            "conversation_id": "1569476074135863302",
+            "replies": []
+        },
+        {
+            "conversation_id": "1572042865429151748",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FdEIHgXXoAAyZXG.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FdEIHgXXoAAyZXG.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1341590539473481728",
+                    "author_username": "RudyPerdue2",
+                    "community_notes": null,
+                    "conversation_id": "1572042865429151748",
+                    "created_time": "2022-09-20T02:15:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1572046671730581504",
+                    "in_reply_to_post_id": "1572042865429151748",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRaulRuizMD @1zzyzyx1 https://t.co/BKPFVTGK1h",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "1zzyzyx1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "760694335356690432"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663640108,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1574949515848826880",
+            "replies": []
+        },
+        {
+            "conversation_id": "1626000908042530819",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "20562461",
+                    "author_username": "Shanny415",
+                    "community_notes": null,
+                    "conversation_id": "1626000908042530819",
+                    "created_time": "2023-02-15T23:57:29",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1626007821245620224",
+                    "in_reply_to_post_id": "1626000908042530819",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @EasternMuni Did I miss your efforts to call out @GavinNewsom regarding the 200%+ increase in our electrical and heating bills with hidden fees??",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "EasternMuni",
+                        "GavinNewsom"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "65770648",
+                        "11347122"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1676505449,
+                    "view_count": 28
+                }
+            ]
+        },
+        {
+            "conversation_id": "1639432661046550529",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FsF752EX0AIp9oY.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FsF752EX0AIp9oY.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1554175709526085633",
+                    "author_username": "JilongLi11",
+                    "community_notes": null,
+                    "conversation_id": "1639432661046550529",
+                    "created_time": "2023-03-25T20:36:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1639727975351418881",
+                    "in_reply_to_post_id": "1639432661046550529",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRaulRuizMD @HSLegFund https://t.co/xeYs88ioME",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679776588,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FsF7v61WIAIQDdK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FsF7v61WIAIQDdK.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1554175709526085633",
+                    "author_username": "JilongLi11",
+                    "community_notes": null,
+                    "conversation_id": "1639432661046550529",
+                    "created_time": "2023-03-25T20:35:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1639727805461135362",
+                    "in_reply_to_post_id": "1639432661046550529",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRaulRuizMD @HSLegFund https://t.co/fe7z4xUiAO",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679776548,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1639626000647565315/pu/img/YVhsgirWsniBCgWE.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1639626000647565315/pu/vid/1280x720/ile2bl65iSPaG52O.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 139,
+                            "id": "1639626000647565315",
+                            "url": "https://video.twimg.com/ext_tw_video/1639626000647565315/pu/vid/1280x720/ile2bl65iSPaG52O.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1639432661046550529",
+                    "created_time": "2023-03-25T13:51:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1639626127781101568",
+                    "in_reply_to_post_id": "1639432661046550529",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @HSLegFund https://t.co/kV1g8YCBaH",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679752306,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1639570471342489600/pu/img/Sj9p9DsZfreOSS1e.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1639570471342489600/pu/vid/360x640/CD6NZ-Bjnv0oJr-q.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 45,
+                            "id": "1639570471342489600",
+                            "url": "https://video.twimg.com/ext_tw_video/1639570471342489600/pu/vid/360x640/CD6NZ-Bjnv0oJr-q.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1636779125112291335",
+                    "author_username": "cici24330597786",
+                    "community_notes": null,
+                    "conversation_id": "1639432661046550529",
+                    "created_time": "2023-03-25T10:10:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1639570505215754242",
+                    "in_reply_to_post_id": "1639432661046550529",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @HSLegFund https://t.co/txrZWWe9BR",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679739044,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1648099018046861312",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://open.substack.com/pub/karadansky/p/why-progressives-should-support-the?r=cxniq&utm_campaign=post&utm_medium=web"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/LP0Y00mWWA"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "26196329",
+                    "author_username": "charsskull",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-20T18:26:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1649117333372411904",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup Your vote on H.R.734 shows that you are most likely to be complicit in supporting affirmative care for kids and teens seeking to self harm in name of gender identity ideology. https://t.co/LP0Y00mWWA",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1682015186,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FuCmCnkaYAEqdAD.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FuCmCnkaYAEqdAD.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1595261859359166465",
+                    "author_username": "Gh71990625Gh",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-19T01:33:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648500054259535879",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup https://t.co/iy6tvAgs7i",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681868015,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1648451028025757702/pu/img/Ka_dgzDBwOn9WpJl.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1648451028025757702/pu/vid/1280x720/n4qfDevakLuP_l-L.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 139,
+                            "id": "1648451028025757702",
+                            "url": "https://video.twimg.com/ext_tw_video/1648451028025757702/pu/vid/1280x720/n4qfDevakLuP_l-L.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-18T22:19:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648451154966364161",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup https://t.co/lm8PEMrB8l",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681856356,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FuBpvzQWAAAzgxI.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FuBpvzQWAAAzgxI.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1166755520520368129",
+                    "author_username": "frank45663637",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-18T21:10:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648433737074618368",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup https://t.co/7qjeDe44lR",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681852203,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FuBlLxqaMAADnN8.jpg?name=small",
+                        "https://pbs.twimg.com/media/FuBlLxoacAApDPx.jpg?name=small",
+                        "https://pbs.twimg.com/media/FuBlLxrakAEJfuA.jpg?name=small",
+                        "https://pbs.twimg.com/media/FuBlLxuaAAAx3xm.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FuBlLxqaMAADnN8.jpg",
+                        "https://pbs.twimg.com/media/FuBlLxoacAApDPx.jpg",
+                        "https://pbs.twimg.com/media/FuBlLxrakAEJfuA.jpg",
+                        "https://pbs.twimg.com/media/FuBlLxuaAAAx3xm.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1472443978641334272",
+                    "author_username": "milesmolly2008",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-18T20:50:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648428726580047872",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup #FreeMilesGuo #FreeYvetteWang #DOJ #FBI #SEC #TakeDownTheCCP https://t.co/ndDpr0fdqw",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": [
+                        "doj",
+                        "fbi",
+                        "freemilesguo",
+                        "freeyvettewang",
+                        "sec",
+                        "takedowntheccp"
+                    ],
+                    "timestamp": 1681851009,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1485552343135444994",
+                    "author_username": "MaryRaw23562101",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-18T14:25:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648331822877515776",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup Watch Comer, this is how you ask questions if you REALLY want to know the answers. Since you apparently DO NOT care how Covid happened.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681827905,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1485552343135444994",
+                    "author_username": "MaryRaw23562101",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-18T14:19:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648330468859826177",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup You sound asinine. Biden, Biden... cut the crap. Do your job. If it was a lab leak, then stop defending the CCP.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681827582,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4181788274",
+                    "author_username": "fanofwalt",
+                    "community_notes": null,
+                    "conversation_id": "1648099018046861312",
+                    "created_time": "2023-04-17T23:08:48",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648101233310453760",
+                    "in_reply_to_post_id": "1648099018046861312",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD @RepBradWenstrup Thank you, @RepRaulRuizMD!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "RepBradWenstrup"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "518644221"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681772928,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1809223498998415868",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1630260318919348224",
+                    "author_username": "JohnBoyCali",
+                    "community_notes": null,
+                    "conversation_id": "1809223498998415868",
+                    "created_time": "2024-07-05T14:55:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1809239641134186737",
+                    "in_reply_to_post_id": "1809223498998415868",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @EasternMuni @CitySanJacinto @hemetgov So what about the Ruiz backed democrat open border? Fentynal deaths by the thousands, rape, murder, human trafficking and now weapons coming across.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "EasternMuni",
+                        "CitySanJacinto",
+                        "hemetgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "65770648",
+                        "922890311063388160",
+                        "34415381"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1720191319,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1809230405444272128/pu/img/4u2OevIVEh-7N5TU.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1809230405444272128/pu/vid/avc1/852x480/_Z1Yt2aCRMQONQv6.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 98,
+                            "id": "1809230405444272128",
+                            "url": "https://video.twimg.com/ext_tw_video/1809230405444272128/pu/vid/avc1/852x480/_Z1Yt2aCRMQONQv6.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1681310994914742281",
+                    "author_username": "Sophia510134371",
+                    "community_notes": null,
+                    "conversation_id": "1809223498998415868",
+                    "created_time": "2024-07-05T14:18:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1809230469579292900",
+                    "in_reply_to_post_id": "1809223498998415868",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRaulRuizMD @EasternMuni @CitySanJacinto @hemetgov https://t.co/s5a4ogP4Jh",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "EasternMuni",
+                        "CitySanJacinto",
+                        "hemetgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "65770648",
+                        "922890311063388160",
+                        "34415381"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1720189132,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1816845572969582685",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1089859058",
+                    "author_username": "RepRaulRuizMD",
+                    "community_notes": null,
+                    "conversation_id": "1816845572969582685",
+                    "created_time": "2024-07-26T14:38:35",
+                    "favorite_count": 8,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1816845577134768503",
+                    "in_reply_to_post_id": "1816845572969582685",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 7,
+                    "source": "Twitter for iPhone",
+                    "text": "This bill will provide Medicare coverage for innovative multi-cancer early detection screening tests, improve early cancer diagnosis and save lives. As an emergency physician, I am dedicated to advancing health care every day in Congress!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1722004715,
+                    "view_count": 428
+                }
+            ]
+        },
+        {
+            "conversation_id": "1937906777447633157",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1780001336873922560",
+                    "author_username": "Drnanny312",
+                    "community_notes": null,
+                    "conversation_id": "1937906777447633157",
+                    "created_time": "2025-06-26T04:05:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1938086262721728519",
+                    "in_reply_to_post_id": "1937906777447633157",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRaulRuizMD You are lying. Ectopic pregnancy surgery is not considered abortion by anyone. Having an abortion so you will look great in your prom dress is a whole different (and sick) ballgame.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1750910747,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1970616081547919816",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1970616081547919816?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/IAmAzwDyXz"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1970616081547919816",
+                    "created_time": "2025-09-23T22:31:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1970616930751938883",
+                    "in_reply_to_post_id": "1970616081547919816",
+                    "in_reply_to_profile_id": "1089859058",
+                    "in_reply_to_profile_username": "RepRaulRuizMD",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Nancy Gardner Sewell Medicare Multi-Cancer Early Detection Screening Coverage Act (S.339) pours $2.8B into unproven blood tests while restricting coverage to those under 68. Early detection matters, but Section 2(b) ties payments to outdated stool DNA test rates, creating perverse incentives for labs to prioritize volume over accuracy.\n\nThe American Cancer Society notes these tests have 40% false-positive rates, meaning billions wasted chasing phantom cancers through unnecessary biopsies and scans.\n\nMedicare should focus on improving existing screenings for breast, lung, and colon cancers where early intervention works\u2014not fund speculative tech that enriches biotech firms while leaving seniors with higher Part B premiums.\n\nCongress is gambling taxpayer dollars on hype over evidence\u2014see the full breakdown: https://t.co/IAmAzwDyXz",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRaulRuizMD",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1089859058",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758666663,
+                    "view_count": 43
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999635728016535809",
+            "replies": []
+        }
+    ]
+}

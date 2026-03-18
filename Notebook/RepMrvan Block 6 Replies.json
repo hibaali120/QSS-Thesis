@@ -1,0 +1,147 @@
+{
+    "politician": "RepMrvan",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1758144055232344422",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2417587220",
+                    "author_username": "Buzzy219",
+                    "community_notes": null,
+                    "conversation_id": "1758144055232344422",
+                    "created_time": "2024-02-18T13:44:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1759212411150615015",
+                    "in_reply_to_post_id": "1758144055232344422",
+                    "in_reply_to_profile_id": "1346205046036377601",
+                    "in_reply_to_profile_username": "RepMrvan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMrvan Show me a man that gets rich by being a politician and I'll show you a crook. -Harry Truman\n\nNancy Pelosi\nAnnual salary: $223,000\nNet worth: $202 million \n\nMitch McConnell\nAnnual salary: $200,000\nNet worth: $95 million \n\nChuck Schumer\nAnnual salary: $210,000\nNet worth: $75",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMrvan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1346205046036377601"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1708263898,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1856445249977000005",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1856445249977000005",
+                    "created_time": "2024-11-14T08:49:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1856982751255122384",
+                    "in_reply_to_post_id": "1856445249977000005",
+                    "in_reply_to_profile_id": "1346205046036377601",
+                    "in_reply_to_profile_username": "RepMrvan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMrvan @RepMrvan Thank you for supporting Ukraine with the military aid package. We appreciate it greatly. We humbly ask for NATO membership to protect our nation.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMrvan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1346205046036377601"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1731574163,
+                    "view_count": 28
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1856445249977000005",
+                    "created_time": "2024-11-14T00:31:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1856857567558795697",
+                    "in_reply_to_post_id": "1856445249977000005",
+                    "in_reply_to_profile_id": "1346205046036377601",
+                    "in_reply_to_profile_username": "RepMrvan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMrvan Thank you, @RepMrvan, for supporting health initiatives in Merrillville. Ukrainian people are grateful for US aid and urge NATO to welcome Ukraine for security. \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8 #NATOforUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMrvan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1346205046036377601"
+                    ],
+                    "text_tags": [
+                        "natoforukraine"
+                    ],
+                    "timestamp": 1731544317,
+                    "view_count": 7
+                }
+            ]
+        }
+    ]
+}

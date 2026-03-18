@@ -1,0 +1,54 @@
+{
+    "politician": "RepDannyDavis",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1842204810344337786",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1667636176533221376",
+                    "author_username": "TomBussePDX",
+                    "community_notes": null,
+                    "conversation_id": "1842204810344337786",
+                    "created_time": "2024-10-05T16:43:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842606590249333182",
+                    "in_reply_to_post_id": "1842204810344337786",
+                    "in_reply_to_profile_id": "789244177",
+                    "in_reply_to_profile_username": "RepDannyDavis",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDannyDavis I'm aware of SIDS. It usually happens after a vaccination, but we're not allowed to talk about that.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDannyDavis"
+                    ],
+                    "text_tagged_users_ids": [
+                        "789244177"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728146619,
+                    "view_count": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1376252790",
+                "author_username": "MattForMontana",
+                "community_notes": null,
+                "conversation_id": "1651999140061098009",
+                "created_time": "2023-04-28T17:17:42",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1651999140061098009",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1651940240544739329",
+                "quoted_status_profile_id": "1345536897838436353",
+                "quoted_status_profile_username": "RepBobGood",
+                "reply_count": 10,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "We know the Senate has a busy schedule. \ud83d\ude44\n\nBut I would hope they could make time to pass legislation which protects Social Security, Medicare and veterans benefits!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1682702262,
+                "view_count": 1499
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

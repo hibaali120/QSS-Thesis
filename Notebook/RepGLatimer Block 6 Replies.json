@@ -1,0 +1,343 @@
+{
+    "politician": "RepGLatimer",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1922376535631094092",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Gq3uPInXoAAgI0O.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Gq3uPInXoAAgI0O.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1685911699780694017",
+                    "author_username": "bigbrother__d",
+                    "community_notes": null,
+                    "conversation_id": "1922376535631094092",
+                    "created_time": "2025-05-14T00:51:00",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922454564688589287",
+                    "in_reply_to_post_id": "1922376535631094092",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer https://t.co/XhcI8qsU1n",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747183860,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1922376535631094092",
+                    "created_time": "2025-05-13T19:46:24",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922377909815103773",
+                    "in_reply_to_post_id": "1922376535631094092",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Cutting Medicaid to fund tax breaks? Classic D.C. Bureaucrats burn billions on bloated contracts and pharma kickbacks, then cry poverty when it\u2019s time to protect vulnerable Americans.\n\nThe ACA\u2019s Medicaid expansion costs taxpayers $1.9 trillion over a decade\u2014imagine redirecting that cash to slash drug prices, crack down on hospital price-gouging, and break Big Pharma\u2019s monopoly.\n\nReal reform isn\u2019t about coverage numbers\u2014it\u2019s about fixing a rigged system where middlemen profit while patients suffer.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747165584,
+                    "view_count": 35
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1863611233230024704",
+                    "author_username": "RepGLatimer",
+                    "community_notes": null,
+                    "conversation_id": "1922376535631094092",
+                    "created_time": "2025-05-13T19:40:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922376536688128337",
+                    "in_reply_to_post_id": "1922376535631094092",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "TweetDeck Web App",
+                    "text": "This budget also \"defunds\" Planned Parenthood. One in three women have accessed healthcare at Planned Parenthood to receive birth control, wellness exams or cancer screenings. This is a dangerous effort to serve an outdated, anti-woman political ideology. 2/5",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1747165257,
+                    "view_count": 164
+                }
+            ]
+        },
+        {
+            "conversation_id": "1945574813239476583",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/sabbysabs2/status/1945657902997336522?s=46"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/HYERnn8v0E"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1876821945414721536",
+                    "author_username": "NOTOtoinfinity",
+                    "community_notes": null,
+                    "conversation_id": "1945574813239476583",
+                    "created_time": "2025-07-18T15:22:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1946229048621084908",
+                    "in_reply_to_post_id": "1945574813239476583",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer https://t.co/HYERnn8v0E",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752852139,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/TrackAIPAC/status/1945968354558382524"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/B8ZMAKo9Rl"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1746577205612748800",
+                    "author_username": "__QB_QB__",
+                    "community_notes": null,
+                    "conversation_id": "1945574813239476583",
+                    "created_time": "2025-07-17T23:36:17",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945990971939766334",
+                    "in_reply_to_post_id": "1945574813239476583",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer \"We have abandoned our moral standing\" \u2014 including yourself.\n\nhttps://t.co/B8ZMAKo9Rl",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752795377,
+                    "view_count": 122
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GwF9HYSXgAEeb4J.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GwF9HYSXgAEeb4J.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1636760789112750080",
+                    "author_username": "idreamofnene23",
+                    "community_notes": null,
+                    "conversation_id": "1945574813239476583",
+                    "created_time": "2025-07-17T22:29:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945974082660380719",
+                    "in_reply_to_post_id": "1945574813239476583",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer You don\u2019t care you support Israel\u2019s blockade in Gaza. https://t.co/n4aKSQ1hOm",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752791350,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/RepThomasMassie/status/1945237281096229095"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/7Bqg4AAdxs"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1521707436851314689",
+                    "author_username": "SDegidon",
+                    "community_notes": null,
+                    "conversation_id": "1945574813239476583",
+                    "created_time": "2025-07-16T21:11:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945592158213267639",
+                    "in_reply_to_post_id": "1945574813239476583",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer As a constituent and fellow-American, I urge you to cosponsor @RepThomasMassie's bill to force the Trump Administration to fully release the Epstein Files.\nAbuse survivors deserve it, and the public needs it to restore trust in our institutions:\nhttps://t.co/7Bqg4AAdxs",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer",
+                        "RepThomasMassie"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704",
+                        "975200486"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752700292,
+                    "view_count": 37
+                }
+            ]
+        },
+        {
+            "conversation_id": "1951760670397288637",
+            "replies": []
+        },
+        {
+            "conversation_id": "1991542226053177756",
+            "replies": []
+        }
+    ]
+}

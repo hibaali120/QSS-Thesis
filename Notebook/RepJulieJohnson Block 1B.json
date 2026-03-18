@@ -1,0 +1,150 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GuKXm5hXYAAJgQx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GuKXm5hXYAAJgQx.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1937495930481136023",
+                "created_time": "2025-06-24T13:00:01",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937495930481136023",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web Client",
+                "text": "3 years ago today, Roe was overturned. Since then, women have been denied care, criminalized for miscarriages, and forced to flee their home states for basic treatment. This is not freedom \u2014 it\u2019s government control. We can\u2019t fix it in this Congress. But we can fight like hell.\n\n#DobbsvsJackson #BansOffOurBodies #ChangeIsInHerHands #TX32",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750770001,
+                "view_count": 457
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1966566259211825654",
+                "created_time": "2025-09-12T18:15:07",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1966566259211825654",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1965541805686227134",
+                "quoted_status_profile_id": "1392282998",
+                "quoted_status_profile_username": "EqualityCaucus",
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "This week, Republicans pushed through their defense policy bill with harmful anti-#LGBTQ provisions.\n\nInstead of focusing on supporting servicemembers and families, they chose discrimination.\n\nI voted NO because every servicemember deserves dignity, respect, and equal treatment.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "lgbtq"
+                ],
+                "timestamp": 1757700907,
+                "view_count": 2015
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1970213793360691200/img/rlcJchyE9eo-8SWC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1970213793360691200/vid/avc1/1080x1920/90O8CXlBQW16XDgA.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 127,
+                        "id": "1970213793360691200",
+                        "url": "https://video.twimg.com/amplify_video/1970213793360691200/vid/avc1/1080x1920/90O8CXlBQW16XDgA.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1970999438585004083",
+                "created_time": "2025-09-24T23:51:00",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970999438585004083",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Since 2003, PEPFAR, the U.S. President\u2019s Emergency Plan for AIDS Relief, has saved 26 million lives & provided treatment to more than 20 million people worldwide.\n\nBut today, Trump & Republicans are undermining one of America\u2019s greatest bipartisan successes. @HouseForeign https://t.co/v52vkDB31t",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseForeign"
+                ],
+                "text_tagged_users_ids": [
+                    "61206798"
+                ],
+                "text_tags": null,
+                "timestamp": 1758757860,
+                "view_count": 377
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

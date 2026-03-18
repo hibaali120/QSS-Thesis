@@ -1,0 +1,1231 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FUcmUL4XwAIXvZ3.jpg?name=small",
+                    "https://pbs.twimg.com/media/FUcmUL1X0AIbOxF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FUcmUL4XwAIXvZ3.jpg",
+                    "https://pbs.twimg.com/media/FUcmUL1X0AIbOxF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1533236332356567042",
+                "created_time": "2022-06-04T23:56:42",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1533236332356567042",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "#TeamBarrag\u00e1n was out in #CA44 this weekend! \n\nYesterday we joined @first5la, @providence Wilmington Wellness Ctr, & Best Start Wilmington at @lahcedu.\n\nGreat to see after 3 years of hard work the creation of a safe decorative crosswalk to help residents cross Figueroa safely! https://t.co/yPjzETLVrR",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "First5LA",
+                    "providence",
+                    "lahcedu"
+                ],
+                "text_tagged_users_ids": [
+                    "85369984",
+                    "831935904918892544",
+                    "3194549336"
+                ],
+                "text_tags": [
+                    "ca44",
+                    "teambarrag\u00e1n"
+                ],
+                "timestamp": 1654387002,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1545519177485762566",
+                "created_time": "2022-07-08T21:24:20",
+                "favorite_count": 34,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1545519177485762566",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1545447455558406145",
+                "quoted_status_profile_id": "1349149096909668363",
+                "quoted_status_profile_username": "POTUS46Archive",
+                "reply_count": 0,
+                "retweet_count": 15,
+                "source": "Twitter for iPhone",
+                "text": "Thank you\u00a0@POTUS\u00a0Biden for signing an Executive Order to protect access to contraceptives, safeguard clinics and providers, and defend patient data as they exercise their right to choose.\n\u00a0\nOur work is not done. We MUST codify Roe to ensure abortion access is legal everywhere.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1657315460,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FZBdtRvXwAI_Ytw.jpg?name=small",
+                    "https://pbs.twimg.com/media/FZBdtRtXoAMN7lY.jpg?name=small",
+                    "https://pbs.twimg.com/media/FZBdtRuWYAcMffn.jpg?name=small",
+                    "https://pbs.twimg.com/media/FZBdtRtX0AErftx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FZBdtRvXwAI_Ytw.jpg",
+                    "https://pbs.twimg.com/media/FZBdtRtXoAMN7lY.jpg",
+                    "https://pbs.twimg.com/media/FZBdtRuWYAcMffn.jpg",
+                    "https://pbs.twimg.com/media/FZBdtRtX0AErftx.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1553844910431805441",
+                "created_time": "2022-07-31T20:47:50",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1553844910431805441",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "#TeamBarrag\u00e1n in the community last week.\n\nAt the Grand Reopening of @WLCAC Bradley Senior Center! \n\nThe center is a vital resource for seniors, offering health & wellness programs, education workshops, & free transportation to appointments in South LA. #CA44 #Watts #WLCAC https://t.co/oHGbOcUbqS",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WLCAC"
+                ],
+                "text_tagged_users_ids": [
+                    "76391217"
+                ],
+                "text_tags": [
+                    "ca44",
+                    "teambarrag\u00e1n",
+                    "watts",
+                    "wlcac"
+                ],
+                "timestamp": 1659300470,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1612607002085134337/pu/img/XxGi9UuIOLcw6XQ3.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1612607002085134337/pu/vid/1280x720/0t9VdNf9ecX4Cysc.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 45,
+                        "id": "1612607002085134337",
+                        "url": "https://video.twimg.com/ext_tw_video/1612607002085134337/pu/vid/1280x720/0t9VdNf9ecX4Cysc.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1612607790052245506",
+                "created_time": "2023-01-10T00:30:32",
+                "favorite_count": 71,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1612607790052245506",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 24,
+                "source": "Twitter Web App",
+                "text": "Well, Republicans finally elected a Speaker & gaveled in the 118th Congress.\n\nNow they\u2019re trying to force rules that attack abortion rights & double down on the inhumane treatment of migrants.\n\nAND a bill that protects wealthy tax cheats.\n\nRidiculous.\n\nMy speech: \ud83d\udc47\ud83c\udffd https://t.co/Gv3lzMVidg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1673310632,
+                "view_count": 5147
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FoJt4OHXgAEaeh8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FoJt4OHXgAEaeh8.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1621979632487604229",
+                "created_time": "2023-02-04T21:10:53",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1621979632487604229",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Cancer is not a one size fits all diagnosis. It is an aggressive disease that impacts millions of Americans each year - especially communities of color.\n\nThis Word Cancer Day I encourage everyone to seek preventative care and screening. #WCD2023 https://t.co/TQaXPzs8JM",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "wcd2023"
+                ],
+                "timestamp": 1675545053,
+                "view_count": 1237
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FoY-anLXgAEdp3E.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FoY-anLXgAEdp3E.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1623053588745318403",
+                "created_time": "2023-02-07T20:18:25",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1623053588745318403",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Today we recognize the disproportionate impact the HIV & AIDS epidemic has on Black communities, & raise awareness of the barriers that many face in seeking treatment.\n \nOn #NBHAAD we work to increase awareness of HIV stigma & barriers, & improve access to treatment for all. https://t.co/WqySzVtaMU",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nbhaad"
+                ],
+                "timestamp": 1675801105,
+                "view_count": 1315
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://FindSupport.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/YCIPwYf6eZ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1654186837869576194",
+                "created_time": "2023-05-04T18:10:50",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1654186837869576194",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1654154684498624515",
+                "quoted_status_profile_id": "24959108",
+                "quoted_status_profile_username": "samhsagov",
+                "reply_count": 1,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Today @HHSgov launched https://t.co/YCIPwYf6eZ to help people navigate how to find support or treatment options for issues with mental health, drugs, or alcohol.\n\nTool identifies support based on insurance status & helps users book an appointment w/ a healthcare provider. More\ud83d\udc47\ud83c\udffd",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HHSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "44783853"
+                ],
+                "text_tags": null,
+                "timestamp": 1683223850,
+                "view_count": 951
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1669181392675037185",
+                "created_time": "2023-06-15T03:13:50",
+                "favorite_count": 9,
+                "geo_lat": 38.87924748,
+                "geo_lon": -77.035399,
+                "id": "1669181392675037185",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": "US",
+                "place_country_name": "United States",
+                "place_full_name": "Washington, DC",
+                "place_type": "city",
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1669163183788134400",
+                "quoted_status_profile_id": "1161343751580602369",
+                "quoted_status_profile_username": "DispatcherIlwu",
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\ud83d\udc4f\ud83c\udffe\n\nGlad @ilwulongshore & @WestCoastPorts reached a tentative agreement that respects the value of our longshore workers.\n\nI stand with our #ILWU workers to ensure they get the treatment they deserve. \n\nShout out @JulieSuCA for her leadership at the negotiation table.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ilwulongshore",
+                    "WestCoastPorts",
+                    "juliesuca"
+                ],
+                "text_tagged_users_ids": [
+                    "1394376987582504961",
+                    "1004893896097198085",
+                    "1415046591895900160"
+                ],
+                "text_tags": [
+                    "ilwu"
+                ],
+                "timestamp": 1686798830,
+                "view_count": 1835
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F0H5zmWXgAQlXa2.jpg?name=small",
+                    "https://pbs.twimg.com/media/F0H5zmWWwAEa-oz.jpg?name=small",
+                    "https://pbs.twimg.com/media/F0H5zmWWAAEjcEU.jpg?name=small",
+                    "https://pbs.twimg.com/media/F0H5zmXWYAAh6dQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F0H5zmWXgAQlXa2.jpg",
+                    "https://pbs.twimg.com/media/F0H5zmWWwAEa-oz.jpg",
+                    "https://pbs.twimg.com/media/F0H5zmWWAAEjcEU.jpg",
+                    "https://pbs.twimg.com/media/F0H5zmXWYAAh6dQ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1675895324978692099",
+                "created_time": "2023-07-03T15:52:36",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1675895324978692099",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Inspiring visit w/the beautiful children of Tanzania, community leaders & health workers to learn about efforts to combat health & nutrition challenges.\n\nWe must continue to support efforts by \u00a0@UN,\u00a0@unfoundation, @UNICEF\u00a0&\u00a0@FAO\u00a0to address children\u2019s malnutrition. https://t.co/ZEqtNCsD0Q",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "UN",
+                    "unfoundation",
+                    "UNICEF",
+                    "FAO"
+                ],
+                "text_tagged_users_ids": [
+                    "14159148",
+                    "39511166",
+                    "33933259",
+                    "19649135"
+                ],
+                "text_tags": null,
+                "timestamp": 1688399556,
+                "view_count": 826
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.va.gov/resources/the-pact-act-and-your-va-benefits/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/WCvZ3T6t5s"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F2iA4whXsAAVxL0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F2iA4whXsAAVxL0.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1686739793986625536",
+                "created_time": "2023-08-02T14:04:39",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1686739793986625536",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8ATTN #CA44 Veterans!\n\n@DeptVetAffairs has announced an expansion of VA benefits under the PACT Act, which helps Veterans exposed to toxic substances during their service.\n\nIn addition to treatment for toxic exposure, Veterans can now qualify for breast cancer risk assessments, mammograms, and other forms of preventative care regardless of age.\n\nFind out more about your benefits at:\u00a0https://t.co/WCvZ3T6t5s",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DeptVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "78408666"
+                ],
+                "text_tags": [
+                    "ca44"
+                ],
+                "timestamp": 1690985079,
+                "view_count": 1239
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F5MA1PjXYAAbc3Q.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F5MA1PjXYAAbc3Q.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1698702402835096037",
+                "created_time": "2023-09-04T14:19:47",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1698702402835096037",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Happy Labor Day!\n\nIt\u2019s been a summer of Labor solidarity across America - as workers fight for fair wages, worker protections, & better conditions.\n\nProud to stand w/ our workers for fair deals & better conditions & support their exercise of collective strength. #LaborDay https://t.co/uHFQPnFuRi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "laborday"
+                ],
+                "timestamp": 1693837187,
+                "view_count": 776
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GDleCOdXUAAzNhv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GDleCOdXUAAzNhv.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1745529864705159259",
+                "created_time": "2024-01-11T19:35:24",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1745529864705159259",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "My mom and dad worked incredibly hard so their kids could have a bright future.\n\nThreats to child healthcare, education, & nutrition mean we have to continue to fight & make children a priority. Honored to be named a @Campaign4Kids Champion for Children! https://t.co/SvWCl4uzxZ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Campaign4Kids"
+                ],
+                "text_tagged_users_ids": [
+                    "197567344"
+                ],
+                "text_tags": null,
+                "timestamp": 1705001724,
+                "view_count": 1169
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFgAGJ4W4AAowKw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFgAGJ4W4AAowKw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1754152163985539279",
+                "created_time": "2024-02-04T14:37:21",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1754152163985539279",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Cancer is not a one size fits all diagnosis. It is an aggressive disease that impacts millions of Americans and their families each year \u2013 including mine. \n\nUnfortunately, communities of color are disproportionately impacted by late-stage diagnosis & see higher rates of mortality from cancer.\n\u00a0\nThis #WorldCancerDay, we raise awareness & encourage the prevention, early detection, & treatment\u00a0of the disease.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1707057441,
+                "view_count": 761
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GGjOlP-XgAAUJxn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GGjOlP-XgAAUJxn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1758883158882197780",
+                "created_time": "2024-02-17T15:56:38",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1758883158882197780",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Most rare diseases don\u2019t have an FDA-approved treatment & children are disproportionately represented among the rare disease patient population.\n\nProud to join my colleagues to reauthorize the critical Creating Hope Act & ensure children have access to innovative FDA-approved treatments.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1708185398,
+                "view_count": 585
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GG4-XfZWIAAUVrY.jpg?name=small",
+                    "https://pbs.twimg.com/media/GG4-XfRWsAAEma-.jpg?name=small",
+                    "https://pbs.twimg.com/media/GG4-XfZXIAAMAoL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GG4-XfZWIAAUVrY.jpg",
+                    "https://pbs.twimg.com/media/GG4-XfRWsAAEma-.jpg",
+                    "https://pbs.twimg.com/media/GG4-XfZXIAAMAoL.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1760420106662814129",
+                "created_time": "2024-02-21T21:43:55",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1760420106662814129",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Started a busy day at the Carole Keen Carson Wellness Center at #Carson High School. \n\nGreat opportunity to learn more about their work on behalf of the students at Carson High & Carson residents, & their upcoming projects. \n\nThank you @VeniceFamClinic for an informative visit. https://t.co/gmfN6MmSVC",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "VeniceFamClinic"
+                ],
+                "text_tagged_users_ids": [
+                    "134853207"
+                ],
+                "text_tags": [
+                    "carson"
+                ],
+                "timestamp": 1708551835,
+                "view_count": 569
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GG9gw0AWYAABJN_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GG9gw0AWYAABJN_.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1760732374352978042",
+                "created_time": "2024-02-22T18:24:45",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1760732374352978042",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "There is a close connection between oral health & diabetes. Diagnosis & treatment of dental infections has proven effective in successful care for patients with diabetes.\n\u00a0\nProud to join @RepCohen &\u00a0@RepLloydDoggett to lead 37 colleagues on a letter to @CMSgov Administrator\u00a0@BrooksLaSureCMS to support dental coverage for Medicare enrollees with diabetes.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepCohen",
+                    "RepLloydDoggett",
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "162069635",
+                    "153944899",
+                    "70837868"
+                ],
+                "text_tags": null,
+                "timestamp": 1708626285,
+                "view_count": 507
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GHXrrjHXkAEBwLs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GHXrrjHXkAEBwLs.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1762573967007629613",
+                "created_time": "2024-02-27T20:22:35",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1762573967007629613",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Republican opposition to fully funding WIC puts the health & wellness of 6 MILLION pregnant mothers, new moms, & their children at risk.\n\u00a0\n@HouseDemocrats\u00a0will continue the fight to fully fund WIC.\u00a0\n\u00a0\nHouse Republicans need to end the political stunts & put the needs of the American people over politics.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "43963249"
+                ],
+                "text_tags": null,
+                "timestamp": 1709065355,
+                "view_count": 636
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GHhAslGXoAA1rqn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GHhAslGXoAA1rqn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1763230391144534398",
+                "created_time": "2024-02-29T15:50:59",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1763230391144534398",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Over 300 million people are affected by a Rare Disease worldwide. Children make up nearly half of those living with rare diseases,\u00a0yet children's treatment options are extremely limited.\n\u00a0\nProud to co-lead the Creating Hope Reauthorization Act, which will help with the development of new drugs for children with rare pediatric diseases.\n\u00a0\nOn World Rare Disease Day, we raise awareness & continue our support for those affected.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1709221859,
+                "view_count": 534
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1766171194523361282/img/mzyAwz-AsEtrXEwc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1766171194523361282/vid/avc1/720x720/QrUqiJsp7vJLkOtG.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 156,
+                        "id": "1766171194523361282",
+                        "url": "https://video.twimg.com/amplify_video/1766171194523361282/vid/avc1/720x720/QrUqiJsp7vJLkOtG.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1766171380121317534",
+                "created_time": "2024-03-08T18:37:25",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1766171380121317534",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "When you receive healthcare, you should know EXACTLY how much it will cost BEFORE you receive treatment.\n\u00a0\nThat's why I was proud to welcome @fatjoe\u00a0to @POTUS Biden's #SOTU\u00a0last night to highlight his work w/@PowertoPatnts advocating for full price transparency in healthcare. https://t.co/5qT95hgtrK",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "fatjoe",
+                    "POTUS",
+                    "PowertoPatnts"
+                ],
+                "text_tagged_users_ids": [
+                    "24822280",
+                    "1879650942410481666",
+                    "1384918917781540866"
+                ],
+                "text_tags": [
+                    "sotu"
+                ],
+                "timestamp": 1709923045,
+                "view_count": 869
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://barragan.house.gov/2024/03/13/reps-barragan-and-slotkin-introduce-the-housing-access-act-to-strengthen-pathways-to-housing/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Fp4q7SAH9W"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GIkgLWTWAAEQojO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GIkgLWTWAAEQojO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1767979711018254824",
+                "created_time": "2024-03-13T18:23:05",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1767979711018254824",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Over 650,000 people experience homelessness on any given night in the US. Many are chronically homeless and need access to mental health services & medical treatment.\u00a0\n\u00a0\nProud to introduce the Housing ACCESS Act today to work to end the homelessness crises and better connect Medicaid beneficiaries to critical services that find & secure housing.\u00a0\n\u00a0\nRead more: https://t.co/Fp4q7SAH9W",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1710354185,
+                "view_count": 528
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GJIs5xgWsAIaVOZ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GJIs5xgWsAIaVOZ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1770527047057576427",
+                "created_time": "2024-03-20T19:05:17",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1770527047057576427",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "The earlier Alzheimer's is detected, the more time patients and families have to get treatment & spend time with loved ones.\n\nProud to introduce the AADAPT Act w/@RepBuddyCarter,\u00a0@RepPaulTonko, &\u00a0@RepLaHood\u00a0which will provide\u00a0training\u00a0on Alzheimer\u2019s disease\u00a0to\u00a0primary care\u00a0providers.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepBuddyCarter",
+                    "RepPaulTonko",
+                    "RepLaHood"
+                ],
+                "text_tagged_users_ids": [
+                    "2973870195",
+                    "84119348",
+                    "3686482216"
+                ],
+                "text_tags": null,
+                "timestamp": 1710961517,
+                "view_count": 1074
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1791552308335055141",
+                "created_time": "2024-05-17T19:32:10",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1791552308335055141",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1791492822408835566",
+                "quoted_status_profile_id": "989317210463186946",
+                "quoted_status_profile_username": "HouseAgDems",
+                "reply_count": 8,
+                "retweet_count": 12,
+                "source": "Twitter Web App",
+                "text": "House Republicans radically cut funding in the #FarmBill for critical nutrition programs that millions of Americans rely on to feed their families.\n\nSNAP benefits help almost 2 million low-income CA families put food on the table.\n\n@HouseDemocrats are focused on reducing the burdens on families, Republicans don\u2019t seem to care. #PeopleOverPolitics",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "43963249"
+                ],
+                "text_tags": [
+                    "farmbill"
+                ],
+                "timestamp": 1715974330,
+                "view_count": 2467
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GOC7FvsW4AEXIqq.jpg?name=small",
+                    "https://pbs.twimg.com/media/GOC7FvtXYAAyOin.jpg?name=small",
+                    "https://pbs.twimg.com/media/GOC7FvsX0AE5oAL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GOC7FvsW4AEXIqq.jpg",
+                    "https://pbs.twimg.com/media/GOC7FvtXYAAyOin.jpg",
+                    "https://pbs.twimg.com/media/GOC7FvsX0AE5oAL.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1792638378195710355",
+                "created_time": "2024-05-20T19:27:49",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1792638378195710355",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "In #SouthGate this morning to present nearly $1 MILLION in funding I secured for clean drinking water! \n\nFunding will support the development of new treatment facilities to remove PFAS and other contaminants from two shuttered water wells in the city. Once remediated, the wells will provide a new supply of safe drinking water for local residents.\n\nThank you South Gate Mayor Hurtado and the @SouthGateCAgov for partnering with me on this critical project in #CA44.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "southgate"
+                ],
+                "timestamp": 1716233269,
+                "view_count": 755
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GjOk_8TXsAA6NIc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GjOk_8TXsAA6NIc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1888034090793804205",
+                "created_time": "2025-02-08T01:16:19",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1888034090793804205",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Today is National Black HIV & AIDS Awareness Day. Thanks to investment in research and healthcare programs, we know that\u00a0education, testing, prevention, and treatment save lives.\u00a0\n\nOn #NBHAAD, let\u2019s break the stigma, encourage routine testing, and support equitable healthcare access for all.\u00a0 #StopHIVTogether",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nbhaad"
+                ],
+                "timestamp": 1738977379,
+                "view_count": 2314
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gk6ZSDeXMAEiOR8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gk6ZSDeXMAEiOR8.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "816833925456789505",
+                "author_username": "RepBarragan",
+                "community_notes": null,
+                "conversation_id": "1895621031391355141",
+                "created_time": "2025-02-28T23:44:07",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1895621031391355141",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Today on #RareDiseaseDay we raise awareness of the 30 million Americans and 300 million people worldwide who are living with a rare disease. Their fight is often long and challenging, marked by delays in diagnosis and limited treatment options.\n\u00a0\nTogether, we can fight for advancements in care and support those impacted by rare diseases.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "rarediseaseday"
+                ],
+                "timestamp": 1740786247,
+                "view_count": 461
+            }
+        ],
+        "page_info": {
+            "cursor": "aWRfYXNjfDE4OTU2MjEwMzEzOTEzNTUxNDE=",
+            "has_next_page": true
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

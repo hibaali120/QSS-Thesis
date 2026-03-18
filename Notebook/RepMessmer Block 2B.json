@@ -1,0 +1,105 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G21GYOiW4AAC8SY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G21GYOiW4AAC8SY.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875298824387760128",
+                "author_username": "RepMessmer",
+                "community_notes": null,
+                "conversation_id": "1976316730671833199",
+                "created_time": "2025-10-09T16:00:01",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976316730671833199",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 6,
+                "source": "Twitter Web Client",
+                "text": "Met with the great team at Perry County Memorial Hospital \u2013 a fantastic facility serving Hoosiers in #IN08 and rural Indiana.\n\nI am committed to ensuring Democrats don\u2019t take away $50 billion in critical funding for rural hospitals like PCMH as part of the #SchumerShutdown!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "in08",
+                    "schumershutdown"
+                ],
+                "timestamp": 1760025601,
+                "view_count": 5958
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3Y2HK5XkAA7IHE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3Y2HK5XkAA7IHE.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875298824387760128",
+                "author_username": "RepMessmer",
+                "community_notes": null,
+                "conversation_id": "1978828589626757197",
+                "created_time": "2025-10-16T14:21:15",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978828589626757197",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "Great meeting with Hoosier hospital institutions like @daviesscohosp in Washington \u2014 fighting for the health and wellbeing of community!\n\nI will always stand up for rural hospitals in IN-08 and the patients they serve! https://t.co/0Np73vfX0a",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "daviesscohosp"
+                ],
+                "text_tagged_users_ids": [
+                    "1486761416665309191"
+                ],
+                "text_tags": null,
+                "timestamp": 1760624475,
+                "view_count": 4894
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,692 @@
+{
+    "politician": "OAGMaryland",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1518613888899723266",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1518322937522274306",
+                    "author_username": "MorenoMinchan",
+                    "community_notes": null,
+                    "conversation_id": "1518613888899723266",
+                    "created_time": "2022-05-02T20:35:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521226879998599168",
+                    "in_reply_to_post_id": "1518613888899723266",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnthonyBrown @Act4HlthyKids \ud83d\ude00\ud83e\udd17\ud83d\ude18",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "Act4HlthyKids"
+                    ],
+                    "text_tagged_users_ids": [
+                        "111480269"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651523725,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1458524285497184256",
+                    "author_username": "MarionMorassut4",
+                    "community_notes": null,
+                    "conversation_id": "1518613888899723266",
+                    "created_time": "2022-04-27T01:58:33",
+                    "favorite_count": 0,
+                    "geo_lat": 43.713189799999995,
+                    "geo_lon": -78.976271,
+                    "id": "1519133868833521665",
+                    "in_reply_to_post_id": "1518613888899723266",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": "CA",
+                    "place_country_name": "Canada",
+                    "place_full_name": "Ajax, Ontario",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAnthonyBrown @keanucreeves121 @Act4HlthyKids Mind. Body. Spirit",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "keanucreeves121",
+                        "Act4HlthyKids"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1099998564137222144",
+                        "111480269"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651024713,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "823552974253342721",
+                    "author_username": "OAGMaryland",
+                    "community_notes": null,
+                    "conversation_id": "1518613888899723266",
+                    "created_time": "2022-04-25T15:32:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1518613891403685889",
+                    "in_reply_to_post_id": "1518613888899723266",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "I remain committed to helping to improve the overall health and well-being of American children, and tackle the unique challenges children of today face, like depression, anxiety, and #Cyberbullying.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "cyberbullying"
+                    ],
+                    "timestamp": 1650900740,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1524817437719465984",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/assessing-the-lingering-impact-of-covid-19-on-the-nursing-workforce"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/RyMtVI0ozP"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "823552974253342721",
+                    "author_username": "OAGMaryland",
+                    "community_notes": null,
+                    "conversation_id": "1524817437719465984",
+                    "created_time": "2022-05-12T18:23:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1524817439325839361",
+                    "in_reply_to_post_id": "1524817437719465984",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Workforce changes and expectations brought on by the pandemic have caused too many great nurses around the globe to reconsider staying in the field.\n\nhttps://t.co/RyMtVI0ozP",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1652379781,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1527026595189374976",
+            "replies": []
+        },
+        {
+            "conversation_id": "1530283563492560896",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "823552974253342721",
+                    "author_username": "OAGMaryland",
+                    "community_notes": null,
+                    "conversation_id": "1530283563492560896",
+                    "created_time": "2022-05-27T20:23:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1530283565715542017",
+                    "in_reply_to_post_id": "1530283563492560896",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "In the past, society has done a poor job of understanding mental health, leaving generations of Americans with deficits in care. \n\nGratefully, we have more readily embraced #MentalHealth and rejected the stigmas applied to mental illness and mental health challenges.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "mentalhealth"
+                    ],
+                    "timestamp": 1653683008,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1554563971088367616",
+            "replies": []
+        },
+        {
+            "conversation_id": "1585753437077008384",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fgwla1yWAAApiIi.jpg?name=small",
+                        "https://pbs.twimg.com/media/Fgwla1yXoAI9B5f.jpg?name=small",
+                        "https://pbs.twimg.com/media/Fgwla10XwAMkRvs.jpg?name=small",
+                        "https://pbs.twimg.com/media/Fgwla1xXoAIRSxT.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fgwla1yWAAApiIi.jpg",
+                        "https://pbs.twimg.com/media/Fgwla1yXoAI9B5f.jpg",
+                        "https://pbs.twimg.com/media/Fgwla10XwAMkRvs.jpg",
+                        "https://pbs.twimg.com/media/Fgwla1xXoAIRSxT.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "790694112643129344",
+                    "author_username": "asiatenleymoore",
+                    "community_notes": null,
+                    "conversation_id": "1585753437077008384",
+                    "created_time": "2022-11-05T00:13:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588685916474085376",
+                    "in_reply_to_post_id": "1585753437077008384",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAnthonyBrown It was great meeting you while staking signs for EV locations, Kamala rally and again at FedEx Field rally. Who stakes their own signs? A candidate that\u2019s ready to roll up his sleeves and work hard for the people of MD! #AnthonyBrownforAG #AllBlueIn22 https://t.co/VSuNM5Y9Nt",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "allbluein22",
+                        "anthonybrownforag"
+                    ],
+                    "timestamp": 1667607213,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1196622117212770306",
+                    "author_username": "Sun__Daughter",
+                    "community_notes": null,
+                    "conversation_id": "1585753437077008384",
+                    "created_time": "2022-11-01T23:45:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587591814395092997",
+                    "in_reply_to_post_id": "1585753437077008384",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnthonyBrown @RepAnthonyBrown I used to support Democrats but since they deal with the regime in Iran I changed my mind. This regime is a center of terrorism without nuclear weapons. If you want to be supported, do not deal with murderers. #IranRevoIution",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "iranrevoiution"
+                    ],
+                    "timestamp": 1667346359,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1585753437077008384",
+                    "created_time": "2022-10-28T05:12:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1585862006829031424",
+                    "in_reply_to_post_id": "1585753437077008384",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAnthonyBrown Thanks to every American for supporting Ukraine!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1666933940,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1658567494733385741",
+            "replies": []
+        },
+        {
+            "conversation_id": "1702796936611315872",
+            "replies": []
+        },
+        {
+            "conversation_id": "1705631066134884856",
+            "replies": []
+        },
+        {
+            "conversation_id": "1757932968746549403",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=pvqn4YMhFdU"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/caNdevhebW"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "29859311",
+                    "author_username": "davidlj58",
+                    "community_notes": null,
+                    "conversation_id": "1757932968746549403",
+                    "created_time": "2024-02-15T01:14:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1757936276597080111",
+                    "in_reply_to_post_id": "1757932968746549403",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@OAGMaryland But again I really do not for see you doing a damn thing at the Maryland level about this. FOR SALE: Gun Owners' Information!  https://t.co/caNdevhebW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707959643,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=IBolpF9OK8k"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/5JrYvfYYbJ"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "29859311",
+                    "author_username": "davidlj58",
+                    "community_notes": null,
+                    "conversation_id": "1757932968746549403",
+                    "created_time": "2024-02-15T01:12:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1757935894177214705",
+                    "in_reply_to_post_id": "1757932968746549403",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@OAGMaryland But what is the plan when the federal government purchases said data mined information?  Government CAUGHT Buying Gun Owners' Location Data In Violation Of 4th Amendment https://t.co/5JrYvfYYbJ",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707959552,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1790378949417009457",
+            "replies": []
+        },
+        {
+            "conversation_id": "1820948473446908133",
+            "replies": []
+        },
+        {
+            "conversation_id": "1830973519825641611",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "823552974253342721",
+                    "author_username": "OAGMaryland",
+                    "community_notes": null,
+                    "conversation_id": "1830973519825641611",
+                    "created_time": "2024-09-03T14:23:26",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830974892059345145",
+                    "in_reply_to_post_id": "1830973519825641611",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "You should be able to go to school, shop, enjoy parks, and live in peace, without fear. My hope is that every Marylander can sleep a bit easier tonight knowing that action is being taken.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1725373406,
+                    "view_count": 127
+                }
+            ]
+        },
+        {
+            "conversation_id": "1853819423909372184",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "705809040",
+                    "author_username": "LeakinYours",
+                    "community_notes": null,
+                    "conversation_id": "1853819423909372184",
+                    "created_time": "2024-11-05T16:11:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1853832530505388504",
+                    "in_reply_to_post_id": "1853819423909372184",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland Can you explain why Andrew Jackson Academy in #PGCounty opened late with only two electronic devices and no ballots? Over 100+ #Maryland voters here are frustrated by the lack of transparency and resources on such an important day. #Election2024",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "election2024",
+                        "maryland",
+                        "pgcounty"
+                    ],
+                    "timestamp": 1730823092,
+                    "view_count": 79
+                }
+            ]
+        },
+        {
+            "conversation_id": "1947392277355368863",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978619150810374334",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1817748493269626880",
+                    "author_username": "karmaawaitsyou",
+                    "community_notes": null,
+                    "conversation_id": "1978619150810374334",
+                    "created_time": "2025-10-16T19:16:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978902834859979081",
+                    "in_reply_to_post_id": "1978619150810374334",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland Why, you\u2019re protecting fraud & scammers who drain the system but are capable working and/or don\u2019t abide by what is suppose to be their part in order to have these benefits",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760642176,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1993741490384728448",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1316162397099393025",
+                    "author_username": "Gery75011145",
+                    "community_notes": null,
+                    "conversation_id": "1993741490384728448",
+                    "created_time": "2025-11-26T22:32:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1993810097240219984",
+                    "in_reply_to_post_id": "1993741490384728448",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland You are one of the useless POS democrats",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764196345,
+                    "view_count": 8
+                }
+            ]
+        }
+    ]
+}

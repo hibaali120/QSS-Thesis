@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1787665552657264641",
+                "author_username": "RepMcDowell",
+                "community_notes": null,
+                "conversation_id": "1963330666004705670",
+                "created_time": "2025-09-03T19:58:04",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1963330674326131016",
+                "in_reply_to_post_id": "1963330672933720359",
+                "in_reply_to_profile_id": "1787665552657264641",
+                "in_reply_to_profile_username": "RepMcDowell",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Personal appearance & wellness:\n\nSkincare Specialists\nMassage Therapists\nBarbers, Hairdressers, Hairstylists, and Cosmetologists\nShampooers\nManicurists and Pedicurists\nEyebrow Threading and Waxing Technicians\nMakeup Artists\nExercise Trainers and Group Fitness Instructors\nTattoo Artists and Piercers\nTailors\nShoe and Leather Workers and Repairers",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756929484,
+                "view_count": 59
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1039879658400112640",
+                "author_username": "RepMichaelCloud",
+                "community_notes": null,
+                "conversation_id": "1882791503531237415",
+                "created_time": "2025-01-24T14:04:09",
+                "favorite_count": 57,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1882791503531237415",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1882528444778766715",
+                "quoted_status_profile_id": "975200486",
+                "quoted_status_profile_username": "RepThomasMassie",
+                "reply_count": 5,
+                "retweet_count": 10,
+                "source": "Twitter for iPhone",
+                "text": "The right to keep and bear arms is for every American\u2014not just those in the 29 states with Constitutional Carry.\n\nHappy to support @RepThomasMassie\u2019s National Constitutional Carry Act to ensure Americans in all 50 states can exercise their God-given, constitutional rights.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepThomasMassie"
+                ],
+                "text_tagged_users_ids": [
+                    "975200486"
+                ],
+                "text_tags": null,
+                "timestamp": 1737727449,
+                "view_count": 1415
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

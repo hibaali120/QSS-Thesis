@@ -1,0 +1,962 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://sablan.house.gov/supporting-risk-veterans"
+                ],
+                "attached_links_url": [
+                    "https://t.co/s9RhM2isWl"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FnLzjgfWYAAnUWn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FnLzjgfWYAAnUWn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1618071280762093575",
+                "created_time": "2023-01-25T02:20:30",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1618071280762093575",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "TweetDeck",
+                "text": ".@DeptVetAffairs announced that veterans in acute suicidal crisis will now be able to go to any VA or non-VA healthcare facility for emergency healthcare at no cost.\n\nRead more:\nhttps://t.co/s9RhM2isWl https://t.co/dbI93YBv7a",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DeptVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "78408666"
+                ],
+                "text_tags": null,
+                "timestamp": 1674613230,
+                "view_count": 212
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fo4Lw5mXEAAQenn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fo4Lw5mXEAAQenn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1625321429968506880",
+                "created_time": "2023-02-14T02:30:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1625321429968506880",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Though federal Medicaid funding for the NMI  now increases annually at the rate that health care costs rise, it's still limited to that fixed amount.\n\nTo cont. my work to give people in the NMI similar levels of fed. support I re-intro'd the Insular Area Medicaid Parity Act. https://t.co/N70fgVXtKD",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1676341800,
+                "view_count": 493
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.benefits.va.gov/INSURANCE/SGLI-increase-faqs.asp"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ybkadsnnIp"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FqjfxgXXoAAZjy8.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FqjfxgXXoAAZjy8.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1633044827641110530",
+                "created_time": "2023-03-07T10:00:02",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1633044827641110530",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "TweetDeck",
+                "text": "Veterans & service members enrolled in Veterans\u2019 Group Life Insurance & Servicemembers Group Life Insurance will see their max amount of life insurance coverage increase from $400K to $500K, according to an announcement from .@DeptVetAffairs.\n\nMore info:\nhttps://t.co/ybkadsnnIp https://t.co/6o05ahH94p",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DeptVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "78408666"
+                ],
+                "text_tags": null,
+                "timestamp": 1678183202,
+                "view_count": 216
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.affordableconnectivity.gov/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/bMsh8PWJuW"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FrNiQLiXoAQOjgD.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FrNiQLiXoAQOjgD.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1635825643308085248",
+                "created_time": "2023-03-15T02:10:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1635825643308085248",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "TweetDeck",
+                "text": "Low-income households and recipients of federal assistance programs like Medicaid, WIC, the Pell Grant, & veterans\u2019 pension & survivors\u2019 benefits may qualify for a discount on new or current internet service & discounts on digital devices.\n\nMore info:\nhttps://t.co/bMsh8PWJuW https://t.co/tlQPSI3IMy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1678846200,
+                "view_count": 167
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FwMcPydWcAEZ0vw.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FwMcPydWcAEZ0vw.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1658698863530893318",
+                "created_time": "2023-05-17T05:00:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1658698863530893318",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "TweetDeck",
+                "text": "The Marianas Medicaid program would get more funds under legislation I introduced Thursday. The Northern Mariana Islands Medicaid Equivalence Act provides a Medicaid grant to the Marianas that matches that of Am. Samoa\u2014a territory w/ virtually the same population & income levels. https://t.co/S2c1BxF4IY",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1684299600,
+                "view_count": 149
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FxYzDJaWAAAgAFt.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FxYzDJaWAAAgAFt.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1663667853072171009",
+                "created_time": "2023-05-30T22:05:00",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1663667853072171009",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Your congressional office has received calls re: denied applications for Medicare Part D, having to do w/ them recognizing NMI PO Box addresses, . If any issues now or in the future, reach out to me at kilili@mail.house.gov or contact your local office in Rota, Tinian or Saipan. https://t.co/Ii7xrNPSPS",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1685484300,
+                "view_count": 223
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fx96WSUX0AAeylF.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fx96WSUX0AAeylF.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1666384505416949761",
+                "created_time": "2023-06-07T10:00:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1666384505416949761",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "TweetDeck",
+                "text": "Your congressional office has rec'd calls re: denied applications for Medicare Part D, due to not recognizing NMI PO Box addresses. \n\nIf any issues now or in the future, reach out to me at kilili@mail.house.gov or call your local office. https://t.co/sL9FeHv3UN",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1686132000,
+                "view_count": 202
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://VA.gov/PACT"
+                ],
+                "attached_links_url": [
+                    "https://t.co/I73Sc2yyGj"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F5TTPxbWAAAWRcQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F5TTPxbWAAAWRcQ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1699546768109617246",
+                "created_time": "2023-09-06T22:15:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1699546768109617246",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Vets who deployed to a combat zone, never enrolled in VA healthcare, & left the military b/w 09/11/01 & 10/01/13 are eligible to enroll in VA healthcare directly w/out 1st applying for VA benefits.\u00a0 Special enrollment ends Sept 30.\u00a0 For more info, visit https://t.co/I73Sc2yyGj. https://t.co/No32uiINIQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1694038500,
+                "view_count": 99
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://sablan.house.gov/media-center/e-kilili-newsletter/lower-drug-prices-seniors"
+                ],
+                "attached_links_url": [
+                    "https://t.co/wskIEtS1H8"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F5TVjRRXgAAFuz0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F5TVjRRXgAAFuz0.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1699912931117576552",
+                "created_time": "2023-09-07T22:30:00",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1699912931117576552",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Seniors in the Marianas can look forward to lower drug prices for key medications, following last week\u2019s announcement by the Biden administration of the first 10 drugs that will have their prices negotiated by the Medicare program.\n\nRead more:\nhttps://t.co/wskIEtS1H8 https://t.co/pYm2ovroHv",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1694125800,
+                "view_count": 162
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://VA.gov/PACT"
+                ],
+                "attached_links_url": [
+                    "https://t.co/I73Sc2yyGj"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F5wrqzDXwAAVxKn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F5wrqzDXwAAVxKn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1701717324028342277",
+                "created_time": "2023-09-12T22:00:01",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1701717324028342277",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Veterans who deployed to a combat zone, never enrolled into VA health care, and left the military between Sept 11, 2001 and Oct 1, 2013, are eligible to enroll into VA healthcare directly. For more information please visit, https://t.co/I73Sc2yyGj. https://t.co/uCsoRu5xwy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1694556001,
+                "view_count": 199
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.medicare.gov/plan-compare/#/coverage-options?year=2024&lang=en"
+                ],
+                "attached_links_url": [
+                    "https://t.co/SUJGx7gXVp"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F9IaaXoWcAAIZ82.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F9IaaXoWcAAIZ82.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1716741317290827788",
+                "created_time": "2023-10-24T09:00:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1716741317290827788",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Open enrollment for Medicare is open Oct. 15 thru Dec. 7. \n\nDuring this time, beneficiaries can compare options on the Medicare Plan Finder and select a health or prescription drug plan for coverage beginning Jan. 1, '24:\nhttps://t.co/SUJGx7gXVp https://t.co/TCBBQpeKKG",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1698138000,
+                "view_count": 171
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cms.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/BywrTfyFUj"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F9yWe8FXUAAZPNL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F9yWe8FXUAAZPNL.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1719612737825734966",
+                "created_time": "2023-11-01T07:10:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1719612737825734966",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Open enrollment for Medicare began Oct 15 & stays open through Dec 7. \n\nBeneficiaries who don't wish to change their current Medicare coverage plan don't need to re-enroll. Info on coverage options can be provided by phone at 1-800-MEDICARE or online at https://t.co/BywrTfyFUj. https://t.co/FXozV87vNq",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1698822600,
+                "view_count": 175
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cms.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/BywrTfyFUj"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F-RLmXTX0AA4K1A.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F-RLmXTX0AA4K1A.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1722540782110826824",
+                "created_time": "2023-11-09T09:05:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1722540782110826824",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Open enrollment for Medicare began Oct 15 & stays open thru Dec 7.  \n\nBeneficiaries who don't wish to change their current Medicare coverage plan don't need to re-enroll. \n\nInfo on coverage options can be provided by phone at 1-800-MEDICARE or online at https://t.co/BywrTfyFUj. https://t.co/UPHHZ0zfXV",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1699520700,
+                "view_count": 169
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://insulinaffordability.com/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/6xMdrJ5VHz"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GAS_8emXYAArk4b.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GAS_8emXYAArk4b.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1731470875130462470",
+                "created_time": "2023-12-04T00:30:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1731470875130462470",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Starting Jan. 1, '24, patients in the NMI will have access to Eli Lilly\u2019s Insulin Savings Card Program which automatically caps insulin out-of-pocket costs at $35 per month for those with commercial insurance.\n\nFor more info on the Savings Card Program:\nhttps://t.co/6xMdrJ5VHz https://t.co/s3hM2Xrpj7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1701649800,
+                "view_count": 194
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GNtuEzqXsAAssmQ.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GNtuEzqXsAAssmQ.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1791378127035453683",
+                "created_time": "2024-05-17T08:00:02",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1791378127035453683",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I introduced the \"Ensuring Medicaid Continuity for the Insular Areas Act of 2024 (H.R. 8327).\" \n\nMy bipartisan legislation establishes a fail-safe for Medicaid in the territories by authorizing the redistribution of unused Medicaid block grant funding to address shortfalls. https://t.co/MUo8ehQ7Hy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1715932802,
+                "view_count": 198
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GVkIAeQXsAEqXv3.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkIAdybgAI5vKw.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkIAdybgAM4oVh.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkIAdvasAAatPn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GVkIAeQXsAEqXv3.jpg",
+                    "https://pbs.twimg.com/media/GVkIAdybgAI5vKw.jpg",
+                    "https://pbs.twimg.com/media/GVkIAdybgAM4oVh.jpg",
+                    "https://pbs.twimg.com/media/GVkIAdvasAAatPn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1826499939238904043",
+                "created_time": "2024-08-22T06:01:34",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1826499939238904043",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Improving aid and healthcare ensures a healthy community and enhances the well-being of the Marianas.\n\nSee how I\u2019ve helped the Marianas be in its best health.\n\nThe work continues\u2026\n\n#LifeOfLegislation #PublicAid #Health #Marianas #Kilili https://t.co/L7q9hq4zsJ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "health",
+                    "kilili",
+                    "lifeoflegislation",
+                    "marianas",
+                    "publicaid"
+                ],
+                "timestamp": 1724306494,
+                "view_count": 138
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GVkIBY6aYAAAc25.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkIBZhXwAADHPZ.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkIBY8bgAAIlkw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GVkIBY6aYAAAc25.jpg",
+                    "https://pbs.twimg.com/media/GVkIBZhXwAADHPZ.jpg",
+                    "https://pbs.twimg.com/media/GVkIBY8bgAAIlkw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1826499939238904043",
+                "created_time": "2024-08-22T06:01:38",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1826499954665554339",
+                "in_reply_to_post_id": "1826499939238904043",
+                "in_reply_to_profile_id": "926446070812602371",
+                "in_reply_to_profile_username": "Kilili_Sablan",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Improving aid and healthcare ensures a healthy community and enhances the well-being of the Marianas.\n\nSee how I\u2019ve helped the Marianas be in its best health.\n\nThe work continues\u2026\n\n#LifeOfLegislation #PublicAid #Health #Marianas #Kilili https://t.co/J8WMXUbnPm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "health",
+                    "kilili",
+                    "lifeoflegislation",
+                    "marianas",
+                    "publicaid"
+                ],
+                "timestamp": 1724306498,
+                "view_count": 78
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GVkICPPbIAAOqWA.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkICPSakAA-rh0.jpg?name=small",
+                    "https://pbs.twimg.com/media/GVkICPPbgAIypxx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GVkICPPbIAAOqWA.jpg",
+                    "https://pbs.twimg.com/media/GVkICPSakAA-rh0.jpg",
+                    "https://pbs.twimg.com/media/GVkICPPbgAIypxx.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1826499939238904043",
+                "created_time": "2024-08-22T06:01:41",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1826499968267682234",
+                "in_reply_to_post_id": "1826499954665554339",
+                "in_reply_to_profile_id": "926446070812602371",
+                "in_reply_to_profile_username": "Kilili_Sablan",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Improving aid and healthcare ensures a healthy community and enhances the well-being of the Marianas.\n\nSee how I\u2019ve helped the Marianas be in its best health.\n\nThe work continues\u2026\n\n#LifeOfLegislation #PublicAid #Health #Marianas #Kilili https://t.co/ko13JgMyhp",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "health",
+                    "kilili",
+                    "lifeoflegislation",
+                    "marianas",
+                    "publicaid"
+                ],
+                "timestamp": 1724306501,
+                "view_count": 66
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GW0slboW8AAqUYy.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GW0slboW8AAqUYy.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1832312847659102583",
+                "created_time": "2024-09-07T07:00:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1832312847659102583",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Precinct 3 Rep. (& retired Army veteran) Vicente \u201cBen\u201d Camacho visited me at the congressional office to discuss some concerns among the community regarding federal programs such as Medicaid, food assistance, & veterans, among others. Thank you, Rep. Camacho, for your visit. https://t.co/unpn59gybC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1725692400,
+                "view_count": 99
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://sablan.house.gov/media-center/e-kilili-newsletter/271m-medicaid-can-pay-chcc-debt"
+                ],
+                "attached_links_url": [
+                    "https://t.co/O59NXXRBVT"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GYwMHdWXAAAzX4b.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GYwMHdWXAAAzX4b.png"
+                ],
+                "attached_videos": null,
+                "author_id": "926446070812602371",
+                "author_username": "Kilili_Sablan",
+                "community_notes": null,
+                "conversation_id": "1840876777964781754",
+                "created_time": "2024-09-30T22:10:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1840876777964781754",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The Marianas Medicaid program will be able to pay off its debt to .@cnmichcc & other vendors with a 1-time appropriation of $27.1M I was able to include in a continuing resolution passed by Congress on Wednesday & signed by .@POTUS Thursday.\n\nRead more:\nhttps://t.co/O59NXXRBVT https://t.co/dl4taG2YSU",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "cnmichcc",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1098709064501014528",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1727734200,
+                "view_count": 277
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

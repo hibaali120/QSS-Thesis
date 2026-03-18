@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.foxnews.com/politics/biden-white-house-hosted-defund-police-activists?test=75d9dfe795562cc049bb250e4aa72651"
+                ],
+                "attached_links_url": [
+                    "https://t.co/S3JsfWe3dQ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1267841066335682562",
+                "author_username": "RepTiffany",
+                "community_notes": null,
+                "conversation_id": "1536329316367319046",
+                "created_time": "2022-06-13T12:47:07",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1536329316367319046",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Biden still hasn't met with the victims\u2019 families in Waukesha. Meanwhile, de-fund the police extremists are getting the VIP treatment.\nhttps://t.co/S3JsfWe3dQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1655124427,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1267841066335682562",
+                "author_username": "RepTiffany",
+                "community_notes": null,
+                "conversation_id": "1743315612695183563",
+                "created_time": "2024-01-05T16:56:45",
+                "favorite_count": 89,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1743315612695183563",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 65,
+                "retweet_count": 18,
+                "source": "Twitter for iPhone",
+                "text": "Hunter Biden doesn\u2019t get special treatment because of his last name. \n\nHe violated federal law when he defied two lawful subpoenas. \n\nHouse Republicans will hold him in contempt of Congress!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704473805,
+                "view_count": 2601
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GHR-wc8WwAAKwXa.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GHR-wc8WwAAKwXa.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1267841066335682562",
+                "author_username": "RepTiffany",
+                "community_notes": null,
+                "conversation_id": "1762172728285511784",
+                "created_time": "2024-02-26T17:48:12",
+                "favorite_count": 97,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1762172728285511784",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 27,
+                "retweet_count": 35,
+                "source": "Twitter for iPhone",
+                "text": "INSANITY: Microsoft admits they are paying white people less than other racial minority groups due to \u201cpay equity.\u201d\n\nI introduced the FAIR Act to ban this kind of discrimination and preferential treatment based on race.\n\nThanks, @libsoftiktok, for exposing this racism. https://t.co/asIvfrasSl",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "libsoftiktok"
+                ],
+                "text_tagged_users_ids": [
+                    "1326229737551912960"
+                ],
+                "text_tags": null,
+                "timestamp": 1708969692,
+                "view_count": 2943
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

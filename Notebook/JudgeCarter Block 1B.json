@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.statesman.com/story/news/2022/01/20/fentanyl-overdose-symptoms-opioid-pills-central-texas-deaths-rise/6514254001/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/TtKX2KGsnl"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1496288703123050498",
+                "created_time": "2022-02-23T01:00:01",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1496288703123050498",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "\"We shut the pill mills down but this opened an opportunity for the Mexican drug trafficking cartels to make counterfeit pills and put them out on the streets.\" \n\nOur communities are in danger. We must secure the border NOW!\n\nhttps://t.co/TtKX2KGsnl",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1645578001,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1696586890588180755",
+                "created_time": "2023-08-29T18:13:30",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1696586890588180755",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1696535932349149441",
+                "quoted_status_profile_id": "1209417007",
+                "quoted_status_profile_username": "SteveScalise",
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Erika and I send our love to @SteveScalise and his family as they navigate this diagnosis. We are praying for healing and strength for Steve.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SteveScalise"
+                ],
+                "text_tagged_users_ids": [
+                    "1209417007"
+                ],
+                "text_tags": null,
+                "timestamp": 1693332810,
+                "view_count": 959
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1820548573412631026",
+                "created_time": "2024-08-05T19:52:59",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1820548576151494857",
+                "in_reply_to_post_id": "1820548573412631026",
+                "in_reply_to_profile_id": "18030431",
+                "in_reply_to_profile_username": "JudgeCarter",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I'm a proud cosponsor of @RepArrington's  Equal Treatment of Public Servants Act to ensure teachers, firefighters, and police officers subject WEP receive their Social Security benefits when they retire.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepArrington"
+                ],
+                "text_tagged_users_ids": [
+                    "816284664658874368"
+                ],
+                "text_tags": null,
+                "timestamp": 1722887579,
+                "view_count": 373
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

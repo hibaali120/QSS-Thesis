@@ -1,0 +1,154 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FuLTQr6WAA4yA3N.jpg?name=small",
+                    "https://pbs.twimg.com/media/FuLTQr5WAAMvVhA.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FuLTQr6WAA4yA3N.jpg",
+                    "https://pbs.twimg.com/media/FuLTQr5WAAMvVhA.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1382395679700439041",
+                "author_username": "RepJuliaLetlow",
+                "community_notes": null,
+                "conversation_id": "1649112703451930625",
+                "created_time": "2023-04-20T18:08:02",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1649112703451930625",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPad",
+                "text": "I was honored to meet Marcia Cross yesterday as she stopped by with the HPV Cancers Alliance to discuss HPV prevention and treatment. https://t.co/cy7DMiY3MH",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1682014082,
+                "view_count": 1256
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1382395679700439041",
+                "author_username": "RepJuliaLetlow",
+                "community_notes": null,
+                "conversation_id": "1696597302612267012",
+                "created_time": "2023-08-29T18:54:52",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1696597302612267012",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1696535932349149441",
+                "quoted_status_profile_id": "1209417007",
+                "quoted_status_profile_username": "SteveScalise",
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "My prayers are with @SteveScalise, his wife Jennifer, and their children following the news of his treatable cancer diagnosis. Leader Scalise is a selfless mentor and friend to many, always demonstrating unshakable resiliency while proving there is no obstacle he cannot conquer.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SteveScalise"
+                ],
+                "text_tagged_users_ids": [
+                    "1209417007"
+                ],
+                "text_tags": null,
+                "timestamp": 1693335292,
+                "view_count": 1898
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1970958121934761984/img/1-uTotmC-6-4YZRN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1970958121934761984/vid/avc1/1280x720/kuhjs6lJy_VgzYKP.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1970958121934761984",
+                        "url": "https://video.twimg.com/amplify_video/1970958121934761984/vid/avc1/1280x720/kuhjs6lJy_VgzYKP.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1382395679700439041",
+                "author_username": "RepJuliaLetlow",
+                "community_notes": null,
+                "conversation_id": "1970958245977338033",
+                "created_time": "2025-09-24T21:07:19",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970958245977338033",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Early detection is crucial to effective cancer treatment. Enjoyed visiting @WomansHospital to see the innovative work they\u2019re doing to care for women in Baton Rouge and across Louisiana. https://t.co/NmzPmSEmbu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WomansHospital"
+                ],
+                "text_tagged_users_ids": [
+                    "20534901"
+                ],
+                "text_tags": null,
+                "timestamp": 1758748039,
+                "view_count": 461
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

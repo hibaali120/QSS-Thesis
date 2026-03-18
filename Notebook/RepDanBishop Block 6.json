@@ -1,0 +1,151 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fl1g7ZUaEAAgKE8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1611516430448758784/vid/828x458/QCbTmKB9D1Oe_JNa.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 244,
+                        "id": "1611516430448758784",
+                        "url": "https://video.twimg.com/amplify_video/1611516430448758784/vid/828x458/QCbTmKB9D1Oe_JNa.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1176522535531360257",
+                "author_username": "RepDanBishop",
+                "community_notes": null,
+                "conversation_id": "1611551295881764864",
+                "created_time": "2023-01-07T02:32:24",
+                "favorite_count": 287,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1611551295881764864",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 78,
+                "retweet_count": 50,
+                "source": "Twitter Media Studio",
+                "text": "In the course of four days, we've been able to come to a promising agreement because of the bravery and conviction of 20 members-elect.\n\nI spoke to CNN's Erin Burnett about why this is a historic exercise in American democracy and a victory for Constitutional governance. https://t.co/q3odHFK76F",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1673058744,
+                "view_count": 14840
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1780688100617785344/img/ujp1xQ8f1RuV0bxZ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1780688100617785344/vid/avc1/1176x662/KSQkg1DJRPgS8dUd.mp4?tag=19"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 353,
+                        "id": "1780688100617785344",
+                        "url": "https://video.twimg.com/amplify_video/1780688100617785344/vid/avc1/1176x662/KSQkg1DJRPgS8dUd.mp4?tag=19",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1176522535531360257",
+                "author_username": "RepDanBishop",
+                "community_notes": null,
+                "conversation_id": "1780689406531162354",
+                "created_time": "2024-04-17T20:06:52",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1780689406531162354",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 5,
+                "source": "Twitter Media Studio",
+                "text": "Let's support our police officers by passing the Improving Law Enforcement Officer Safety and Wellness Through Data Act.\n\nMy opening statement: https://t.co/xe8A7PeaqP",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1713384412,
+                "view_count": 2181
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1176522535531360257",
+                "author_username": "RepDanBishop",
+                "community_notes": null,
+                "conversation_id": "1833191512059888069",
+                "created_time": "2024-09-09T17:11:30",
+                "favorite_count": 57,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1833191512059888069",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1832866309882675249",
+                "quoted_status_profile_id": "151506204",
+                "quoted_status_profile_username": "chrispapst",
+                "reply_count": 10,
+                "retweet_count": 19,
+                "source": "Twitter Web App",
+                "text": "A horrific and evil crime.\n\nNo parent should have to endure this torment.\n\nHow can the architects of these policies sleep at night?",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1725901890,
+                "view_count": 3091
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

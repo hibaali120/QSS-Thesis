@@ -1,0 +1,435 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GDB1oLLXQAAoFsn.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GDB1oLLXQAAoFsn.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1743022416501084167",
+                "created_time": "2024-01-04T21:31:42",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1743022416501084167",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Wastewater treatment plants are vital for the health and growth of rural communities. Glad to speak with Reps. @pmueller28 & @PeggyABennett as well as Senator @GeneDornink about the importance of this issue in #MN01. https://t.co/GPKO2ukt8i",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "pmueller28",
+                    "PeggyABennett",
+                    "GeneDornink"
+                ],
+                "text_tagged_users_ids": [
+                    "1058779770421460993",
+                    "2533374678",
+                    "743622559116079104"
+                ],
+                "text_tags": [
+                    "mn01"
+                ],
+                "timestamp": 1704403902,
+                "view_count": 672
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMA34HiWcAADAV_.jpg?name=small",
+                    "https://pbs.twimg.com/media/GMA34HjXsAENKPp.jpg?name=small",
+                    "https://pbs.twimg.com/media/GMA34IeXkAAtVev.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMA34HiWcAADAV_.jpg",
+                    "https://pbs.twimg.com/media/GMA34HjXsAENKPp.jpg",
+                    "https://pbs.twimg.com/media/GMA34IeXkAAtVev.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1783501489941487658",
+                "created_time": "2024-04-25T14:21:05",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1783501489941487658",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": "1729882742106861569",
+                "in_reply_to_profile_username": "bravozuluhouse",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "@bravozuluhouse, the nation\u2019s only all-military post-treatment sober home, provides a safe space and resources to help veterans who suffer from Post-Traumatic Stress Disorder and addiction.\n\nHonored to attend the groundbreaking event in Winnebago alongside Post 36 American Legion Commander Steve Fosness, Purple Heart recipient Jack Zimmerman, and Executive Director Tim Murray and hear about the important work that Bravo Zulu House does to support those who have sacrificed so much to protect us.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "bravozuluhouse"
+                ],
+                "text_tagged_users_ids": [
+                    "1729882742106861569"
+                ],
+                "text_tags": null,
+                "timestamp": 1714054865,
+                "view_count": 192
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1785769077996143018",
+                "created_time": "2024-05-01T20:31:40",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1785769077996143018",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1785417914272624805",
+                "quoted_status_profile_id": "18967498",
+                "quoted_status_profile_username": "CongressmanGT",
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Happy to see that my friend and colleague, @CongressmanGT, has finished his cancer treatment. Wishing him a speedy and full recovery.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CongressmanGT"
+                ],
+                "text_tagged_users_ids": [
+                    "18967498"
+                ],
+                "text_tags": null,
+                "timestamp": 1714595500,
+                "view_count": 1205
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://finstad.house.gov/2025/3/finstad-helps-introduce-bipartisan-legislation-to-expand-telemedicine-behavioral-health-treatment-in-rural-communities"
+                ],
+                "attached_links_url": [
+                    "https://t.co/k2G6W45ZPA"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1897758943037837312/XqgSlRRd?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1897769191324754312",
+                "created_time": "2025-03-06T22:00:08",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1897769191324754312",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Access to telemedicine has been life-changing for those who live in rural communities. I joined @RepNikkiB in introducing the Rural Wellness Act, which will expand access to telehealth services for those who need it most. https://t.co/k2G6W45ZPA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepNikkiB"
+                ],
+                "text_tagged_users_ids": [
+                    "1603476713995911168"
+                ],
+                "text_tags": null,
+                "timestamp": 1741298408,
+                "view_count": 543
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GlyBK-WWAAMkFeB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GlyBK-WWAAMkFeB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1899535180282442139",
+                "created_time": "2025-03-11T18:57:33",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1899535180282442139",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I\u2019m proud to serve in Congress to help bring resources back to our #MN01 communities. This week, I met with Mayor John Whittington and Jennifer Bromeland from Eagle Lake to hear about their city\u2019s water treatment improvement project and discuss opportunities to partner in delivering infrastructure investments for their residents.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "mn01"
+                ],
+                "timestamp": 1741719453,
+                "view_count": 535
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gov4w6bXsAA__n3.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gov4w6bXsAA__n3.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1912896215080960013",
+                "created_time": "2025-04-17T15:49:32",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912896215080960013",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "In Congress, my top priority is advocating for the needs of our #MN01 communities. My office recently helped the @cityofalbertlea secure $1,000,000 in federal funding for much-needed wastewater treatment facility improvements. I enjoyed visiting with Mayor Rich Murray and city staff this week to talk about the many ways we can continue to make a difference for Albert Lea\u2019s residents.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "cityofalbertlea"
+                ],
+                "text_tagged_users_ids": [
+                    "93892732"
+                ],
+                "text_tags": [
+                    "mn01"
+                ],
+                "timestamp": 1744904972,
+                "view_count": 441
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpF0EeJXcAAv7Nj.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpF0EeJXcAAv7Nj.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1914439045137977606",
+                "created_time": "2025-04-21T22:00:11",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1914439045137977606",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I had the incredible opportunity to visit @MayoClinic's Department of Radiation Oncology and get an up-close look at some of their cutting-edge radiation technology. Mayo\u2019s Edge and Ethos treatment machines give doctors and patients real-time information with millimeter precision, allowing treatments to be adjusted each day that a cancer patient\u2019s anatomy changes.\n\nThis technology is truly game-changing for cancer treatment and is just one of many reasons I am working to ensure Mayo has the support and resources to continue the numerous life-saving trials and research projects that will lead to a cure for this terrible disease.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MayoClinic"
+                ],
+                "text_tagged_users_ids": [
+                    "14592723"
+                ],
+                "text_tags": null,
+                "timestamp": 1745272811,
+                "view_count": 515
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gy9q3CGXMAA-XEp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gy9q3CGXMAA-XEp.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1958922111453692265",
+                "created_time": "2025-08-22T16:00:01",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1958922111453692265",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter Web Client",
+                "text": "Last week, I had the opportunity to hear from the folks at Recovery in Motion and see firsthand the dedication they show to helping our neighbors in need of recovery. While touring their treatment center in Fairmont, we talked about ways we can ensure policies at the federal level best serve the organizations that administer substance use disorder treatment services, as well as our community members who rely on them.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755878401,
+                "view_count": 472
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5LKnwGXwAAuD9A.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5LKnwGXwAAuD9A.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1563316176717246464",
+                "author_username": "RepFinstad",
+                "community_notes": null,
+                "conversation_id": "1986873173049319636",
+                "created_time": "2025-11-07T19:07:33",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1986873173049319636",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Too often, outdated restrictions limit Medicaid coverage for mental health treatment. I am excited to introduce the Restoring Inpatient Mental Health Access Act of 2025, which will expand access to inpatient care, helping those in crisis receive the treatment they need while easing the burden on emergency rooms and local jails.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762542453,
+                "view_count": 569
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,65 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://pantagraph.com/news/local/government-politics/article_b20556cd-860c-4e2e-b211-038850b57117.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/xl5r0BGCzB"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsdgwPHWUAA24Lf.jpg?name=small",
+                    "https://pbs.twimg.com/media/GsdgwPDXYAA2y2L.jpg?name=small",
+                    "https://pbs.twimg.com/media/GsdgwPEXoAApwoK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsdgwPHWUAA24Lf.jpg",
+                    "https://pbs.twimg.com/media/GsdgwPDXYAA2y2L.jpg",
+                    "https://pbs.twimg.com/media/GsdgwPEXoAApwoK.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1611441794704674828",
+                "author_username": "RepEricSorensen",
+                "community_notes": null,
+                "conversation_id": "1929617422493143143",
+                "created_time": "2025-06-02T19:13:38",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1929617422493143143",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Head Start is about lifting people out of poverty and making sure kids aren\u2019t crying themselves to sleep at night.\n\nOur neighbors benefit enormously from this successful program.\n\nAs the GOP threatens cuts. I am fighting to make sure Head Start in Bloomington and around #IL17 has the funding they need.\n\nhttps://t.co/xl5r0BGCzB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "il17"
+                ],
+                "timestamp": 1748891618,
+                "view_count": 401
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

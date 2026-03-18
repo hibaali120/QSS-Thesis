@@ -1,0 +1,985 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1709585198591963434/video/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Xj6bMCHqjX"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F7mlk4VXYAAyaXq.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1709210650306650112/vid/avc1/886x486/zrnDxVSt5txhUpLE.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 151,
+                        "id": "1709210650306650112",
+                        "url": "https://video.twimg.com/amplify_video/1709210650306650112/vid/avc1/886x486/zrnDxVSt5txhUpLE.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1709585198591963434",
+                "created_time": "2023-10-04T15:04:08",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1709585198591963434",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 2,
+                "source": "Twitter Media Studio",
+                "text": "The @WaysandMeansGOP passed my Health Savings for Families Act of 2023, legislation that would allow individuals to maintain a HSA even if the individual\u2019s spouse is enrolled in a FSA. This will allow patients to have more choice and control of their own health care dollars. https://t.co/Xj6bMCHqjX",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1696431848,
+                "view_count": 1339
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1721615766204686477/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Vc7a7ShkB8"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F-RoaZ3WcAANqKw.jpg?name=small",
+                    "https://pbs.twimg.com/media/F-RoaZ2XEAACpnV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F-RoaZ3WcAANqKw.jpg",
+                    "https://pbs.twimg.com/media/F-RoaZ2XEAACpnV.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1721615766204686477",
+                "created_time": "2023-11-06T19:49:19",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1721615766204686477",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 35,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I started my day with a visit to Heartland Health Services in Pekin to meet their staff and tour the facility. Heartland Health Services works hard to serve the community and provide care to families across the tri-county region. Thank you for all that you do for Tazewell County. https://t.co/Vc7a7ShkB8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1699300159,
+                "view_count": 1586
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1726605069456650534",
+                "created_time": "2023-11-20T14:15:01",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1726605069456650534",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1725649946664157351",
+                "quoted_status_profile_id": "83671898",
+                "quoted_status_profile_username": "Rosecrance",
+                "reply_count": 19,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to Dave and Kelly at Rosecrance for hosting us in Rockford for a tour. I appreciate the work Rosecrance does to support families in our community get the behavioral health treatment they need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1700489701,
+                "view_count": 1900
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1741978905764942163/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/JvuAZt2Cuw"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GCzAlO9XEAAsPB5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GCzAlO9XEAAsPB5.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1741978905764942163",
+                "created_time": "2024-01-02T00:25:10",
+                "favorite_count": 39,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1741978905764942163",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 63,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Happy New Year! I hope your 2024 is blessed with happiness and good health. \ud83c\udf89 https://t.co/JvuAZt2Cuw",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704155110,
+                "view_count": 2017
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1749986968316911762/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MBGnpo0Goi"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GEkqzqeXgAAK9bU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GEkqzqeXgAAK9bU.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1749986968316911762",
+                "created_time": "2024-01-24T02:46:21",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1749986968316911762",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 27,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "I joined State Senator Dave Syverson and Harvard Mayor Mike Kelly this afternoon for a visit to the U.S. Medical Glove Plant. I appreciated the opportunity to tour their facility, learn about their business, and discuss the important work they do in sustainable engineering and machine manufacturing.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1706064381,
+                "view_count": 1391
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1754966009776046257/video/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/0DcYbqeEUN"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFrH88ZWkAAO1dz.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1754933514967859200/vid/avc1/886x476/oeisX0TnPwzICLFO.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 346,
+                        "id": "1754933514967859200",
+                        "url": "https://video.twimg.com/amplify_video/1754933514967859200/vid/avc1/886x476/oeisX0TnPwzICLFO.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1754966009776046257",
+                "created_time": "2024-02-06T20:31:17",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1754966009776046257",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 18,
+                "retweet_count": 5,
+                "source": "Twitter Media Studio",
+                "text": "In rural communities, timely access to life-saving medications is essential to safeguarding patient health. At our @WaysandMeansGOP hearing, I discussed the challenges rural communities face to access drugs and the need to reduce our reliance on foreign drug manufacturers. https://t.co/0DcYbqeEUN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WaysandMeansGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "12788332"
+                ],
+                "text_tags": null,
+                "timestamp": 1707251477,
+                "view_count": 1632
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1788301135289225333/video/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/y838oVBKFk"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1788301018620456960/img/AlqQWhFhiAqo1G13.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1788301018620456960/vid/avc1/888x470/8dKTKtylwbngatp3.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 122,
+                        "id": "1788301018620456960",
+                        "url": "https://video.twimg.com/amplify_video/1788301018620456960/vid/avc1/888x470/8dKTKtylwbngatp3.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1788301135289225333",
+                "created_time": "2024-05-08T20:13:10",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1788301135289225333",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "The Protecting Access to Ground Ambulance Medical Services Act will preserve access to critical 9-1-1 and ambulance services in rural communities in #IL16. As a member of the EMS Caucus, I will continue to support our life-saving emergency service providers. \n\nGlad to see this important bill pass out of @WaysandMeansGOP today.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "il16"
+                ],
+                "timestamp": 1715199190,
+                "view_count": 982
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.shawlocal.com/sauk-valley/2024/06/15/ogle-county-deputy-shot-in-the-line-of-duty-released-from-osf-medical-center/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/pTiMavPHr7"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1803932030566035817",
+                "created_time": "2024-06-20T23:24:46",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1803932030566035817",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 32,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I am glad to hear that Lt. Jason Ketter of the Ogle County Sheriff's department had a successful surgery and was released from the hospital. I thank him for his service to the community and wish him the best on his road to a full recovery! https://t.co/pTiMavPHr7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1718925886,
+                "view_count": 1173
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1818747957715317149/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/4GrbFhZYTe"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GT19nz9XYAA5Mhg.jpg?name=small",
+                    "https://pbs.twimg.com/media/GT19nz4XAAAPM3c.jpg?name=small",
+                    "https://pbs.twimg.com/media/GT19nzmXgAErktu.jpg?name=small",
+                    "https://pbs.twimg.com/media/GT19nz5XYAA_-2Y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GT19nz9XYAA5Mhg.jpg",
+                    "https://pbs.twimg.com/media/GT19nz4XAAAPM3c.jpg",
+                    "https://pbs.twimg.com/media/GT19nzmXgAErktu.jpg",
+                    "https://pbs.twimg.com/media/GT19nz5XYAA_-2Y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1818747957715317149",
+                "created_time": "2024-07-31T20:37:58",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1818747957715317149",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Today, I visited the new Trillium Young Minds Behavioral Health Center, a Carle Health affiliate. Located at the site of the former Heddington Oaks facility, and scheduled to open in September, this center will dramatically increase the scope of services available to address child and adolescent behavioral health needs. \n\nMy office was proud to secure Community Project Funding in FY22 to help build and expand this larger center to support counseling, mental health, and recovery services.  \n\nI am grateful for all the community stakeholders and advocates who helped make this happen!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1722458278,
+                "view_count": 1042
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1826356686149611994/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/wGnRDclo06"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GViFuTkW4AAaaDt.jpg?name=small",
+                    "https://pbs.twimg.com/media/GViFuTlXcAAxWU9.jpg?name=small",
+                    "https://pbs.twimg.com/media/GViFuTlXEAAMZMg.jpg?name=small",
+                    "https://pbs.twimg.com/media/GViFuTmXQAAliJR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GViFuTkW4AAaaDt.jpg",
+                    "https://pbs.twimg.com/media/GViFuTlXcAAxWU9.jpg",
+                    "https://pbs.twimg.com/media/GViFuTlXEAAMZMg.jpg",
+                    "https://pbs.twimg.com/media/GViFuTmXQAAliJR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1826356686149611994",
+                "created_time": "2024-08-21T20:32:20",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1826356686149611994",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "It was great to see the progress being made on the new Morris Hospital YMCA! \n\nMy office was proud to secure $3.5 million for this project that will improve health and wellness, as well as boost community engagement for those in the Morris area. https://t.co/wGnRDclo06",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1724272340,
+                "view_count": 562
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1856809730200486006/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/fWt7p4lRes"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GcS2m9QXEAAsFWM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GcS2m9QXEAAsFWM.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1856809730200486006",
+                "created_time": "2024-11-13T21:21:52",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1856809730200486006",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Honored to receive the 2024 Legislative Recognition Award from the American Ambulance Association today. \n\nAs a member of the EMS Caucus, I will always support our emergency service personnel as they continue to provide life-saving services to protect the health and safety of our communities.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1731532912,
+                "view_count": 1178
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1874540435160625368/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MvyweYqUL2"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GgO0lysXQAAIk4d.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GgO0lysXQAAIk4d.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1874540435160625368",
+                "created_time": "2025-01-01T19:37:21",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1874540435160625368",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Happy New Year! I hope everyone has a year filled with blessings, success, and good health! \ud83c\udf89 https://t.co/MvyweYqUL2",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1735760241,
+                "view_count": 1055
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://lahood.house.gov/2025/3/lahood-reintroduces-bipartisan-legislation-to-strengthen-and-protect-our-future-health-care-workforce"
+                ],
+                "attached_links_url": [
+                    "https://t.co/EC3ualvQ7u"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1896697669025710159",
+                "created_time": "2025-03-03T23:02:17",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1896697669025710159",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I was proud to be joined by @RepAngieCraig and @RepFischbach in reintroducing the Rebuild America\u2019s Health Care Schools Act. \n\nThis bill ensures nurses and health professionals receive a high-quality education and increases access to care for rural and underserved areas of #IL16. \n\nhttps://t.co/EC3ualvQ7u",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepAngieCraig",
+                    "RepFischbach"
+                ],
+                "text_tagged_users_ids": [
+                    "1080222360643485698",
+                    "1344375287484723205"
+                ],
+                "text_tags": [
+                    "il16"
+                ],
+                "timestamp": 1741042937,
+                "view_count": 1007
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1922450752049398068",
+                "created_time": "2025-05-14T00:35:51",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922450752049398068",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Thanks to President Biden's sky high inflation rates, the cost of raising a child has surged more than 21%.\n\nRepublicans are putting families first again by expanding the child tax credit, supporting paid family leave, and lowering health care costs.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747182951,
+                "view_count": 1416
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://lahood.house.gov/2025/5/lahood-s-community-reclamation-partnerships-act-passes-the-house"
+                ],
+                "attached_links_url": [
+                    "https://t.co/1SQ2FGvQxv"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1922786842748846259",
+                "created_time": "2025-05-14T22:51:21",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922786842748846259",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Abandoned mines across the country pose serious health risks, limit economic development, and burden taxpayers. \n\nI\u2019m proud the House passed my Community Reclamation Partnership Act to tackle these problems and clean up these sites.\nhttps://t.co/1SQ2FGvQxv",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747263081,
+                "view_count": 883
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1937984754571256067",
+                "created_time": "2025-06-25T21:22:26",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937984754571256067",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1937982005230108979",
+                "quoted_status_profile_id": "15207668",
+                "quoted_status_profile_username": "HouseGOP",
+                "reply_count": 10,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "We can never fully repay our veterans and their families for their sacrifice to our country, but what we can do is ensure they receive the resources they have earned and deserve.\n\nI voted to fully fund VA health care, benefits, and other vital programs. We owe our veterans an enormous debt of gratitude.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750886546,
+                "view_count": 1758
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1943029647257587822/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rkpbN5Uz5V"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GvcGu6LXUAAZ3dH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GvcGu6LXUAAZ3dH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1943029647257587822",
+                "created_time": "2025-07-09T19:29:02",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1943029647257587822",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "During my day in Bloomington, I stopped by the Western Avenue Community Center to learn more about the educational and health programs they offer residents.\n\nThanks to Tinervin Family Foundation and the community center staff for their commitment to supporting the community! https://t.co/rkpbN5Uz5V",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1752089342,
+                "view_count": 915
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1943793928693584179/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/UamTyV9QCv"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gvm-RojW0AAhwBB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gvm-RojW0AAhwBB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1943793928693584179",
+                "created_time": "2025-07-11T22:06:01",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1943793928693584179",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "The @Rosecrance Harrison Campus in Rockford does incredible work to provide veterans, service members, and their families with behavioral health care services. \n\nI\u2019m grateful to Col. Baggio, Col. Draeger, Craig Riehle, Craig Stallings, and all the employees who are committed to supporting veterans in the Rockford community!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Rosecrance"
+                ],
+                "text_tagged_users_ids": [
+                    "83671898"
+                ],
+                "text_tags": null,
+                "timestamp": 1752271561,
+                "view_count": 877
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1950613038127616376/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/SndgmOQQja"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GxH4LCWWIAAaCJ1.jpg?name=small",
+                    "https://pbs.twimg.com/media/GxH4LCUW0AA9J-u.jpg?name=small",
+                    "https://pbs.twimg.com/media/GxH4LCUW4AELnl3.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GxH4LCWWIAAaCJ1.jpg",
+                    "https://pbs.twimg.com/media/GxH4LCUW0AA9J-u.jpg",
+                    "https://pbs.twimg.com/media/GxH4LCUW4AELnl3.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1950613038127616376",
+                "created_time": "2025-07-30T17:42:43",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1950613038127616376",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The Kishwaukee YMCA is an invaluable asset to seniors and families in Sycamore and DeKalb County.\n\nI appreciate their CEO Brian Bickner for taking the time to meet with me to discuss their year-round health and youth programs! https://t.co/SndgmOQQja",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1753897363,
+                "view_count": 591
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/RepLaHood/status/1971677875272122730/photo/1"
+                ],
+                "attached_links_url": [
+                    "https://t.co/LCoGMT0VaR"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1zOkuDW4AAmHXs.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1zOkuIXYAEFLit.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1zOkuKWAAAgAqh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1zOkuDW4AAmHXs.jpg",
+                    "https://pbs.twimg.com/media/G1zOkuIXYAEFLit.jpg",
+                    "https://pbs.twimg.com/media/G1zOkuKWAAAgAqh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3686482216",
+                "author_username": "RepLaHood",
+                "community_notes": null,
+                "conversation_id": "1971677875272122730",
+                "created_time": "2025-09-26T20:46:52",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1971677875272122730",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "It was great to tour Forest City Gear in Roscoe to get a firsthand look at their innovative work that supports industries ranging from medical to aerospace.\n\nI appreciate their President, Kika Young, for hosting me and discussing how @HouseGOP\u2019s Working Families Tax Cuts  benefits their business and employees.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1758919612,
+                "view_count": 754
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

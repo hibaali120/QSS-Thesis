@@ -1,0 +1,659 @@
+{
+    "politician": "RepRichardNeal",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1488907307958341635",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "842766005655011331",
+                    "author_username": "irish1841",
+                    "community_notes": null,
+                    "conversation_id": "1488907307958341635",
+                    "created_time": "2022-02-02T17:23:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1488926069549940741",
+                    "in_reply_to_post_id": "1488907307958341635",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRichardNeal And 2 million seniors are going half nutz because you and your cronies will do nothing with the WEP/GPO",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643822612,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FKmzfeeX0AMiROY.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FKmzfeeX0AMiROY.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1296543921284288528",
+                    "author_username": "AdamFYeah",
+                    "community_notes": null,
+                    "conversation_id": "1488907307958341635",
+                    "created_time": "2022-02-02T16:53:29",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1488918508222263301",
+                    "in_reply_to_post_id": "1488907307958341635",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal Still waiting \ud83e\udd71 https://t.co/0MTJcdy04v",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643820809,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FKmzeDlXMBcAvWo.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FKmzeDlXMBcAvWo.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1296543921284288528",
+                    "author_username": "AdamFYeah",
+                    "community_notes": null,
+                    "conversation_id": "1488907307958341635",
+                    "created_time": "2022-02-02T16:53:24",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1488918485061316609",
+                    "in_reply_to_post_id": "1488907307958341635",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal Still waiting \ud83e\udd71 https://t.co/ovxhCOyTri",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643820804,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2818346766",
+                    "author_username": "CarenaAK",
+                    "community_notes": null,
+                    "conversation_id": "1488907307958341635",
+                    "created_time": "2022-02-02T16:27:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1488911938335563782",
+                    "in_reply_to_post_id": "1488907307958341635",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal @WaysMeansCmte Many people who lost jobs during pandemic had to switch to Medicaid, which means they most likely lost their mental health provider, scrambled to find a new provider, constrained by inadequate number of providers. Mental healthcare should not be constrained to insurer networks.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal",
+                        "WaysMeansCmte"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717",
+                        "31128529"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643819243,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/owlhoot14/status/1488902129620119558?s=21"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/05s3mnlLbx"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1291032699994427392",
+                    "author_username": "ClaudiaMonet67",
+                    "community_notes": null,
+                    "conversation_id": "1488907307958341635",
+                    "created_time": "2022-02-02T16:11:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1488907985644490757",
+                    "in_reply_to_post_id": "1488907307958341635",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal Oh I wonder why hmm \ud83e\udd14 Craven Government who do not help the American people and love War \n\nhttps://t.co/05s3mnlLbx",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643818301,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1499065309449310225",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1296543921284288528",
+                    "author_username": "AdamFYeah",
+                    "community_notes": null,
+                    "conversation_id": "1499065309449310225",
+                    "created_time": "2022-03-02T19:10:32",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1499099859026120715",
+                    "in_reply_to_post_id": "1499065309449310225",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal Raise SSI",
+                    "text_lang": "et",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1646248232,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "842766005655011331",
+                    "author_username": "irish1841",
+                    "community_notes": null,
+                    "conversation_id": "1499065309449310225",
+                    "created_time": "2022-03-02T17:21:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1499072295918313474",
+                    "in_reply_to_post_id": "1499065309449310225",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRichardNeal They made their choices, 2 million of us had no choice when it comes to the WEP/GPO",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1646241661,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1499754342341042184",
+            "replies": []
+        },
+        {
+            "conversation_id": "1519715202467569664",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/e9p34zsubde3kjb/status/1520009797147451393"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ATST2EUVJ1"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1246151954587418628",
+                    "author_username": "E9P34zsUBDe3KJb",
+                    "community_notes": null,
+                    "conversation_id": "1519715202467569664",
+                    "created_time": "2022-04-29T12:04:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1520011084941381633",
+                    "in_reply_to_post_id": "1519715202467569664",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal @HHSGov @SecBecerra https://t.co/ATST2EUVJ1",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRichardNeal",
+                        "HHSGov",
+                        "SecBecerra"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717",
+                        "44783853",
+                        "1372581976117481479"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651233857,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1614007545407983616",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=kZPtbJDAjkw"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/5LnkwpqC9o"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1354155660951347200",
+                    "author_username": "katbuzz92965",
+                    "community_notes": null,
+                    "conversation_id": "1614007545407983616",
+                    "created_time": "2023-01-14T16:11:01",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1614294021437890561",
+                    "in_reply_to_post_id": "1614007545407983616",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 5,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal @RepRichardNeal PLEASE HELP YOUR CONSTITUENTS. YOU ARE IN THIS VIDEO because you were prepared to vote for H.R. 82 in December, so please cosponsor the bill in the 118th Congress.\nSee 9:19 - 12:02 at https://t.co/5LnkwpqC9o.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1673712661,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FmZGs9JWYAAfRJO.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FmZGs9JWYAAfRJO.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1590860599285747713",
+                    "author_username": "KellyDickey20",
+                    "community_notes": null,
+                    "conversation_id": "1614007545407983616",
+                    "created_time": "2023-01-14T00:22:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1614055259327922177",
+                    "in_reply_to_post_id": "1614007545407983616",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRichardNeal Financial accountability NOW democrats!!! https://t.co/T4rlPXCDd8",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1673655736,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1657029481129816068",
+            "replies": []
+        },
+        {
+            "conversation_id": "1849082850198356156",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GartJFDbEAAyupd.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GartJFDbEAAyupd.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "991488883308167169",
+                    "author_username": "Vitaman364",
+                    "community_notes": null,
+                    "conversation_id": "1849082850198356156",
+                    "created_time": "2024-10-24T20:39:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1849551343800943040",
+                    "in_reply_to_post_id": "1849082850198356156",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRichardNeal @SenMarkey @SpfldMACityHall @EPA @MassDEP @SpfldWaterSewer https://t.co/X0cB7kFhz3",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRichardNeal",
+                        "SenMarkey",
+                        "SpfldMACityHall",
+                        "EPA",
+                        "MassDEP",
+                        "SpfldWaterSewer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717",
+                        "21406834",
+                        "1897390435",
+                        "14615871",
+                        "284530356",
+                        "1075859489578983424"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729802378,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1231315544894210054",
+                    "author_username": "DavisCoole",
+                    "community_notes": null,
+                    "conversation_id": "1849082850198356156",
+                    "created_time": "2024-10-23T13:55:50",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1849087337617104996",
+                    "in_reply_to_post_id": "1849082850198356156",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepRichardNeal @SenMarkey @SpfldMACityHall @EPA @MassDEP @SpfldWaterSewer That was a long time ago. Who is your chosen replacement in the House?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRichardNeal",
+                        "SenMarkey",
+                        "SpfldMACityHall",
+                        "EPA",
+                        "MassDEP",
+                        "SpfldWaterSewer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717",
+                        "21406834",
+                        "1897390435",
+                        "14615871",
+                        "284530356",
+                        "1075859489578983424"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729691750,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1924253933347684712",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1314164250",
+                    "author_username": "Cailinspeir",
+                    "community_notes": null,
+                    "conversation_id": "1924253933347684712",
+                    "created_time": "2025-05-19T00:42:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924264286769086595",
+                    "in_reply_to_post_id": "1924253933347684712",
+                    "in_reply_to_profile_id": "442824717",
+                    "in_reply_to_profile_username": "RepRichardNeal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRichardNeal #prayforPresidentBiden",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRichardNeal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "442824717"
+                    ],
+                    "text_tags": [
+                        "prayforpresidentbiden"
+                    ],
+                    "timestamp": 1747615331,
+                    "view_count": 13
+                }
+            ]
+        }
+    ]
+}

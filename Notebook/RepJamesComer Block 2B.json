@@ -1,0 +1,515 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FPrmek7XwAIXrIc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FPrmek7XwAIXrIc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1511774042218450944",
+                "created_time": "2022-04-06T18:33:13",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1511774042218450944",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Good front page coverage in the @PaducahSunNews of our legislation to preserve the natural heritage of @LandBtwnLakes! https://t.co/UO8GyefRZO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "PaducahSunNews",
+                    "LandBtwnLakes"
+                ],
+                "text_tagged_users_ids": [
+                    "23076143",
+                    "596164164"
+                ],
+                "text_tags": null,
+                "timestamp": 1649269993,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQULhODXMAY9dLV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1514629373705474056/vid/1280x720/z3hOh5ej-iFOkXVB.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 31,
+                        "id": "1514629373705474056",
+                        "url": "https://video.twimg.com/amplify_video/1514629373705474056/vid/1280x720/z3hOh5ej-iFOkXVB.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1514630058639597568",
+                "created_time": "2022-04-14T15:42:01",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1514630058639597568",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 9,
+                "source": "Twitter Media Studio",
+                "text": "Great coverage from @WEHTWTVWlocal of our Oversight Committee trip to see the #BidenBorderCrisis firsthand.\n\n\"Comer has been vocal in his disapproval of the nation's immigration policies.\" https://t.co/NweDwCqzhS",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WEHTWTVWlocal"
+                ],
+                "text_tagged_users_ids": [
+                    "47127897"
+                ],
+                "text_tags": [
+                    "bidenbordercrisis"
+                ],
+                "timestamp": 1649950921,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQytKxKXEAgxjyI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1516768902356819968/vid/1280x720/7DugrLsYZeJg9SmU.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 144,
+                        "id": "1516768902356819968",
+                        "url": "https://video.twimg.com/amplify_video/1516768902356819968/vid/1280x720/7DugrLsYZeJg9SmU.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1516777607475380227",
+                "created_time": "2022-04-20T13:55:36",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1516777607475380227",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 6,
+                "source": "Twitter Media Studio",
+                "text": "Great coverage from @JuliaBenbrook of my recent trip to the southern border and the seriousness of the illegal immigration crisis. https://t.co/0n5WMLBkhc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JuliaBenbrook"
+                ],
+                "text_tagged_users_ids": [
+                    "354444384"
+                ],
+                "text_tags": null,
+                "timestamp": 1650462936,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wsj.com/articles/house-republicans-investigate-covid-19-aid-to-hospitals-29b6b3da"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X0KNCxtWIq"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1645834311206043656",
+                "created_time": "2023-04-11T17:00:52",
+                "favorite_count": 741,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1645834311206043656",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 23,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 122,
+                "retweet_count": 255,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8Today, I launched an investigation into @HHSGov's failure to provide COVID relief funds to low-income hospitals.\n\nHHS funneled billions of taxpayer dollars to highly profitable hospitals in wealthy areas while rural hospitals battled bankruptcy. \n\n@WSJ\nhttps://t.co/X0KNCxtWIq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HHSGov",
+                    "WSJ"
+                ],
+                "text_tagged_users_ids": [
+                    "44783853",
+                    "3108351"
+                ],
+                "text_tags": null,
+                "timestamp": 1681232452,
+                "view_count": 29565
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1813325782262968532",
+                "created_time": "2024-07-16T21:32:11",
+                "favorite_count": 102,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1813325782262968532",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1813320713765548034",
+                "quoted_status_profile_id": "22508473",
+                "quoted_status_profile_username": "GOPoversight",
+                "reply_count": 33,
+                "retweet_count": 26,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8 Self-benefitting policies pushed by Pharmacy Benefit Managers serve to help their bottom line rather than patients.\n\nRepublicans & Democrats have sounded the alarm over PBMs & their role in rising drug prices.\n\n@GOPoversight is working to hold PBMs accountable next week.\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1721165531,
+                "view_count": 11523
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1824166850034536601",
+                "created_time": "2024-08-15T19:30:43",
+                "favorite_count": 121,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1824166850034536601",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1824165785297674280",
+                "quoted_status_profile_id": "20545835",
+                "quoted_status_profile_username": "NEWSMAX",
+                "reply_count": 45,
+                "retweet_count": 43,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8America can\u2019t afford to give Pharmacy Benefit Managers a free pass for their role in rising prescription drug prices.\n\n@GOPoversight exposed how PBMs hurt our local pharmacies, raised the cost of lifesaving drugs, and undermined the health of patients across the country.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1723750243,
+                "view_count": 9838
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1831694440446226435/img/H0L_IgQ7kZwiX5N7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1831694440446226435/vid/avc1/1080x720/AcHQ2Re0MjpR0uV6.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 130,
+                        "id": "1831694440446226435",
+                        "url": "https://video.twimg.com/amplify_video/1831694440446226435/vid/avc1/1080x720/AcHQ2Re0MjpR0uV6.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1831696683203445217",
+                "created_time": "2024-09-05T14:11:35",
+                "favorite_count": 423,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1831696683203445217",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 19,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 73,
+                "retweet_count": 189,
+                "source": "Twitter Media Studio",
+                "text": "\ud83d\udea8Over 140,000 documents & communications obtained by @GOPoversight reveal Pharmacy Benefit Managers prioritized pricing tactics to line their own pockets.\n\nAmericans now pay more for lifesaving drugs, harming patients across the U.S.\n\nWe must hold PBMs accountable. @BloombergTV https://t.co/UUoD2Vf0oh",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "BloombergTV"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "35002876"
+                ],
+                "text_tags": null,
+                "timestamp": 1725545495,
+                "view_count": 32533
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1902384535536312320/img/PmUQKUVRdC4PHVw6.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1902384535536312320/vid/avc1/1080x720/13eIfmPCe0L7G2au.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 184,
+                        "id": "1902384535536312320",
+                        "url": "https://video.twimg.com/amplify_video/1902384535536312320/vid/avc1/1080x720/13eIfmPCe0L7G2au.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1902385771098550299",
+                "created_time": "2025-03-19T15:44:47",
+                "favorite_count": 792,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1902385771098550299",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 27,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 401,
+                "retweet_count": 213,
+                "source": "Twitter Media Studio",
+                "text": "\ud83d\udea8Should hardworking taxpayers continue to fund NPR and PBS?\n\nOn March 26, the CEOs of NPR and PBS will be in front of the @GOPoversight DOGE Subcommittee to testify & explain why the demonstrably biased news coverage they produce should continue to be funded. @FoxBusiness https://t.co/aAf90Y0ZcC",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "FoxBusiness"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "56413858"
+                ],
+                "text_tags": null,
+                "timestamp": 1742399087,
+                "view_count": 25545
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1999233800916578304/img/d6aBR3g_F7_-mDR8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1999233800916578304/vid/avc1/1920x1080/Hf1rPg4kNPQC_vQp.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 146,
+                        "id": "1999233800916578304",
+                        "url": "https://video.twimg.com/amplify_video/1999233800916578304/vid/avc1/1920x1080/Hf1rPg4kNPQC_vQp.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1999235350523158663",
+                "created_time": "2025-12-11T21:50:26",
+                "favorite_count": 1611,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999235350523158663",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 11,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 101,
+                "retweet_count": 380,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8Congress is putting Pharmacy Benefit Managers on notice: their era of taking advantage of Americans is ending.\n\nPredatory tactics by PBMs have caused drug prices to soar & our pharmacies to suffer.\n\nI introduced bipartisan legislation today to rein in PBMs & protect patients. https://t.co/yKqIjj5B9R",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765489826,
+                "view_count": 156404
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wkyt.com/2025/12/12/kentucky-lawmaker-introduces-federal-bill-fight-pharmacy-benefit-managers/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/nUZZHA0OFw"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1999587670259855666",
+                "created_time": "2025-12-12T21:10:25",
+                "favorite_count": 171,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999587670259855666",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 40,
+                "retweet_count": 42,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8Kentucky lawmaker introduces federal bill to fight pharmacy benefit managers.\n\nCOMER: \"PBMs have abused their positions as middlemen to line their own pockets, undermine our community pharmacists, and pass along costs to patients.\" @WKYT \nhttps://t.co/nUZZHA0OFw",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WKYT"
+                ],
+                "text_tagged_users_ids": [
+                    "16434865"
+                ],
+                "text_tags": null,
+                "timestamp": 1765573825,
+                "view_count": 5041
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

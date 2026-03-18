@@ -1,0 +1,442 @@
+{
+    "politician": "RepDwightEvans",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1996633349969092618",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996651051706208438",
+            "replies": []
+        },
+        {
+            "conversation_id": "1997032046695522694",
+            "replies": []
+        },
+        {
+            "conversation_id": "1997053111798821289",
+            "replies": []
+        },
+        {
+            "conversation_id": "1997063439584547203",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G7c6BCBWYAAoJgz.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G7c6BCBWYAAoJgz.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1433156968164757511",
+                    "author_username": "clownworld_bob",
+                    "community_notes": null,
+                    "conversation_id": "1997063439584547203",
+                    "created_time": "2025-12-06T02:19:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1997128848518139921",
+                    "in_reply_to_post_id": "1997063439584547203",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDwightEvans https://t.co/DNpAsRj98E",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764987597,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1998092061514301515",
+            "replies": []
+        },
+        {
+            "conversation_id": "1998147743949459695",
+            "replies": []
+        },
+        {
+            "conversation_id": "1998793458358849715",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1500892159305785349",
+                    "author_username": "cryptodaaddy",
+                    "community_notes": null,
+                    "conversation_id": "1998793458358849715",
+                    "created_time": "2025-12-11T14:26:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1999123514771533961",
+                    "in_reply_to_post_id": "1998793458358849715",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDwightEvans it's wild how politics prioritize rhetoric over lives",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765463162,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1998807755344519397",
+            "replies": []
+        },
+        {
+            "conversation_id": "1999251196553630057",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "813545994",
+                    "author_username": "Reverend_Marcel",
+                    "community_notes": null,
+                    "conversation_id": "1999251196553630057",
+                    "created_time": "2025-12-11T22:55:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1999251815586758983",
+                    "in_reply_to_post_id": "1999251196553630057",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDwightEvans The democrats created ACA... donkey.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765493751,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999260407731482775",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1251948714693988352",
+                    "author_username": "texasbillsfan",
+                    "community_notes": null,
+                    "conversation_id": "1999260407731482775",
+                    "created_time": "2025-12-13T22:47:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1999974493218099487",
+                    "in_reply_to_post_id": "1999260407731482775",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDwightEvans I\u2019m confused\u2026aren\u2019t you in congress? Fucking do something then dumb ass.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765666051,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "2000695171390791808",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001048142012436736",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://punchbowl.news/archive/121625-am/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/CMJ2NLc5Hc"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "90639372",
+                    "author_username": "RepDwightEvans",
+                    "community_notes": null,
+                    "conversation_id": "2001048142012436736",
+                    "created_time": "2025-12-16T21:53:49",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001048144054833597",
+                    "in_reply_to_post_id": "2001048142012436736",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "https://t.co/CMJ2NLc5Hc",
+                    "text_lang": "zxx",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1765922029,
+                    "view_count": 106
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001068572030689415",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001317830600364151",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "813545994",
+                    "author_username": "Reverend_Marcel",
+                    "community_notes": null,
+                    "conversation_id": "2001317830600364151",
+                    "created_time": "2025-12-17T16:57:47",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001336030046359818",
+                    "in_reply_to_post_id": "2001317830600364151",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDwightEvans No, besides it would never pass Senate.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765990667,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001342084503204071",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "943152723016351745",
+                    "author_username": "dascryto",
+                    "community_notes": null,
+                    "conversation_id": "2001342084503204071",
+                    "created_time": "2025-12-17T20:51:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001394856933859507",
+                    "in_reply_to_post_id": "2001342084503204071",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDwightEvans Repeal the ACA ffs",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766004692,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001360987136708863",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001404963147137512",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001442288287805756",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001778022957940799",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1963403920010612736",
+                    "author_username": "lookingup90210",
+                    "community_notes": null,
+                    "conversation_id": "2001778022957940799",
+                    "created_time": "2025-12-19T12:39:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001995762331476416",
+                    "in_reply_to_post_id": "2001778022957940799",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDwightEvans Sorry buddy!You Dems own that POS ACA! It was horrible right out of the gate! Small business owner saw their insurance go from 3 to 4000 a year to over $20,000 a year. How the fuck is that affordable you Democrats are bought and paid for by the insurance companies",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766147959,
+                    "view_count": 1
+                }
+            ]
+        }
+    ]
+}

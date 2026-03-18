@@ -1,0 +1,68 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1502389085956096010/pu/img/V0I6ntbN1XH9VwHl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1502389085956096010/pu/vid/1280x720/-cERg0hUKjB7IQZo.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 47,
+                        "id": "1502389085956096010",
+                        "url": "https://video.twimg.com/ext_tw_video/1502389085956096010/pu/vid/1280x720/-cERg0hUKjB7IQZo.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1081243468327018496",
+                "author_username": "RepMichaelGuest",
+                "community_notes": null,
+                "conversation_id": "1502389252461580288",
+                "created_time": "2022-03-11T21:01:25",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1502389252461580288",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "ICYMI: I spoke with @JohnFBachman on @newsmax  today on the U.S. strategy in Ukraine and how Congress, not the White House, must exercise its authority on foreign military intervention. https://t.co/vGjqZzjhob",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JohnFBachman",
+                    "newsmax"
+                ],
+                "text_tagged_users_ids": [
+                    "425134612",
+                    "20545835"
+                ],
+                "text_tags": null,
+                "timestamp": 1647032485,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

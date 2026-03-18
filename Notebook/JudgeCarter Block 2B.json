@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FvIZ-ESWIAADI0y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FvIZ-ESWIAADI0y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1654863591630315520",
+                "created_time": "2023-05-06T15:00:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1654863591630315520",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Happy National Nurses Day! Thank you to the compassionate nurses who spread hope and healing to their patients! https://t.co/SllHbRB4xj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1683385200,
+                "view_count": 645
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F1f7q0FWIAAIf4-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F1f7q0FWIAAIf4-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1682488115225608198",
+                "created_time": "2023-07-21T20:30:00",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1682488115225608198",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I met with John Henderson, the President of TX Organization of Rural & Community Hospitals, to talk about the importance & needs of the rural hospitals in TX-31! Rural hospitals provide access to care, economic development, & play an essential role in the fabric of rural America! https://t.co/JiqFIB6ObB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1689971400,
+                "view_count": 481
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3Gbw1JXAAE4o57.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3Gbw1JXAAE4o57.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18030431",
+                "author_username": "JudgeCarter",
+                "community_notes": null,
+                "conversation_id": "1689304342396833792",
+                "created_time": "2023-08-09T15:55:15",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1689304342396833792",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "With the growth of Williamson County, it is imperative to have well-equipped hospitals. I secured $3 million for a high-tech cardiac catheterization lab at Baylor Scott & White in Round Rock. I was able to tour the construction site for the hospital's new wing and see the lab. https://t.co/SwTbky9yHQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1691596515,
+                "view_count": 1729
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

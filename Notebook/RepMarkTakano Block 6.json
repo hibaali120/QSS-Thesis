@@ -1,0 +1,204 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://vote.gov/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/jQxPanBiEr"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FdHgyRaaAAENfOD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FdHgyRaaAAENfOD.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1037321378",
+                "author_username": "RepMarkTakano",
+                "community_notes": null,
+                "conversation_id": "1572285040394145792",
+                "created_time": "2022-09-20T18:02:19",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1572285040394145792",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Are you registered to vote?\n\nToday is National Voter Registration Day and it's more important than ever to be registered to exercise your right to make your voice heard at the ballot box.\n\nDon't wait. To register or check your registration status, visit: https://t.co/jQxPanBiEr https://t.co/Tn9xbxnpgu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1663696939,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1575208459124908032/pu/img/NPhXsiq51lg08rXO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1575208459124908032/pu/vid/1280x720/uPrd1_da9H6WkPfr.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 57,
+                        "id": "1575208459124908032",
+                        "url": "https://video.twimg.com/ext_tw_video/1575208459124908032/pu/vid/1280x720/uPrd1_da9H6WkPfr.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1037321378",
+                "author_username": "RepMarkTakano",
+                "community_notes": null,
+                "conversation_id": "1575208853725069312",
+                "created_time": "2022-09-28T19:40:31",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1575208853725069312",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "This morning, I had the privilege of attending the White House briefing on Hunger, Nutrition, and Health. It's time to address the food insecurity affecting many different subgroups of Americans. https://t.co/RSS1UxxbwB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1664394031,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1037321378",
+                "author_username": "RepMarkTakano",
+                "community_notes": null,
+                "conversation_id": "1618999375388360711",
+                "created_time": "2023-01-27T15:48:25",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1618999375388360711",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1618738303125028864",
+                "quoted_status_profile_id": "1215382042772307968",
+                "quoted_status_profile_username": "ASP",
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "I sat down with @ASP yesterday to discuss how my bill with @RepBonamici would help eligible students access nutrition assistance programs. \n\nA student\u2019s focus should be getting a quality education, not stressing over where their next meal will come from.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ASP",
+                    "RepBonamici"
+                ],
+                "text_tagged_users_ids": [
+                    "1215382042772307968",
+                    "558769636"
+                ],
+                "text_tags": null,
+                "timestamp": 1674834505,
+                "view_count": 2535
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1983256321211162624/img/XhkT26W606fyziVK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1983256321211162624/vid/avc1/810x1440/GPJq_P81QJQw5AFh.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 24,
+                        "id": "1983256321211162624",
+                        "url": "https://video.twimg.com/amplify_video/1983256321211162624/vid/avc1/810x1440/GPJq_P81QJQw5AFh.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1037321378",
+                "author_username": "RepMarkTakano",
+                "community_notes": null,
+                "conversation_id": "1983256388340949074",
+                "created_time": "2025-10-28T19:35:44",
+                "favorite_count": 124,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983256388340949074",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 85,
+                "retweet_count": 58,
+                "source": "Twitter Web App",
+                "text": "The Trump Administration is conducting illegal drone strikes in the Caribbean without any due process. Congress must exercise its oversight authority to ask the tough question -- but Republicans are on vacation while the government is shutdown. https://t.co/z38xrAORHh",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761680144,
+                "view_count": 4068
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,357 @@
+{
+    "politician": "RepMcGarvey",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1699837605666517110",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1358298009797349377",
+                    "author_username": "oneTermAndy1",
+                    "community_notes": null,
+                    "conversation_id": "1699837605666517110",
+                    "created_time": "2023-09-07T21:38:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1699899923544543545",
+                    "in_reply_to_post_id": "1699837605666517110",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcGarvey @IsaiahHouse @Seasoned4u Drug ODs in Ky have doubled during the Beshear administration. Time for a change. FIRE ANDY!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcGarvey",
+                        "IsaiahHouse",
+                        "Seasoned4u"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008",
+                        "76535731",
+                        "36186797"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1694122699,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1243043732137619456",
+                    "author_username": "FlueyKung",
+                    "community_notes": null,
+                    "conversation_id": "1699837605666517110",
+                    "created_time": "2023-09-07T21:17:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1699894610036977762",
+                    "in_reply_to_post_id": "1699837605666517110",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcGarvey @IsaiahHouse @Seasoned4u Shameka?  Really?   The one who bailed out drug dealers en masse?  \n\nYou\u2019re utterly clueless. \n\n#DemsLouisville\u2620\ufe0f\ud83e\ude78\ud83d\udc8a",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcGarvey",
+                        "IsaiahHouse",
+                        "Seasoned4u"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008",
+                        "76535731",
+                        "36186797"
+                    ],
+                    "text_tags": [
+                        "demslouisville"
+                    ],
+                    "timestamp": 1694121432,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15086173",
+                    "author_username": "robjceo",
+                    "community_notes": null,
+                    "conversation_id": "1699837605666517110",
+                    "created_time": "2023-09-07T19:19:55",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1699865097659695231",
+                    "in_reply_to_post_id": "1699837605666517110",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMcGarvey @IsaiahHouse @Seasoned4u Does this include the gambling abuses that will now plague families?\nAmazing how every vice you tout has a corresponding government program to protect people from it.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcGarvey",
+                        "IsaiahHouse",
+                        "Seasoned4u"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008",
+                        "76535731",
+                        "36186797"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1694114395,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633531060867792896",
+                    "author_username": "Maxl918273645",
+                    "community_notes": null,
+                    "conversation_id": "1699837605666517110",
+                    "created_time": "2023-09-07T17:32:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1699837947896381819",
+                    "in_reply_to_post_id": "1699837605666517110",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMcGarvey @IsaiahHouse @Seasoned4u Legalize all drugs for a safer supply and fewer deaths.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcGarvey",
+                        "IsaiahHouse",
+                        "Seasoned4u"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008",
+                        "76535731",
+                        "36186797"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1694107922,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1750536403379695711",
+            "replies": []
+        },
+        {
+            "conversation_id": "1783127951212458401",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://bit.ly/3UexN9I"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/knYXm27xQv"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1780963269219422208/yR6MGIvj?format=jpg&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1610300298303787008",
+                    "author_username": "RepMcGarvey",
+                    "community_notes": null,
+                    "conversation_id": "1783127951212458401",
+                    "created_time": "2024-04-24T13:36:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783127952852463853",
+                    "in_reply_to_post_id": "1783127951212458401",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Read more: https://t.co/knYXm27xQv",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1713965807,
+                    "view_count": 262
+                }
+            ]
+        },
+        {
+            "conversation_id": "1788980371129876591",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GNP5skXW8AARZtE.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GNP5skXW8AARZtE.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1092263694728351744",
+                    "author_username": "Lkirklivingdead",
+                    "community_notes": null,
+                    "conversation_id": "1788980371129876591",
+                    "created_time": "2024-05-10T21:41:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1789048026431987845",
+                    "in_reply_to_post_id": "1788980371129876591",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcGarvey https://t.co/DMoGfosoZy",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMcGarvey"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715377263,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1958941711889047654",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1846939271153766400",
+                    "author_username": "CoopersDad5516",
+                    "community_notes": null,
+                    "conversation_id": "1958941711889047654",
+                    "created_time": "2025-08-23T14:22:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1959260045322956809",
+                    "in_reply_to_post_id": "1958941711889047654",
+                    "in_reply_to_profile_id": "1610300298303787008",
+                    "in_reply_to_profile_username": "RepMcGarvey",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMcGarvey @mssociety It is, moron.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcGarvey",
+                        "mssociety"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610300298303787008",
+                        "23126875"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1755958970,
+                    "view_count": 6
+                }
+            ]
+        }
+    ]
+}

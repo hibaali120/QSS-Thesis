@@ -1,0 +1,62 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1624156174051336202/pu/img/IhhPKUF1fhgIU3_C.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1624156174051336202/pu/vid/1280x712/90TtyVEpnmPacJeQ.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 84,
+                        "id": "1624156174051336202",
+                        "url": "https://video.twimg.com/ext_tw_video/1624156174051336202/pu/vid/1280x712/90TtyVEpnmPacJeQ.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1558285818",
+                "author_username": "MikeforWI",
+                "community_notes": null,
+                "conversation_id": "1624156276782407681",
+                "created_time": "2023-02-10T21:20:06",
+                "favorite_count": 103,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1624156276782407681",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 45,
+                "retweet_count": 28,
+                "source": "Twitter for iPhone",
+                "text": "Letting a Chinese surveillance balloon drift over America is like seeing a robber on your front porch and inviting him in, showing him where you keep your safe, where you keep your guns, where your children sleep at night, and then politely asking him to leave. https://t.co/tipjYG4Ei5",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1676064006,
+                "view_count": 8537
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

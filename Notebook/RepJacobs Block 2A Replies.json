@@ -1,0 +1,140 @@
+{
+    "politician": "RepJacobs",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1560671572934815744",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1213192887019560960",
+                    "author_username": "deltaozzimo",
+                    "community_notes": null,
+                    "conversation_id": "1560671572934815744",
+                    "created_time": "2022-09-06T00:44:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1566950353899327490",
+                    "in_reply_to_post_id": "1560671572934815744",
+                    "in_reply_to_profile_id": "1276232539510919168",
+                    "in_reply_to_profile_username": "RepJacobs",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJacobs This is great, now please fully decriminalize sex work for consenting adults so police can use their funds to actually focus on saving trafficking victims and arresting their traffickers, instead of wasting it on consenting adults. Otherwise, love it, property taxes are horrible.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJacobs"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276232539510919168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662425051,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1555263382231650306",
+                    "author_username": "Lucybelle157",
+                    "community_notes": null,
+                    "conversation_id": "1560671572934815744",
+                    "created_time": "2022-08-23T20:15:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1562171693493272576",
+                    "in_reply_to_post_id": "1560671572934815744",
+                    "in_reply_to_profile_id": "1276232539510919168",
+                    "in_reply_to_profile_username": "RepJacobs",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJacobs How about everyone pay school taxes, not just property owners?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJacobs"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276232539510919168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661285730,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1460846848415989761",
+                    "author_username": "RobertS07023280",
+                    "community_notes": null,
+                    "conversation_id": "1560671572934815744",
+                    "created_time": "2022-08-19T17:00:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1560673184625479680",
+                    "in_reply_to_post_id": "1560671572934815744",
+                    "in_reply_to_profile_id": "1276232539510919168",
+                    "in_reply_to_profile_username": "RepJacobs",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJacobs Good luck with that.  NY State government is all about money.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJacobs"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276232539510919168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1660928457,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

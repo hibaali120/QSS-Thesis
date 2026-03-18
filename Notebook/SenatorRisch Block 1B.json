@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.risch.senate.gov/public/index.cfm/pressreleases?ID=C61F223D-30A2-4CE2-851C-16FB067C6F0E"
+                ],
+                "attached_links_url": [
+                    "https://t.co/R1AF1AvK8M"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1096059529",
+                "author_username": "SenatorRisch",
+                "community_notes": null,
+                "conversation_id": "1488953431855349762",
+                "created_time": "2022-02-02T19:12:16",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1488953431855349762",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Congratulations to Redox Bio-Nutrients on being named the February Small Business of the Month! \n\nRedox's groundbreaking developments in soil treatment solutions have a real impact on the world & they are a prime example of Idaho\u2019s global reach.\nhttps://t.co/R1AF1AvK8M",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1643829136,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1096059529",
+                "author_username": "SenatorRisch",
+                "community_notes": null,
+                "conversation_id": "1950992425243103353",
+                "created_time": "2025-07-31T18:50:16",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1950992425243103353",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1950684444819337703",
+                "quoted_status_profile_id": "1879585122175082496",
+                "quoted_status_profile_username": "SecretaryBurgum",
+                "reply_count": 18,
+                "retweet_count": 31,
+                "source": "Twitter for iPhone",
+                "text": "Special treatment for unreliable wind projects like Lava Ridge is OVER! Responsible energy growth starts with the responsible use of taxpayer dollars, @SecretaryBurgum is doing just that!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecretaryBurgum"
+                ],
+                "text_tagged_users_ids": [
+                    "1879585122175082496"
+                ],
+                "text_tags": null,
+                "timestamp": 1753987816,
+                "view_count": 3117
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1096059529",
+                "author_username": "SenatorRisch",
+                "community_notes": null,
+                "conversation_id": "1951309855907557428",
+                "created_time": "2025-08-01T15:51:37",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1951309855907557428",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 28,
+                "source": "Twitter Web App",
+                "text": "Under the Biden administration, many small businesses in the firearm industry were unfairly denied support\u00a0due to ideological\u00a0bias. I am proud to join @RepRWilliams in introducing the Equal Shot Act to ensure this unfair treatment cannot happen again.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepRWilliams"
+                ],
+                "text_tagged_users_ids": [
+                    "1077446982"
+                ],
+                "text_tags": null,
+                "timestamp": 1754063497,
+                "view_count": 1796
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

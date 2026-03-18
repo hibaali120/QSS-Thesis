@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1397629979270291464",
+                "author_username": "DepSecTodman",
+                "community_notes": null,
+                "conversation_id": "1526670097695264770",
+                "created_time": "2022-05-17T21:04:51",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1526670102816595968",
+                "in_reply_to_post_id": "1526670101377912833",
+                "in_reply_to_profile_id": "1397629979270291464",
+                "in_reply_to_profile_username": "DepSecTodman",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "We at HUD are deeply committed to ensuring that communities have the necessary resources to thrive, including reliable and affordable broadband coverage.\n\nThank you, @Microsoft and @StarryInternet, for convening today's important conversation.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Microsoft",
+                    "StarryInternet"
+                ],
+                "text_tagged_users_ids": [
+                    "74286565",
+                    "4048438851"
+                ],
+                "text_tags": null,
+                "timestamp": 1652821491,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

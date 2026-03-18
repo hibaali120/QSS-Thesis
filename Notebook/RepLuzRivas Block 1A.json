@@ -1,0 +1,990 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1895607222165553152/img/7c5VEWt5kc7Lzf5z.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1895607222165553152/vid/avc1/360x640/RgVRerrXVJMKct7u.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 46,
+                        "id": "1895607222165553152",
+                        "url": "https://video.twimg.com/amplify_video/1895607222165553152/vid/avc1/360x640/RgVRerrXVJMKct7u.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1895607285793374306",
+                "created_time": "2025-02-28T22:49:30",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1895607285793374306",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "70 percent of patients at Olive View Medical Center in Sylmar rely on Medicaid for their healthcare.\n\nAny cuts to Medicaid would be devastating to Olive View and the surrounding community, as it is also CA-29's largest employer.\n\n@HouseDemocrats and I are fighting to protect Medicaid from any cuts.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "43963249"
+                ],
+                "text_tags": null,
+                "timestamp": 1740782970,
+                "view_count": 213
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GlJvX0tW4AExi42.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GlJvX0tW4AExi42.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1896700864355856484",
+                "created_time": "2025-03-03T23:14:59",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1896700864355856484",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "I am honored to welcome San Fernando Valley native @SenatorMenjivar to President Trump's Joint Address to Congress.\n\nAs a fighter and advocate, Senator Menjivar advanced policies to protect the health and welfare of all communities \u2013 including immigrant communities, the LGBTQ+ community, and low-income communities.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenatorMenjivar"
+                ],
+                "text_tagged_users_ids": [
+                    "1600217378289176576"
+                ],
+                "text_tags": null,
+                "timestamp": 1741043699,
+                "view_count": 337
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmHUp6vbcAAUSxV.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmHUp6nbcAArrDw.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmHUp7VWIAAOr4p.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmHUp6vbcAAUSxV.jpg",
+                    "https://pbs.twimg.com/media/GmHUp6nbcAArrDw.jpg",
+                    "https://pbs.twimg.com/media/GmHUp7VWIAAOr4p.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1901034330920538392",
+                "created_time": "2025-03-15T22:14:41",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1901034341209124979",
+                "in_reply_to_post_id": "1901034330920538392",
+                "in_reply_to_profile_id": "1869140751512391681",
+                "in_reply_to_profile_username": "RepLuzRivas",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I wrote to @USACEHQ for answers to the wildfire cleanup process, including:\n\n- How the debris will be stored and transferred through CA-29\n- How transporting and storing debris will impact public health and the environment\n- The role of third party contractors in this process\n\nPrioritizing public health and the environmental impacts this would have on our community remains the one of my top priorities.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USACEHQ"
+                ],
+                "text_tagged_users_ids": [
+                    "161329769"
+                ],
+                "text_tags": null,
+                "timestamp": 1742076881,
+                "view_count": 242
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1902116636347297792/pu/img/DGjhwXZIO7GACG_i.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1902116636347297792/pu/vid/avc1/360x640/4pVAJXkKRkhXH9GM.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 65,
+                        "id": "1902116636347297792",
+                        "url": "https://video.twimg.com/ext_tw_video/1902116636347297792/pu/vid/avc1/360x640/4pVAJXkKRkhXH9GM.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1902116686196830413",
+                "created_time": "2025-03-18T21:55:32",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1902116686196830413",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "As part of @HouseDemocrats' Medicaid Day of Action, I spoke with staff at Olive View Medical Center in Sylmar about how Republicans' cuts to Medicaid will impact the delivery of healthcare services.\n\nOver half of my constituents rely on Medicaid, and many go to Olive View for healthcare.\n\n@HouseGOP's Medicaid cuts will have a disastrous effect on communities across the country.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "43963249"
+                ],
+                "text_tags": null,
+                "timestamp": 1742334932,
+                "view_count": 314
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GnEfeA4WsAAbVpk.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GnEfeA4WsAAbVpk.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1905338869525942717",
+                "created_time": "2025-03-27T19:19:20",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1905338869525942717",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "As a result of their haphazard, short-sighted, and illegal mass firings of the federal science workforce, Donald Trump, Elon Musk, and DOGE put the public health of Americans, the safety of our communities, and our innovation and global competitiveness at risk. \n\nI co-sponsored 5 bills from my @sciencedems colleagues to put a halt to the chaotic mass firings.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1743103160,
+                "view_count": 459
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.latimes.com/environment/story/2025-03-27/rebuilding-without-soil-testing"
+                ],
+                "attached_links_url": [
+                    "https://t.co/6yttClxRBD"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1905369233477042318",
+                "created_time": "2025-03-27T21:19:59",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1905369233477042318",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "By refusing to test the soil in wildfire-impacted areas, FEMA is breaking a precedent and harming the long-term health of our communities.  \n\nI joined @RepFriedmanCA and our Southern California Congressional colleagues in demanding FEMA prioritize the safety and wellbeing of all residents in the aftermath of the recent wildfires.\n\nhttps://t.co/6yttClxRBD",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepFriedmanCA"
+                ],
+                "text_tagged_users_ids": [
+                    "1618683941464195072"
+                ],
+                "text_tags": null,
+                "timestamp": 1743110399,
+                "view_count": 165
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1917710106151600128/img/gYlogg1Z3QxZiKwf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1917710106151600128/vid/avc1/1280x720/n8ZEsOxmqFt0DCYZ.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 83,
+                        "id": "1917710106151600128",
+                        "url": "https://video.twimg.com/amplify_video/1917710106151600128/vid/avc1/1280x720/n8ZEsOxmqFt0DCYZ.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1917710327774425193",
+                "created_time": "2025-04-30T22:39:06",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1917710327774425193",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The L.A. area has the most polluted ozone in the country, and it is negatively impacting public health in communities like Pacoima and Sun Valley.\n\nRepublicans have 3 proposals to strip California's leadership toward a cleaner and healthier future.\n\nI am voting no on all of them. https://t.co/BN8gOomihl",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1746052746,
+                "view_count": 644
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqT92DxXEAAKCH8.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqT94L-W4AAh3mZ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqT92DxXEAAKCH8.jpg",
+                    "https://pbs.twimg.com/media/GqT94L-W4AAh3mZ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1919938510242349510",
+                "created_time": "2025-05-07T02:13:06",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1919938510242349510",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "It's just past 10 pm in D.C. and @NRDems and I are continuing to fight back on House Republicans' bill that will:\n\n\u274c Give Big Oil another tax break\n\u274c Sell our public lands to the lowest bidder\n\u274c Further harm the public health of our Black, Brown, Indigenous, and poor communities",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NRDems"
+                ],
+                "text_tagged_users_ids": [
+                    "247486443"
+                ],
+                "text_tags": null,
+                "timestamp": 1746583986,
+                "view_count": 1211
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1919952944981569537/img/TUDT2gWAsSag44d8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1919952944981569537/vid/avc1/1280x720/WkxD-sJ6snjfDmN4.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 122,
+                        "id": "1919952944981569537",
+                        "url": "https://video.twimg.com/amplify_video/1919952944981569537/vid/avc1/1280x720/WkxD-sJ6snjfDmN4.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1919953260846232031",
+                "created_time": "2025-05-07T03:11:43",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1919953260846232031",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "The Trump White House removed the Climate and Economic Justice Screening Tool, a key website that helped disadvantaged communities facing the greatest environmental, health, and economic burdens.\n\nMy amendment in @NRDems makes sure the communities most burdened by pollution, poverty, and underinvestment are not erased from federal policy decisions.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NRDems"
+                ],
+                "text_tagged_users_ids": [
+                    "247486443"
+                ],
+                "text_tags": null,
+                "timestamp": 1746587503,
+                "view_count": 675
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gr_Jw0VXIAAKm7v.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gr_Jw0VXIAAKm7v.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1927481040555098267",
+                "created_time": "2025-05-27T21:44:25",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1927481040555098267",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "El Centro de Amistad in San Fernando provides culturally sensitive mental health and social services to families across CA-29.\n\nI stopped by their office today to thank them for their work in the community and to help erase the stigma around seeking help for mental health.\n\nRemember, the 988 Suicide and Crisis Lifeline is available 24/7 at no cost to anyone experiencing a mental health crisis.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748382265,
+                "view_count": 194
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyRanSBa4AI_ift.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyRanSBa4AI_ift.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1955787773195247979",
+                "created_time": "2025-08-14T00:25:16",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1955787773195247979",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "The San Fernando Valley deserves to have clean air to breathe and a climate free from pollution. \n\nI joined @USRepKCastor and @RepPaulTonko in urging the EPA to REJECT its rollback of greenhouse gas emissions standards and protect public health in communities like ours.\n\nRead the full letter in the link in my bio.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USRepKCastor",
+                    "RepPaulTonko"
+                ],
+                "text_tagged_users_ids": [
+                    "1880674038",
+                    "84119348"
+                ],
+                "text_tags": null,
+                "timestamp": 1755131116,
+                "view_count": 367
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyvagqAacAAULHZ.jpg?name=small",
+                    "https://pbs.twimg.com/media/GyvagqOacAEjgzy.jpg?name=small",
+                    "https://pbs.twimg.com/media/GyvagqfacAAOcYg.jpg?name=small",
+                    "https://pbs.twimg.com/media/GyvagqDaMAAUDjN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyvagqAacAAULHZ.jpg",
+                    "https://pbs.twimg.com/media/GyvagqOacAEjgzy.jpg",
+                    "https://pbs.twimg.com/media/GyvagqfacAAOcYg.jpg",
+                    "https://pbs.twimg.com/media/GyvagqDaMAAUDjN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1957898725784993936",
+                "created_time": "2025-08-19T20:13:26",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1957898725784993936",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "School is back in session at Sylmar Biotech Health and Engineering Magnet School as well as Sylmar High School. \n\nOur CA-29 educators have exciting plans for students to succeed this upcoming school year. \ud83c\udf1f\n\nAnd to help out, I donated books from the Library of Congress! https://t.co/8k4lpsBNIQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755634406,
+                "view_count": 376
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968396170473996288/img/iVyBvFtyNW9yfOME.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968396170473996288/vid/avc1/720x1280/PevK5r7GozvUEeFN.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 69,
+                        "id": "1968396170473996288",
+                        "url": "https://video.twimg.com/amplify_video/1968396170473996288/vid/avc1/720x1280/PevK5r7GozvUEeFN.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1968396307921273040",
+                "created_time": "2025-09-17T19:27:05",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968396307921273040",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Trump and @HouseGOP want to let polluters harm the public health of environmental justice communities like the San Fernando Valley.\n\nMy amendment in @NRDems' markup makes sure communities can have a say in what happens in their own backyards. https://t.co/tVKJZjfTq3",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "NRDems"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "247486443"
+                ],
+                "text_tags": null,
+                "timestamp": 1758137225,
+                "view_count": 340
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1z1-5caMAAZyHF.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1z1-5eaAAAmvVV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1z1-5caMAAZyHF.jpg",
+                    "https://pbs.twimg.com/media/G1z1-5eaAAAmvVV.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1971721202579493261",
+                "created_time": "2025-09-26T23:39:02",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1971721202579493261",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "\u26a0\ufe0f Healthcare coverage and tax credits are at risk because of Republicans\u2019 reckless cuts to Medicaid. \n\nTrump and Republicans are threatening a government shutdown that would force thousands of families in CA-29 to lose their health coverage entirely and dismantle critical health care programs that our communities rely on.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758929942,
+                "view_count": 252
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2XIv1_bsAAs5ed.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2XIv2EbMAAG8vg.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2XIv2AbMAEQMeo.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2XIv2EbMAMSwf7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2XIv1_bsAAs5ed.jpg",
+                    "https://pbs.twimg.com/media/G2XIv2EbMAAG8vg.jpg",
+                    "https://pbs.twimg.com/media/G2XIv2AbMAEQMeo.jpg",
+                    "https://pbs.twimg.com/media/G2XIv2EbMAMSwf7.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1974204742705590504",
+                "created_time": "2025-10-03T20:07:44",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974204742705590504",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "The impact of Republicans' shutdown is being felt by health organizations who serve working families across the San Fernando Valley.\n\nI met with many of them at the Valley Care Community Consortium at CSUN where I heard about how Republicans' healthcare crisis and their shutdown is impacting healthcare in our communities.\n\nRepublicans need to quit playing games and come to the table and protect healthcare for our working families.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759522064,
+                "view_count": 289
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://rivas.house.gov/share-your-story"
+                ],
+                "attached_links_url": [
+                    "https://t.co/soAm5OHleE"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2wYGFoaQAA2NhV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2wYGFoaQAA2NhV.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1975980833455665165",
+                "created_time": "2025-10-08T17:45:17",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975980833455665165",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "From rising healthcare premiums to decreases in funding for local community health clinics, Republicans\u2019 government shutdown is hurting everyday Americans. \n\nHouse Democrats and I are fighting to reopen the government and protect healthcare costs for working families.  \n\nAs we work towards a solution, I want to hear from my CA-29 constituents on how this Republican government shutdown is impacting you. \n\n\ud83d\udce3 Share your story here: https://t.co/soAm5OHleE",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759945517,
+                "view_count": 113
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5AasVaXgAAxIjY.jpg?name=small",
+                    "https://pbs.twimg.com/media/G5AasUzXoAE4IWD.jpg?name=small",
+                    "https://pbs.twimg.com/media/G5AasUvXQAAAq3n.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5AasVaXgAAxIjY.jpg",
+                    "https://pbs.twimg.com/media/G5AasUzXoAE4IWD.jpg",
+                    "https://pbs.twimg.com/media/G5AasUvXQAAAq3n.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "1986116824895738325",
+                "created_time": "2025-11-05T17:02:05",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1986116824895738325",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 8,
+                "source": "Twitter Web App",
+                "text": "The @EPA's Greenhouse Gas Reporting Program plays a key role in protecting America's public health, environment, scientific integrity, and economic growth.\n\nI'm leading nearly 30 of my colleagues in demanding EPA halt its plans to end this program.\n\nLearn more at the link in my bio.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EPA"
+                ],
+                "text_tagged_users_ids": [
+                    "14615871"
+                ],
+                "text_tags": null,
+                "timestamp": 1762362125,
+                "view_count": 1442
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8Gm4uybIAAZVnQ.jpg?name=small",
+                    "https://pbs.twimg.com/media/G8Gm4uub0AAA6k3.jpg?name=small",
+                    "https://pbs.twimg.com/media/G8Gm4uvbEAAto3R.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8Gm4uybIAAZVnQ.jpg",
+                    "https://pbs.twimg.com/media/G8Gm4uub0AAA6k3.jpg",
+                    "https://pbs.twimg.com/media/G8Gm4uvbEAAto3R.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "2000063208447672696",
+                "created_time": "2025-12-14T04:40:02",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000063208447672696",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Vida Mobile Clinic has been providing free access to healthcare for people all across the Valley for over five years. \n\nIt is because of organizations and health clinics like Vida\u2019s that our community is able to receive the critical care they deserve without having to worry about the costs. \n\nHouse Democrats and I are fighting to protect access to affordable healthcare for all those in CA-29 and across the country.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765687202,
+                "view_count": 185
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000702656378261505/img/zG7C3Kpok8RCRYJ5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000702656378261505/vid/avc1/1080x1920/rx1fRDuwTP2fWXLd.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 62,
+                        "id": "2000702656378261505",
+                        "url": "https://video.twimg.com/amplify_video/2000702656378261505/vid/avc1/1080x1920/rx1fRDuwTP2fWXLd.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "2000703005449183604",
+                "created_time": "2025-12-15T23:02:22",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000703005449183604",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The San Fernando Valley is one of the regions most impacted by environmental challenges\u2014putting families at risk and jeopardizing their health and livelihoods. \n\nThat is why I\u2019m introducing the Environmental Justice Screening Tool Act to ensure we prioritize funding for disproportionately burdened communities and restore the health and safety of our neighbors.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765839742,
+                "view_count": 155
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G9SWn92a0AAyGr9.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G9SWn92a0AAyGr9.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1869140751512391681",
+                "author_username": "RepLuzRivas",
+                "community_notes": null,
+                "conversation_id": "2005393351072493863",
+                "created_time": "2025-12-28T21:40:07",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005393351072493863",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "My Environmental Justice Screening Tool Act brings transparency and accountability for the pollution that is impacting the health of communities.\n\nThank you Center for Earth, Energy, and Democracy (CEED) for your support! https://t.co/yf6a59wl4v",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766958007,
+                "view_count": 151
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

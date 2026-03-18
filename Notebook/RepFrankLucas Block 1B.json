@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "242772524",
+                "author_username": "RepFrankLucas",
+                "community_notes": null,
+                "conversation_id": "1557400078825971713",
+                "created_time": "2022-08-10T16:14:48",
+                "favorite_count": 114,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1557400078825971713",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 21,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "After experiencing symptoms this morning, I have tested positive for COVID-19. My positive case is a breakthrough case and, thanks to the science and efficacy of the COVID vaccines and boosters I\u2019ve received, I am experiencing only mild cold-like symptoms.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1660148088,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

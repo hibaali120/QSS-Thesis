@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/tweet_video_thumb/FJFsvBdXwAg_yjJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/tweet_video/FJFsvBdXwAg_yjJ.mp4"
+                ],
+                "attached_videos": null,
+                "author_id": "281540744",
+                "author_username": "RepWebster",
+                "community_notes": null,
+                "conversation_id": "1482729355449180164",
+                "created_time": "2022-01-16T15:00:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1482729355449180164",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The First Amendment provides a safeguard for every American to worship freely and remains the most effective protection of religious liberty in the world. I will continue to protect this fundamental American right to exercise our faith freely. #NationalReligiousFreedomDay https://t.co/CfpgQybLj5",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationalreligiousfreedomday"
+                ],
+                "timestamp": 1642345200,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GD_ApdaWAAAaVOO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GD_ApdaWAAAaVOO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "281540744",
+                "author_username": "RepWebster",
+                "community_notes": null,
+                "conversation_id": "1747327216415867261",
+                "created_time": "2024-01-16T18:37:26",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1747327216415867261",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "The First Amendment safeguards the right for every American to worship freely and remains the most effective protection of religious liberty in the world. I am committed to protecting this fundamental right for Americans to exercise our faith freely. #NationalReligiousFreedomDay https://t.co/RsVxXR67UT",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationalreligiousfreedomday"
+                ],
+                "timestamp": 1705430246,
+                "view_count": 362
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GeJgNx7XcAEL3Mo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GeJgNx7XcAEL3Mo.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "281540744",
+                "author_username": "RepWebster",
+                "community_notes": null,
+                "conversation_id": "1865379482619511215",
+                "created_time": "2024-12-07T12:55:00",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1865379482619511215",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "83 years ago, our nation faced an attack that tested our resolve but awakened our strength. Remembering Pearl Harbor is more than a historical exercise, it's a solemn duty that unites generations. We honor the heroes who served & sacrificed. We owe them a debt we can never repay. https://t.co/Zmh4uudtBa",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1733576100,
+                "view_count": 481
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

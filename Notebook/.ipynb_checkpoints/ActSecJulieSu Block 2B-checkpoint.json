@@ -1,0 +1,161 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1693638750994116609",
+                "author_username": "ActSecJulieSu",
+                "community_notes": null,
+                "conversation_id": "1712816021180969125",
+                "created_time": "2023-10-13T13:02:16",
+                "favorite_count": 41,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1712816021180969125",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 3,
+                "quoted_status_id": "1712787147978321951",
+                "quoted_status_profile_id": "50486198",
+                "quoted_status_profile_username": "seiu_uhw",
+                "reply_count": 1,
+                "retweet_count": 19,
+                "source": "Twitter for iPhone",
+                "text": "Congratulations to @UnionCoalition, @seiu_uhw, and @aboutKP on their hard work to reach this historic tentative agreement!\u00a0\n\u00a0\nWhat they've achieved here in Oakland is great news for frontline workers, for Kaiser and the patients in their collective care.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "UnionCoalition",
+                    "seiu_uhw",
+                    "aboutKP"
+                ],
+                "text_tagged_users_ids": [
+                    "976866169448693760",
+                    "50486198",
+                    "17372405"
+                ],
+                "text_tags": null,
+                "timestamp": 1697202136,
+                "view_count": 11448
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GJEDbkzXoAEw55_.jpg?name=small",
+                    "https://pbs.twimg.com/media/GJEDbkyXMAAduTu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GJEDbkzXoAEw55_.jpg",
+                    "https://pbs.twimg.com/media/GJEDbkyXMAAduTu.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1693638750994116609",
+                "author_username": "ActSecJulieSu",
+                "community_notes": null,
+                "conversation_id": "1770199904289259909",
+                "created_time": "2024-03-19T21:25:20",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1770199904289259909",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "As @SEIU and @aboutKP negotiated their union contract, I met Angela. At Kaiser Permanente, she works with patients and serves on her Union Executive Board. Through this, she has fought for fairness, equality and inclusion for all.\u2028\u00a0\nThank you for all you do. #WomensHistoryMonth https://t.co/dVhvIlCIoe",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SEIU",
+                    "aboutKP"
+                ],
+                "text_tagged_users_ids": [
+                    "14695985",
+                    "17372405"
+                ],
+                "text_tags": [
+                    "womenshistorymonth"
+                ],
+                "timestamp": 1710883520,
+                "view_count": 2046
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://awf.labortools.com/listen/acting-sec.-su-kicks-off-awf-coverage-of-national-apprenticeship-week"
+                ],
+                "attached_links_url": [
+                    "https://t.co/JbkVr5aCVI"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1693638750994116609",
+                "author_username": "ActSecJulieSu",
+                "community_notes": null,
+                "conversation_id": "1860417286252757234",
+                "created_time": "2024-11-23T20:17:00",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1860417286252757234",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Sprout Social",
+                "text": "As National Apprenticeship Week (#NAW24) comes to a close, I want to share this podcast I did with @AWFUnionPodcast to commemorate NAW. \n\nListen in at the 14-minute mark: https://t.co/JbkVr5aCVI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "AWFUnionPodcast"
+                ],
+                "text_tagged_users_ids": [
+                    "301486419"
+                ],
+                "text_tags": [
+                    "naw24"
+                ],
+                "timestamp": 1732393020,
+                "view_count": 1107
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

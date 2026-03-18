@@ -1,0 +1,382 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Ged3RJKaEAIq8wB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Ged3RJKaEAIq8wB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1866592366385410511",
+                "created_time": "2024-12-10T21:14:34",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1866592366385410511",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "On Dec. 6, I visited San Quinten Prison w/ a group from @SmartJusticeCA \nI've been to the CA Healthcare Facility in Stockton, but not a large prison w/ a significant history as San Quinten. I expected a hard prison, but San Quinten is no longer the hard facility it once was. ... https://t.co/0ttSZgLCb3",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SmartJusticeCA"
+                ],
+                "text_tagged_users_ids": [
+                    "1084247725640540161"
+                ],
+                "text_tags": null,
+                "timestamp": 1733865274,
+                "view_count": 301
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nytimes.com/2025/01/22/opinion/los-angeles-wildfires-insurance.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/hohfhropS2"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1882488750279930352",
+                "created_time": "2025-01-23T18:01:07",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1882488750279930352",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Must read op-ed in NYT by former CA Insurance Commissioner Dave Jones --&gt;\n\n\"For decades, oil and gas companies have been allowed to mislead the public and profit from their products while sticking others with the bill for climate change.\"\nhttps://t.co/hohfhropS2",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1737655267,
+                "view_count": 207
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.sfchronicle.com/california/article/wiener-bill-insurance-oil-20055692.php"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8BaJ3Pi6Ad"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GiVvSZeakAAq43B.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GiVvSZeakAAq43B.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1884035352266166637",
+                "created_time": "2025-01-28T00:26:46",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1884035352266166637",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Proud to be a co-author of this important consumer rights bill by @Scott_Wiener \n\n\"SB222 is a way to reduce costs on both insurers and residents while holding fossil fuel companies accountable.\"\nhttps://t.co/8BaJ3Pi6Ad https://t.co/pyGta8F7qm",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Scott_Wiener"
+                ],
+                "text_tagged_users_ids": [
+                    "26703365"
+                ],
+                "text_tags": null,
+                "timestamp": 1738024006,
+                "view_count": 1122
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.courthousenews.com/california-democrats-target-insurance-market-rebuilding-in-wildfire-related-legislation/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/CgVeQRqKNZ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GjmuoO4aIAI1Lxc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GjmuoO4aIAI1Lxc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1889743777176469857",
+                "created_time": "2025-02-12T18:30:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1889743777176469857",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "\u201cFor many, generations of wealth were wiped out by the devastating blazes,\u201d said Senator Jerry McNerney. \u201cOur bill will double the amount of time survivors have to access property tax relief, while extending the length of time survivors have to rebuild.\u201d\nhttps://t.co/CgVeQRqKNZ https://t.co/RJu8Bofdgf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1739385000,
+                "view_count": 105
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.bloomberg.com/news/articles/2025-02-26/trump-stumbles-as-gop-tax-cut-plan-delayed-despite-his-lobbying?srnd=homepage-americas"
+                ],
+                "attached_links_url": [
+                    "https://t.co/v8V1PU4vpt"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GkuxbM8XYAA0k5L.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GkuxbM8XYAA0k5L.png"
+                ],
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1894804598537466170",
+                "created_time": "2025-02-26T17:39:54",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894804598537466170",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "ICYMI: Last evening Trump's MAGA GOP showed their true colors - they voted for a budget plan to slash Medicaid, food assistance for the hungry, and vital education programs to finance their massive tax cuts for the uber wealthy.\nhttps://t.co/v8V1PU4vpt https://t.co/8mYGq74fjk",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740591594,
+                "view_count": 121
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gkz3_z9W4AEIFp_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gkz3_z9W4AEIFp_.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1895164012784164924",
+                "created_time": "2025-02-27T17:28:05",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1895164012784164924",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The Trump MAGA GOP budget plan will more than double the costs of healthcare for many Californians, or eliminate it completely, slash funding for CA farms by billions of dollars, and cut off food assistance for 100s of thousands of low-income residents.\nIn short, it's a disaster. https://t.co/HyRAQNVBke",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740677285,
+                "view_count": 199
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1899233174825398702",
+                "created_time": "2025-03-10T23:55:18",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1899247722588451035",
+                "in_reply_to_post_id": "1899233174825398702",
+                "in_reply_to_profile_id": "385429543",
+                "in_reply_to_profile_username": "SenMcNerney",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Since 2013, @Kyoko4US has organized tirelessly for healthcare access (with Covered California and La Familia), immigrant rights (Families Belong Together), climate justice (March for Science), and countless other grassroots causes.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Kyoko4US"
+                ],
+                "text_tagged_users_ids": [
+                    "545305090"
+                ],
+                "text_tags": null,
+                "timestamp": 1741650918,
+                "view_count": 118
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.mercurynews.com/2025/07/09/opinion-insurance-rates-companies-sue-big-oil-climate-change-damage-garamendi-mcnerney/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/On0E2Ole7P"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "385429543",
+                "author_username": "SenMcNerney",
+                "community_notes": null,
+                "conversation_id": "1942979660486414406",
+                "created_time": "2025-07-09T16:10:24",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1942979660486414406",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "NEW: Insurance companies should sue Big Oil for climate change damage\nBy @SenMcNerney and @RepGaramendi \n\nCalifornia homeowners shouldn\u2019t face more rate hikes while Chevron, BP earn trillions.\nhttps://t.co/On0E2Ole7P",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenMcNerney",
+                    "RepGaramendi"
+                ],
+                "text_tagged_users_ids": [
+                    "385429543",
+                    "88806753"
+                ],
+                "text_tags": null,
+                "timestamp": 1752077424,
+                "view_count": 374
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

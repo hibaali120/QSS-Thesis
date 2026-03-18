@@ -1,0 +1,961 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://health.ri.gov/immunization/what-you-need-know-about-fall-winter-vaccines"
+                ],
+                "attached_links_url": [
+                    "https://t.co/BrTOqOHw6r"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G6TqKv5XQAAkJnC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G6TqKv5XQAAkJnC.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1991974413097640370",
+                "created_time": "2025-11-21T20:58:03",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991974413097640370",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 106,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Have you been vaccinated?\u00a0\n\nI got my COVID and flu vaccines to protect myself and those around me. \ud83d\udc89\n\nRhode Islanders can find more info on vaccine clinics and how to stay protected from @RIHEALTH:\nhttps://t.co/BrTOqOHw6r https://t.co/KYfvLJnmbF",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RIHEALTH"
+                ],
+                "text_tagged_users_ids": [
+                    "35239459"
+                ],
+                "text_tags": null,
+                "timestamp": 1763758683,
+                "view_count": 8873
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1992373736012398592/img/JURy789rkW13ezOV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1992373736012398592/vid/avc1/1080x1920/AXLLTTRt8bpM_HaO.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 29,
+                        "id": "1992373736012398592",
+                        "url": "https://video.twimg.com/amplify_video/1992373736012398592/vid/avc1/1080x1920/AXLLTTRt8bpM_HaO.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1992373936630477226",
+                "created_time": "2025-11-22T23:25:37",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1992373936630477226",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "RI'ers are being forced to make impossible choices.\n\nMarlene buys insurance through HealthSourceRI and her costs will jump $600 a month if Trump & @HouseGOP don\u2019t extend the ACA tax credits.\n\nWe need to address this urgent health care crisis that impacts us all. https://t.co/noajFYulJH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1763853937,
+                "view_count": 578
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G6jJU99XMAAPS7K.jpg?name=small",
+                    "https://pbs.twimg.com/media/G6jJU9-XwAAsVmN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G6jJU99XMAAPS7K.jpg",
+                    "https://pbs.twimg.com/media/G6jJU9-XwAAsVmN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1993064202995744900",
+                "created_time": "2025-11-24T21:08:29",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1993064202995744900",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Inspired by purpose, progress, and power at @RIKidsCount\u2019s Celebration of Children\u2019s Health and Well-Being.\u00a0\n\nDespite Trump\u2019s threats to the social safety net, Rhode Islanders\u2019 sharing their stories guides my work protecting and expanding support for kids and families. https://t.co/SdFwRHTJ1u",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RIKidsCount"
+                ],
+                "text_tagged_users_ids": [
+                    "408651384"
+                ],
+                "text_tags": null,
+                "timestamp": 1764018509,
+                "view_count": 298
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G6jg2mdXMAATeaE.jpg?name=small",
+                    "https://pbs.twimg.com/media/G6jg2miWkAAaNBE.jpg?name=small",
+                    "https://pbs.twimg.com/media/G6jg2mcXQAAIz_e.jpg?name=small",
+                    "https://pbs.twimg.com/media/G6jg2mdWEAAlnFX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G6jg2mdXMAATeaE.jpg",
+                    "https://pbs.twimg.com/media/G6jg2miWkAAaNBE.jpg",
+                    "https://pbs.twimg.com/media/G6jg2mcXQAAIz_e.jpg",
+                    "https://pbs.twimg.com/media/G6jg2mdWEAAlnFX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1993090080047522063",
+                "created_time": "2025-11-24T22:51:19",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1993090080047522063",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Visited Seven Hills in Lincoln and met with direct service professionals who support Rhode Islanders with disabilities. They could be hit hard by Trump and Republicans\u2019 cuts to Medicaid.\n\nI\u2019m fighting to stop the cuts and save the health care system we all rely on. https://t.co/8pPWgrKYcm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764024679,
+                "view_count": 307
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7BBk8rXcAAnIm_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7BBk8rXcAAnIm_.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1995166746169503784",
+                "created_time": "2025-11-30T16:23:15",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995166746169503784",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "SAVE THE DATE: 6:30 PM Tuesday, December 2nd, I\u2019ll be hosting a telephone town hall with @HealthSourceRI Director Lindsay Lang to answer questions about open enrollment and share what I\u2019m doing in Washington to stop Republicans\u2019 health care crisis. https://t.co/AQNixrtcWE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HealthSourceRI"
+                ],
+                "text_tagged_users_ids": [
+                    "1583985840"
+                ],
+                "text_tags": null,
+                "timestamp": 1764519795,
+                "view_count": 432
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nytimes.com/2025/11/25/health/cdc-ralph-lee-abraham-vaccines.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/s5Nuf6efOA"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1995319901116870710",
+                "created_time": "2025-12-01T02:31:50",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995319901116870710",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Trump made a vaccine-skeptical, horse-medication-promoting doctor second in command at @CDCgov to help science-denier @SecKennedy gut our public health infrastructure.\u00a0\n\nThe foxes are guarding the hen house, and it\u2019s putting Americans\u2019 health at risk.\nhttps://t.co/s5Nuf6efOA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CDCgov",
+                    "SecKennedy"
+                ],
+                "text_tagged_users_ids": [
+                    "146569971",
+                    "1886875846473879552"
+                ],
+                "text_tags": null,
+                "timestamp": 1764556310,
+                "view_count": 535
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7NQ76yWcAA2gok.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7NQ76yWcAA2gok.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1996028054850932923",
+                "created_time": "2025-12-03T01:25:47",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996028054850932923",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to all the Rhode Islanders who called in tonight to speak with @HealthSourceRI Director Lang and me about open enrollment and the Republican health care crisis.\n\nLet\u2019s keep up the fight to lower costs and save health care. https://t.co/BA1IXSvYcd",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HealthSourceRI"
+                ],
+                "text_tagged_users_ids": [
+                    "1583985840"
+                ],
+                "text_tags": null,
+                "timestamp": 1764725147,
+                "view_count": 250
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1996726934718333165",
+                "created_time": "2025-12-04T23:42:53",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996726934718333165",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1996340336419860572",
+                "quoted_status_profile_id": "2467791",
+                "quoted_status_profile_username": "washingtonpost",
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Trump and @SecKennedy\u2019s new vaccine plan is so dangerous 12 former @FDA commissioners publicly denounced it.\n\u00a0\nThey are slashing health care while undercutting our best tools to stop people from becoming ill.\n\u00a0\nIt's a *literally* sick Catch-22.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecKennedy",
+                    "FDA"
+                ],
+                "text_tagged_users_ids": [
+                    "1886875846473879552",
+                    "1255526396807561217"
+                ],
+                "text_tags": null,
+                "timestamp": 1764891773,
+                "view_count": 314
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7fa4v-WYAAiEIt.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7fa4v-WYAAiEIt.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1997305632459006237",
+                "created_time": "2025-12-06T14:02:25",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1997305632459006237",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Under Trump, 23 people have died in ICE custody and thousands are held in horrifying conditions with reports of little food, overcrowding, and denied medical care.\n\nI\u2019m supporting the Dignity for Detained Immigrants Act to ensure the basic rights of those in custody. https://t.co/LcRVngHi1s",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765029745,
+                "view_count": 261
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1997796882962173952/img/hakeIac0ha_fA0os.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1997796882962173952/vid/avc1/1080x1920/5imtRO70rQ_6U0sU.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 50,
+                        "id": "1997796882962173952",
+                        "url": "https://video.twimg.com/amplify_video/1997796882962173952/vid/avc1/1080x1920/5imtRO70rQ_6U0sU.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1997797007155687467",
+                "created_time": "2025-12-07T22:34:58",
+                "favorite_count": 40,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1997797007155687467",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 22,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 413,
+                "retweet_count": 22,
+                "source": "Twitter for iPhone",
+                "text": "After 15 years of @HouseGOP trying to gut the Affordable Care Act, no more concepts of a plan.\u00a0\n\nWe need to act now \u2014 and 4 Republicans should join @HouseDemocrats to force a vote on lowering health care costs. https://t.co/ucIGdQScJO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "43963249"
+                ],
+                "text_tags": null,
+                "timestamp": 1765146898,
+                "view_count": 6240
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7muVyVXEAAsN6a.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7muVyVXEAAsN6a.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1997819603649765466",
+                "created_time": "2025-12-08T00:04:45",
+                "favorite_count": 31,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1997819603649765466",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 46,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1396,
+                "retweet_count": 23,
+                "source": "Twitter for iPhone",
+                "text": "The health insurance for my constituent from Riverside is jumping from $241 a month to $960 a month next year all because @HouseGOP refuses to make health care affordable.\u00a0\n\nThat will force impossible decisions and major consequences from Trump\u2019s cuts. https://t.co/2IfD7hNSU7",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1765152285,
+                "view_count": 17615
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1998515764098187264/img/mksTdk5h_dqpGfCS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1998515764098187264/vid/avc1/1080x1920/TIuPM1w-GlqNBJrx.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 79,
+                        "id": "1998515764098187264",
+                        "url": "https://video.twimg.com/amplify_video/1998515764098187264/vid/avc1/1080x1920/TIuPM1w-GlqNBJrx.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1998515923725262983",
+                "created_time": "2025-12-09T22:11:41",
+                "favorite_count": 254,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998515923725262983",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 68,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2224,
+                "retweet_count": 128,
+                "source": "Twitter for iPhone",
+                "text": "In 22 days, 22 million Americans will lose their ability to afford care.\n\nFor 15 years, @HouseGOP has been undercutting the ACA.\u00a0\n\nBut @HouseDemocrats have a plan.\u00a0\n\nWe just need 4 Republicans to join us to extend the credits and save health care for millions. https://t.co/f7Yt3HOxpc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "43963249"
+                ],
+                "text_tags": null,
+                "timestamp": 1765318301,
+                "view_count": 28115
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G70DnYQWoAAvzpx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G70DnYQWoAAvzpx.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1998757789553012942",
+                "created_time": "2025-12-10T14:12:46",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998757789553012942",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 78,
+                "retweet_count": 8,
+                "source": "Twitter for iPhone",
+                "text": "No one should have to cross their fingers and hope they won\u2019t need care.\u00a0\n\n@HouseGOP just has to choose to join Democrats to extend the health care tax credits 22 million Americans rely on.\u00a0\n\nClock is ticking. Time to step up. https://t.co/tVFsC7S50W",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1765375966,
+                "view_count": 1334
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1999204373075800197",
+                "created_time": "2025-12-11T19:47:20",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999204373075800197",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "1999179328521716006",
+                "quoted_status_profile_id": "1069811420",
+                "quoted_status_profile_username": "StefWKight",
+                "reply_count": 16,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": ".@SenateGOP just voted to make sure 22 million Americans won't be able to afford their health care next year.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenateGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "14344823"
+                ],
+                "text_tags": null,
+                "timestamp": 1765482440,
+                "view_count": 705
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "1999901334695465408",
+                "created_time": "2025-12-13T17:56:49",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999901334695465408",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 9,
+                "quoted_status_id": "1999630401036300606",
+                "quoted_status_profile_id": "2467791",
+                "quoted_status_profile_username": "washingtonpost",
+                "reply_count": 189,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "The 11th hour @HouseGOP health care scheme fails to extend the ACA tax credits \u2014 a cliff we\u2019re rapidly approaching. \n\nUnless Republicans join Democrats to extend the credits, stop the cuts, and save health care, Americans will feel pain.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1765648609,
+                "view_count": 5333
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "2001318552322572635",
+                "created_time": "2025-12-17T15:48:20",
+                "favorite_count": 63,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001318552322572635",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "2001307704405479920",
+                "quoted_status_profile_id": "467823431",
+                "quoted_status_profile_username": "RepJeffries",
+                "reply_count": 57,
+                "retweet_count": 31,
+                "source": "Twitter for iPhone",
+                "text": "22 million Americans deserve health care they can afford. \n\nWe should vote TODAY.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765986500,
+                "view_count": 8331
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8dpUVOWAAILYx-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8dpUVOWAAILYx-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "2001684365068120489",
+                "created_time": "2025-12-18T16:01:56",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001684365068120489",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 129,
+                "retweet_count": 9,
+                "source": "Twitter for iPhone",
+                "text": "We have the votes to extend the ACA tax credits NOW.\n\nBut @HouseGOP chose to let health care premiums skyrocket for 22 million Americans in less than two weeks \u2014 and go home early.\n\nWe should be voting immediately to help people afford their health care. https://t.co/H2jmNzISXW",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1766073716,
+                "view_count": 3158
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.bostonglobe.com/2025/12/18/metro/brown-university-shooting-rhode-island-providence-hospital/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8ZfmKUKUpP"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "2002043894373183756",
+                "created_time": "2025-12-19T15:50:35",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2002043894373183756",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to the @RIHospital medical professionals whose steadiness and compassionate care made a difference for students wounded in the tragic Brown shooting.\n\nRhode Island is grateful for your service.\nhttps://t.co/8ZfmKUKUpP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RIHospital"
+                ],
+                "text_tagged_users_ids": [
+                    "29284584"
+                ],
+                "text_tags": null,
+                "timestamp": 1766159435,
+                "view_count": 1733
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cnbc.com/2025/12/23/expiring-aca-subsidies-most-affected.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/brDr21NZo9"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "2005709489975234688",
+                "created_time": "2025-12-29T18:36:21",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005709489975234688",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Middle-income families, early retirees & small businesses make up the people who will be hardest hit by the expiration of the ACA tax credits.\n\nPremiums are about to skyrocket and force impossible choices.\n\nCongress must vote resoundingly to lower health care costs.\nhttps://t.co/brDr21NZo9",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1767033381,
+                "view_count": 426
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G9bJtoEWIAE2qGS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G9bJtoEWIAE2qGS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1724849796496924672",
+                "author_username": "RepGabeAmo",
+                "community_notes": null,
+                "conversation_id": "2006012474185699535",
+                "created_time": "2025-12-30T14:40:18",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2006012474185699535",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 40,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "For months, Rhode Islanders have shared how their health care costs will skyrocket when ACA tax credits expire because of @HouseGOP inaction.\n\nI\u2019m going to keep fighting to stop the cuts, extend the tax credits, and save health care. https://t.co/ruPZ2CFLfF",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1767105618,
+                "view_count": 1431
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

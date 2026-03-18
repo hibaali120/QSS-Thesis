@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://www.nbcnews.com/business/economy/us-support-argentina-hit-40-billion-rcna237852"
+                ],
+                "attached_links_url": [
+                    "https://t.co/c7A4ErpqWl"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1983884278111875073/dh8ufDCF?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "565469671",
+                "author_username": "XavierBecerra",
+                "community_notes": null,
+                "conversation_id": "1983981958385541329",
+                "created_time": "2025-10-30T19:38:54",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983981958385541329",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 11,
+                "source": "Twitter Web App",
+                "text": "Trump and Republicans want to give Argentina a $40 billion bailout using taxpayers\u2019 money. But they refuse to use $6 billion in reserves for SNAP food and nutrition services for millions of children, seniors and disabled during their government shutdown. https://t.co/c7A4ErpqWl",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761853134,
+                "view_count": 621
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cnbc.com/2025/07/10/trumps-big-beautiful-bill-cuts-snap-for-millions-of-families.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/qXyDEkYtog"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1982999092398784512/JdS4gEOf?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "565469671",
+                "author_username": "XavierBecerra",
+                "community_notes": null,
+                "conversation_id": "1984328486522081451",
+                "created_time": "2025-10-31T18:35:52",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1984328486522081451",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Earlier this year, Republicans slashed $200 billion in SNAP nutrition benefits (while they gave billions in tax breaks to billionaires). https://t.co/qXyDEkYtog",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761935752,
+                "view_count": 470
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nbcnews.com/weather/floods/24-million-flood-alerts-los-angeles-braces-months-rain-day-rcna241884"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HeXvamKQJz"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "565469671",
+                "author_username": "XavierBecerra",
+                "community_notes": null,
+                "conversation_id": "1989842702347993195",
+                "created_time": "2025-11-15T23:47:24",
+                "favorite_count": 25,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1989842702347993195",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 23,
+                "retweet_count": 10,
+                "source": "Twitter Web App",
+                "text": "For everyone around Los Angeles, remember to exercise caution during this heavy rainfall.\n\nThere's an especially heightened risk of flooding in burn scar areas.\n\nPlease follow the directions of local authorities and stay safe. https://t.co/HeXvamKQJz",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763250444,
+                "view_count": 29216
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

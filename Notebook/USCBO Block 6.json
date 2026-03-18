@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://cbo.gov/publication/57702"
+                ],
+                "attached_links_url": [
+                    "https://t.co/USGXKInGPx"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1534959280448851968",
+                "created_time": "2022-06-09T18:03:05",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1534959280448851968",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "CBO analyzes the effects of work requirements and work supports on employment and income of participants in Temporary Assistance for Needy Families, the Supplemental Nutrition Assistance Program, and Medicaid. https://t.co/USGXKInGPx",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1654797785,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cbo.gov/publication/60829"
+                ],
+                "attached_links_url": [
+                    "https://t.co/pxTEu5Aa8l"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1846931142546538773",
+                "created_time": "2024-10-17T15:07:53",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1846931142546538773",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "In response to a request from Congress, CBO assesses whether the 2021 increase in the value of the Thrifty Food Plan, which increased Supplemental Nutrition Assistance Program benefits, had a positive or negative impact on labor force participation. https://t.co/pxTEu5Aa8l",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1729177673,
+                "view_count": 1193
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://cbo.gov/publication/61505"
+                ],
+                "attached_links_url": [
+                    "https://t.co/PXTXORbdZd"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1531265618",
+                "author_username": "USCBO",
+                "community_notes": null,
+                "conversation_id": "1937228340991082568",
+                "created_time": "2025-06-23T19:16:43",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937228340991082568",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "CBO's slide deck describes the main mechanisms in CBO's dynamic analysis of H.R. 1, explains the changes to the Supplemental Nutrition Assistance Program, and explains the macroeconomic effects and budgetary feedback of those changes. https://t.co/PXTXORbdZd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750706203,
+                "view_count": 4512
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

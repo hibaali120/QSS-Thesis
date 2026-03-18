@@ -1,0 +1,830 @@
+{
+    "politician": "Call_Me_Dutch",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1711791451406020792",
+            "replies": []
+        },
+        {
+            "conversation_id": "1719761971422036209",
+            "replies": []
+        },
+        {
+            "conversation_id": "1720155944020054417",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1720155944020054417",
+                    "created_time": "2023-11-02T19:27:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1720160639409115516",
+                    "in_reply_to_post_id": "1720155944020054417",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch @HHSGov @HRSAgov our country is under attack by Russia. We need your support. Help us defend our land and freedom. Stand with Ukraine! #SupportUkraine #DefendUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "HHSGov",
+                        "HRSAgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "44783853",
+                        "44034613"
+                    ],
+                    "text_tags": [
+                        "defendukraine",
+                        "supportukraine"
+                    ],
+                    "timestamp": 1698953230,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1722363722184736925",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1722363722184736925",
+                    "created_time": "2023-11-09T02:04:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1722434867068101106",
+                    "in_reply_to_post_id": "1722363722184736925",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch @ConcentraHealth Russian bombs fell on innocent Ukrainians again. We can't rely on diplomacy alone to protect our people. We urgently need defense weapons! #UkraineStrong #DefendOurLand",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "ConcentraHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "88727397"
+                    ],
+                    "text_tags": [
+                        "defendourland",
+                        "ukrainestrong"
+                    ],
+                    "timestamp": 1699495448,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1722363722184736925",
+                    "created_time": "2023-11-08T22:14:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1722377006480814301",
+                    "in_reply_to_post_id": "1722363722184736925",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch @ConcentraHealth Russian jets roared over our heads, bombs shook our streets. We need weapons to defend ourselves, to protect our loved ones. Ukraine needs your support now! #DefendUkraine #StopRussianAggression",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "ConcentraHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "88727397"
+                    ],
+                    "text_tags": [
+                        "defendukraine",
+                        "stoprussianaggression"
+                    ],
+                    "timestamp": 1699481653,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1748390626578616583",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "966889711317864449",
+                    "author_username": "clayboll",
+                    "community_notes": null,
+                    "conversation_id": "1748390626578616583",
+                    "created_time": "2024-01-20T23:00:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1748843053840826533",
+                    "in_reply_to_post_id": "1748390626578616583",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Call_Me_Dutch It would be easier to fund if we weren\u2019t sending billions to fund war and fund the apartheid state of Israel",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1705791650,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1748390626578616583",
+                    "created_time": "2024-01-20T07:56:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1748615452035563611",
+                    "in_reply_to_post_id": "1748390626578616583",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch protect ourselves! The war in Ukraine is brutal and urgent. Strikes on Russian military bases are necessary for our survival. We need weapons now! #SupportUkraine #DefendOurLand",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": [
+                        "defendourland",
+                        "supportukraine"
+                    ],
+                    "timestamp": 1705737386,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1753505566360801492",
+            "replies": []
+        },
+        {
+            "conversation_id": "1756389821285822555",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1582091434630545408",
+                    "author_username": "JohnKovalchuk",
+                    "community_notes": null,
+                    "conversation_id": "1756389821285822555",
+                    "created_time": "2024-02-15T02:09:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1757950317977637362",
+                    "in_reply_to_post_id": "1756389821285822555",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@Call_Me_Dutch What's it like living your life every day as a pathetic POS coward. Are you proud of yourself?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707962991,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1756303023377203200",
+                    "author_username": "ClaytinBelsano",
+                    "community_notes": null,
+                    "conversation_id": "1756389821285822555",
+                    "created_time": "2024-02-13T13:59:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1757404062713029059",
+                    "in_reply_to_post_id": "1756389821285822555",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch This is to inform you that Almighty God is calling on all political leaders, church leaders, celebrities, and the citizens of our republic to repent of all known sin! The primary reason is our mutilation and murder of thousands of unborn children each week &gt;U.S. style &gt; Holocaust",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707832754,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1769829833503133787",
+            "replies": []
+        },
+        {
+            "conversation_id": "1786037930362028540",
+            "replies": []
+        },
+        {
+            "conversation_id": "1799094463593345301",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1799094463593345301",
+                    "created_time": "2024-06-08T01:03:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1799245713282634226",
+                    "in_reply_to_post_id": "1799094463593345301",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch Thank you @Call_Me_Dutch and US legislators for supporting Ukraine with military aid. We need NATO membership to defend against Russian aggression. #NATOforUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": [
+                        "natoforukraine"
+                    ],
+                    "timestamp": 1717808581,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1800593953970135374",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1800593953970135374",
+                    "created_time": "2024-06-12T11:38:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1800855173587456350",
+                    "in_reply_to_post_id": "1800593953970135374",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch @DeptVetAffairs Thank you to US legislators for the military aid to Ukraine. We are grateful! Please support our NATO membership. @Call_Me_Dutch this summer, we need NATO protection now more than ever. #StandWithUkraine #NATOforUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "DeptVetAffairs"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "78408666"
+                    ],
+                    "text_tags": [
+                        "natoforukraine",
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1718192306,
+                    "view_count": 2
+                }
+            ]
+        },
+        {
+            "conversation_id": "1808531093928222772",
+            "replies": []
+        },
+        {
+            "conversation_id": "1809224447704051835",
+            "replies": []
+        },
+        {
+            "conversation_id": "1816213148765974897",
+            "replies": []
+        },
+        {
+            "conversation_id": "1818299762149589205",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GUPJ9exWYAAIl3f.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GUPJ9exWYAAIl3f.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1522662617264836608",
+                    "author_username": "4thletterThe",
+                    "community_notes": null,
+                    "conversation_id": "1818299762149589205",
+                    "created_time": "2024-08-05T18:02:23",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1820520742116597945",
+                    "in_reply_to_post_id": "1818299762149589205",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Liberals are destroying this Country. Maryland is ready for change. We know that our path forward from failing liberal policies is with Agenda 47. A brighter\nAnd more prosperous future for our children. \nVote as if their lives depend on you, because they do. \n\nLove thy neighbor. \ud83e\udd85\ud83c\uddfa\ud83c\uddf8\n\nAma a todos tus vecinos da un salto de fe y agrega la aplicaci\u00f3n. \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\n\nTake a leap of faith and add the app @EarlyVoteAction. \n\n#Maryland #MARed #Ama  #REDDAWN #Lovethy  #MagaIsWeird #Agenda47 #TrumpIsWeird #Trump2024Vance  \n\nArtwork by SaltyQne",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1722880943,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1818299762149589205",
+                    "created_time": "2024-07-30T19:53:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1818374264837509396",
+                    "in_reply_to_post_id": "1818299762149589205",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch Dear @Call_Me_Dutch, thank you for championing healthcare rights in America. We, Ukrainians, seek NATO membership for security against Russian aggression.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1722369183,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1823085908960153934",
+            "replies": []
+        },
+        {
+            "conversation_id": "1824446580780388594",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GVH38A7WkAEDLkr.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GVH38A7WkAEDLkr.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1615064093529874432",
+                    "author_username": "leveinklevets",
+                    "community_notes": null,
+                    "conversation_id": "1824446580780388594",
+                    "created_time": "2024-08-16T18:21:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824511938329711039",
+                    "in_reply_to_post_id": "1824446580780388594",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Call_Me_Dutch @POTUS BlackRock loves \u201cclean\u201denergy.  They have received a billion dollars in taxpayer subsidies.  Our governor was one of their lackeys before running the state into the red. https://t.co/3G9ws5WiGt",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723832518,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1707137692318740481",
+                    "author_username": "F2000xB767",
+                    "community_notes": null,
+                    "conversation_id": "1824446580780388594",
+                    "created_time": "2024-08-16T15:18:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824465691610865828",
+                    "in_reply_to_post_id": "1824446580780388594",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@Call_Me_Dutch @POTUS How many times is the word \"inflation\" in the Bill?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723821492,
+                    "view_count": 26
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "263809930",
+                    "author_username": "HeatherLHanna",
+                    "community_notes": null,
+                    "conversation_id": "1824446580780388594",
+                    "created_time": "2024-08-16T14:08:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824448200410821117",
+                    "in_reply_to_post_id": "1824446580780388594",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Call_Me_Dutch @POTUS @ChazMHanna this guy\u2019s gotta be joking \ud83e\udd26\u200d\u2640\ufe0f\ud83d\ude02",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "POTUS",
+                        "ChazMHanna"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "1879650942410481666",
+                        "206795733"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723817322,
+                    "view_count": 21
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1170446301428899841",
+                    "author_username": "bmore555",
+                    "community_notes": null,
+                    "conversation_id": "1824446580780388594",
+                    "created_time": "2024-08-16T14:04:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1824447024701510132",
+                    "in_reply_to_post_id": "1824446580780388594",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Call_Me_Dutch @POTUS Inflation is up overall. What makes you say it is working? Or are you just lying?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723817041,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1839010123324235821",
+            "replies": []
+        },
+        {
+            "conversation_id": "1844438497500987639",
+            "replies": []
+        },
+        {
+            "conversation_id": "1849186781951930534",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1849186781951930534",
+                    "created_time": "2024-10-24T05:41:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1849325408866513263",
+                    "in_reply_to_post_id": "1849186781951930534",
+                    "in_reply_to_profile_id": "305620929",
+                    "in_reply_to_profile_username": "Call_Me_Dutch",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Call_Me_Dutch @Call_Me_Dutch: Today, the people of Ukraine thank our American allies for the military aid package. We urge NATO to grant us membership to protect our sovereignty and democracy. #StandWithUkraine \ud83c\uddfa\ud83c\udde6\ud83c\uddfa\ud83c\uddf8",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Call_Me_Dutch"
+                    ],
+                    "text_tagged_users_ids": [
+                        "305620929"
+                    ],
+                    "text_tags": [
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1729748510,
+                    "view_count": 2
+                }
+            ]
+        }
+    ]
+}

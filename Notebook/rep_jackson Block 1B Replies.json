@@ -1,0 +1,108 @@
+{
+    "politician": "rep_jackson",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1840754477059457351",
+            "replies": []
+        },
+        {
+            "conversation_id": "1916889428414398750",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1187390526074560512",
+                    "author_username": "TheXmasFish",
+                    "community_notes": null,
+                    "conversation_id": "1916889428414398750",
+                    "created_time": "2025-04-28T17:21:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1916905542380933373",
+                    "in_reply_to_post_id": "1916889428414398750",
+                    "in_reply_to_profile_id": "1615455071801679874",
+                    "in_reply_to_profile_username": "rep_jackson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@rep_jackson @GerryConnolly I can't believe it! he looked so healthy on the three or four cable news appearances he's done since Dem leadership decided to stamp out any notion of giving anyone left of ritchie torres by handing the oversight committee to him instead of AOC",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "rep_jackson",
+                        "GerryConnolly"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1615455071801679874",
+                        "78445977"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745860870,
+                    "view_count": 48
+                }
+            ]
+        },
+        {
+            "conversation_id": "1945661149850271810",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1615455071801679874",
+                    "author_username": "rep_jackson",
+                    "community_notes": null,
+                    "conversation_id": "1945661149850271810",
+                    "created_time": "2025-07-17T01:45:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945661156988948620",
+                    "in_reply_to_post_id": "1945661149850271810",
+                    "in_reply_to_profile_id": "1615455071801679874",
+                    "in_reply_to_profile_username": "rep_jackson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Donald Trump\u2019s rescission package cuts $8 billion in foreign aid\u2014including funding for HIV treatment, refugee resettlement, and humanitarian relief. These aren\u2019t \u201cwasteful programs\u201d\u2014they save lives and help strengthen communities. This bill will kill millions of people across the globe.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1752716743,
+                    "view_count": 105
+                }
+            ]
+        },
+        {
+            "conversation_id": "1950993262279274754",
+            "replies": []
+        }
+    ]
+}

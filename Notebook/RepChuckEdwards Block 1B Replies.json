@@ -1,0 +1,420 @@
+{
+    "politician": "RepChuckEdwards",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1696553287237931288",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1588723370727985152",
+                    "author_username": "Filadelphia80",
+                    "community_notes": null,
+                    "conversation_id": "1696553287237931288",
+                    "created_time": "2023-09-02T14:17:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697976927745913317",
+                    "in_reply_to_post_id": "1696553287237931288",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepEdwards @SteveScalise Steve Scalise once described himself as David Duke without the baggage.\nNow he is David Duke with cancer.\nBravo Steve!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SteveScalise"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1209417007"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693664221,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "813871678191177728",
+                    "author_username": "AnnieGgB",
+                    "community_notes": null,
+                    "conversation_id": "1696553287237931288",
+                    "created_time": "2023-09-02T12:48:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697954593919889529",
+                    "in_reply_to_post_id": "1696553287237931288",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepEdwards @SteveScalise Expand Medicare/Medicaid, increase health care for all, stop hospital closures in less populated parts of the state. Help the people of NC have equally good healthcare and access to Dr\u2019s as Scalise. Politicians deserve equal healthcare as constituents.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "SteveScalise"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1209417007"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693658896,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1777697174878290355",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/AdamParkhomenko/status/1777741177699098972"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/aklHw5RQ1k"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "372558333",
+                    "author_username": "SmallJohnny",
+                    "community_notes": null,
+                    "conversation_id": "1777697174878290355",
+                    "created_time": "2024-04-09T17:07:15",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1777745100598104074",
+                    "in_reply_to_post_id": "1777697174878290355",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1777741177699098972",
+                    "quoted_status_profile_id": "18382184",
+                    "quoted_status_profile_username": "AdamParkhomenko",
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards Do you remember when Trump, talking to Howard Stern in the '90s, said that avoiding an STD was his \"personal Viet Nam\"? Now his personal Viet Nam is trying to avoid facing trial for all his crimes. \ud83d\ude02\n\nLooks like he's gonna have to try harder.\n\nhttps://t.co/aklHw5RQ1k",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712682435,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "901436335541682176",
+                    "author_username": "BannisterRoss",
+                    "community_notes": null,
+                    "conversation_id": "1777697174878290355",
+                    "created_time": "2024-04-09T16:10:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1777730825666084959",
+                    "in_reply_to_post_id": "1777697174878290355",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards Rep Edwards has previously used almost the exact same language to defend the 2A.  \n\nTo him, if the \"high cost of [2A] freedom\" is the annual deaths of a 50,000 Americans, then \"our nation should be eternally grateful.\"\n\nEdwards believes death affirms freedom. He is delusional.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712679032,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GKu380PXQAAP3A-.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GKu380PXQAAP3A-.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "484026896",
+                    "author_username": "dizzy_art",
+                    "community_notes": null,
+                    "conversation_id": "1777697174878290355",
+                    "created_time": "2024-04-09T15:14:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1777716767730614356",
+                    "in_reply_to_post_id": "1777697174878290355",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards Stop trying to steal veteran's valor Chuck. We see how you vote against them. https://t.co/Xqmh9y6o1t",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712675680,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "372558333",
+                    "author_username": "SmallJohnny",
+                    "community_notes": null,
+                    "conversation_id": "1777697174878290355",
+                    "created_time": "2024-04-09T14:05:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1777699430797279547",
+                    "in_reply_to_post_id": "1777697174878290355",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards \"I'm voting for a criminal. He attacked a United States Senator who was literally tortured by the North Vietnamese. My leader's cruelty was harsh, and was repetitive. Other times, he has called our troops suckers and losers.\"\n\n-- Edwards, confessional booth, via source familiar",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712671547,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "1848066642032693748",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "629926968",
+                    "author_username": "ncstaab",
+                    "community_notes": null,
+                    "conversation_id": "1848066642032693748",
+                    "created_time": "2024-10-23T03:26:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1848928908785184949",
+                    "in_reply_to_post_id": "1848066642032693748",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepChuckEdwards How could you just stand there and say nothing?  And allow Trump to stoke fear in people?? No one who believes Trump\u2019s rhetoric is going to see your after the fact press release thanking FEMA etc. You\u2019re a fucking coward.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729653977,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "830418648779075585",
+                    "author_username": "yupwheat2466",
+                    "community_notes": null,
+                    "conversation_id": "1848066642032693748",
+                    "created_time": "2024-10-22T13:24:02",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1848716948122615847",
+                    "in_reply_to_post_id": "1848066642032693748",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards Do not travel advisory but has no problem closing traffic so Trump can come get his McDonalds Fry Pin. Dude your pathetic. Why dont you grow a spine?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729603442,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/Acyn/status/1848398929257218553"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/iWXBsRpXdi"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1529946263273324611",
+                    "author_username": "freezy_mark",
+                    "community_notes": null,
+                    "conversation_id": "1848066642032693748",
+                    "created_time": "2024-10-21T16:33:31",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1848402243873038432",
+                    "in_reply_to_post_id": "1848066642032693748",
+                    "in_reply_to_profile_id": "1602748099792879616",
+                    "in_reply_to_profile_username": "RepChuckEdwards",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuckEdwards How can you stand there while Trump spews lie after lie about this disaster? Please have the courage and moral fortitude to call him out.\nhttps://t.co/iWXBsRpXdi",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuckEdwards"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1602748099792879616"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729528411,
+                    "view_count": 47
+                }
+            ]
+        }
+    ]
+}

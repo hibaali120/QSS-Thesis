@@ -1,0 +1,61 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gr99ThnXoAAGsM9.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gr99Tg8XwAAMST3.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gr99Tg4XcAA2hGa.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gr99TgIWsAAcMDp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gr99ThnXoAAGsM9.jpg",
+                    "https://pbs.twimg.com/media/Gr99Tg8XwAAMST3.jpg",
+                    "https://pbs.twimg.com/media/Gr99Tg4XcAA2hGa.jpg",
+                    "https://pbs.twimg.com/media/Gr99TgIWsAAcMDp.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874831517706256384",
+                "author_username": "RepGoodlander",
+                "community_notes": null,
+                "conversation_id": "1927397900805427705",
+                "created_time": "2025-05-27T16:14:03",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1927397900805427705",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Important discussion this morning in Lebanon with partners from the NH Department of Health and Human Services and providers from Dartmouth Health who are on the frontlines of delivering life-saving healthcare, including maternal healthcare and substance use treatment. I heard in detail about the real harm that the GOP\u2019s healthcare cuts \u2014 including billions of cuts to Medicaid and Medicare \u2014 will have on people across New Hampshire.  \n\nThe fight to protect your healthcare continues, and I\u2019m never giving up.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748362443,
+                "view_count": 443
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

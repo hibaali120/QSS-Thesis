@@ -1,0 +1,438 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F6fBNcmXwAAyp3X.jpg?name=small",
+                    "https://pbs.twimg.com/media/F6fBPHyX0AAuuMU.jpg?name=small",
+                    "https://pbs.twimg.com/media/F6fBQcQXMAAEgHc.jpg?name=small",
+                    "https://pbs.twimg.com/media/F6fBRltWgAEcKjp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F6fBNcmXwAAyp3X.jpg",
+                    "https://pbs.twimg.com/media/F6fBPHyX0AAuuMU.jpg",
+                    "https://pbs.twimg.com/media/F6fBQcQXMAAEgHc.jpg",
+                    "https://pbs.twimg.com/media/F6fBRltWgAEcKjp.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1704609880290587085",
+                "created_time": "2023-09-20T21:34:00",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1704609880290587085",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "I had the privilege of hosting Tampa Bay\u2019s @MoffittNews here at the Capitol for their #MoffittDCFlyIn.\n\nMoffitt pioneers advances in research & innovative care, providing life-changing treatment to over 86,000 patients a year. https://t.co/HWMhZLVmiH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MoffittNews"
+                ],
+                "text_tagged_users_ids": [
+                    "25324110"
+                ],
+                "text_tags": [
+                    "moffittdcflyin"
+                ],
+                "timestamp": 1695245640,
+                "view_count": 1547
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F9eFfMLX0AADyt6.jpg?name=small",
+                    "https://pbs.twimg.com/media/F9eFfMKXkAAlIRR.jpg?name=small",
+                    "https://pbs.twimg.com/media/F9eFfMIXQAAV5dq.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F9eFfMLX0AADyt6.jpg",
+                    "https://pbs.twimg.com/media/F9eFfMKXkAAlIRR.jpg",
+                    "https://pbs.twimg.com/media/F9eFfMIXQAAV5dq.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1717988557317390627",
+                "created_time": "2023-10-27T19:36:05",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1717988557317390627",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 28,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Happy 37th Anniversary @MoffittNews!\n\nSince opening its doors in 1986, Moffitt Cancer Center has delivered life-changing treatment to thousands of patients and led the way for innovative research in healthcare. Here\u2019s to many more years of changing lives! https://t.co/w71JHAyDkH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MoffittNews"
+                ],
+                "text_tagged_users_ids": [
+                    "25324110"
+                ],
+                "text_tags": null,
+                "timestamp": 1698435365,
+                "view_count": 1468
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1732060509602800044",
+                "created_time": "2023-12-05T15:33:00",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1732060509602800044",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1730799202345603126",
+                "quoted_status_profile_id": "15750898",
+                "quoted_status_profile_username": "FOX13News",
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "As the Winter Strawberry Capital of the world, #FL15 is home to countless agriculture producers & specialty crop growers.\n\nI am proud to support the TEMP Act, which provides much-needed stability & coverage for Florida\u2019s growers for crop damages caused by freezing temperatures.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fl15"
+                ],
+                "timestamp": 1701790380,
+                "view_count": 722
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFXS07oWIAApTgf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFXS07oWIAApTgf.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1754157361210798444",
+                "created_time": "2024-02-04T14:58:00",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1754157361210798444",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "This #WorldCancerDay, I recognize and stand with the patients and families across the nation who have been impacted.\n\nHonored to have @MoffittNews, a world-class research and treatment center, right here in #FL15. Advancing innovative & quality care is crucial to finding a cure. https://t.co/ihsgkcY3bE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MoffittNews"
+                ],
+                "text_tagged_users_ids": [
+                    "25324110"
+                ],
+                "text_tags": [
+                    "fl15",
+                    "worldcancerday"
+                ],
+                "timestamp": 1707058680,
+                "view_count": 442
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://baynews9.com/fl/tampa/news/2024/09/23/sandbags---county-by-county-hurricane-coverage?fbclid=IwY2xjawFf5zRleHRuA2FlbQIxMQABHaTWLbdbV1Ksx9usuJ0DCg9l1HONB0Du7dtfjRaplHEPiTZXAm7aYyQxIA_aem_g-Vqms9tBZYv6Mj4iURT9A"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rqQrGZxKPB"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1838261217002995712/vJVGx9s2?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1838660109230395753",
+                "created_time": "2024-09-24T19:21:45",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1838660109230395753",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8 Hillsborough, Pasco, and Polk counties: find sandbag distribution locations in your area below.\n\nResidents should be prepared for flooding and other impacts from soon-to-be Hurricane Helene. \n\nhttps://t.co/rqQrGZxKPB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1727205705,
+                "view_count": 535
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.newsnationnow.com/us-news/immigration/border-coverage/trump-immigration-cbp-border-crossings-decline/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/vScrsPqZNX"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1894043977369698798",
+                "created_time": "2025-02-24T15:17:28",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894043977369698798",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "It has only been one month since President Trump took office and illegal border crossings have dropped 94% compared to last year.\n\nThis administration is committed to putting American's safety first\u2014this is what leadership looks like!\n\nhttps://t.co/vScrsPqZNX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740410248,
+                "view_count": 519
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzDFqkNW0AAEsgO.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzDFqkGXEAAesmz.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzDFqkNW0AAEsgO.jpg",
+                    "https://pbs.twimg.com/media/GzDFqkGXEAAesmz.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1959283188213121532",
+                "created_time": "2025-08-23T15:54:48",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1959283188213121532",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I appreciated the chance to visit @QuestDX, a leader in lab testing and healthcare innovation with nearly 1,600 employees right here in Florida\u2019s 15th District. Their work plays a critical role in delivering timely, accurate results that help patients get the care they need. Together, we\u2019re working to advance policies that keep diagnostic testing accessible and affordable for all.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "QuestDX"
+                ],
+                "text_tagged_users_ids": [
+                    "76481951"
+                ],
+                "text_tags": null,
+                "timestamp": 1755964488,
+                "view_count": 539
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzM5xzBWAAAGuNe.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzM5xy7WYAAkgBP.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzM5xzBWAAAGuNe.jpg",
+                    "https://pbs.twimg.com/media/GzM5xy7WYAAkgBP.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1959973804089680215",
+                "created_time": "2025-08-25T13:39:04",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1959973804089680215",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I toured Florida Cancer Specialists\u2019 new Wesley Chapel facility\u2014bringing world-class, community-based cancer care close to home. In Congress, I\u2019m working to lower barriers to treatment, improve Medicare coverage for early cancer detection, and ensure our providers have the tools they need to deliver hope and healing to patients across Florida.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756129144,
+                "view_count": 505
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G0kpEGcXEAAmNgN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G0kpEGcXEAAmNgN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608230657796227072",
+                "author_username": "RepLaurelLee",
+                "community_notes": null,
+                "conversation_id": "1966253165151441321",
+                "created_time": "2025-09-11T21:31:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1966253165151441321",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web Client",
+                "text": "At the @MAHACaucus briefing this week, I heard from FreshRx about their work connecting patients with access to healthy foods. Nutritious, locally grown produce not only supports better outcomes for patients with chronic illnesses, but it also strengthens family farms using regenerative practices.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MAHACaucus"
+                ],
+                "text_tagged_users_ids": [
+                    "1866917883005243394"
+                ],
+                "text_tags": null,
+                "timestamp": 1757626260,
+                "view_count": 801
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

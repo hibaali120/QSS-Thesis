@@ -1,0 +1,99 @@
+{
+    "politician": "RepBrianJack",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1974599817864073330",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1072991782793867264",
+                    "author_username": "KaPOWY",
+                    "community_notes": null,
+                    "conversation_id": "1974599817864073330",
+                    "created_time": "2025-10-07T13:49:38",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1975559143546384391",
+                    "in_reply_to_post_id": "1974599817864073330",
+                    "in_reply_to_profile_id": "1872431129011130368",
+                    "in_reply_to_profile_username": "RepBrianJack",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBrianJack We endure the 10 months of rising prices for food/groceries but you don\u2019t do anything about that.\nThe \u201cillegal immigrats\u201d lie is just laughable at this point. \nNow you want hardworking taxpayers to pay double for healthcare or not have it at all.\n#TrumpShutdown",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBrianJack"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872431129011130368"
+                    ],
+                    "text_tags": [
+                        "trumpshutdown"
+                    ],
+                    "timestamp": 1759844978,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1837601470000062464",
+                    "author_username": "patriotswifcats",
+                    "community_notes": null,
+                    "conversation_id": "1974599817864073330",
+                    "created_time": "2025-10-05T00:29:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974633130217869354",
+                    "in_reply_to_post_id": "1974599817864073330",
+                    "in_reply_to_profile_id": "1872431129011130368",
+                    "in_reply_to_profile_username": "RepBrianJack",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBrianJack No deal with the Dems.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBrianJack"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872431129011130368"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759624199,
+                    "view_count": 42
+                }
+            ]
+        }
+    ]
+}

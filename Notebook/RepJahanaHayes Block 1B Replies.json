@@ -1,0 +1,922 @@
+{
+    "politician": "RepJahanaHayes",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1514606928718024708",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/e9p34zsubde3kjb/status/1514657043235454976"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/jnpq8CUOIH"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1246151954587418628",
+                    "author_username": "E9P34zsUBDe3KJb",
+                    "community_notes": null,
+                    "conversation_id": "1514606928718024708",
+                    "created_time": "2022-04-14T17:35:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1514658566984118275",
+                    "in_reply_to_post_id": "1514606928718024708",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes https://t.co/jnpq8CUOIH",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649957718,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1532014279121158144",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539767632953491456",
+            "replies": []
+        },
+        {
+            "conversation_id": "1575440296690827264",
+            "replies": []
+        },
+        {
+            "conversation_id": "1621508923407859715",
+            "replies": []
+        },
+        {
+            "conversation_id": "1621886382133186560",
+            "replies": []
+        },
+        {
+            "conversation_id": "1629160817739411544",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "40282670",
+                    "author_username": "TiaBruhn",
+                    "community_notes": null,
+                    "conversation_id": "1629160817739411544",
+                    "created_time": "2023-02-24T16:52:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1629162466331488258",
+                    "in_reply_to_post_id": "1629160817739411544",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes How expensive is it ?  That seems to be key for most families can\u2019t afford it.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1677257575,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1673722943187107845",
+            "replies": []
+        },
+        {
+            "conversation_id": "1730587615659758035",
+            "replies": []
+        },
+        {
+            "conversation_id": "1734249220037636107",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "913574056926072833",
+                    "author_username": "ArtemGrankin5",
+                    "community_notes": null,
+                    "conversation_id": "1734249220037636107",
+                    "created_time": "2024-01-04T21:05:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1743015808307961886",
+                    "in_reply_to_post_id": "1734249220037636107",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes @CongressionalAC Awesome job! Congrats",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "CongressionalAC"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "1225814342"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1704402327,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1753420633503838444",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GFVvPQjXoAAryvP.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GFVvPQjXoAAryvP.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1235647759945957378",
+                    "author_username": "IreneO70144262",
+                    "community_notes": null,
+                    "conversation_id": "1753420633503838444",
+                    "created_time": "2024-02-02T14:47:30",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1753429943847882938",
+                    "in_reply_to_post_id": "1753420633503838444",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJahanaHayes this is so important...!!! Thank you for shining a light on cardiac health, Congresswoman!! and women do not exhibit the same symptoms as men so if you have any doubt CHECK IT OUT https://t.co/XeTIuhfczu",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706885250,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1755268644328624581",
+            "replies": []
+        },
+        {
+            "conversation_id": "1781359667177791980",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/gov_ct/status/1781998790901105091?t=Ptg1u3YIXBkjjzmtGg0Bdw&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/CANjPWvRvs"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1145801660716986371",
+                    "author_username": "gov_ct",
+                    "community_notes": null,
+                    "conversation_id": "1781359667177791980",
+                    "created_time": "2024-04-21T17:18:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782096582638227610",
+                    "in_reply_to_post_id": "1781359667177791980",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJahanaHayes @alzassociation Hayes voted to spend $60 BILLION OF YOUR TAX MONEY TO UKRAINE to protect THEIR BORDER \ud83e\udd2e \n\nZero to PROTECT THE USA \ud83c\uddfa\ud83c\uddf8 BORDERS, Nothing to stop Chinese Fentanyl OVERDOSES\n300 American deaths/DAY\ud83e\udd2c \n\nGAS up \ud83e\udd2c - BIDEN/Dems CANCELED ALASKAN DRILLING \ud83e\udd21\nhttps://t.co/CANjPWvRvs",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "alzassociation"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "21121491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713719909,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GLjEJteWAAAD66E.jpg?name=small",
+                        "https://pbs.twimg.com/media/GLjEJtgXsAAjBSE.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GLjEJteWAAAD66E.jpg",
+                        "https://pbs.twimg.com/media/GLjEJtgXsAAjBSE.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1196758766642970624",
+                    "author_username": "ItsJustNutsss",
+                    "community_notes": null,
+                    "conversation_id": "1781359667177791980",
+                    "created_time": "2024-04-19T18:28:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781389325554372701",
+                    "in_reply_to_post_id": "1781359667177791980",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes @alzassociation https://t.co/aS057lKzqG",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "alzassociation"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "21121491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713551286,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "1806334339421974805",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "12160822",
+                    "author_username": "solarbluseth",
+                    "community_notes": null,
+                    "conversation_id": "1806334339421974805",
+                    "created_time": "2024-06-28T00:39:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1806487535079866839",
+                    "in_reply_to_post_id": "1806334339421974805",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes Get your hooker man tested @champaigncity",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "champaigncity"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "18450876"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1719535165,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1841851994375385482",
+            "replies": []
+        },
+        {
+            "conversation_id": "1863221675413721147",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1593791311496241165",
+                    "author_username": "salute2223",
+                    "community_notes": null,
+                    "conversation_id": "1863221675413721147",
+                    "created_time": "2024-12-01T17:58:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1863281563401609306",
+                    "in_reply_to_post_id": "1863221675413721147",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes Lower electric pricing in CT stop this nonsense do something that would actually help your constituents.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1733075917,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "498290815",
+                    "author_username": "kateinthemix",
+                    "community_notes": null,
+                    "conversation_id": "1863221675413721147",
+                    "created_time": "2024-12-01T14:14:52",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1863225256237773154",
+                    "in_reply_to_post_id": "1863221675413721147",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes On World AIDS Day, let\u2019s not just remember those who suffered from AIDS, let\u2019s also remember what Fauci did. Running drug trials on Black men with toxic treatments and no proper consent. People suffered and died, and he just kept climbing the ladder.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1733062492,
+                    "view_count": 110
+                }
+            ]
+        },
+        {
+            "conversation_id": "1870861873601785961",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1871273022361153536/pu/img/WbS7t_NRjAYubxvX.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1871273022361153536/pu/vid/avc1/852x480/CYEoixg5Lucplm-X.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 94,
+                            "id": "1871273022361153536",
+                            "url": "https://video.twimg.com/ext_tw_video/1871273022361153536/pu/vid/avc1/852x480/CYEoixg5Lucplm-X.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1308407156924964866",
+                    "author_username": "Juni45892816",
+                    "community_notes": null,
+                    "conversation_id": "1870861873601785961",
+                    "created_time": "2024-12-23T19:16:39",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1871273735212384425",
+                    "in_reply_to_post_id": "1870861873601785961",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJahanaHayes Jonathan D. T. Ward talks with Brian Kilmeade on how America will win or lose the cold war with China based on US economic power https://t.co/0YIDfhEg4F",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1734981399,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1870861873601785961",
+                    "created_time": "2024-12-23T00:23:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1870988580560269816",
+                    "in_reply_to_post_id": "1870861873601785961",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJahanaHayes @RepJahanaHayes, let's not forget about Ukraine! We're fighting against Russian aggression, our protection comes from NATO. Can you help us join the alliance & get the support we need?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1734913413,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1870861873601785961",
+                    "created_time": "2024-12-22T20:43:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1870933293958640076",
+                    "in_reply_to_post_id": "1870861873601785961",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJahanaHayes @RepJahanaHayes @USNATO I wish for a different kind of gift - protection & security under NATO's umbrella. Ukraine deserves to join & defend itself, no vaccines can shield us from Russian aggression",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "USNATO"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "472830024"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1734900232,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1242924947938463745",
+                    "author_username": "needlenose5",
+                    "community_notes": null,
+                    "conversation_id": "1870861873601785961",
+                    "created_time": "2024-12-22T16:29:00",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1870869157043957934",
+                    "in_reply_to_post_id": "1870861873601785961",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJahanaHayes IMO, Nobody should be getting vaccinated or testing for COVID-19.  All we are saying is, is give our natural immunity a chance!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1734884940,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1911478844092997862",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/CTCentinal/status/1905387934909428015"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/92W7IRhDqq"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1772395257826619392",
+                    "author_username": "captzachghost",
+                    "community_notes": null,
+                    "conversation_id": "1911478844092997862",
+                    "created_time": "2025-04-13T23:46:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1911566749490635233",
+                    "in_reply_to_post_id": "1911478844092997862",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepJahanaHayes will you be addressing CT Dem Dildogate today, Jahana?\n\nhttps://t.co/92W7IRhDqq",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744588002,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1922012232000450867",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3632280074",
+                    "author_username": "jjjoyce90",
+                    "community_notes": null,
+                    "conversation_id": "1922012232000450867",
+                    "created_time": "2025-05-12T21:09:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922036499777769833",
+                    "in_reply_to_post_id": "1922012232000450867",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJahanaHayes @bannerite As always we pay their salaries and they cut things we need to survive.  Taking away things we've paid for, with our tax money. Time to stop paying them, cause they are not there to help the people but to put money in their pockets.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes",
+                        "bannerite"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018",
+                        "19088288"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747084185,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1922012232000450867",
+                    "created_time": "2025-05-12T19:47:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922015911969477061",
+                    "in_reply_to_post_id": "1922012232000450867",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The proposed $880B cut to Medicaid is a reckless gamble with American lives. While streamlining bloated bureaucracy is necessary, gutting breast cancer treatment, postpartum care, and disability services exposes the lie of \"efficiency\" reforms. Bill Title in 2023 already proved Medicaid block grants shift costs to states while enriching middlemen\u2014Albuquerque saw a 22% drop in prenatal visits under similar restructuring.\n\nReal fiscal responsibility means cutting administrative fat, not lifesaving care. If Congress wants savings, they should audit the $140B in improper payments flagged in last year's HHS report instead of punishing vulnerable patients.\n\nProtecting Medicaid isn't about big government\u2014it's about preventing emergency room crises that'll cost taxpayers triple down the line.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747079277,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Gqxecq8WIAAiX4Y.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Gqxecq8WIAAiX4Y.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "990218923084795905",
+                    "author_username": "KristiTalmadge",
+                    "community_notes": null,
+                    "conversation_id": "1922012232000450867",
+                    "created_time": "2025-05-12T19:44:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1922014989663064366",
+                    "in_reply_to_post_id": "1922012232000450867",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJahanaHayes If Democrats hadn't teamed up with the leftist psychos and rigged their own primaries again, they wouldn't have lost the election.\n\nChris Murphy and Representative LaMonica McIver out there making fools of themselves making sure you lose the midterms, too. \ud83e\udd37\u200d\u2640\ufe0f\n\n#ClimateEmergency https://t.co/PTkg7N0vOL",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": [
+                        "climateemergency"
+                    ],
+                    "timestamp": 1747079057,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1933245442462265651",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1933245442462265651",
+                    "created_time": "2025-06-12T19:42:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1933248546624430490",
+                    "in_reply_to_post_id": "1933245442462265651",
+                    "in_reply_to_profile_id": "1082086081238102018",
+                    "in_reply_to_profile_username": "RepJahanaHayes",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Congresswoman Hayes\u2019 opposition to the HALT Fentanyl Act ignores the bill\u2019s critical research provisions (S.331 Sec.3) streamlining studies on fentanyl analogs - a necessary step to combat lethal trafficking. The $12B grant cancellation she laments targeted SAMHSA programs plagued by waste, fraud, and failed outcomes under Biden\u2019s opioid response.\n\nMandatory minimums apply specifically to traffickers peddling substances 50x deadlier than heroin, not users. This administration prioritizes border security intercepting fentanyl precursors over funding bureaucratic black holes.\n\nReal solutions require both enforcement and efficient research - neither achieved through status quo programs that burned billions while overdoses skyrocketed.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJahanaHayes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082086081238102018"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749757346,
+                    "view_count": 29
+                }
+            ]
+        }
+    ]
+}

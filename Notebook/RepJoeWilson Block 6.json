@@ -1,0 +1,54 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "254082173",
+                "author_username": "RepJoeWilson",
+                "community_notes": null,
+                "conversation_id": "1850017265661382878",
+                "created_time": "2024-10-26T03:31:02",
+                "favorite_count": 306,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1850017265661382878",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 34,
+                "retweet_count": 62,
+                "source": "Twitter for iPhone",
+                "text": "Today, the courageous people of Georgia take to the polls to exercise their right and decide the future of their country. They will not be intimidated. Election observers are on the ground and the world is watching \ud83c\uddec\ud83c\uddea #MEGOBARI #GeorgiaVotes",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "georgiavotes",
+                    "megobari"
+                ],
+                "timestamp": 1729913462,
+                "view_count": 17564
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

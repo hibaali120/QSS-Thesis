@@ -1,0 +1,776 @@
+{
+    "politician": "RepGLatimer",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1900264538697613695",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4923642797",
+                    "author_username": "MJHP50",
+                    "community_notes": null,
+                    "conversation_id": "1900264538697613695",
+                    "created_time": "2025-03-13T20:17:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1900280189214429532",
+                    "in_reply_to_post_id": "1900264538697613695",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer More tax dollars will definitely stop the next hurricane - who should I make my cheque out to?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741897077,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910413268788666819",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1910413268788666819",
+                    "created_time": "2025-04-10T19:25:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910413966649483763",
+                    "in_reply_to_post_id": "1910413268788666819",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Congressman Latimer\u2019s outrage misses the forest for the trees. The real scandal isn\u2019t cutting bloated programs\u2014it\u2019s Washington\u2019s refusal to fix systemic fraud. Medicaid alone wastes $100B annually on improper payments, while SNAP\u2019s error rate hit 11% last year. Instead of defending broken systems, let\u2019s overhaul them: slash bureaucratic overhead, end duplicate benefits, and redirect funds to targeted aid.\n\nAs for tariffs, the 125% China penalty forces fair trade, while the 90-day pause lets allies negotiate\u2014strategic recalibration, not chaos. Problem isn\u2019t spending levels\u2014it\u2019s D.C.\u2019s addiction to funding failure.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744313158,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910689249667473742",
+            "replies": []
+        },
+        {
+            "conversation_id": "1916215957279936795",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "499350129",
+                    "author_username": "NYMetroVets",
+                    "community_notes": null,
+                    "conversation_id": "1916215957279936795",
+                    "created_time": "2025-05-02T20:36:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1918404294027710874",
+                    "in_reply_to_post_id": "1916215957279936795",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Great seeing Asha and Kevin with you!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1746218200,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1916215957279936795",
+                    "created_time": "2025-04-26T19:48:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1916217868535976239",
+                    "in_reply_to_post_id": "1916215957279936795",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The VA's budget ballooned from $199.6B in 2019 to $325B in 2024 - a 62.8% increase. With that kind of growth, \"cuts\" aren't the problem. The real question: Why are wait times still rising while 34% of VA construction projects face delays?\n\nThe Bronx facility's 24/7 emergency care is vital, but let's audit where every dollar flows before crying austerity. Veterans deserve excellence, not just expensive bureaucracy.\n\nAccountability drives better care than blank checks.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745696916,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1917296217916334260",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1275602888908251136",
+                    "author_username": "DonogLo10",
+                    "community_notes": null,
+                    "conversation_id": "1917296217916334260",
+                    "created_time": "2025-04-29T19:26:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1917299372410257737",
+                    "in_reply_to_post_id": "1917296217916334260",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Wouldn\u2019t it be cheaper just to give veterans free healthcare insurance and they could go to any hospital they want? Why are we paying for bloated VA hospitals and all the bureaucracy that goes with it?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745954766,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1917296217916334260",
+                    "created_time": "2025-04-29T19:16:32",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1917296965953507584",
+                    "in_reply_to_post_id": "1917296217916334260",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The \"Putting Veterans First Act of 2025\" (S.1068) is a legislative smokescreen to protect bureaucratic bloat, not veterans. The VA\u2019s staffing surged 17% under Biden, yet wait times and backlogs worsened\u2014proving more bureaucrats don\u2019t equal better care.\n\nThe proposed workforce adjustments target administrative fat, not frontline medical staff. For example, the VA\u2019s own data shows 72,000 positions cut are primarily non-clinical roles like HR and consulting contracts for \"meeting agenda preparation.\"\n\nReal reform means redirecting $900M from redundant contracts to actual care\u2014like expanding PACT Act toxic exposure treatments. Efficiency isn\u2019t betrayal; it\u2019s delivering results without burning taxpayer cash on paper-pushers.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745954192,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1933181507591368848",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "17427674",
+                    "author_username": "freedom_steve4",
+                    "community_notes": null,
+                    "conversation_id": "1933181507591368848",
+                    "created_time": "2025-06-13T03:03:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1933359451660071175",
+                    "in_reply_to_post_id": "1933181507591368848",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Can we focus on Westchester and Save NY",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749783788,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1933181507591368848",
+                    "created_time": "2025-06-12T18:09:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1933225041862549702",
+                    "in_reply_to_post_id": "1933181507591368848",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Blah blah blah blah, clutch pearls,  blah blah blah. Do nothing, Lazy Latimer.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749751742,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1880507641845448704",
+                    "author_username": "FreePress23",
+                    "community_notes": null,
+                    "conversation_id": "1933181507591368848",
+                    "created_time": "2025-06-12T15:25:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1933183941865074949",
+                    "in_reply_to_post_id": "1933181507591368848",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer aipac puppet",
+                    "text_lang": "tl",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749741943,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1934397761480261713",
+            "replies": []
+        },
+        {
+            "conversation_id": "1937551594867790080",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GuSh909XkAA2Zd4.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GuSh909XkAA2Zd4.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1937551594867790080",
+                    "created_time": "2025-06-25T12:34:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1937851829825749395",
+                    "in_reply_to_post_id": "1937551594867790080",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Good little stenographer. Here's a cookie. https://t.co/mSJTUAt1xW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1750854854,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1937551594867790080",
+                    "created_time": "2025-06-24T20:29:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1937609043700486221",
+                    "in_reply_to_post_id": "1937551594867790080",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer Good little stenographer. You get a cookie.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1750796969,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1945209986553971076",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/sabbysabs2/status/1945657902997336522?s=46"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/HYERnn8v0E"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1876821945414721536",
+                    "author_username": "NOTOtoinfinity",
+                    "community_notes": null,
+                    "conversation_id": "1945209986553971076",
+                    "created_time": "2025-07-18T15:22:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1946229092719976824",
+                    "in_reply_to_post_id": "1945209986553971076",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer https://t.co/HYERnn8v0E",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752852149,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GwF9e85WkAA6YxN.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GwF9e85WkAA6YxN.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1636760789112750080",
+                    "author_username": "idreamofnene23",
+                    "community_notes": null,
+                    "conversation_id": "1945209986553971076",
+                    "created_time": "2025-07-17T22:30:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945974488459354566",
+                    "in_reply_to_post_id": "1945209986553971076",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer You\u2019re not that committed to the health of your constituents when Israel is your priority. https://t.co/zWmcnHMYaB",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752791447,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GwBitmEXgAAFohV.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GwBitmEXgAAFohV.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1521204404803747840",
+                    "author_username": "Boemmelbaer",
+                    "community_notes": null,
+                    "conversation_id": "1945209986553971076",
+                    "created_time": "2025-07-17T01:56:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945663779578237341",
+                    "in_reply_to_post_id": "1945209986553971076",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepGLatimer Crying gender confused cat lady https://t.co/lOol0N4jc0",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752717368,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1950548925171007625",
+            "replies": []
+        },
+        {
+            "conversation_id": "1959360749488500779",
+            "replies": []
+        },
+        {
+            "conversation_id": "1966584061553471497",
+            "replies": []
+        },
+        {
+            "conversation_id": "1968045701604184339",
+            "replies": []
+        },
+        {
+            "conversation_id": "1982539730441892302",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3027391090",
+                    "author_username": "ProvoMacher",
+                    "community_notes": null,
+                    "conversation_id": "1982539730441892302",
+                    "created_time": "2025-10-27T01:34:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1982621963337302111",
+                    "in_reply_to_post_id": "1982539730441892302",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGLatimer If only you had the vision and energy of Jamaal Bowman who initiated a number of programs for Seniors.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761528886,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "386251330",
+                    "author_username": "robataol",
+                    "community_notes": null,
+                    "conversation_id": "1982539730441892302",
+                    "created_time": "2025-10-26T21:29:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1982560334876696968",
+                    "in_reply_to_post_id": "1982539730441892302",
+                    "in_reply_to_profile_id": "1863611233230024704",
+                    "in_reply_to_profile_username": "RepGLatimer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGLatimer Good evening Sir. Would you please have a virtual meeting with a few members of @TheRealSPONY to discuss the devastating legislation has been passing since 2019. This  has caused many small property owners into pre-foreclosure and foreclosure. I hope you will respond. Thank u",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGLatimer",
+                        "TheRealSPONY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1863611233230024704",
+                        "1466182866686124037"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761514192,
+                    "view_count": 21
+                }
+            ]
+        }
+    ]
+}

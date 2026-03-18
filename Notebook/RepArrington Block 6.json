@@ -1,0 +1,318 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://arrington.house.gov/news/documentsingle.aspx?DocumentID=782"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8pyBnR7Kzo"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1550073506678849543",
+                "created_time": "2022-07-21T11:01:37",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1550073507672883200",
+                "in_reply_to_post_id": "1550073506678849543",
+                "in_reply_to_profile_id": "816284664658874368",
+                "in_reply_to_profile_username": "RepArrington",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "I hope my colleagues join me in encouraging states to exercise their constitutional right to put a check on the unbridled spending of the federal government. https://t.co/8pyBnR7Kzo",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1658401297,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F2KSUnfa4AA1xQ9.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1685065560420188160/vid/720x1280/2NVeWWoJJ8cvb_VW.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 307,
+                        "id": "1685065560420188160",
+                        "url": "https://video.twimg.com/amplify_video/1685065560420188160/vid/720x1280/2NVeWWoJJ8cvb_VW.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1685065892273811457",
+                "created_time": "2023-07-28T23:13:10",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1685065892273811457",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 5,
+                "source": "Twitter Media Studio",
+                "text": "Proud to lead my colleagues defending Texas' right to secure the border and @GovAbbott.\n\nThanks @RepChipRoy, @RepBrianBabin, @RepRonnyJackson, @RepEllzey, @Lancegooden, @RepKeithSelf, @RepCloudTX, and @RepNateMoran for encouraging Gov Abbott to exercise his power to defend Texas! https://t.co/hHp9CejF1q",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GovAbbott",
+                    "RepChipRoy",
+                    "RepBrianBabin",
+                    "RepRonnyJackson",
+                    "RepEllzey",
+                    "Lancegooden",
+                    "RepKeithSelf",
+                    "RepNateMoran"
+                ],
+                "text_tagged_users_ids": [
+                    "56941704",
+                    "1082790600292925440",
+                    "2929491549",
+                    "1341903465610686464",
+                    "1366523868253458437",
+                    "1029094268542099457",
+                    "1612430165585416192",
+                    "1603470469608374272"
+                ],
+                "text_tags": null,
+                "timestamp": 1690585990,
+                "view_count": 909
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1752357046790369281/img/5li2Z6OsgpqrtcUE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1752357046790369281/vid/avc1/720x1280/NM4ZjAY_mSZzmWR6.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 42,
+                        "id": "1752357046790369281",
+                        "url": "https://video.twimg.com/amplify_video/1752357046790369281/vid/avc1/720x1280/NM4ZjAY_mSZzmWR6.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1752357445169475599",
+                "created_time": "2024-01-30T15:45:46",
+                "favorite_count": 255,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1752357445169475599",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 146,
+                "retweet_count": 99,
+                "source": "Twitter for iPhone",
+                "text": "President Biden has used every lever of power to obstruct Texas from doing the job that he\u2019s failed to do. \n\n@HouseGOP must stand with Governor Abbott and the State of Texas as they continue to exercise their sovereign, constitutional right of self defense. #SecureTheBorder https://t.co/LfkICux2UC",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": [
+                    "securetheborder"
+                ],
+                "timestamp": 1706629546,
+                "view_count": 11090
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1894131785224917201",
+                "created_time": "2025-02-24T21:06:23",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894131785224917201",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "This budget reconciliation process is not just an exercise in matching revenues with outlays. \n\nMore importantly \u2014 we are reconciling the difference between the American people\u2019s interest, expectations, and values, AND their federal government which has lost its way, forgotten who it serves, and too often has failed to faithfully, fairly, and efficiently execute the laws of the land.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740431183,
+                "view_count": 1072
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1907932027568947200/img/E3qJFyQ7yP5sIWUJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1907932027568947200/vid/avc1/1080x1920/R7m6u6jLOYl6rcMD.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 107,
+                        "id": "1907932027568947200",
+                        "url": "https://video.twimg.com/amplify_video/1907932027568947200/vid/avc1/1080x1920/R7m6u6jLOYl6rcMD.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1907934043959590956",
+                "created_time": "2025-04-03T23:11:38",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1907934043959590956",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Requiring all able-bodied Americans to work as a condition for receiving welfare would do more than reduce the deficit. It would bring people back into the economy, the source of prosperity and economic independence. A job is the best nutrition, housing, healthcare, education, child-care and general welfare program.\u2028\u2028Welfare reform would improve the well-being of low-income families and the overall economic health of the nation.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1743721898,
+                "view_count": 716
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1937905747263709184/img/Eu4hwhdieGLDkbGX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1937905747263709184/vid/avc1/2160x3840/PJUdy7KeHHMABKDI.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 73,
+                        "id": "1937905747263709184",
+                        "url": "https://video.twimg.com/amplify_video/1937905747263709184/vid/avc1/2160x3840/PJUdy7KeHHMABKDI.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "816284664658874368",
+                "author_username": "RepArrington",
+                "community_notes": null,
+                "conversation_id": "1937906311061999973",
+                "created_time": "2025-06-25T16:10:43",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937906311061999973",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "In the Supplemental Nutrition Assistance Program - which provides food assistance to nearly 42 million people - GAO identified $10.5 billion in improper payments for an error rate of 11.7 percent.\n\nIn SNAP, state governments frequently fail to check for basic eligibility criteria - whether it\u2019s citizenship, finances, employment, or even someone\u2019s identity\n\nWhen the system is susceptible to fraud, the fraudsters gladly seize on that vulnerability.\n\nIn Baltimore, a dozen store owners stole $16 million by trafficking SNAP benefits through fake retail transactions. In New York, a government worker used SNAP benefits to buy energy drinks and resell them to corner stores, pocketing over $1.8 million. And in Florida, a couple used nearly 700 stolen identities to obtain SNAP cards and swap them for cash at a corrupt retailer.\n\nThese are not isolated incidents. They are symptoms of a system with inadequate guardrails and vulnerabilities that invite fraudsters to siphon funds away from those the program was intended to serve.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750867843,
+                "view_count": 2184
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

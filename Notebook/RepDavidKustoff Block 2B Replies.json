@@ -1,0 +1,664 @@
+{
+    "politician": "RepDavidKustoff",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1653545133411803136",
+            "replies": []
+        },
+        {
+            "conversation_id": "1653866709500002305",
+            "replies": []
+        },
+        {
+            "conversation_id": "1674904072774623235",
+            "replies": []
+        },
+        {
+            "conversation_id": "1677417327728500736",
+            "replies": []
+        },
+        {
+            "conversation_id": "1679206769761873934",
+            "replies": []
+        },
+        {
+            "conversation_id": "1682090745820225547",
+            "replies": []
+        },
+        {
+            "conversation_id": "1689394637486653440",
+            "replies": []
+        },
+        {
+            "conversation_id": "1689411237095079939",
+            "replies": []
+        },
+        {
+            "conversation_id": "1691854898638323959",
+            "replies": []
+        },
+        {
+            "conversation_id": "1702308357246230703",
+            "replies": []
+        },
+        {
+            "conversation_id": "1737540824781455443",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1570832175120977920",
+                    "author_username": "GnometheUndying",
+                    "community_notes": null,
+                    "conversation_id": "1737540824781455443",
+                    "created_time": "2023-12-20T18:32:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1737541443378385293",
+                    "in_reply_to_post_id": "1737540824781455443",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDavidKustoff Congrats on knowing a guy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1703097136,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1742326140725817467",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1603537908786515969",
+                    "author_username": "JamesWi14734261",
+                    "community_notes": null,
+                    "conversation_id": "1742326140725817467",
+                    "created_time": "2024-01-03T02:04:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1742366407709581571",
+                    "in_reply_to_post_id": "1742326140725817467",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDavidKustoff @IVXHealth PLEASE\u2026 SHUT DOWN THE GOVERNMENT UNTIL YOU SHUT DOWN THE BORDER.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "IVXHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "1072923985"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1704247497,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1742631317848621272",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1594192199876493317",
+                    "author_username": "RancidTrump",
+                    "community_notes": null,
+                    "conversation_id": "1742631317848621272",
+                    "created_time": "2024-01-03T19:39:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1742631799996535177",
+                    "in_reply_to_post_id": "1742631317848621272",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDavidKustoff david, your continued fealty to the criminal wannabe dictator trump is an act of treason and a threat to our democracy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1704310772,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1756049076276121759",
+            "replies": []
+        },
+        {
+            "conversation_id": "1769855596688298221",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "996157981",
+                    "author_username": "mgreentn",
+                    "community_notes": null,
+                    "conversation_id": "1769855596688298221",
+                    "created_time": "2024-03-18T22:44:11",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1769857358602117152",
+                    "in_reply_to_post_id": "1769855596688298221",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepDavidKustoff @WaysandMeansGOP Wait...  what have you done to try to expand Medicaid in Tennessee?  Hospitals have closed in rural areas of your district since you've been in office.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "WaysandMeansGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "12788332"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1710801851,
+                    "view_count": 49
+                }
+            ]
+        },
+        {
+            "conversation_id": "1774917055138996706",
+            "replies": []
+        },
+        {
+            "conversation_id": "1777817043636470227",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1586100813814009857",
+                    "author_username": "DonaldH70022437",
+                    "community_notes": null,
+                    "conversation_id": "1777817043636470227",
+                    "created_time": "2024-04-09T21:57:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1777818047157284971",
+                    "in_reply_to_post_id": "1777817043636470227",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDavidKustoff @endalztn @ALZIMPACT You can start by stopping the cloud seeding with aluminum and barium dust. For starters.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "endalztn",
+                        "ALZIMPACT"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "55246572",
+                        "204905640"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712699827,
+                    "view_count": 21
+                }
+            ]
+        },
+        {
+            "conversation_id": "1793001380405199272",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GOM5njgWAAA8owY.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GOM5njgWAAA8owY.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1099790201990324225",
+                    "author_username": "simpleNhonest",
+                    "community_notes": null,
+                    "conversation_id": "1793001380405199272",
+                    "created_time": "2024-05-22T17:57:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793340430613958849",
+                    "in_reply_to_post_id": "1793001380405199272",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDavidKustoff @aafp https://t.co/E4I3V7Rbqt",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "aafp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "14500190"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716400651,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1801016788915831019",
+            "replies": []
+        },
+        {
+            "conversation_id": "1823800021827084474",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "236096615",
+                    "author_username": "JoeyCranks",
+                    "community_notes": null,
+                    "conversation_id": "1823800021827084474",
+                    "created_time": "2024-08-14T21:01:54",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1823827410179211412",
+                    "in_reply_to_post_id": "1823800021827084474",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDavidKustoff @Twjernigan Damn why\u2019d yall put my boy Chuck in the back?!\n\n#shoutoutchuck",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "Twjernigan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "1881549913"
+                    ],
+                    "text_tags": [
+                        "shoutoutchuck"
+                    ],
+                    "timestamp": 1723669314,
+                    "view_count": 38
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2448262101",
+                    "author_username": "Jason_M_Little",
+                    "community_notes": null,
+                    "conversation_id": "1823800021827084474",
+                    "created_time": "2024-08-14T19:24:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1823802832707109317",
+                    "in_reply_to_post_id": "1823800021827084474",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDavidKustoff Love it!  Thank you Congressman!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1723663454,
+                    "view_count": 26
+                }
+            ]
+        },
+        {
+            "conversation_id": "1831004036482429248",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "809504100387799040",
+                    "author_username": "akydaky",
+                    "community_notes": null,
+                    "conversation_id": "1831004036482429248",
+                    "created_time": "2024-09-03T16:39:58",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1831009252296786053",
+                    "in_reply_to_post_id": "1831004036482429248",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDavidKustoff @west_cancer Did you mention to them that you plan on putting their patients on the streets by trying to defund Medicare and the ACA?\n#VoteHimOut",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "west_cancer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "905141702977101824"
+                    ],
+                    "text_tags": [
+                        "votehimout"
+                    ],
+                    "timestamp": 1725381598,
+                    "view_count": 146
+                }
+            ]
+        },
+        {
+            "conversation_id": "1834652418467918277",
+            "replies": []
+        },
+        {
+            "conversation_id": "1854993442038039017",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1854993442038039017",
+                    "created_time": "2024-11-09T07:22:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1855148910915854386",
+                    "in_reply_to_post_id": "1854993442038039017",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDavidKustoff @MemphisDocs @repdavidkustoff: Thank you for the military aid package from the USA. Your support means a lot to Ukraine. We request NATO membership for security. #StandWithUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "MemphisDocs",
+                        "repdavidkustoff"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "806985146326978560"
+                    ],
+                    "text_tags": [
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1731136942,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1407690785865220097",
+                    "author_username": "WhitieMcCracker",
+                    "community_notes": null,
+                    "conversation_id": "1854993442038039017",
+                    "created_time": "2024-11-08T22:26:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1855014105062445381",
+                    "in_reply_to_post_id": "1854993442038039017",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDavidKustoff @MemphisDocs Sir I would love to speak to you sometime about drafting and introducing a bill to ban cloud seeding. Yes this is a real thing and not a conspiracy. The US Govt is spreading aluminum and other toxins into our skies and we are all breathing it every day. MAHA. Thank you.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "MemphisDocs"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "806985146326978560"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1731104801,
+                    "view_count": 27
+                }
+            ]
+        },
+        {
+            "conversation_id": "1861486370507628691",
+            "replies": []
+        },
+        {
+            "conversation_id": "1884729301183979915",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1884729301183979915",
+                    "created_time": "2025-01-29T23:09:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1884740790741586390",
+                    "in_reply_to_post_id": "1884729301183979915",
+                    "in_reply_to_profile_id": "816012124505931780",
+                    "in_reply_to_profile_username": "RepDavidKustoff",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDavidKustoff @RegOneHealthFDN @repdavidkustoff: Thank you to the brave men and women serving in NATO. As a Ukrainian, I stand with you in defense of freedom and democracy. Joining NATO is Ukraine's next step towards stability and security.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDavidKustoff",
+                        "RegOneHealthFDN",
+                        "repdavidkustoff"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816012124505931780",
+                        "86836905"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738192195,
+                    "view_count": 12
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FpCYGUrXgAA9LYu.jpg?name=small",
+                    "https://pbs.twimg.com/media/FpCYG-QXgAUdiP-.jpg?name=small",
+                    "https://pbs.twimg.com/media/FpCYHnmX0AA51-y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FpCYGUrXgAA9LYu.jpg",
+                    "https://pbs.twimg.com/media/FpCYG-QXgAUdiP-.jpg",
+                    "https://pbs.twimg.com/media/FpCYHnmX0AA51-y.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1625966729913421826",
+                "created_time": "2023-02-15T21:14:12",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1625966729913421826",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 1,
+                "source": "Meltwater Social",
+                "text": "Yesterday, I met with Trinity County Judge and other local officials in the area. We discussed the needs in their community around water, rural hospitals, and other pressing issues. I look forward to working on their behalf! https://t.co/0BGWVozsVX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1676495652,
+                "view_count": 1166
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/3MNHtp8"
+                ],
+                "attached_links_url": [
+                    "https://t.co/j5MMoRXfhu"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1841486149509898240/fpS-bsDC?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1660716424396955650",
+                "created_time": "2023-05-22T18:37:04",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1660716424396955650",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 28,
+                "retweet_count": 10,
+                "source": "Meltwater Social",
+                "text": "My Health Care Fairness for All Act gives Americans more control, lower prices, and less hassle by:\n\n\u27a1\ufe0f Reforming federal health tax subsidies.\n\u27a1\ufe0f Offering a tax-advantaged health savings account. \n\u27a1\ufe0f Removing barriers between patients and doctors.\n https://t.co/j5MMoRXfhu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1684780624,
+                "view_count": 5867
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F6aRHDnXQAEFYcg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F6aRHDnXQAEFYcg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1704209079273500674",
+                "created_time": "2023-09-19T19:01:21",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1704209079273500674",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Meltwater Social",
+                "text": "Grateful to have discussed my Health Care Fairness for All Act with @TXFBinsurance. \n\nPatients should be able to make the best health care decisions for themselves. My bill gives families a personal health care option with parity to benefits from top private employers. https://t.co/dgRsWZmOqd",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "TXFBinsurance"
+                ],
+                "text_tagged_users_ids": [
+                    "2377494793"
+                ],
+                "text_tags": null,
+                "timestamp": 1695150081,
+                "view_count": 1185
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GTXKutrXsAAJpn9.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GTXKutrXsAAJpn9.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1816580940409246086",
+                "created_time": "2024-07-25T21:07:01",
+                "favorite_count": 37,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1816580940409246086",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 61,
+                "retweet_count": 14,
+                "source": "Twitter Web App",
+                "text": "Thank you, @AFPhq, for allowing me to speak about my bill, H.R. 3129, the Healthcare Fairness for All Act. This legislation promotes a personal option for patients and providers to ensure they are in control when it comes to health care coverage. https://t.co/EukXwOEfaj",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "AFPhq"
+                ],
+                "text_tagged_users_ids": [
+                    "44209472"
+                ],
+                "text_tags": null,
+                "timestamp": 1721941621,
+                "view_count": 5377
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

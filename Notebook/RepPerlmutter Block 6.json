@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "20552026",
+                "author_username": "RepPerlmutter",
+                "community_notes": null,
+                "conversation_id": "1505241189410353157",
+                "created_time": "2022-03-19T17:54:00",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1505241189410353157",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1503848882131849217",
+                "quoted_status_profile_id": "242426145",
+                "quoted_status_profile_username": "RepMcGovern",
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "TweetDeck",
+                "text": "After recently joining @RepMcGovern to witness firsthand the work being done to address hunger and nutrition needs in our country, I'm glad to see this investment to help #EndHungerNow.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepMcGovern"
+                ],
+                "text_tagged_users_ids": [
+                    "242426145"
+                ],
+                "text_tags": [
+                    "endhungernow"
+                ],
+                "timestamp": 1647712440,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

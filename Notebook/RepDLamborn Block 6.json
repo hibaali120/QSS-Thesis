@@ -1,0 +1,106 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "584012853",
+                "author_username": "RepDLamborn",
+                "community_notes": null,
+                "conversation_id": "1637129237512552448",
+                "created_time": "2023-03-18T16:30:01",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1637129237512552448",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1636068954694381570",
+                "quoted_status_profile_id": "1025447036835885056",
+                "quoted_status_profile_username": "US_SpaceCom",
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "This week @USSF_STARCOM completed exercise BLACK SKIES 23-1 spanning from California to Colorado.  This exercise incorporated necessary theater products to enable electronic warfare effects in space operations. #SpaceSaturday",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USSF_STARCOM"
+                ],
+                "text_tagged_users_ids": [
+                    "1458197271460286466"
+                ],
+                "text_tags": [
+                    "spacesaturday"
+                ],
+                "timestamp": 1679157001,
+                "view_count": 918
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "584012853",
+                "author_username": "RepDLamborn",
+                "community_notes": null,
+                "conversation_id": "1654825843217125377",
+                "created_time": "2023-05-06T12:30:00",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1654825843217125377",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Congratulations @USSF_STARCOM, @PeteSchriever, @ArmySMDC, @UKSpaceCmd & others on SPACE FLAG 23-2, the largest exercise iteration to date. SPACE FLAG 23-2 was the most complex integration of cyber warfare & had the largest integration of coalition partners ever! #SpaceSaturday",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USSF_STARCOM",
+                    "ArmySMDC",
+                    "UKSpaceCmd"
+                ],
+                "text_tagged_users_ids": [
+                    "1458197271460286466",
+                    "64814553",
+                    "839876114659041280"
+                ],
+                "text_tags": [
+                    "spacesaturday"
+                ],
+                "timestamp": 1683376200,
+                "view_count": 472
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

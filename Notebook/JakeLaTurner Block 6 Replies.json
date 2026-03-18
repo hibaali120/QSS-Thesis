@@ -1,0 +1,56 @@
+{
+    "politician": "JakeLaTurner",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1570924711080775681",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1895169728",
+                    "author_username": "gunnwilliams",
+                    "community_notes": null,
+                    "conversation_id": "1570924711080775681",
+                    "created_time": "2022-09-17T17:54:09",
+                    "favorite_count": 0,
+                    "geo_lat": 38.19717886,
+                    "geo_lon": -99.0662938,
+                    "id": "1571195818824155137",
+                    "in_reply_to_post_id": "1570924711080775681",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Kansas, USA",
+                    "place_type": "admin",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@JakeLaTurner @EliseStefanik Track me.... I'm not gonna go ballistic and shoot people.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner",
+                        "EliseStefanik"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481",
+                        "109579534"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663437249,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

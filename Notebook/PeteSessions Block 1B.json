@@ -1,0 +1,161 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cancer.org/healthy/find-cancer-early.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/c70BzYMv4Z"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1628765524548063232",
+                "created_time": "2023-02-23T14:35:36",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1628765524548063232",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 1,
+                "source": "Meltwater Social",
+                "text": "February is #NationalCancerPreventionMonth. Early detection is key - it could mean less extensive treatment, more options, and better chances of survival. #earlydetection\n\nResources for early detection \ud83d\udc47 https://t.co/c70BzYMv4Z",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "earlydetection",
+                    "nationalcancerpreventionmonth"
+                ],
+                "timestamp": 1677162936,
+                "view_count": 501
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1707810656546680832/pu/img/y0tRhyBuWSmFqWxx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1707810656546680832/pu/vid/avc1/1280x720/EZAzfS1qXitafIeD.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 489,
+                        "id": "1707810656546680832",
+                        "url": "https://video.twimg.com/ext_tw_video/1707810656546680832/pu/vid/avc1/1280x720/EZAzfS1qXitafIeD.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1707836779426984369",
+                "created_time": "2023-09-29T19:16:32",
+                "favorite_count": 121,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1707836779426984369",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 38,
+                "retweet_count": 44,
+                "source": "Twitter Web App",
+                "text": ".@GOPoversight's hearing affirmed the grounds of @HouseGOP's impeachment inquiry.\n\nThe Biden's received special treatment from the DOJ, hiding vital information from the public, necessitating this investigation.\n\nGrateful for the opportunity to share the other side of this case. https://t.co/11Zy0AltyQ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1696014992,
+                "view_count": 8026
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzdTy4UWYAA8UB9.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzdTy4UWYAA8UB9.png"
+                ],
+                "attached_videos": null,
+                "author_id": "24735461",
+                "author_username": "PeteSessions",
+                "community_notes": null,
+                "conversation_id": "1961128492608749689",
+                "created_time": "2025-08-28T18:07:23",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961128492608749689",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Yesterday, I was proud to announce that the EPA is awarding $1 million to the City of @HuntsvilleTexas for critical Wastewater Treatment Plant rehabilitation. This investment will expand water capacity to support Huntsville\u2019s growing population while protecting water quality in Lake Conroe and Elkins Lake. I\u2019m grateful my request worked to secure this funding, which will provide essential infrastructure improvements and strengthen the future of this beautiful community.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HuntsvilleTexas"
+                ],
+                "text_tagged_users_ids": [
+                    "82111138"
+                ],
+                "text_tags": null,
+                "timestamp": 1756404443,
+                "view_count": 917
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

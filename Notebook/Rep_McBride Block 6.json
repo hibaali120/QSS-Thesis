@@ -1,0 +1,141 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmxIRuTXUAAO3Ve.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmxIRuTXUAAO3Ve.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874886856942452736",
+                "author_username": "Rep_McBride",
+                "community_notes": null,
+                "conversation_id": "1903977704204152931",
+                "created_time": "2025-03-24T01:10:33",
+                "favorite_count": 94,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1903977704204152931",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 32,
+                "retweet_count": 13,
+                "source": "Twitter Web App",
+                "text": "Substance use disorders affect too many neighbors across our state. That\u2019s why spaces like Limen Recovery and Wellness in Wilmington are essential \u2013 to provide services, support, and hope to those on the path to recovery. \n\nI was proud to stand alongside Limen House, local leaders, and community members recently to cut the ribbon on their new recovery center in Wilmington.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1742778633,
+                "view_count": 3151
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpYzP3zXgAAvWO7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpYzP3zXgAAvWO7.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874886856942452736",
+                "author_username": "Rep_McBride",
+                "community_notes": null,
+                "conversation_id": "1915776059510866266",
+                "created_time": "2025-04-25T14:33:00",
+                "favorite_count": 126,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915776059510866266",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 109,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "I was glad to meet with leaders from the Milford Wellness Village yesterday to see their innovative health care services firsthand.\n\nTheir programs foster independence and deliver high-quality care for Delaware seniors, while also creating 700 local jobs\u2014boosting the economy in downtown Milford.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1745591580,
+                "view_count": 3854
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7XZBWxXkAA-X9h.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7XZBWxXkAA-X9h.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874886856942452736",
+                "author_username": "Rep_McBride",
+                "community_notes": null,
+                "conversation_id": "1996740631364829523",
+                "created_time": "2025-12-05T00:37:18",
+                "favorite_count": 47,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996740631364829523",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 148,
+                "retweet_count": 12,
+                "source": "Twitter for iPhone",
+                "text": "What if everyone using AI\u2014from school districts to small businesses to local governments\u2014could easily create and access nutrition labels for different AI models that clearly lay out information to help inform their safety, performance, and risks? That\u2019s exactly what my bipartisan Resources for Evaluating and Documenting (READ) AI Models Act would do. It would help level the playing field so small and medium-sized developers as well as users can make informed, responsible choices about the models they create and rely on.\n\nThat\u2019s what transparency is all about.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764895038,
+                "view_count": 4169
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

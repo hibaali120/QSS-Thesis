@@ -1,0 +1,529 @@
+{
+    "politician": "KenCalvert",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1665862086273155072",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/mduf0624279919/status/1657561549945581569?s=12"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/e38wv5Ubzl"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2727901113",
+                    "author_username": "llctek",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-06T19:31:17",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1666165885151719425",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@KenCalvert Miles Guo, the CCP's number one enemy. #takedownthecommunistparty #china https://t.co/e38wv5Ubzl",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": [
+                        "china",
+                        "takedownthecommunistparty"
+                    ],
+                    "timestamp": 1686079877,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fx57wK-WwAE95Bt.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fx57wK-WwAE95Bt.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "19168328",
+                    "author_username": "LarryTenney",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-06T02:14:34",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1665904984880209921",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@KenCalvert https://t.co/CTQ05yfQVH",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1686017674,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fx57lKRX0AEXMpx.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fx57lKRX0AEXMpx.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "19168328",
+                    "author_username": "LarryTenney",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-06T02:13:48",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1665904793632534528",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@KenCalvert https://t.co/2e28UuHmo6",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1686017628,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fx57cSqX0AAxZ8t.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fx57cSqX0AAxZ8t.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "19168328",
+                    "author_username": "LarryTenney",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-06T02:13:12",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1665904641622540288",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@KenCalvert Bigot! https://t.co/PMUpuKK4ZS",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1686017592,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.opensecrets.org/members-of-congress/ken-calvert/summary?cid=N00007099"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/XbyvInbZ29"
+                    ],
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fx5bibDakAAq8JZ.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fx5bibDakAAq8JZ.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1192631745394307072",
+                    "author_username": "problyneighbors",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-05T23:53:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1665869563072851968",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@KenCalvert Trying to start a new war - cold or hot - to pump up sales for Defense Contractors donors? Well, they ARE your biggest donors.\nhttps://t.co/XbyvInbZ29 https://t.co/ghfufaz1CU",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1686009228,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3119562188",
+                    "author_username": "Markjaubrey",
+                    "community_notes": null,
+                    "conversation_id": "1665862086273155072",
+                    "created_time": "2023-06-05T23:48:33",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1665868238490681345",
+                    "in_reply_to_post_id": "1665862086273155072",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@KenCalvert They are our allies.  \"We the people \" USA will be polite, respectful and honor all our country neighbors with complimentary praise for being our helpful neighbors.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1686008913,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1674886030003150848",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "22545491",
+                    "author_username": "KenCalvert",
+                    "community_notes": null,
+                    "conversation_id": "1674886030003150848",
+                    "created_time": "2023-06-30T21:02:02",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1674886033371185152",
+                    "in_reply_to_post_id": "1674886030003150848",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "I believe we owe it to the Schmitz family and all servicemembers to prevent avoidable accidents. We can do that by ensuring our military takes corrective actions after identifying issues that jeopardize safety, act transparently, and are held accountable for taking these steps.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1688158922,
+                    "view_count": 137
+                }
+            ]
+        },
+        {
+            "conversation_id": "1719896712394031380",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "822508474688864257",
+                    "author_username": "ChrissieAnity",
+                    "community_notes": null,
+                    "conversation_id": "1719896712394031380",
+                    "created_time": "2023-11-03T15:22:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1720461457845100554",
+                    "in_reply_to_post_id": "1719896712394031380",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@KenCalvert @CityofLaQuinta City of La Quinta can\u2019t wait to vote you out. Stop pretending like you care about this valley. We see you.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert",
+                        "CityofLaQuinta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491",
+                        "872605814"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699024950,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/1txstar/status/1712517440171622462"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/hCEcTzpscT"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1382536237",
+                    "author_username": "1TxStar",
+                    "community_notes": null,
+                    "conversation_id": "1719896712394031380",
+                    "created_time": "2023-11-02T07:08:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1719974773092978723",
+                    "in_reply_to_post_id": "1719896712394031380",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1712517440171622462",
+                    "quoted_status_profile_id": "1382536237",
+                    "quoted_status_profile_username": "1TxStar",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@KenCalvert @CityofLaQuinta https://t.co/hCEcTzpscT",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "KenCalvert",
+                        "CityofLaQuinta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491",
+                        "872605814"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698908916,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "204594864",
+                    "author_username": "danceitoutyo",
+                    "community_notes": null,
+                    "conversation_id": "1719896712394031380",
+                    "created_time": "2023-11-02T02:21:07",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1719902428613824828",
+                    "in_reply_to_post_id": "1719896712394031380",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@KenCalvert @CityofLaQuinta Can't wait to vote you out next year.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert",
+                        "CityofLaQuinta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491",
+                        "872605814"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698891667,
+                    "view_count": 27
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1192631745394307072",
+                    "author_username": "problyneighbors",
+                    "community_notes": null,
+                    "conversation_id": "1719896712394031380",
+                    "created_time": "2023-11-02T02:11:21",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1719899969640079492",
+                    "in_reply_to_post_id": "1719896712394031380",
+                    "in_reply_to_profile_id": "22545491",
+                    "in_reply_to_profile_username": "KenCalvert",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@KenCalvert @CityofLaQuinta I'm thrilled you're thrilled. How thrilled do you think the seniors will be when you and your GOP take away their Medicare and Social Security? If your latest \"fund Israel by defunding the IRS\" bill is any indication, we'll have ZERO natl revenue and grandma's benes will be gone.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "KenCalvert",
+                        "CityofLaQuinta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "22545491",
+                        "872605814"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698891081,
+                    "view_count": 31
+                }
+            ]
+        }
+    ]
+}

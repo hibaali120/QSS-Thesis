@@ -1,0 +1,109 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.myfloridalegal.com/newsrelease/video-summer-scams-series-ag-moody-concludes-tech-traps-series-warning-about-scams"
+                ],
+                "attached_links_url": [
+                    "https://t.co/USIwGSIR88"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1694039010140659712/pu/img/vlYScZo6O9S3aVSH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1694039010140659712/pu/vid/1280x720/fZ5M4GMaOYQjzgr4.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 78,
+                        "id": "1694039010140659712",
+                        "url": "https://video.twimg.com/ext_tw_video/1694039010140659712/pu/vid/1280x720/fZ5M4GMaOYQjzgr4.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1082351804564848640",
+                "author_username": "SenAshleyMoody",
+                "community_notes": null,
+                "conversation_id": "1694039674963083381",
+                "created_time": "2023-08-22T17:31:46",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1694039674963083381",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udcf1Summer Scams Series: Tech Traps\ud83d\udcbb\n\nWe\u2019re concluding our series with a warning about ChatGPT-related schemes. Scammers may use AI to make solicitations more convincing, and Floridians should exercise extra caution.\n\nLearn how to stay vigilant against these schemes by checking out our latest Consumer Alert\u2b07\ufe0f\n\nhttps://t.co/USIwGSIR88",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1692725506,
+                "view_count": 1504
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.moody.senate.gov/press-releases/news-release-senator-moody-fights-for-americans-second-amendment-rights-cosponsors-concealed-carry-reciprocity-bill/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/amJ2BO0skF"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1082351804564848640",
+                "author_username": "SenAshleyMoody",
+                "community_notes": null,
+                "conversation_id": "1981011521690853379",
+                "created_time": "2025-10-22T14:55:26",
+                "favorite_count": 127,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981011521690853379",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 26,
+                "retweet_count": 23,
+                "source": "Twitter for iPhone",
+                "text": "It makes no sense that we allow state lines to infringe on citizens\u2019 rights to bear arms. I\u2019m proud to cosponsor the Constitutional Concealed Carry Reciprocity Act and ensure individuals with concealed carry privileges can exercise those rights across state lines. This commonsense legislation will cut down arbitrary barriers and uphold Americans\u2019 rights to keep and bear arms.\n\nRead more below\u2b07\ufe0f \nhttps://t.co/amJ2BO0skF",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761144926,
+                "view_count": 4335
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

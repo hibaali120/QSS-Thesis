@@ -1,0 +1,153 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://budd.house.gov/news/documentsingle.aspx?DocumentID=1429"
+                ],
+                "attached_links_url": [
+                    "https://t.co/2VW3yiuKQe"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "817138492614524928",
+                "author_username": "SenTedBuddNC",
+                "community_notes": null,
+                "conversation_id": "1509908650663546883",
+                "created_time": "2022-04-01T15:00:49",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1509908650663546883",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Veterans who live with PTSD or other serious mental health conditions deserve access to every possible treatment option, including dog training therapy. \n\nI am incredibly proud to see this bipartisan law begin implementation in North Carolina. https://t.co/2VW3yiuKQe",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1648825249,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.budd.senate.gov/2025/10/29/budd-leads-bipartisan-bicameral-letter-advocating-for-u-s-tobacco-farmers-ahead-of-president-trumps-trade-meeting-with-china/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/MUptPYNSQM"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1986098073949319168/gXfgy17L?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "817138492614524928",
+                "author_username": "SenTedBuddNC",
+                "community_notes": null,
+                "conversation_id": "1983561033294725287",
+                "created_time": "2025-10-29T15:46:17",
+                "favorite_count": 62,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983561033294725287",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 35,
+                "retweet_count": 26,
+                "source": "Twitter Web App",
+                "text": "Ahead of his meeting with President Xi\u2013we\u2019ve asked @POTUS to elevate the priorities of American tobacco farmers and ensure our tobacco farm families receive fair treatment in trade negotiations with China.\n\nhttps://t.co/MUptPYNSQM",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1761752777,
+                "view_count": 56975
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.carolinajournal.com/budd-and-rouzer-urge-trump-to-protect-nc-tobacco-farmers/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/WVoa2CY8wQ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1983551887950467072/K2jjvj_C?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "817138492614524928",
+                "author_username": "SenTedBuddNC",
+                "community_notes": null,
+                "conversation_id": "1983866564890792186",
+                "created_time": "2025-10-30T12:00:22",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983866564890792186",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 21,
+                "retweet_count": 4,
+                "source": "Sprout Social",
+                "text": "China's refusal to purchase American tobacco harms rural communities, pushes growers out of production, and threatens other crops. @POTUS must ensure fair treatment for tobacco farmers in trade talks with China and others.\nhttps://t.co/WVoa2CY8wQ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1761825622,
+                "view_count": 2000
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

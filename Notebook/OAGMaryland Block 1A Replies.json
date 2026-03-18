@@ -1,0 +1,666 @@
+{
+    "politician": "OAGMaryland",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1962937047577973185",
+            "replies": []
+        },
+        {
+            "conversation_id": "1963592646154154421",
+            "replies": []
+        },
+        {
+            "conversation_id": "1963712818366357666",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "815708250217840640",
+                    "author_username": "TheSWPrincess",
+                    "community_notes": null,
+                    "conversation_id": "1963712818366357666",
+                    "created_time": "2025-09-04T21:20:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1963713899351687440",
+                    "in_reply_to_post_id": "1963712818366357666",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@OAGMaryland Thank you!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1757020852,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1966218037515669520",
+            "replies": []
+        },
+        {
+            "conversation_id": "1970209074135408946",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://m.youtube.com/shorts/n0TZu1ATKwk"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/bM6cPFuNsB"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1524760097985118208",
+                    "author_username": "Djp1Me",
+                    "community_notes": null,
+                    "conversation_id": "1970209074135408946",
+                    "created_time": "2025-09-22T20:21:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1970221914355564971",
+                    "in_reply_to_post_id": "1970209074135408946",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland https://t.co/bM6cPFuNsB",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758572483,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1971695332917481523",
+            "replies": []
+        },
+        {
+            "conversation_id": "1974183378346709187",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981130479756546393",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1476754689236553754",
+                    "author_username": "AnthonyFrazetti",
+                    "community_notes": null,
+                    "conversation_id": "1981130479756546393",
+                    "created_time": "2025-10-24T15:08:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981739523697443248",
+                    "in_reply_to_post_id": "1981130479756546393",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland The Justice Department is looking at whether the minors are being victimized or protected from dangerous or unnecessary surgery",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761318496,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1983232191082442984",
+            "replies": []
+        },
+        {
+            "conversation_id": "1983252683403239447",
+            "replies": []
+        },
+        {
+            "conversation_id": "1983594741116891588",
+            "replies": []
+        },
+        {
+            "conversation_id": "1986936148879679988",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1833724480046223360",
+                    "author_username": "CensorWho",
+                    "community_notes": null,
+                    "conversation_id": "1986936148879679988",
+                    "created_time": "2025-11-10T16:32:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1987921340188495904",
+                    "in_reply_to_post_id": "1986936148879679988",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland How much money did the cannabis company's give you. @AGPamBondi I would investage this one. I'm sure you will find ties to cannabis company's @realDonaldTrump",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland",
+                        "AGPamBondi",
+                        "realDonaldTrump"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721",
+                        "1886531809284173824",
+                        "25073877"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762792355,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1988684907850121536",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1828878864413523968",
+                    "author_username": "roge94320",
+                    "community_notes": null,
+                    "conversation_id": "1988684907850121536",
+                    "created_time": "2025-11-12T20:04:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988699337950700019",
+                    "in_reply_to_post_id": "1988684907850121536",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@OAGMaryland I thought the scam was you actually representing the Md voters",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762977845,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999546227973665216",
+            "replies": []
+        },
+        {
+            "conversation_id": "2002148896982671573",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1798552067008770048",
+                    "author_username": "David7221048054",
+                    "community_notes": null,
+                    "conversation_id": "2002148896982671573",
+                    "created_time": "2025-12-22T23:23:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2003244919897690224",
+                    "in_reply_to_post_id": "2002148896982671573",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland Stay away from the children you sick fuck",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766445782,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1828878864413523968",
+                    "author_username": "roge94320",
+                    "community_notes": null,
+                    "conversation_id": "2002148896982671573",
+                    "created_time": "2025-12-20T11:09:37",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002335576905711637",
+                    "in_reply_to_post_id": "2002148896982671573",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@OAGMaryland I think having any kid get a sex change is criminal. You can't tell me a kid can be mature enough to know their self sexually but not mature enough to be held criminally responsible for a crime or responsible enough to drink. But yeah u can change your sex no problem",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766228977,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "2003137203627561026",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1798552067008770048",
+                    "author_username": "David7221048054",
+                    "community_notes": null,
+                    "conversation_id": "2003137203627561026",
+                    "created_time": "2025-12-22T23:21:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2003244576786776105",
+                    "in_reply_to_post_id": "2003137203627561026",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland They don\u2019t deserve shit",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766445700,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "2003197717657313414",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1828878864413523968",
+                    "author_username": "roge94320",
+                    "community_notes": null,
+                    "conversation_id": "2003197717657313414",
+                    "created_time": "2025-12-22T23:48:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2003251255314104321",
+                    "in_reply_to_post_id": "2003197717657313414",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@OAGMaryland Why don't you investigate schools targeting underperforming kids just to get extra funding",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766447292,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "29859311",
+                    "author_username": "davidlj58",
+                    "community_notes": null,
+                    "conversation_id": "2003197717657313414",
+                    "created_time": "2025-12-22T20:18:45",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2003198544770195879",
+                    "in_reply_to_post_id": "2003197717657313414",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@OAGMaryland So what law did DOE violate or was is a typical feeling as the district judge's seem to be 89% anti Trump.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766434725,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "2003534488983499004",
+            "replies": []
+        },
+        {
+            "conversation_id": "2003846808028512706",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G9Lz_IxWMAAuUJQ.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G9Lz_IxWMAAuUJQ.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1642181852025823232",
+                    "author_username": "SusanAStam143",
+                    "community_notes": null,
+                    "conversation_id": "2003846808028512706",
+                    "created_time": "2025-12-27T15:11:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2004933128742428855",
+                    "in_reply_to_post_id": "2003846808028512706",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@OAGMaryland 20 Democratic Attorney Generals \"want to allow doctors to cut off perfectly healthy body parts and inject kids with experimental drugs.\"\nWhy is it always the Democrats?\ud83e\udd14 https://t.co/4hhpibIL4f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766848282,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1823729669411364866",
+                    "author_username": "Foundation70222",
+                    "community_notes": null,
+                    "conversation_id": "2003846808028512706",
+                    "created_time": "2025-12-26T22:01:13",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2004673881651773712",
+                    "in_reply_to_post_id": "2003846808028512706",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@OAGMaryland Taxpayer dollars should not be used to fight for child mutilation.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766786473,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1440144289456029701",
+                    "author_username": "Swingguy50200",
+                    "community_notes": null,
+                    "conversation_id": "2003846808028512706",
+                    "created_time": "2025-12-26T20:43:50",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2004654408123224492",
+                    "in_reply_to_post_id": "2003846808028512706",
+                    "in_reply_to_profile_id": "823552974253342721",
+                    "in_reply_to_profile_username": "OAGMaryland",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@OAGMaryland Wow Anthony. Thanks for telling us you\u2019re a child abuse supporting buffoon.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "OAGMaryland"
+                    ],
+                    "text_tagged_users_ids": [
+                        "823552974253342721"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766781830,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "2004686391478042765",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzZICL-WQAIw-qi.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzZIEhHWcAAMpe8.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzZIFxDXAAAyO3r.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzZICL-WQAIw-qi.jpg",
+                    "https://pbs.twimg.com/media/GzZIEhHWcAAMpe8.jpg",
+                    "https://pbs.twimg.com/media/GzZIFxDXAAAyO3r.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "50152441",
+                "author_username": "RepMcClintock",
+                "community_notes": null,
+                "conversation_id": "1960834718586290669",
+                "created_time": "2025-08-27T22:40:02",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1960834718586290669",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "The Tuolumne Utilities District is integral to many of our communities, supplying critical resources to over 44,000 residents. It was great to get an up-close look at their process, the plans for their future state-of-the-art water treatment facility and strengthening their water conveyance system.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756334402,
+                "view_count": 995
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

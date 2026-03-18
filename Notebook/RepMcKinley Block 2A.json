@@ -1,0 +1,143 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "240427862",
+                "author_username": "RepMcKinley",
+                "community_notes": null,
+                "conversation_id": "1484294185607995394",
+                "created_time": "2022-01-20T22:38:05",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1484294185607995394",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Today\u2019s E&C oversight hearing was Democrats attempt to divert attention from Biden\u2019s failures by talking about cryptocurrency...Instead of focusing on real issues: \n\nRising energy prices\nEmpty store shelves\nRunaway inflation\nHealthcare worker shortage\nOpioid crisis\nOpen borders",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1642718285,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://mckinley.house.gov/news/documentsingle.aspx?DocumentID=3326"
+                ],
+                "attached_links_url": [
+                    "https://t.co/UHOiU2eR2d"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "240427862",
+                "author_username": "RepMcKinley",
+                "community_notes": null,
+                "conversation_id": "1534236996767518721",
+                "created_time": "2022-06-07T18:12:59",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1534236996767518721",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Great news: the PACT Act, which I supported in the House, is moving forward & I urge the Senate to bring this bill to a vote quickly. Veterans exposed to toxic burn pits during their service deserve access the healthcare benefits they\u2019ve earned.\n\nhttps://t.co/UHOiU2eR2d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1654625579,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.post-gazette.com/business/healthcare-business/2022/06/27/wvu-medicine-owens-minor-inc-morgantown-medical-supply-distribution-center-groundbreaking/stories/202206270052"
+                ],
+                "attached_links_url": [
+                    "https://t.co/wToiGiyZd2"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "240427862",
+                "author_username": "RepMcKinley",
+                "community_notes": null,
+                "conversation_id": "1541921223516606469",
+                "created_time": "2022-06-28T23:07:21",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1541921223516606469",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It is great to see jobs and investments coming into #WV01!\n\nWith over 100 jobs and $50M in investment in the Morgantown area, @Owens_minor, in partnership with @WVUMedicine, is bringing healthcare preparedness into the Mountain State.\nhttps://t.co/wToiGiyZd2",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Owens_Minor"
+                ],
+                "text_tagged_users_ids": [
+                    "748229600275210240"
+                ],
+                "text_tags": [
+                    "wv01"
+                ],
+                "timestamp": 1656457641,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

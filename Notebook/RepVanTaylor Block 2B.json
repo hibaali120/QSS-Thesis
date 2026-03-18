@@ -1,0 +1,108 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FKcM485WYAQT9Ma.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FKcM485WYAQT9Ma.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1075040139351597056",
+                "author_username": "RepVanTaylor",
+                "community_notes": null,
+                "conversation_id": "1488172604452081668",
+                "created_time": "2022-01-31T15:29:32",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1488172604452081668",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "The young patriots & staff at @HMECardinals in Melissa went above & beyond as we prepare to celebrate veterans with handmade greetings during National Salute to Veteran Patients week. Much like their school's namesake, these students are making plans to change the world! https://t.co/G0U7JHa99g",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HMECardinals"
+                ],
+                "text_tagged_users_ids": [
+                    "717742272117358592"
+                ],
+                "text_tags": null,
+                "timestamp": 1643642972,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FLuix3xWQAQOCmS.jpg?name=small",
+                    "https://pbs.twimg.com/media/FLuix3wXEA0GcTG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FLuix3xWQAQOCmS.jpg",
+                    "https://pbs.twimg.com/media/FLuix3wXEA0GcTG.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1075040139351597056",
+                "author_username": "RepVanTaylor",
+                "community_notes": null,
+                "conversation_id": "1493966695693799429",
+                "created_time": "2022-02-16T15:13:11",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1493966695693799429",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "As we observe National Salute to Veteran Patients week, I was honored to deliver nearly 4,000 valentines handcrafted by over 30 schools & organizations in Collin County! The @VANorthTexas & other veterans organizations were thankful for the community's outpouring of appreciation. https://t.co/FaCYODvpfH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "VANorthTexas"
+                ],
+                "text_tagged_users_ids": [
+                    "562165828"
+                ],
+                "text_tags": null,
+                "timestamp": 1645024391,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

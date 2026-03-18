@@ -1,0 +1,789 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1908261679307067777",
+                "created_time": "2025-04-04T20:53:32",
+                "favorite_count": 408,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1908261679307067777",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1908260728416489925",
+                "quoted_status_profile_id": "61853389",
+                "quoted_status_profile_username": "USDA",
+                "reply_count": 42,
+                "retweet_count": 76,
+                "source": "Twitter Web App",
+                "text": "Let\u2019s Make America Healthy Again! \ud83c\udf4e\ud83c\uddfa\ud83c\uddf8\n\nThank you, @SecKennedy, for working with our awesome team @USDA to prioritize the health of future generations and advance the President\u2019s vision of a healthier America!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecKennedy",
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "1886875846473879552",
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1743800012,
+                "view_count": 19883
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.usatoday.com/story/opinion/2025/04/08/kennedy-rollins-food-stamps-obesity-kids-health/82973835007/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/CrakXswClO"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1910311718686687522",
+                "created_time": "2025-04-10T12:39:40",
+                "favorite_count": 133,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1910311721048097050",
+                "in_reply_to_post_id": "1910311718686687522",
+                "in_reply_to_profile_id": "1886776365673803776",
+                "in_reply_to_profile_username": "SecRollins",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 22,
+                "source": "Twitter for iPhone",
+                "text": "ICYMI: @SecKennedy and I released an op-ed in @USATODAY \u2014 Check it out! \ud83e\udd66\ud83e\udd55\ud83c\udf4e \u2b07\ufe0f \n\n#MakeAgricultureGreatAgain #MAHA\n\nhttps://t.co/CrakXswClO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecKennedy",
+                    "USATODAY"
+                ],
+                "text_tagged_users_ids": [
+                    "1886875846473879552",
+                    "15754281"
+                ],
+                "text_tags": [
+                    "maha",
+                    "makeagriculturegreatagain"
+                ],
+                "timestamp": 1744288780,
+                "view_count": 6746
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GolxvxTXkAEEs28.jpg?name=small",
+                    "https://pbs.twimg.com/media/GolxvybXMAA1mjN.jpg?name=small",
+                    "https://pbs.twimg.com/media/GolxvyNXsAA8xni.jpg?name=small",
+                    "https://pbs.twimg.com/media/GolxvxMXkAAOJFM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GolxvxTXkAEEs28.jpg",
+                    "https://pbs.twimg.com/media/GolxvybXMAA1mjN.jpg",
+                    "https://pbs.twimg.com/media/GolxvyNXsAA8xni.jpg",
+                    "https://pbs.twimg.com/media/GolxvxMXkAAOJFM.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1912190429782552793",
+                "created_time": "2025-04-15T17:04:59",
+                "favorite_count": 957,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912190429782552793",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 35,
+                "retweet_count": 130,
+                "source": "Twitter for iPhone",
+                "text": "Great to be at the beautiful Governor\u2019s Mansion today to announce the game changing submission of Arkansas\u2019 SNAP waiver to ban junk food purchases with food stamps. \ud83c\udf4e\ud83e\udd55\ud83c\uddfa\ud83c\uddf8\n\nTaxpayers should not be forced to fund America\u2019s chronic health crisis.\n\nThank you to my amazing friend @SarahHuckabee for your leadership to protect families & Make America Healthy Again! No greater blessing than fighting for America with your favorite people! \u2764\ufe0f",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1744736699,
+                "view_count": 33030
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1912211768270811619",
+                "created_time": "2025-04-15T18:29:47",
+                "favorite_count": 2813,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912211768270811619",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 36,
+                "quoted_status_id": "1912185108800434550",
+                "quoted_status_profile_id": "18782656",
+                "quoted_status_profile_username": "AmeriBev",
+                "reply_count": 172,
+                "retweet_count": 486,
+                "source": "Twitter for iPhone",
+                "text": "It\u2019s disappointing that the American Beverage Association's leadership dragged its entire membership\u2014and the patriotic American workers and their families they employ and represent\u2014into direct conflict with this Administration\u2019s priorities for American health, well-being, and taxpayer protection.\n\nThese priorities\u2014which those same American workers voted to endorse\u2014will prevail.\n\nCC: @SecKennedy \n@SarahHuckabee \n@GovBraun \n@DrOz",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1744741787,
+                "view_count": 584400
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gpuen4NW4AAetKf.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gpuen4QWoAAAXhf.jpg?name=small",
+                    "https://pbs.twimg.com/amplify_video_thumb/1917300474304208896/img/QNxEGCW6Lf0_vUWI.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gpuen5EX0AAHBMh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gpuen4NW4AAetKf.jpg",
+                    "https://pbs.twimg.com/media/Gpuen4QWoAAAXhf.jpg",
+                    "https://video.twimg.com/amplify_video/1917300474304208896/vid/avc1/720x1026/hISlNiDYs2iXKkfK.mp4?tag=16",
+                    "https://pbs.twimg.com/media/Gpuen5EX0AAHBMh.jpg"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 4,
+                        "id": "1917300474304208896",
+                        "url": "https://video.twimg.com/amplify_video/1917300474304208896/vid/avc1/720x1026/hISlNiDYs2iXKkfK.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1917300740135215293",
+                "created_time": "2025-04-29T19:31:32",
+                "favorite_count": 966,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1917300740135215293",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 13,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 64,
+                "retweet_count": 151,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udccdNext stop: @TAMU @AgriLife phenotyping greenhouse!\n\n@USDA_ARS is partnering with Texas A&M\u2019s Institute for Advancing Health through Agriculture \u2014 because ag is key to tackling chronic disease like diabetes & heart issues. Excited for HHS to join us in this critical work. https://t.co/EKugFglEZT",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "TAMU",
+                    "AgriLife",
+                    "USDA_ARS"
+                ],
+                "text_tagged_users_ids": [
+                    "17237540",
+                    "179784414",
+                    "76733474"
+                ],
+                "text_tags": null,
+                "timestamp": 1745955092,
+                "view_count": 65125
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.instagram.com/reel/DJDAorrRlBf/?igsh=MWw4aTV6ZW0wM3cybA=="
+                ],
+                "attached_links_url": [
+                    "https://t.co/RHWR9ps1m3"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1917344847817592963",
+                "created_time": "2025-04-29T22:26:48",
+                "favorite_count": 130,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1917344847817592963",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 22,
+                "source": "Twitter for iPhone",
+                "text": "Productive day in Texas with my friend, \u2066@SecKennedy\u2069! \u00a0\n\u00a0\n\ud83d\udccd\u2066@TAMU\u2069 Beef Center Roundtable\u00a0\u00a0\n\n\ud83d\udccdInstitute for Advancing Health Through Agriculture Lab Tour\n\n\ud83d\udccd\u2066@AgriLife\u2069 Phenotyping Greenhouse\u00a0\u00a0\n\n\ud83d\udccdSawyer Farm Roundtable & Tour https://t.co/RHWR9ps1m3",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecKennedy",
+                    "TAMU",
+                    "AgriLife"
+                ],
+                "text_tagged_users_ids": [
+                    "1886875846473879552",
+                    "17237540",
+                    "179784414"
+                ],
+                "text_tags": null,
+                "timestamp": 1745965608,
+                "view_count": 7001
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1923185939343343685",
+                "created_time": "2025-05-16T01:17:13",
+                "favorite_count": 2056,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1923185939343343685",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 16,
+                "quoted_status_id": "1923118307915207150",
+                "quoted_status_profile_id": "19291441",
+                "quoted_status_profile_username": "GovAbbottPress",
+                "reply_count": 118,
+                "retweet_count": 300,
+                "source": "Twitter for iPhone",
+                "text": "A powerful movement is sweeping the nation \u2014 one that prioritizes the health of those in need, while ensuring taxpayer dollars aren't wasted on junk food. \ud83c\udf4e\n\nGrateful to Gov. @GregAbbott_TX and my home state of Texas for leading the charge and taking action by submitting a SNAP waiver \u2014 I look forward to reviewing it ASAP.\ud83d\udc4f\ud83d\udc4d\ud83c\udffc\n\n#MAHA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GregAbbott_TX"
+                ],
+                "text_tagged_users_ids": [
+                    "90651198"
+                ],
+                "text_tags": null,
+                "timestamp": 1747358233,
+                "view_count": 429502
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1928512128496869376/img/3y6A4PbyHsTiHO7L.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1928512128496869376/vid/avc1/1280x720/FBLwZAVDhbUJYjOU.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 61,
+                        "id": "1928512128496869376",
+                        "url": "https://video.twimg.com/amplify_video/1928512128496869376/vid/avc1/1280x720/FBLwZAVDhbUJYjOU.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1928512509087998321",
+                "created_time": "2025-05-30T18:03:06",
+                "favorite_count": 765,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1928512509087998321",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 8,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 67,
+                "retweet_count": 121,
+                "source": "Twitter for iPhone",
+                "text": "Prioritizing health for Americans shouldn\u2019t be controversial \u2014 It\u2019s just common sense. \ud83c\udf4e\ud83c\uddfa\ud83c\uddf8\n\nThanks to the great governors leading the way in partnership with @USDA to ban junk food from the SNAP program! https://t.co/tk4jZBGpmU",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1748628186,
+                "view_count": 11455
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://usdalocalfoodportal.com"
+                ],
+                "attached_links_url": [
+                    "https://t.co/PKFhHfksrG"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1958922800409796610/img/OedUHBOokjldMUZD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1958922800409796610/vid/avc1/720x1280/XjLIobP_JtFqi3_y.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 43,
+                        "id": "1958922800409796610",
+                        "url": "https://video.twimg.com/amplify_video/1958922800409796610/vid/avc1/720x1280/XjLIobP_JtFqi3_y.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1958922945834663938",
+                "created_time": "2025-08-22T16:03:19",
+                "favorite_count": 1205,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1958922945834663938",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 12,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 119,
+                "retweet_count": 305,
+                "source": "Twitter for iPhone",
+                "text": "AMERICAN PRODUCERS ARE THE BEST IN THE WORLD! \ud83c\uddfa\ud83c\uddf8\ud83c\udf0e\n\nIt is #FarmerFirstFriday, and we\u2019re highlighting Resilient Earth from Comfort, TX. They empower farmers, ranchers, and landowners with Quick-Sol, a cutting-edge silicon tech boosting soil health and productivity. Thrilled they joined us at the Great American Farmers Market. \n\nThis #FFF, we encourage you to support your local farmers - explore over 8,600+ nationwide via USDA\u2019s National Farmers Market Directory at \ud83d\udc47https://t.co/PKFhHfksrG",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "farmerfirstfriday"
+                ],
+                "timestamp": 1755878599,
+                "view_count": 97343
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1961120132312264704/img/rbubogtJhliotpeR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1961120132312264704/vid/avc1/540x960/jd6bCzlugkrN6wa3.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 107,
+                        "id": "1961120132312264704",
+                        "url": "https://video.twimg.com/amplify_video/1961120132312264704/vid/avc1/540x960/jd6bCzlugkrN6wa3.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1961120342883115328",
+                "created_time": "2025-08-28T17:35:00",
+                "favorite_count": 566,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961120342883115328",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 49,
+                "retweet_count": 154,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8Big news from Starkville, Mississippi! \n\u00a0\n@USDA is launching the Rural Veterinary Shortage Action Plan to expand support for rural veterinarians! We are protecting livestock health and strengthening our ag economy, all part of @POTUS\u2019 Farmers First vision! https://t.co/2lxLwS0MeK",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1756402500,
+                "view_count": 24958
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzdPsIrXcAAmRUE.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzdPsI5XoAA_L0Z.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzdPsJIWIAA9GzD.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzdPsJFX0AAyjAe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzdPsIrXcAAmRUE.jpg",
+                    "https://pbs.twimg.com/media/GzdPsI5XoAA_L0Z.jpg",
+                    "https://pbs.twimg.com/media/GzdPsJIWIAA9GzD.jpg",
+                    "https://pbs.twimg.com/media/GzdPsJFX0AAyjAe.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1961128811564863677",
+                "created_time": "2025-08-28T18:08:39",
+                "favorite_count": 404,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961128811564863677",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 43,
+                "retweet_count": 114,
+                "source": "Twitter for iPhone",
+                "text": "Great to be in Starkville with @SenHydeSmith at @msstate\u2019s College of Veterinary Medicine. Rural food animal veterinarians are essential to livestock health, disease prevention, and the strength of our rural economy, but their numbers are declining.\n\u00a0\nThat\u2019s why I\u2019m announcing the Rural Veterinary Action Plan to expand and support this critical workforce. \n\nUnder @POTUS\u2019 Farmers First vision, we\u2019re investing in rural veterinary services to ensure our producers can continue delivering the safest, most abundant food supply in the world. \ud83c\uddfa\ud83c\uddf8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenHydeSmith",
+                    "msstate"
+                ],
+                "text_tagged_users_ids": [
+                    "983348251972816896",
+                    "13399402"
+                ],
+                "text_tags": null,
+                "timestamp": 1756404519,
+                "view_count": 28117
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1971208288936017920/img/dhT0m7WtCyNtziNe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1971208288936017920/vid/avc1/1280x720/KX84vI6GXxVDRudz.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 50,
+                        "id": "1971208288936017920",
+                        "url": "https://video.twimg.com/amplify_video/1971208288936017920/vid/avc1/1280x720/KX84vI6GXxVDRudz.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1971208391331643765",
+                "created_time": "2025-09-25T13:41:18",
+                "favorite_count": 1127,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1971208391331643765",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 75,
+                "retweet_count": 211,
+                "source": "Twitter for iPhone",
+                "text": "Excited to have Dr. Ben Carson join our team at @USDA as the National Advisor for Nutrition, Health, and Housing! \n\nHis expertise will be invaluable in our mission to make America healthy again through common-sense policies that prioritize nutrition, rural healthcare, and accessible housing. \n\nTogether, we\u2019re working to fulfill President Trump\u2019s vision for a stronger, healthier America. \ud83d\udcaa\ud83c\uddfa\ud83c\uddf8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1758807678,
+                "view_count": 17239
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1973119308994662541",
+                "created_time": "2025-09-30T20:14:36",
+                "favorite_count": 269,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973119308994662541",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 3,
+                "quoted_status_id": "1973094950301503610",
+                "quoted_status_profile_id": "1905731324352323584",
+                "quoted_status_profile_username": "DrMakaryFDA",
+                "reply_count": 41,
+                "retweet_count": 57,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udc4f Thank you, @DrMakaryFDA. Big step forward! \n\n@US_FDA has conditionally approved the first drug to prevent & treat New World screwworm in cattle. \n\nThis is a victory for our producers. More good news coming\u2026\n\nAt @USDA, we\u2019re committed to protecting animal health, strengthening our farm economy, protecting America\u2019s food security, AND rebuilding our beef industry.\n\n#farmsecurityISnationalsecurity",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DrMakaryFDA",
+                    "US_FDA",
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "1905731324352323584",
+                    "208120290",
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1759263276,
+                "view_count": 20244
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1999490203283533828/img/ahxg_PNFCcBVpvcJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1999490203283533828/vid/avc1/720x1280/DgdKVeAgrk3hG43V.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 48,
+                        "id": "1999490203283533828",
+                        "url": "https://video.twimg.com/amplify_video/1999490203283533828/vid/avc1/720x1280/DgdKVeAgrk3hG43V.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "1999490276302422215",
+                "created_time": "2025-12-12T14:43:25",
+                "favorite_count": 6681,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999490276302422215",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 81,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 839,
+                "retweet_count": 1157,
+                "source": "Twitter for iPhone",
+                "text": "On our way to Make America Healthy Again! \ud83d\udc40\n\nEarlier this week @USDA with @SecKennedy and @DrOzCMS, we advanced regenerative agriculture, signed 6 new SNAP waivers, and kept moving toward a food system that puts the health of Americans first. \ud83d\udcaa\ud83c\udf4e\ud83c\uddfa\ud83c\uddf8 https://t.co/ygNwiUC9gE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA",
+                    "SecKennedy",
+                    "DrOzCMS"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389",
+                    "1886875846473879552",
+                    "1879946117544128512"
+                ],
+                "text_tags": null,
+                "timestamp": 1765550605,
+                "view_count": 244419
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2003998584182579200/img/Ftg6cTWNb8DatBsf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2003998584182579200/vid/avc1/1080x1920/IW4Z38AmTS2Pso55.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 12,
+                        "id": "2003998584182579200",
+                        "url": "https://video.twimg.com/amplify_video/2003998584182579200/vid/avc1/1080x1920/IW4Z38AmTS2Pso55.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1886776365673803776",
+                "author_username": "SecRollins",
+                "community_notes": null,
+                "conversation_id": "2003998719499469298",
+                "created_time": "2025-12-25T01:18:21",
+                "favorite_count": 3011,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003998719499469298",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 19,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 130,
+                "retweet_count": 543,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8CHRISTMAS EVE ALERT! Santa\u2019s reindeer just got their official @USDA animal health permit for entry into the USA. \ud83e\udd8c\ud83c\uddfa\ud83c\uddf8\n\n\u2705Passports? Check! \ud83c\udfab \n\u2705Health checks? All clear! \ud83e\ude7a \n\u2705Ready for global gift delivery? ABSOLUTELY! \ud83c\udf0d  \n\nWe\u2019re proud to keep the magic on schedule. https://t.co/HZpF8VeYob",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1766625501,
+                "view_count": 35995
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

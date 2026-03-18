@@ -1,0 +1,54 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1397629979270291464",
+                "author_username": "DepSecTodman",
+                "community_notes": null,
+                "conversation_id": "1573362697265201154",
+                "created_time": "2022-09-23T17:24:33",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1573362697265201154",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1573362158003523585",
+                "quoted_status_profile_id": "15174710",
+                "quoted_status_profile_username": "MomsRising",
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Affordability, Nutrition & Health, Consumer Empowerment, Physical Activity, and Enhanced Research \u2013 all of which help improve social and economic health for families in the U.S. #FoodFri  #WHConfHungerHealth",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "foodfri",
+                    "whconfhungerhealth"
+                ],
+                "timestamp": 1663953873,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

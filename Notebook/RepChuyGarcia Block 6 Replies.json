@@ -1,0 +1,296 @@
+{
+    "politician": "RepChuyGarcia",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1503434914246676481",
+            "replies": []
+        },
+        {
+            "conversation_id": "1514637168941142019",
+            "replies": []
+        },
+        {
+            "conversation_id": "1568227476849016832",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528901406173831168",
+                    "author_username": "mariaor25158950",
+                    "community_notes": null,
+                    "conversation_id": "1568227476849016832",
+                    "created_time": "2022-09-09T21:58:39",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568358249375891456",
+                    "in_reply_to_post_id": "1568227476849016832",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 6,
+                    "source": "Twitter Web App",
+                    "text": "@RepChuyGarcia It's also time to pass #HR2920 WE NEED A HOUSE VOTE @LeaderHoyer @amerifamsunited",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuyGarcia",
+                        "amerifamsunited"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248",
+                        "90160439"
+                    ],
+                    "text_tags": [
+                        "hr2920"
+                    ],
+                    "timestamp": 1662760719,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1281971009298587648",
+                    "author_username": "allensm80498867",
+                    "community_notes": null,
+                    "conversation_id": "1568227476849016832",
+                    "created_time": "2022-09-09T15:05:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1568254151951261698",
+                    "in_reply_to_post_id": "1568227476849016832",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepChuyGarcia So what about the tax paying American citizens that are forced to pay high cost health insurance and prescriptions, food, rent, and you in congress do nothing but the ones that pay nothing get everything for free I\u2019m so done voting Democrat.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuyGarcia"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1662735901,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1588240730040193024",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "260586345",
+                    "author_username": "steeldieman",
+                    "community_notes": null,
+                    "conversation_id": "1588240730040193024",
+                    "created_time": "2022-11-05T17:05:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588940472357359616",
+                    "in_reply_to_post_id": "1588240730040193024",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepChuyGarcia You can\u2019t increase money supply and not get inflation, you\u2019re reaping the consequences of your actions",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuyGarcia"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667667904,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1500607556577865734",
+                    "author_username": "area_ranger",
+                    "community_notes": null,
+                    "conversation_id": "1588240730040193024",
+                    "created_time": "2022-11-04T00:54:17",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588333780691226625",
+                    "in_reply_to_post_id": "1588240730040193024",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepChuyGarcia Weird the @POTUS the leader of your party say it's great\n\nAnd your his lap dog\n\nSo why even posting this",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuyGarcia",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667523257,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/FgrfxkvUYAIkd3m.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/FgrfxkvUYAIkd3m.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1489478342310916101",
+                    "author_username": "vru_advocate",
+                    "community_notes": null,
+                    "conversation_id": "1588240730040193024",
+                    "created_time": "2022-11-04T00:30:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588327872179372032",
+                    "in_reply_to_post_id": "1588240730040193024",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepChuyGarcia https://t.co/1ZHZpxCo7B",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepChuyGarcia"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667521849,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "497512365",
+                    "author_username": "CreightonJohn",
+                    "community_notes": null,
+                    "conversation_id": "1588240730040193024",
+                    "created_time": "2022-11-03T19:48:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1588256750519865345",
+                    "in_reply_to_post_id": "1588240730040193024",
+                    "in_reply_to_profile_id": "1082427779583541248",
+                    "in_reply_to_profile_username": "RepChuyGarcia",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepChuyGarcia No. Out of control Government spending.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepChuyGarcia"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082427779583541248"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667504892,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1828496762463506724",
+            "replies": []
+        }
+    ]
+}

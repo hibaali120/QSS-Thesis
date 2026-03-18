@@ -1,0 +1,215 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FkhHdh8XEAAz7yF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1605611672244297730/vid/1080x1080/afJl-J3L8XJSzLvz.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 85,
+                        "id": "1605611672244297730",
+                        "url": "https://video.twimg.com/amplify_video/1605611672244297730/vid/1080x1080/afJl-J3L8XJSzLvz.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1354833262431133696",
+                "author_username": "SecGranholm",
+                "community_notes": null,
+                "conversation_id": "1605611862715940866",
+                "created_time": "2022-12-21T17:11:13",
+                "favorite_count": 75,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1605611862715940866",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 19,
+                "source": "Sprout Social",
+                "text": "Half of all cancer patients need radiotherapy \u2014 but in low-income countries, only 10% have access to it. We can do something about that. Through #RaysOfHope, we can save lives. https://t.co/WV4QfpZIAP",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "raysofhope"
+                ],
+                "timestamp": 1671642673,
+                "view_count": 9655
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.bizjournals.com/sanfrancisco/inno/stories/news/2023/10/27/u-s-secretary-of-energy-tours-silicon-valley.html?csrc=6398&taid=653bcd01d6113200015b3395&utm_campaign=trueAnthemTrendingContent&utm_medium=trueAnthem&utm_source=twitter",
+                    "https://www.reuters.com/business/energy/us-lays-foundations-new-hydrogen-industry-2023-10-26/",
+                    "https://electrek.co/2023/05/24/us-hospitals-animal-shelters-energy-efficiency/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/FwYTsX3suv",
+                    "https://t.co/OShLAPCAAx",
+                    "https://t.co/Z5wBOYtcXn"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F9sdHpsXIAAIRTw.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F9sdHpsXIAAIRTw.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1354833262431133696",
+                "author_username": "SecGranholm",
+                "community_notes": null,
+                "conversation_id": "1718999721212358733",
+                "created_time": "2023-10-30T14:34:05",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1718999721212358733",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 5,
+                "source": "Sprout Social",
+                "text": "Today's morning reads...\n\nA recap of my visit to NorCal, how @POTUS' investments in Clean Hydrogen Hubs lays the foundation for new industry, and DOE's $45M to help nonprofits lower energy costs.\n\n\ud83d\udc3b https://t.co/FwYTsX3suv\n\n\ud83d\udca7 https://t.co/OShLAPCAAx\n\n\ud83c\udfe2 https://t.co/Z5wBOYtcXn https://t.co/rRnM4J4CK1",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1698676445,
+                "view_count": 2284
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nytimes.com/2024/01/30/climate/fema-renewable-energy-disasters.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HVVCe1DfJu"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1354833262431133696",
+                "author_username": "SecGranholm",
+                "community_notes": null,
+                "conversation_id": "1753400374612914558",
+                "created_time": "2024-02-02T12:50:00",
+                "favorite_count": 33,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1753400374612914558",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 7,
+                "source": "Sprout Social",
+                "text": "The rise of climate-driven disasters has increasingly cut off power in community spaces like schools and hospitals. \n\nAs a response, @FEMA will offer to install solar panels at public buildings to improve energy resiliency following disasters.\nhttps://t.co/HVVCe1DfJu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "fema"
+                ],
+                "text_tagged_users_ids": [
+                    "16669075"
+                ],
+                "text_tags": null,
+                "timestamp": 1706878200,
+                "view_count": 2005
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://science.osti.gov/np/Highlights/2019/NP-2019-09-a"
+                ],
+                "attached_links_url": [
+                    "https://t.co/iDWE0qfeSD"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1354833262431133696",
+                "author_username": "SecGranholm",
+                "community_notes": null,
+                "conversation_id": "1775282561884815614",
+                "created_time": "2024-04-02T22:02:00",
+                "favorite_count": 169,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1775282561884815614",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 57,
+                "source": "Sprout Social",
+                "text": "President Biden is committed to ending cancer as we know it in America.\n\nThrough our National Labs, @ENERGY is advancing technology to support @POTUS' mission and improve imaging in breast cancer screenings while halving the radiation dose to patients.\nhttps://t.co/iDWE0qfeSD",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ENERGY",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "166252256",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1712095320,
+                "view_count": 8103
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

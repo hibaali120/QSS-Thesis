@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.foxnews.com/politics/former-cia-director-leon-panetta-warns-china-may-use-michigan-ev-plant-for-espionage"
+                ],
+                "attached_links_url": [
+                    "https://t.co/J81Mwgm6Gm"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2696643955",
+                "author_username": "RepMoolenaar",
+                "community_notes": null,
+                "conversation_id": "1752787493370331307",
+                "created_time": "2024-01-31T20:14:38",
+                "favorite_count": 36,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1752787493370331307",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 19,
+                "retweet_count": 22,
+                "source": "Twitter Web App",
+                "text": "Excellent coverage of my questioning at yesterday's @committeeonccp hearing. Leon Panetta and Mike Pompeo discussed how @Gotion48660's plans for a factory in Michigan are a risk to national security. https://t.co/J81Mwgm6Gm",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Gotion48660"
+                ],
+                "text_tagged_users_ids": [
+                    "2988389267"
+                ],
+                "text_tags": null,
+                "timestamp": 1706732078,
+                "view_count": 14661
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

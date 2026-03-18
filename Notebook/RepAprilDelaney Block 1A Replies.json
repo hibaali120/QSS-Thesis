@@ -1,0 +1,715 @@
+{
+    "politician": "RepAprilDelaney",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1981097436492788190",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981349473050619968",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981475695734690258",
+            "replies": []
+        },
+        {
+            "conversation_id": "1982922039179854220",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1742332950165794816",
+                    "author_username": "JP4480689226065",
+                    "community_notes": null,
+                    "conversation_id": "1982922039179854220",
+                    "created_time": "2025-10-27T21:38:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1982924856732885388",
+                    "in_reply_to_post_id": "1982922039179854220",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Nice try to change the subject, Who cares about anything accept opening the Government right now so 36,000 federal employees can get paid. Largest Union is telling you and your radical Democrats to allow them to get a pay check",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761601101,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1983643442732241278",
+            "replies": []
+        },
+        {
+            "conversation_id": "1983961562088968424",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G4j2Eo1WoAARPk_.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G4j2Eo1WoAARPk_.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1742332950165794816",
+                    "author_username": "JP4480689226065",
+                    "community_notes": null,
+                    "conversation_id": "1983961562088968424",
+                    "created_time": "2025-10-31T03:52:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1984106200880017468",
+                    "in_reply_to_post_id": "1983961562088968424",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney https://t.co/DJ2NWL4PLS",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761882755,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1755008469558591488",
+                    "author_username": "TD_1098",
+                    "community_notes": null,
+                    "conversation_id": "1983961562088968424",
+                    "created_time": "2025-10-30T21:46:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1984014021985759289",
+                    "in_reply_to_post_id": "1983961562088968424",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney Yes, everyone wants more money and subsidies April, but I hope you can find a way or offer a budget that can make my share of the national debt lower next year. Maybe team up with @RepThomasMassie and put forth a balanced or surplus (pay debt off) budget.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "RepThomasMassie"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "975200486"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761860778,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1984751605116227882",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1686582159564263425",
+                    "author_username": "chray_754",
+                    "community_notes": null,
+                    "conversation_id": "1984751605116227882",
+                    "created_time": "2025-11-03T02:14:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1985168636974178503",
+                    "in_reply_to_post_id": "1984751605116227882",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney As long as my tax dollars are paying their ACA, it isn\u2019t affordable.  I have my own insurance bills to cover.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762136060,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1986159400449454285",
+            "replies": []
+        },
+        {
+            "conversation_id": "1986481144074772596",
+            "replies": []
+        },
+        {
+            "conversation_id": "1988682449484714135",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1755008469558591488",
+                    "author_username": "TD_1098",
+                    "community_notes": null,
+                    "conversation_id": "1988682449484714135",
+                    "created_time": "2025-11-12T19:07:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988685223484420428",
+                    "in_reply_to_post_id": "1988682449484714135",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney Also not spending money and giving the bill to others is a basic dignity. Please balance the budget and don't pass the bill onto others who did not vote for this spending. Deficit spending is stealing and enslaving others to pay for what we choose not to pay for.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762974479,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1988696372133130641",
+            "replies": []
+        },
+        {
+            "conversation_id": "1988724655105180121",
+            "replies": []
+        },
+        {
+            "conversation_id": "1988748473794244859",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1648124082439835649",
+                    "author_username": "jPatrick2026",
+                    "community_notes": null,
+                    "conversation_id": "1988748473794244859",
+                    "created_time": "2025-11-13T03:12:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988807211427209419",
+                    "in_reply_to_post_id": "1988748473794244859",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney You voted against  paychecks \u201cThe legislation would halt workforce reductions and guarantee back pay for furloughed fed. workers, set up a future vote on healthcare tax credits include a three-bill \u201cminibus\u201d funding military const, veterans programs and the legislative branch.\u201d",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763003564,
+                    "view_count": 39
+                }
+            ]
+        },
+        {
+            "conversation_id": "1991165787084591413",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1446818460567158787",
+                    "author_username": "kristieedz61",
+                    "community_notes": null,
+                    "conversation_id": "1991165787084591413",
+                    "created_time": "2025-11-27T15:51:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1994071505810890899",
+                    "in_reply_to_post_id": "1991165787084591413",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Congratulations on your trading success \ud83c\udf89\ud83e\udd73\ud83c\udf8a\ud83d\udc4f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764258669,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1991513292431581243",
+            "replies": []
+        },
+        {
+            "conversation_id": "1991882787792527719",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1446818460567158787",
+                    "author_username": "kristieedz61",
+                    "community_notes": null,
+                    "conversation_id": "1991882787792527719",
+                    "created_time": "2025-11-27T15:47:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1994070642086514850",
+                    "in_reply_to_post_id": "1991882787792527719",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney Congratulations on your stock trades!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764258463,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1996289274522800594",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996967922879594706",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1695294792241229824",
+                    "author_username": "bdsigno78276",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-20T03:16:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002216612225495365",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Well you better REALLY know what your getting behind other than union $ as this could put cripple the majority of American citizens of whom you are suppose to be representing.!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766200614,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3141672447",
+                    "author_username": "People4Bernie",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-19T03:05:50",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001851441183682686",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Thank you",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766113550,
+                    "view_count": 61
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "422863622",
+                    "author_username": "meganessaheb",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-19T02:11:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001837801403461901",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen Thank you for your leadership on this! You\u2019re starting a wave of new cosponsors!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766110298,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1686582159564263425",
+                    "author_username": "chray_754",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-07T04:15:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1997520358157795559",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen When considering tax credits keep in mind that I already pay for my insurance without tax credits.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765080940,
+                    "view_count": 36
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1686582159564263425",
+                    "author_username": "chray_754",
+                    "community_notes": null,
+                    "conversation_id": "1996967922879594706",
+                    "created_time": "2025-12-07T04:14:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1997520099507634229",
+                    "in_reply_to_post_id": "1996967922879594706",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAprilDelaney @ChrisVanHollen I\u2019m pretty certain that Health Care is not a right protected in any United States amendments nor the bill of rights. \nPlease reference and provide the part in the ACA provision guaranteeing healthcare as a right.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "ChrisVanHollen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "18137749"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765080878,
+                    "view_count": 38
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001739582254031326",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1695243341124739072",
+                    "author_username": "TedGDaOG",
+                    "community_notes": null,
+                    "conversation_id": "2001739582254031326",
+                    "created_time": "2025-12-24T19:27:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2003910353156248023",
+                    "in_reply_to_post_id": "2001739582254031326",
+                    "in_reply_to_profile_id": "1874580463752196096",
+                    "in_reply_to_profile_username": "RepAprilDelaney",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAprilDelaney @HouseDemocrats Sorry, your party made Obamacare and now it's a failure, just like any sane person knew it would be. Maybe pushing it through with no R votes was a mistake? See you out of office soon. How's that 20% approval feel?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAprilDelaney",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874580463752196096",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766604433,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "2003092056483184997",
+            "replies": []
+        }
+    ]
+}

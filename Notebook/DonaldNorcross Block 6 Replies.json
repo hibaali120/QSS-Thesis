@@ -1,0 +1,655 @@
+{
+    "politician": "DonaldNorcross",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1524766858431315969",
+            "replies": []
+        },
+        {
+            "conversation_id": "1542870073890709505",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1532696065337708544",
+                    "author_username": "CaesarC86509656",
+                    "community_notes": null,
+                    "conversation_id": "1542870073890709505",
+                    "created_time": "2022-07-02T11:29:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1543195071037702145",
+                    "in_reply_to_post_id": "1542870073890709505",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@DonaldNorcross Farmworkers Deserve Equal Pay And Benefits",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656761350,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1492228750372655109",
+                    "author_username": "CecilSyborg",
+                    "community_notes": null,
+                    "conversation_id": "1542870073890709505",
+                    "created_time": "2022-07-01T16:58:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1542915546898915328",
+                    "in_reply_to_post_id": "1542870073890709505",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@DonaldNorcross H.R.3194 - Fairness for Farm Workers Act",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656694707,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "46117636",
+                    "author_username": "BryanYoungest",
+                    "community_notes": null,
+                    "conversation_id": "1542870073890709505",
+                    "created_time": "2022-07-01T15:49:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1542898163006275585",
+                    "in_reply_to_post_id": "1542870073890709505",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DonaldNorcross Sweet Hat brother!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656690562,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1576270772854611968",
+            "replies": []
+        },
+        {
+            "conversation_id": "1602294024475480064",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1938260035",
+                    "author_username": "noelieululanib",
+                    "community_notes": null,
+                    "conversation_id": "1602294024475480064",
+                    "created_time": "2022-12-12T17:25:28",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1602353959024611330",
+                    "in_reply_to_post_id": "1602294024475480064",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@DonaldNorcross @Teamsters Howard Schultz is at his union-busting game again! Boycotted #Starbucks when he fought #FifteenNow in Seattle and have no problem doing it again. #UnionStrong #BoycottStarbucks",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross",
+                        "Teamsters"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613",
+                        "53176629"
+                    ],
+                    "text_tags": [
+                        "boycottstarbucks",
+                        "fifteennow",
+                        "starbucks",
+                        "unionstrong"
+                    ],
+                    "timestamp": 1670865928,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1603464911345963010",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FkCnDoGWQAA9HhW.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FkCnDoGWQAA9HhW.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1585967681890557998",
+                    "author_username": "DennisByron99",
+                    "community_notes": null,
+                    "conversation_id": "1603464911345963010",
+                    "created_time": "2022-12-15T19:01:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1603465171917471744",
+                    "in_reply_to_post_id": "1603464911345963010",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DonaldNorcross Sorry Congressperson but that started three years ago for Medicare recipients https://t.co/3NaFN4FO8V",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1671130862,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1610710098925551616",
+            "replies": []
+        },
+        {
+            "conversation_id": "1704964143843794975",
+            "replies": []
+        },
+        {
+            "conversation_id": "1717646352132219070",
+            "replies": []
+        },
+        {
+            "conversation_id": "1721953144475676994",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1081758345021804546",
+                    "author_username": "Saturnian_Doll",
+                    "community_notes": null,
+                    "conversation_id": "1721953144475676994",
+                    "created_time": "2023-11-09T03:59:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1722464017317286292",
+                    "in_reply_to_post_id": "1721953144475676994",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@DonaldNorcross @camdencountynj Since you care so much about people having food to eat, why not use your voice to call for a #ceasefire and an end to the siege of Gaza as soon as possible? Save the self-congratulatory pat on the back until food and other forms of humanitarian aid are allowed into Gaza!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross",
+                        "camdencountynj"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613",
+                        "117567750"
+                    ],
+                    "text_tags": [
+                        "ceasefire"
+                    ],
+                    "timestamp": 1699502398,
+                    "view_count": 19
+                }
+            ]
+        },
+        {
+            "conversation_id": "1752797936734412817",
+            "replies": []
+        },
+        {
+            "conversation_id": "1789025834595926493",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1519689765783748611",
+                    "author_username": "winslow_NJ",
+                    "community_notes": null,
+                    "conversation_id": "1789025834595926493",
+                    "created_time": "2024-05-12T02:55:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1789489659925475428",
+                    "in_reply_to_post_id": "1789025834595926493",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DonaldNorcross How about them #WindTurbines Don Quixote No Cross?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": [
+                        "windturbines"
+                    ],
+                    "timestamp": 1715482556,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GNPqF49WYAA31iH.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GNPqF49WYAA31iH.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1749973870142980096",
+                    "author_username": "ClarityFTW",
+                    "community_notes": null,
+                    "conversation_id": "1789025834595926493",
+                    "created_time": "2024-05-10T20:32:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1789030865596542976",
+                    "in_reply_to_post_id": "1789025834595926493",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@DonaldNorcross AIPAC has helped you take food off the table of Americans and give it to Israelis. https://t.co/I6fCUnwqWc",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715373171,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1790425985155797229",
+            "replies": []
+        },
+        {
+            "conversation_id": "1924174462531846196",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1924174462531846196",
+                    "created_time": "2025-05-18T18:52:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924176307832705067",
+                    "in_reply_to_post_id": "1924174462531846196",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "@DonaldNorcross Head Start's $12.7B budget unchanged. H.R. 728 expands access to TANF/SNAP/WIC families.\n\nBureaucrats cry poverty while failing basic audits for 30+ yrs.\n\nWI/MI closures expose management failure, not funding crisis.\n\nFix the waste. Demand results.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747594355,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1924885201773048185",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://norcross.house.gov/press-releases?ID=5EC42E1A-1876-490D-98BE-5316599C4F49"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/lFB03p69Su"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3122099613",
+                    "author_username": "DonaldNorcross",
+                    "community_notes": null,
+                    "conversation_id": "1924885201773048185",
+                    "created_time": "2025-05-20T17:49:29",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924885202586742910",
+                    "in_reply_to_post_id": "1924885201773048185",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Buffer",
+                    "text": "Read more here: https://t.co/lFB03p69Su",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1747763369,
+                    "view_count": 240
+                }
+            ]
+        },
+        {
+            "conversation_id": "1940479734842118342",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3122099613",
+                    "author_username": "DonaldNorcross",
+                    "community_notes": null,
+                    "conversation_id": "1940479734842118342",
+                    "created_time": "2025-07-02T18:36:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940479737987825819",
+                    "in_reply_to_post_id": "1940479734842118342",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "2/ In South Jersey, 16,000 seniors rely on Medicaid for things like home care, prescriptions, and doctor visits. This bill puts that coverage in jeopardy and makes it harder for older Americans to age with dignity.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1751481396,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1976428744605683975",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2867912434",
+                    "author_username": "dave_hoh",
+                    "community_notes": null,
+                    "conversation_id": "1976428744605683975",
+                    "created_time": "2025-10-10T00:04:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976438597856436645",
+                    "in_reply_to_post_id": "1976428744605683975",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@DonaldNorcross Wrong order, congressman. Negotiate a budget deal and end the shutdown.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760054656,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1976428744605683975",
+                    "created_time": "2025-10-09T23:31:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976430237219987478",
+                    "in_reply_to_post_id": "1976428744605683975",
+                    "in_reply_to_profile_id": "3122099613",
+                    "in_reply_to_profile_username": "DonaldNorcross",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Democrats scream about WIC funding while sneaking benefits for illegal immigrants into every budget bill. The shutdown isn\u2019t about Trump\u2014it\u2019s about stopping the Left\u2019s endless bait-and-switch. They\u2019ll claim they\u2019re \u201cclarifying eligibility\u201d while quietly expanding handouts to non-citizens.\n\nNew Jersey\u2019s 165k women and children deserve better than being used as pawns in this game. Cut the foreign aid, audit the waste, and fund AMERICANS first.\n\nNegotiate? Sure\u2014start by axing every loophole that rewards illegal entry.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DonaldNorcross"
+                    ],
+                    "text_tagged_users_ids": [
+                        "3122099613"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760052663,
+                    "view_count": 20
+                }
+            ]
+        }
+    ]
+}

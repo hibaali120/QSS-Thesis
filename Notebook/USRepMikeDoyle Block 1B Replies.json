@@ -1,0 +1,99 @@
+{
+    "politician": "USRepMikeDoyle",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1478090141612724228",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "21107184",
+                    "author_username": "BigPhatPastor",
+                    "community_notes": null,
+                    "conversation_id": "1478090141612724228",
+                    "created_time": "2022-01-03T21:00:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1478109069491810313",
+                    "in_reply_to_post_id": "1478090141612724228",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@USRepMikeDoyle They shouldn\u2019t have to worry that not getting a vaccine should lead to financial ruin by loss of job either though",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1641243638,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "95526125",
+                    "author_username": "StevenJCBuckley",
+                    "community_notes": null,
+                    "conversation_id": "1478090141612724228",
+                    "created_time": "2022-01-03T19:46:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1478090323930845184",
+                    "in_reply_to_post_id": "1478090141612724228",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "TweetDeck",
+                    "text": "@USRepMikeDoyle Or just support #MedicareForAll instead.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305"
+                    ],
+                    "text_tags": [
+                        "medicareforall"
+                    ],
+                    "timestamp": 1641239169,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

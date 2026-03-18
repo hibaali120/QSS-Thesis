@@ -1,0 +1,621 @@
+{
+    "politician": "RepAlGreen",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1583836772928458752",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1479561094737842184",
+                    "author_username": "NaimShamal",
+                    "community_notes": null,
+                    "conversation_id": "1583836772928458752",
+                    "created_time": "2022-10-29T23:23:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1586498892404703232",
+                    "in_reply_to_post_id": "1583836772928458752",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen #StopTajikGenocide \n  #BanTaliban",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": [
+                        "bantaliban",
+                        "stoptajikgenocide"
+                    ],
+                    "timestamp": 1667085786,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.yahoo.com/news/jan-6-trial-highlights-missed-113624698.html"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/fLEoAJjKQk"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1479521559840579587",
+                    "author_username": "ThebutNews",
+                    "community_notes": null,
+                    "conversation_id": "1583836772928458752",
+                    "created_time": "2022-10-23T17:57:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1584242724437254144",
+                    "in_reply_to_post_id": "1583836772928458752",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen @POTUS needs to Fire FBI Wray IMMEDIATELY\n\nActing FBI director Leon Panetta\nor @FrankFigliuzzi1 \n\nhttps://t.co/fLEoAJjKQk",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "POTUS",
+                        "FrankFigliuzzi1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1879650942410481666",
+                        "929823128259387392"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666547873,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/BobChoate54/status/1583948584751271936?t=IDLR8qfSar-x2XbHCy517A&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/OnIRhSMQsl"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "886192306193403904",
+                    "author_username": "BobChoate54",
+                    "community_notes": null,
+                    "conversation_id": "1583836772928458752",
+                    "created_time": "2022-10-22T22:36:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1583950483936665600",
+                    "in_reply_to_post_id": "1583836772928458752",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1583948584751271936",
+                    "quoted_status_profile_id": "886192306193403904",
+                    "quoted_status_profile_username": "BobChoate54",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen If you can't adequately STAFF THE POLLS, the result will be VOTER SUPPRESSION! \nhttps://t.co/OnIRhSMQsl",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666478198,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Ffr9GTaXwAMfE8t.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Ffr9GTaXwAMfE8t.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "119882305",
+                    "author_username": "koschecbob",
+                    "community_notes": null,
+                    "conversation_id": "1583836772928458752",
+                    "created_time": "2022-10-22T16:23:37",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1583856610421547008",
+                    "in_reply_to_post_id": "1583836772928458752",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen What is your black agenda specifically to correct specific harms done to black Americans??? https://t.co/xDNczaIyIw",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666455817,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1616258699688812545",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FnGd0uPWIAQXPJD.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FnGd0uPWIAQXPJD.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1173703539849334785",
+                    "author_username": "beper_mcskeper",
+                    "community_notes": null,
+                    "conversation_id": "1616258699688812545",
+                    "created_time": "2023-01-22T19:46:53",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617247449030225920",
+                    "in_reply_to_post_id": "1616258699688812545",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepAlGreen @IbnSinaUSA Honorable Representative Green,\nI think Ukraine needs more of your help.\n\nI remember when you spoke before passage of the Lend Lease act.\n\nAnd I remember your passion to #ArmUkraineToTheTeeth\n\nCould you speak to German counterparts about how important the German Marshall Fund is? https://t.co/6TUpeTk3L9",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "IbnSinaUSA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "877200766808854530"
+                    ],
+                    "text_tags": [
+                        "armukrainetotheteeth"
+                    ],
+                    "timestamp": 1674416813,
+                    "view_count": 90
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4307365153",
+                    "author_username": "Col_Batman",
+                    "community_notes": null,
+                    "conversation_id": "1616258699688812545",
+                    "created_time": "2023-01-21T23:30:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1616941433575067650",
+                    "in_reply_to_post_id": "1616258699688812545",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen @IbnSinaUSA I hope it\u2019s for you and your mental illness.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "IbnSinaUSA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "877200766808854530"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674343853,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1915496797805412830",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833700219070066689",
+                    "author_username": "sicampbe3",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-25T16:59:19",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915812879112016191",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepAlGreen Who stole their benefits Al?  We need details of this crime you are trying to compensate for because if they are illegal aliens you are wasting our time.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745600359,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1704561066196484097",
+                    "author_username": "50hidalgo47",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:39:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915505877819506804",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen Funds were stolen under the Biden-Harris Administration .... \nInteresting",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745527164,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1704561066196484097",
+                    "author_username": "50hidalgo47",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:18:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915500556199878810",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen .@grok verify this",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "grok"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1720665183188922368"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745525895,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GpU5ayqbYAAOq7E.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GpU5ayqbYAAOq7E.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1704561066196484097",
+                    "author_username": "50hidalgo47",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:17:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915500350666412338",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen ,@DOGE who stole it ? \n\nMaybe we need the analog approach again https://t.co/Wfsy96jotR",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen",
+                        "DOGE"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623",
+                        "1856751787644260354"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745525846,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1704561066196484097",
+                    "author_username": "50hidalgo47",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:15:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915499830157467883",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepAlGreen Rep AL .... it's your turn to announce your retirement. \n\nMove over and \"save\" your party. \n\nNancy Pelosi is out, but she doesn't know it yet. Take a leadership role and walk.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745525722,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/nfscspeak/status/1911138949155651786"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/94U5LVi1Gv"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1320395825592307715",
+                    "author_username": "0rRbl",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:08:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915498118323331096",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1911138949155651786",
+                    "quoted_status_profile_id": "1597949369231237126",
+                    "quoted_status_profile_username": "NFSCSpeak",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepAlGreen https://t.co/94U5LVi1Gv",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745525314,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1915496797805412830",
+                    "created_time": "2025-04-24T20:07:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1915497747546861997",
+                    "in_reply_to_post_id": "1915496797805412830",
+                    "in_reply_to_profile_id": "156333623",
+                    "in_reply_to_profile_username": "RepAlGreen",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The SNAP SECURE Act highlights a critical failure: Washington\u2019s inability to secure taxpayer-funded programs from rampant fraud. Texas alone saw $615M in SNAP benefits loaded onto vulnerable cards, with $10B+ in overpayments nationwide last year. Reimbursing theft after the fact doesn\u2019t fix systemic incompetence\u2014it just forces taxpayers to pay twice.\n\nReal reform requires modernizing EBT systems, cracking down on skimming rings, and holding bureaucrats accountable for lax oversight.\n\nUntil then, throwing more money at a broken system is just subsidizing failure.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepAlGreen"
+                    ],
+                    "text_tagged_users_ids": [
+                        "156333623"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745525225,
+                    "view_count": 27
+                }
+            ]
+        }
+    ]
+}

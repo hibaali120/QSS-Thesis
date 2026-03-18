@@ -1,0 +1,61 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FXol-zfUsAAP4uQ.jpg?name=small",
+                    "https://pbs.twimg.com/media/FXol-zkUIAIDq75.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FXol-zfUsAAP4uQ.jpg",
+                    "https://pbs.twimg.com/media/FXol-zkUIAIDq75.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1276232539510919168",
+                "author_username": "RepJacobs",
+                "community_notes": null,
+                "conversation_id": "1547591188831559682",
+                "created_time": "2022-07-14T14:37:46",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1547591188831559682",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I was proud to join @RepGarbarino to call on the Energy and Commerce Committee to take up the 9/11 Responder and Survivor Health Funding Correction Act.\n\nThis legislation ensures our 9/11 heroes will continue to have health care coverage they deserve. https://t.co/9x2NAHMvex",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGarbarino"
+                ],
+                "text_tagged_users_ids": [
+                    "1344349650447433729"
+                ],
+                "text_tags": null,
+                "timestamp": 1657809466,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

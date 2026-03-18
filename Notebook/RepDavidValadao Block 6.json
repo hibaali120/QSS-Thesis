@@ -1,0 +1,100 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FajNYtqUUAAut9z.jpg?name=small",
+                    "https://pbs.twimg.com/media/FajNYtpUIAEG1iN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FajNYtqUUAAut9z.jpg",
+                    "https://pbs.twimg.com/media/FajNYtpUIAEG1iN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1128514404",
+                "author_username": "RepDavidValadao",
+                "community_notes": null,
+                "conversation_id": "1560723101234499584",
+                "created_time": "2022-08-19T20:19:18",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1560723101234499584",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Thank you to Kings Community Action Organization for giving me a tour of their food bank in Lemoore this week. Enjoyed learning more about their food delivery and nutrition education programs and future plans to continue helping our community. https://t.co/gS9icGbQjT",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1660940358,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1128514404",
+                "author_username": "RepDavidValadao",
+                "community_notes": null,
+                "conversation_id": "1658249891204743173",
+                "created_time": "2023-05-15T23:15:57",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1658249891204743173",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "As a father of 3, the rise in mental health issues among young people is a big concern to me. \n\nProud to join @RepKManning to introduce the Improving Mental Health &  Wellness in Schools Act to educate students about the importance of maintaining their mental and physical health.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepKManning"
+                ],
+                "text_tagged_users_ids": [
+                    "1337115670161608712"
+                ],
+                "text_tags": null,
+                "timestamp": 1684192557,
+                "view_count": 872
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

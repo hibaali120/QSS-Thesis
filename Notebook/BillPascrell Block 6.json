@@ -1,0 +1,143 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FRM7VNcXEAItHty.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FRM7VNcXEAItHty.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "74508260",
+                "author_username": "BillPascrell",
+                "community_notes": null,
+                "conversation_id": "1518622739241832450",
+                "created_time": "2022-04-25T16:07:30",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1518622739241832450",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "We delivered $1,500,000 to open a health wellness center for our community and today in #Garfield we\u2019re celebrating its pending opening. https://t.co/KqHQPJJygi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "garfield"
+                ],
+                "timestamp": 1650902850,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMb96SKWkAAOd4W.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMb96SKWkAAOd4W.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "74508260",
+                "author_username": "BillPascrell",
+                "community_notes": null,
+                "conversation_id": "1785393483051610383",
+                "created_time": "2024-04-30T19:39:12",
+                "favorite_count": 45,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1785393483051610383",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 32,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udce3PSA Fellow New Jerseyans: you can vote right now through June 4. Exercise your sacred right and mail your ballot in you have no excuses Jersey - VOTE! \ud83d\uddf3\ud83d\udcec\u2705 https://t.co/PdKJgFyXxa",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1714505952,
+                "view_count": 2304
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GOMgdoDW4AIkOWy.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GOMgdoDW4AIkOWy.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "74508260",
+                "author_username": "BillPascrell",
+                "community_notes": null,
+                "conversation_id": "1793312773973151863",
+                "created_time": "2024-05-22T16:07:38",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1793312773973151863",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udce3PSA: in New Jersey you can vote right now through June 4. Exercise your sacred right you have no excuses Jersey - VOTE! \ud83d\uddf3\ud83d\udcec\u2705 https://t.co/wwhC0a8ee8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1716394058,
+                "view_count": 1828
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

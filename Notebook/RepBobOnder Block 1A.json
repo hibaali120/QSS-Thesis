@@ -1,0 +1,542 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpUnh9dXcAAYAAb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpUnh9dXcAAYAAb.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1915480892488794408",
+                "created_time": "2025-04-24T19:00:07",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915480892488794408",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "My staff attended the groundbreaking of Mercy Wentzville, a new state of the art medical facility right here in #MO3! This hospital is a whopping $642 million investment in St. Charles County and will provide life-saving medical treatment to countless people in our community. https://t.co/rScJoyfVNu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "mo3"
+                ],
+                "timestamp": 1745521207,
+                "view_count": 588
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1920541917646819365",
+                "created_time": "2025-05-08T18:10:49",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1920541917646819365",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1920514722165637123",
+                "quoted_status_profile_id": "17918065",
+                "quoted_status_profile_username": "sbaprolife",
+                "reply_count": 2,
+                "retweet_count": 9,
+                "source": "Twitter Web App",
+                "text": "Planned Parenthood prioritizes profit and ideology over women's health.\n\nI was pleased to join @sbaprolife to discuss the barbaric practices of Planned Parenthood and what we can do to fight and defund it.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "sbaprolife"
+                ],
+                "text_tagged_users_ids": [
+                    "17918065"
+                ],
+                "text_tags": null,
+                "timestamp": 1746727849,
+                "view_count": 1536
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1922678228851838977/img/QPVI_mYAlQ3Adw9C.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1922678228851838977/vid/avc1/1920x1080/vk0rWUWZLgn9KnaR.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 291,
+                        "id": "1922678228851838977",
+                        "url": "https://video.twimg.com/amplify_video/1922678228851838977/vid/avc1/1920x1080/vk0rWUWZLgn9KnaR.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1922679017833976111",
+                "created_time": "2025-05-14T15:42:54",
+                "favorite_count": 54,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922679017833976111",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 19,
+                "source": "Twitter Web App",
+                "text": "At a time when thousands of medical school graduates are going without a residency placement, it is a tragedy that a bureaucratic organization with a monopoly on these programs continues to shut so many of them down.\n\nHear my thoughts on this from today's @JudiciaryGOP hearing below.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JudiciaryGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "1131917492"
+                ],
+                "text_tags": null,
+                "timestamp": 1747237374,
+                "view_count": 6210
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1930665698918830080/img/xJvSEok-g0kUFstY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1930665698918830080/vid/avc1/1280x720/9_BGlldcNQ1KO2rg.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 316,
+                        "id": "1930665698918830080",
+                        "url": "https://video.twimg.com/amplify_video/1930665698918830080/vid/avc1/1280x720/9_BGlldcNQ1KO2rg.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1930667125653295453",
+                "created_time": "2025-06-05T16:44:47",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930667125653295453",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Thank you Secretary Lori Chavez-DeRemer for joining the @EdWorkforceCmte. Employer provided health insurance plans are vital to many households across the country. We must ensure the options for employers and employees are high quality and low cost. \n\nListen to my remarks on this with @SecretaryLCD \ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EdWorkforceCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "16424044"
+                ],
+                "text_tags": null,
+                "timestamp": 1749141887,
+                "view_count": 591
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1937916838802841600/img/_9WFJLh47AMqOfyf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1937916838802841600/vid/avc1/1280x720/8xZK24kXl1uJMflE.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 74,
+                        "id": "1937916838802841600",
+                        "url": "https://video.twimg.com/amplify_video/1937916838802841600/vid/avc1/1280x720/8xZK24kXl1uJMflE.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1937956461369331768",
+                "created_time": "2025-06-25T19:30:00",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1937956461369331768",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web Client",
+                "text": "\"Generations of bad health policy have moved Americans away from choice and competition and quality and in the direction of consolidation and single payer healthcare.\"\n\nOne of the few bright spots in our healthcare system are Associated Health Plans. \n\nToday, I was happy to speak in support of Chairman @RepWalberg's \"Association Health Plans Act.\"",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750879800,
+                "view_count": 874
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://onder.house.gov/media/press-releases/congressman-bob-onder-introduced-chloe-cole-act-which-was-transmitted-congress?fbclid=PAdGRleAM6JnVleHRuA2FlbQIxMQABp7EfMlkvanM2StvRcYogUDf5m2mipM14nHO9bfgc_h2IVuzNBA7uu308ZUEs_aem_63uIQHQ88qCoshrrsP1Urg"
+                ],
+                "attached_links_url": [
+                    "https://t.co/9S5BoaTtWy"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1NWzN7XsAAxeLk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1NWzN7XsAAxeLk.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1969013662196052458",
+                "created_time": "2025-09-19T12:20:14",
+                "favorite_count": 53,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1969013662196052458",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 17,
+                "source": "Twitter Web App",
+                "text": "What happened to \u201cDo No Harm\u201d - a Doctor\u2019s sacred oath?\n\nChloe is one of thousands of children tragically misled by medical practitioners. Her story is heartbreaking, but it must be told - and it must be learned from. No child, and no parent, should ever be forced to endure this kind of pain.\n\n\u203c\ufe0fTo read more about the Chloe Cole Act click here:https://t.co/9S5BoaTtWy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758284414,
+                "view_count": 1184
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2HrLNuWUAAHrIv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2HrLNuWUAAHrIv.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1973160934823653446",
+                "created_time": "2025-09-30T23:00:01",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973160934823653446",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web Client",
+                "text": "The @ThomasMoreSoc is driven by the pursuit for justice.\n\nThey understand why the Chloe Cole Act is so important. It empowers victims. It gives families the chance to demand justice. And it finally holds the medical establishment accountable.\n\nThis would be a true victory - for children, for families, and for America\u2019s future.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ThomasMoreSoc"
+                ],
+                "text_tagged_users_ids": [
+                    "1400063185"
+                ],
+                "text_tags": null,
+                "timestamp": 1759273201,
+                "view_count": 509
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2wMPvMWAAAEJEl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2wMPvMWAAAEJEl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1975968123607187547",
+                "created_time": "2025-10-08T16:54:47",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975968123607187547",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1975962199752597703",
+                "quoted_status_profile_id": "76452765",
+                "quoted_status_profile_username": "Robert_Aderholt",
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I joined my colleagues in speaking out against the FDA\u2019s approval of mifepristone.\n\nAs a physician, I know every medication carries risk - and responsible doctors always assess those risks before prescribing. https://t.co/5jDBUDSln4",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759942487,
+                "view_count": 538
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3PJXSRWYAAiCCr.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3PJZO8WQAALy7k.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3PJaWlW0AEM7W2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3PJXSRWYAAiCCr.jpg",
+                    "https://pbs.twimg.com/media/G3PJZO8WQAALy7k.jpg",
+                    "https://pbs.twimg.com/media/G3PJaWlW0AEM7W2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1978147052832931991",
+                "created_time": "2025-10-14T17:13:04",
+                "favorite_count": 369,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978147052832931991",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 112,
+                "source": "Twitter Web App",
+                "text": "Honored to lead my @RepublicanStudy colleagues in a letter officially sent this morning to @SecScottBessent, urging decisive action to remove sex-trait altering surgeries and drug therapies from the IRS list of qualified medical expenses.\n\nTaxpayer dollars should never be used to subsidize irreversible procedures that harm the American people.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepublicanStudy",
+                    "SecScottBessent"
+                ],
+                "text_tagged_users_ids": [
+                    "22528309",
+                    "1889019333960998912"
+                ],
+                "text_tags": null,
+                "timestamp": 1760461984,
+                "view_count": 55933
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8U1eGrXAAAHd8l.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8U1eGrXAAAHd8l.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "2001065321755516986",
+                "created_time": "2025-12-16T23:02:05",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001065321755516986",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Congratulations to our #MO03 winners of the 2025 @CongressionalAC \n\n\ud83c\udfc6Harish Gandham\n\ud83c\udfc6Sean Sathish\n\ud83c\udfc6Venkata Unnam\n\ud83c\udfc6Jonathon Arul \n\nTheir teams app, MindWell Connect, is a thoughtful, innovative tool designed to make mental-health support more personal and accessible for teens and young adults. I look forward to welcoming them to Washington, D.C. and celebrating this outstanding achievement together!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CongressionalAC"
+                ],
+                "text_tagged_users_ids": [
+                    "1225814342"
+                ],
+                "text_tags": [
+                    "mo03"
+                ],
+                "timestamp": 1765926125,
+                "view_count": 294
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8aKvQcXQAA8Ukj.jpg?name=small",
+                    "https://pbs.twimg.com/media/G8aKvQbXUAEieBb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8aKvQcXQAA8Ukj.jpg",
+                    "https://pbs.twimg.com/media/G8aKvQbXUAEieBb.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "2001439633591140540",
+                "created_time": "2025-12-17T23:49:28",
+                "favorite_count": 41,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001439633591140540",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 15,
+                "source": "Twitter for iPhone",
+                "text": "Tonight, the House passed H.R. 6703, the Lower Health Care Premiums for All Americans Act, which includes my bill, H.R. 2571, the Self-Insurance Protection Act.\n\nI\u2019m proud that House Republicans could pass this critical bill to lower healthcare costs and improve transparency for all Americans. \n\nRead the full release below\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766015368,
+                "view_count": 3786
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

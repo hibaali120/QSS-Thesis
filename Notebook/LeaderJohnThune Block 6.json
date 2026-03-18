@@ -1,0 +1,112 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1925317686445170688/img/jy0p053LCbCAhM7m.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1925317686445170688/vid/avc1/960x540/v-FVqFenZxr6rvpF.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 379,
+                        "id": "1925317686445170688",
+                        "url": "https://video.twimg.com/amplify_video/1925317686445170688/vid/avc1/960x540/v-FVqFenZxr6rvpF.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "296361085",
+                "author_username": "LeaderJohnThune",
+                "community_notes": null,
+                "conversation_id": "1925318310280802544",
+                "created_time": "2025-05-21T22:30:30",
+                "favorite_count": 2149,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925318310280802544",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 13,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 160,
+                "retweet_count": 282,
+                "source": "Twitter Web App",
+                "text": "Biden\u2019s California EV mandate is wrong for America, and today the fate of these overzealous waivers is in the Senate\u2019s hands. We\u2019ll exercise our authority to end these rules once and for all. https://t.co/uQ7JxdyiDj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747866630,
+                "view_count": 43220
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1999171498444046336/img/f5WKivyRkWo-HRhk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1999171498444046336/vid/avc1/960x540/vJvF5UNxJCXuAjAP.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 812,
+                        "id": "1999171498444046336",
+                        "url": "https://video.twimg.com/amplify_video/1999171498444046336/vid/avc1/960x540/vJvF5UNxJCXuAjAP.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "296361085",
+                "author_username": "LeaderJohnThune",
+                "community_notes": null,
+                "conversation_id": "1999171977676796009",
+                "created_time": "2025-12-11T17:38:36",
+                "favorite_count": 1297,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999171977676796009",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 227,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4183,
+                "retweet_count": 404,
+                "source": "Twitter Web App",
+                "text": "Democrats may talk about helping Americans, but their bill is nothing more than a political messaging exercise.\n\nRepublicans have a plan to start addressing the spiraling health care costs in Obamacare and make structural reforms that would drive down premium prices. https://t.co/UnvMjEdTU2",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765474716,
+                "view_count": 96325
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

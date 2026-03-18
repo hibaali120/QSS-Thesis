@@ -1,0 +1,977 @@
+{
+    "politician": "BobbyLRush",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1502345250211352578",
+            "replies": []
+        },
+        {
+            "conversation_id": "1517503502095953923",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/e9p34zsubde3kjb/status/1491083643749498883"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/tSZjpQRhBF"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1246151954587418628",
+                    "author_username": "E9P34zsUBDe3KJb",
+                    "community_notes": null,
+                    "conversation_id": "1517503502095953923",
+                    "created_time": "2022-04-24T13:56:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1518227367243755522",
+                    "in_reply_to_post_id": "1517503502095953923",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBobbyRush https://t.co/tSZjpQRhBF",
+                    "text_lang": "qme",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1650808586,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://ourenvironmentweprotect.blogspot.com/2018/06/the-trips-agreement-and-kyoto-protocol.html"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/YIivOdxoYi"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1420198682859917316",
+                    "author_username": "PiyeTaharka",
+                    "community_notes": null,
+                    "conversation_id": "1517503502095953923",
+                    "created_time": "2022-04-22T20:17:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1517598608811511816",
+                    "in_reply_to_post_id": "1517503502095953923",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBobbyRush https://t.co/YIivOdxoYi",
+                    "text_lang": "qme",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1650658678,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1519060091860828161",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/amberle68664577/status/1519391509166104578"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ICIlRTP3Tt"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1336730761186172931",
+                    "author_username": "Amberle68664577",
+                    "community_notes": null,
+                    "conversation_id": "1519060091860828161",
+                    "created_time": "2022-04-27T19:07:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1519392712616783873",
+                    "in_reply_to_post_id": "1519060091860828161",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBobbyRush @AOAConnect https://t.co/ICIlRTP3Tt",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "AOAConnect"
+                    ],
+                    "text_tagged_users_ids": [
+                        "132307029"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651086426,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1521217374501879810",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1134549883782926336",
+                    "author_username": "Athelen4",
+                    "community_notes": null,
+                    "conversation_id": "1521217374501879810",
+                    "created_time": "2022-05-02T20:43:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521228817066606594",
+                    "in_reply_to_post_id": "1521217374501879810",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @AppropsDems M4A is accessable to all and affordable too",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "AppropsDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "30912937"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651524187,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FRxxvDOXwAAC1CC.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FRxxvDOXwAAC1CC.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "305216911",
+                    "author_username": "BobbyLRush",
+                    "community_notes": null,
+                    "conversation_id": "1521217374501879810",
+                    "created_time": "2022-05-02T19:57:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521217378390097925",
+                    "in_reply_to_post_id": "1521217374501879810",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Advancing #Environmental & #EnergyJustice \u2014 Funding the Office of Economic Impact & Diversity in the Dept. of @ENERGY. We must establish a 21st century clean\u2013energy system that is accessible to everyone & address the disproportional impacts of #climatechange on Black communities. https://t.co/W9hfA7N5ov",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "ENERGY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "166252256"
+                    ],
+                    "text_tags": [
+                        "climatechange",
+                        "energyjustice",
+                        "environmental"
+                    ],
+                    "timestamp": 1651521460,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1521217374501879810",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1134549883782926336",
+                    "author_username": "Athelen4",
+                    "community_notes": null,
+                    "conversation_id": "1521217374501879810",
+                    "created_time": "2022-05-02T20:43:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521228817066606594",
+                    "in_reply_to_post_id": "1521217374501879810",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @AppropsDems M4A is accessable to all and affordable too",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "AppropsDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "30912937"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651524187,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FRxxvDOXwAAC1CC.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FRxxvDOXwAAC1CC.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "305216911",
+                    "author_username": "BobbyLRush",
+                    "community_notes": null,
+                    "conversation_id": "1521217374501879810",
+                    "created_time": "2022-05-02T19:57:40",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521217378390097925",
+                    "in_reply_to_post_id": "1521217374501879810",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Advancing #Environmental & #EnergyJustice \u2014 Funding the Office of Economic Impact & Diversity in the Dept. of @ENERGY. We must establish a 21st century clean\u2013energy system that is accessible to everyone & address the disproportional impacts of #climatechange on Black communities. https://t.co/W9hfA7N5ov",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "ENERGY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "166252256"
+                    ],
+                    "text_tags": [
+                        "climatechange",
+                        "energyjustice",
+                        "environmental"
+                    ],
+                    "timestamp": 1651521460,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1534179510081540096",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539945513759514624",
+            "replies": []
+        },
+        {
+            "conversation_id": "1540088709520973824",
+            "replies": []
+        },
+        {
+            "conversation_id": "1545461936313274369",
+            "replies": []
+        },
+        {
+            "conversation_id": "1546540448554049543",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/bennyjohnson/status/1546267015303815170?s=20&t=CekbWeeqfzjO3FQ3w6VDwg"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ZxZP6AfE2s"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3430851855",
+                    "author_username": "Vick_VMA",
+                    "community_notes": null,
+                    "conversation_id": "1546540448554049543",
+                    "created_time": "2022-07-12T12:10:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1546829278469398529",
+                    "in_reply_to_post_id": "1546540448554049543",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1546267015303815170",
+                    "quoted_status_profile_id": "15212187",
+                    "quoted_status_profile_username": "bennyjohnson",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBobbyRush @TheBlackCaucus https://t.co/ZxZP6AfE2s",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "TheBlackCaucus"
+                    ],
+                    "text_tagged_users_ids": [
+                        "233783568"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1657627813,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2552076722",
+                    "author_username": "Juggleguy76",
+                    "community_notes": null,
+                    "conversation_id": "1546540448554049543",
+                    "created_time": "2022-07-11T17:22:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1546545527424028673",
+                    "in_reply_to_post_id": "1546540448554049543",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBobbyRush @TheBlackCaucus Lol.",
+                    "text_lang": null,
+                    "text_tagged_users": [
+                        "TheBlackCaucus"
+                    ],
+                    "text_tagged_users_ids": [
+                        "233783568"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1657560161,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "62644854",
+                    "author_username": "JBOrl11",
+                    "community_notes": null,
+                    "conversation_id": "1546540448554049543",
+                    "created_time": "2022-07-11T17:05:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1546541259979898880",
+                    "in_reply_to_post_id": "1546540448554049543",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBobbyRush @TheBlackCaucus Thank you for your dedicated service, sir!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "TheBlackCaucus"
+                    ],
+                    "text_tagged_users_ids": [
+                        "233783568"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1657559144,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1548017878074474497",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1529647034155909121",
+                    "author_username": "Prolife4babies",
+                    "community_notes": null,
+                    "conversation_id": "1548017878074474497",
+                    "created_time": "2022-07-15T19:08:23",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1548021679279943681",
+                    "in_reply_to_post_id": "1548017878074474497",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBobbyRush Shame on you for voting for a bill supporting killing unborn babies up to birth!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1657912103,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "906452671",
+                    "author_username": "imthedronelord",
+                    "community_notes": null,
+                    "conversation_id": "1548017878074474497",
+                    "created_time": "2022-07-15T18:56:56",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1548018798074028034",
+                    "in_reply_to_post_id": "1548017878074474497",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush Where is our Reparations?",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1657911416,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1548027518816464898",
+            "replies": []
+        },
+        {
+            "conversation_id": "1554831167760658448",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "964496967316500480",
+                    "author_username": "MokenaLotClean",
+                    "community_notes": null,
+                    "conversation_id": "1554831167760658448",
+                    "created_time": "2022-08-03T17:16:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1554878841755242496",
+                    "in_reply_to_post_id": "1554831167760658448",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBobbyRush Your party delayed it stuffing all that pork and waste innas usual.  #moneylaundering",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "moneylaundering"
+                    ],
+                    "timestamp": 1659546978,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1564276079677898753",
+            "replies": []
+        },
+        {
+            "conversation_id": "1571861077700349959",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "501980669",
+                    "author_username": "gator971",
+                    "community_notes": null,
+                    "conversation_id": "1571861077700349959",
+                    "created_time": "2022-09-19T14:09:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1571864147578716161",
+                    "in_reply_to_post_id": "1571861077700349959",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @cdc Acknowledgement means nothing when those with the power do nothing",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "cdc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1532281"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663596591,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1573311648110190593",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1134549883782926336",
+                    "author_username": "Athelen4",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:08:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573313293078630403",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @cdc M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A",
+                    "text_lang": "ht",
+                    "text_tagged_users": [
+                        "cdc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1532281"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663942094,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.usnews.com/news/healthiest-communities/articles/2019-09-05/pregnancy-death-disparities-a-complex-national-problem"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/PrrwNf0euN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "305216911",
+                    "author_username": "BobbyLRush",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:01:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573311649704022016",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "#MaternalMortality can affect anyone\u2014regardless of income, education, or insurance status\u2014but major racial disparities exist. College-educated Black women are five times more likely to die from pregnancy related conditions than their white counterparts. https://t.co/PrrwNf0euN",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "maternalmortality"
+                    ],
+                    "timestamp": 1663941702,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1573311648110190593",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1134549883782926336",
+                    "author_username": "Athelen4",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:08:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573313293078630403",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @cdc M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A",
+                    "text_lang": "ht",
+                    "text_tagged_users": [
+                        "cdc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1532281"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663942094,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.usnews.com/news/healthiest-communities/articles/2019-09-05/pregnancy-death-disparities-a-complex-national-problem"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/PrrwNf0euN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "305216911",
+                    "author_username": "BobbyLRush",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:01:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573311649704022016",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "#MaternalMortality can affect anyone\u2014regardless of income, education, or insurance status\u2014but major racial disparities exist. College-educated Black women are five times more likely to die from pregnancy related conditions than their white counterparts. https://t.co/PrrwNf0euN",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "maternalmortality"
+                    ],
+                    "timestamp": 1663941702,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1573311648110190593",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1134549883782926336",
+                    "author_username": "Athelen4",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:08:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573313293078630403",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBobbyRush @cdc M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A M4A",
+                    "text_lang": "ht",
+                    "text_tagged_users": [
+                        "cdc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1532281"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663942094,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.usnews.com/news/healthiest-communities/articles/2019-09-05/pregnancy-death-disparities-a-complex-national-problem"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/PrrwNf0euN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "305216911",
+                    "author_username": "BobbyLRush",
+                    "community_notes": null,
+                    "conversation_id": "1573311648110190593",
+                    "created_time": "2022-09-23T14:01:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573311649704022016",
+                    "in_reply_to_post_id": "1573311648110190593",
+                    "in_reply_to_profile_id": "305216911",
+                    "in_reply_to_profile_username": "BobbyLRush",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "#MaternalMortality can affect anyone\u2014regardless of income, education, or insurance status\u2014but major racial disparities exist. College-educated Black women are five times more likely to die from pregnancy related conditions than their white counterparts. https://t.co/PrrwNf0euN",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "maternalmortality"
+                    ],
+                    "timestamp": 1663941702,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1580293151193198592",
+            "replies": []
+        },
+        {
+            "conversation_id": "1606002959279456256",
+            "replies": []
+        }
+    ]
+}

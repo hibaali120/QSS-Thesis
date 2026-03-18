@@ -1,0 +1,104 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://mrvan.house.gov/media/press-releases/mrvan-statement-draft-supreme-court-decision"
+                ],
+                "attached_links_url": [
+                    "https://t.co/3qmTzZCWW7"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1346205046036377601",
+                "author_username": "RepMrvan",
+                "community_notes": null,
+                "conversation_id": "1521546708521472000",
+                "created_time": "2022-05-03T17:46:18",
+                "favorite_count": 78,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1521546708521472000",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 16,
+                "source": "Twitter for iPhone",
+                "text": "I am a staunch supporter of women\u2019s rights, and that includes the rights to access medical treatment, to have autonomy over their own bodies, and the ability to make their own life decisions. https://t.co/3qmTzZCWW7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1651599978,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GtksE9GWgAECY24.jpg?name=small",
+                    "https://pbs.twimg.com/media/GtksFf5agAAApPL.jpg?name=small",
+                    "https://pbs.twimg.com/media/GtksGMJXYAElAiT.jpg?name=small",
+                    "https://pbs.twimg.com/media/GtksGqTbMAEgv5b.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GtksE9GWgAECY24.jpg",
+                    "https://pbs.twimg.com/media/GtksFf5agAAApPL.jpg",
+                    "https://pbs.twimg.com/media/GtksGMJXYAElAiT.jpg",
+                    "https://pbs.twimg.com/media/GtksGqTbMAEgv5b.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1346205046036377601",
+                "author_username": "RepMrvan",
+                "community_notes": null,
+                "conversation_id": "1934626048467202521",
+                "created_time": "2025-06-16T14:56:08",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1934626048467202521",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Grateful to join members of the Portage American Legion Auxiliary Post #260 and American Legion Post #94 in Valparaiso to congratulate members of the Porter County Veterans Treatment Court program upon their graduation. https://t.co/2YPM0nLvFi",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750085768,
+                "view_count": 359
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

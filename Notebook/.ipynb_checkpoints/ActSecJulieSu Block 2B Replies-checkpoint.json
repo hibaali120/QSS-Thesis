@@ -1,0 +1,72 @@
+{
+    "politician": "ActSecJulieSu",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1712816021180969125",
+            "replies": []
+        },
+        {
+            "conversation_id": "1770199904289259909",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/TRUCKINGdotORG/status/1770448585655456249?s=20"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/38wI7wyznw"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1507428205",
+                    "author_username": "Ildiko_Santana",
+                    "community_notes": null,
+                    "conversation_id": "1770199904289259909",
+                    "created_time": "2024-03-20T15:30:16",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1770472937969332334",
+                    "in_reply_to_post_id": "1770199904289259909",
+                    "in_reply_to_profile_id": "1693638750994116609",
+                    "in_reply_to_profile_username": "ActSecJulieSu",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@ActSecJulieSu @SEIU @aboutKP You have the nerve to act as if you supported \"fairness, equality and inclusion\" - while your life goal is to destroy the American workforce at union command. https://t.co/38wI7wyznw The @USDOL is not meant for union organizing but that's what you use it for. Shameful!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "ActSecJulieSu",
+                        "SEIU",
+                        "aboutKP",
+                        "USDOL"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1693638750994116609",
+                        "14695985",
+                        "17372405",
+                        "20179628"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1710948616,
+                    "view_count": 62
+                }
+            ]
+        },
+        {
+            "conversation_id": "1860417286252757234",
+            "replies": []
+        }
+    ]
+}

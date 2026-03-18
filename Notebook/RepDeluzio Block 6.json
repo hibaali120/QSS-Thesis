@@ -1,0 +1,285 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GL8WjLlXYAA7Atc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1783168206837800960/vid/avc1/1162x654/GOsLKS1Z8iMVC-gV.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 24,
+                        "id": "1783168206837800960",
+                        "url": "https://video.twimg.com/amplify_video/1783168206837800960/vid/avc1/1162x654/GOsLKS1Z8iMVC-gV.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1783168809035022770",
+                "created_time": "2024-04-24T16:19:08",
+                "favorite_count": 38,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1783168809035022770",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 6,
+                "source": "Twitter Media Studio",
+                "text": "Proud to secure $600,000 for Fairhaven Park in Kennedy Township. Can't wait to see the new walking trail, exercise equipment, and playground go in! https://t.co/hHakqxYERV",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1713975548,
+                "view_count": 2405
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.king5.com/article/tech/science/aerospace/boeing/striking-boeing-machinists-losing-employee-health-care-coverage/281-25ecc08d-95f5-4f99-9510-18f9b9417047"
+                ],
+                "attached_links_url": [
+                    "https://t.co/j2ZrjXkmzz"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1840972430388707328/vctrNU5D?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1841560789292892429",
+                "created_time": "2024-10-02T19:28:01",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1841560789292892429",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Just like at the Post-Gazette, striking workers at Boeing are being kicked off their healthcare while they exercise their right to strike. No company should be able to hold workers' health hostage during a labor dispute.\nhttps://t.co/j2ZrjXkmzz",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1727897281,
+                "view_count": 1056
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.axios.com/2024/10/15/house-democrats-republicans-election-lawsuit"
+                ],
+                "attached_links_url": [
+                    "https://t.co/9nSTDo7zWW"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1847349781884235801",
+                "created_time": "2024-10-18T18:51:24",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1847349781884235801",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "I'll fight like hell so every eligible American\u2014no matter where they are\u2014can exercise their right to vote. @RepPatRyanNY, fellow veterans, & I wrote to Sec. Austin to protect the votes of our deployed servicemembers from unpatriotic attacks. https://t.co/9nSTDo7zWW",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepPatRyanNY"
+                ],
+                "text_tagged_users_ids": [
+                    "1569400849130049537"
+                ],
+                "text_tags": null,
+                "timestamp": 1729277484,
+                "view_count": 1086
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1873816489880674378",
+                "created_time": "2024-12-30T19:40:41",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1873816498214756424",
+                "in_reply_to_post_id": "1873816496675471843",
+                "in_reply_to_profile_id": "1608934316779921408",
+                "in_reply_to_profile_username": "RepDeluzio",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Republican politicians\u2019 stance on VA spending has become an exercise in fiscal fantasy.\n\nThey are carelessly pushing for unlimited private-sector siphoning of VA funds, consequences be damned.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1735587641,
+                "view_count": 155
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cnn.com/2025/01/15/health/red-dye-no-3-ban-fda-wellness/index.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HKKOodFc9d"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1879595563773206885",
+                "created_time": "2025-01-15T18:24:38",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1879595563773206885",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Good. About time we stop letting corporations put likely-poisonous additives in our food, drinks, and medicine.https://t.co/HKKOodFc9d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1736965478,
+                "view_count": 601
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://amo.house.gov/press-release/amo-leads-49-colleagues-introducing-legislation-to-protect-nutrition-assistance-for-women-infants-and-children-during-republican-government-shutdown"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HHzz0XEqdl"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1987571822754201601/8UHgWzop?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1608934316779921408",
+                "author_username": "RepDeluzio",
+                "community_notes": null,
+                "conversation_id": "1987572182919086265",
+                "created_time": "2025-11-09T17:25:10",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1987572185213571373",
+                "in_reply_to_post_id": "1987572182919086265",
+                "in_reply_to_profile_id": "1608934316779921408",
+                "in_reply_to_profile_username": "RepDeluzio",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "That's why I'm co-sponsoring @RepGabeAmo's \"CARE for WIC During Shutdowns Act\" to make sure states are paid back for all WIC expenses to keep these family-supporting services going to pregnant women, new mothers, and babies. [2/2]\n\nhttps://t.co/HHzz0XEqdl",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGabeAmo"
+                ],
+                "text_tagged_users_ids": [
+                    "1724849796496924672"
+                ],
+                "text_tags": null,
+                "timestamp": 1762709110,
+                "view_count": 548
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,307 @@
+{
+    "politician": "RepJillTokuda",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1765440055282434147",
+            "replies": []
+        },
+        {
+            "conversation_id": "1810503185158865399",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1810642061449994240/pu/img/vy3DNWnkDaw1QQm-.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1810642061449994240/pu/vid/avc1/1280x720/8s8soE4uZdwL7mJm.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 139,
+                            "id": "1810642061449994240",
+                            "url": "https://video.twimg.com/ext_tw_video/1810642061449994240/pu/vid/avc1/1280x720/8s8soE4uZdwL7mJm.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1467399564579594243",
+                    "author_username": "Haojoo7",
+                    "community_notes": null,
+                    "conversation_id": "1810503185158865399",
+                    "created_time": "2024-07-09T11:51:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1810643024768287058",
+                    "in_reply_to_post_id": "1810503185158865399",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJillTokuda @USDANutrition https://t.co/GSM8Ebfc4J",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJillTokuda",
+                        "USDANutrition"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699",
+                        "3130357581"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1720525911,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1810503185158865399",
+                    "created_time": "2024-07-09T11:29:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1810637367331729528",
+                    "in_reply_to_post_id": "1810503185158865399",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJillTokuda @USDANutrition Thank you @RepJillTokuda for US military aid to Ukraine. We need NATO membership now more than ever for security against Russian aggression. \ud83c\uddfa\ud83c\udde6 #NATOforUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJillTokuda",
+                        "USDANutrition"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699",
+                        "3130357581"
+                    ],
+                    "text_tags": [
+                        "natoforukraine"
+                    ],
+                    "timestamp": 1720524563,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1586184394603044865",
+                    "author_username": "artfarmartfarm",
+                    "community_notes": null,
+                    "conversation_id": "1810503185158865399",
+                    "created_time": "2024-07-09T04:17:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1810528762502742257",
+                    "in_reply_to_post_id": "1810503185158865399",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJillTokuda @USDANutrition If you & your friends were not such war mongers , we would have plenty of money to feed Hawaii!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJillTokuda",
+                        "USDANutrition"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699",
+                        "3130357581"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1720498669,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GSA09V0XMAAUVYe.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GSA09V0XMAAUVYe.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1639911203802853377",
+                    "author_username": "CacacSbga62801",
+                    "community_notes": null,
+                    "conversation_id": "1810503185158865399",
+                    "created_time": "2024-07-09T02:44:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1810505388854550665",
+                    "in_reply_to_post_id": "1810503185158865399",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJillTokuda @USDANutrition https://t.co/bZXMh9tf9s",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJillTokuda",
+                        "USDANutrition"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699",
+                        "3130357581"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1720493096,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1815556152282726821",
+            "replies": []
+        },
+        {
+            "conversation_id": "1840930492377444551",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1465576877519622147",
+                    "author_username": "Ernest19651438",
+                    "community_notes": null,
+                    "conversation_id": "1840930492377444551",
+                    "created_time": "2024-10-04T02:42:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1842032531476222267",
+                    "in_reply_to_post_id": "1840930492377444551",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJillTokuda Can you look into why Maui county is telling so many home owners to move their properties off the coast line when an untouched home is right next to the lot. They are also forcing homes to go through major SMAs and we are given an estimate of 2years at a minimum for a permit.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJillTokuda"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1728009753,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1840930492377444551",
+                    "created_time": "2024-10-01T08:31:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1841033137918255439",
+                    "in_reply_to_post_id": "1840930492377444551",
+                    "in_reply_to_profile_id": "1610730477563805699",
+                    "in_reply_to_profile_username": "RepJillTokuda",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJillTokuda Thank you, @RepJillTokuda, for your support for wellness in Maui! We appreciate US aid to Ukraine, please consider NATO membership for our security.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJillTokuda"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1610730477563805699"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727771479,
+                    "view_count": 7
+                }
+            ]
+        }
+    ]
+}

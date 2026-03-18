@@ -1,0 +1,957 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/3nsvYpX"
+                ],
+                "attached_links_url": [
+                    "https://t.co/QiWEpvXICR"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FWlq9KZXkAAZ3uF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FWlq9KZXkAAZ3uF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1542882772838121472",
+                "created_time": "2022-07-01T14:48:13",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1542882772838121472",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Proud to secure close to $3M to boost efforts at @CCBCMD, @TowsonU + @gouchercollege to address shortages of teachers, commercial truckers, scientists + healthcare workers for fiscal year 2023. Read the funding breakdown here: https://t.co/QiWEpvXICR https://t.co/hJSH3bu9zb",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CCBCMD",
+                    "TowsonU",
+                    "gouchercollege"
+                ],
+                "text_tagged_users_ids": [
+                    "23104618",
+                    "15599873",
+                    "25119699"
+                ],
+                "text_tags": null,
+                "timestamp": 1656686893,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/3y8xthU"
+                ],
+                "attached_links_url": [
+                    "https://t.co/v7WftxDWat"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FWlu1nAXoAEfx46.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FWlu1nAXoAEfx46.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1542886320653090823",
+                "created_time": "2022-07-01T15:02:18",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1542886320653090823",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I often brag that Baltimore is home to the best healthcare in the world + the @MedStarHealth Curtis National Hand Center is no exception. Proud to advance $1.5M for the Center to provide patients w/ even better care, train more specialists + more. More: https://t.co/v7WftxDWat https://t.co/D6Ouq2LPDH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MedStarHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "34171157"
+                ],
+                "text_tags": null,
+                "timestamp": 1656687738,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1552696360004091906",
+                "created_time": "2022-07-28T16:43:54",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1552696360004091906",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 8,
+                "source": "Twitter Web App",
+                "text": "I can\u2019t fathom why Senate Republicans blocked a critical bill (#PACTAct) that veterans exposed to toxins from burn pits and Agent Orange have been fighting YEARS for. If they are against providing healthcare for sick combat vets, what are they FOR? #PeopleOverPolitics",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "pactact",
+                    "peopleoverpolitics"
+                ],
+                "timestamp": 1659026634,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1557383658872492035",
+                "created_time": "2022-08-10T15:09:33",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1557383658872492035",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Our economy had 0% inflation in July.  Prices for gas, clothes, air fares, appliances and more all went down. We are on the right track, but still have work to do.  Congress must pass the Inflation Reduction Act ASAP to lower healthcare, prescription drug and energy costs.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1660144173,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1558178311402127360",
+                "created_time": "2022-08-12T19:47:13",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1558178311402127360",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1557060151072346112",
+                "quoted_status_profile_id": "930206461761687554",
+                "quoted_status_profile_username": "SmallBizFuture",
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Worth noting, small businesses agree the #InflationReductionAct  will ease inflationary pressure by paying down the deficit and reducing costs of healthcare and prescription drugs, which limit small businesses' ability to grow and compete in the labor market. More:",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "inflationreductionact"
+                ],
+                "timestamp": 1660333633,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1563245661184671744",
+                "created_time": "2022-08-26T19:23:04",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1563245662808211456",
+                "in_reply_to_post_id": "1563245661184671744",
+                "in_reply_to_profile_id": "305620929",
+                "in_reply_to_profile_username": "Call_Me_Dutch",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Almost 50 years ago, #SCOTUS ruled that women have the right to make their own very private and often very difficult healthcare decisions...",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "scotus"
+                ],
+                "timestamp": 1661541784,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/maryland-delegation-announces-more-3-million-rural-health-care-facilities"
+                ],
+                "attached_links_url": [
+                    "https://t.co/IJdHw3jziS"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FgAERZQWYAAhmxU.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FgAERZQWYAAhmxU.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1585271769182732288",
+                "created_time": "2022-10-26T14:06:57",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1585271769182732288",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Yesterday, #TeamMaryland announced $3 million in federal funds to improve healthcare in rural #Maryland communities. Funds will support a hospital, substance abuse center and efforts to provide healthy, local produce to vulnerable populations. More: https://t.co/IJdHw3jziS https://t.co/UgBeyEmqts",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "maryland",
+                    "teammaryland"
+                ],
+                "timestamp": 1666793217,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.healthcare.gov/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/TUf4ZnYgOJ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/tweet_video_thumb/FgkJgj7X0AEBCmH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/tweet_video/FgkJgj7X0AEBCmH.mp4"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1587810841449078786",
+                "created_time": "2022-11-02T14:16:19",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1587810841449078786",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Thanks to the Inflation Reduction Act, 13 million Americans will save an average of $800 per year and $2,400 per family on #ACA health insurance premiums.\nOpen enrollment began yesterday and goes through Dec. 15. #GetCovered for the start of 2023! More: https://t.co/TUf4ZnYgOJ https://t.co/v8qsDc2YT4",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "aca",
+                    "getcovered"
+                ],
+                "timestamp": 1667398579,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1610718801049403434",
+                "created_time": "2023-01-04T19:24:22",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1610718801049403434",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "What a great new year's gift: as of RIGHT NOW, seniors on Medicare are paying no more than $35 for insulin per month thanks to the Inflation Reduction Act. That\u2019s real savings for millions. I look forward to continuing the fight to lower prescription drug costs in 2023.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1672860262,
+                "view_count": 1116
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FsaoKHCWAAMJA6s.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FsaoKHCWAAMJA6s.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1641184088605224963",
+                "created_time": "2023-03-29T21:02:33",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1641184088605224963",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, I am proudly wearing this turquoise pin to #TurntheHillTurquiose and raise awareness about lung cancer. Together, we can work toward better methods of prevention, early detection and treatments, with quality & affordable healthcare. https://t.co/vSY8glohNk",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "turnthehillturquiose"
+                ],
+                "timestamp": 1680123753,
+                "view_count": 490
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FuGKVIUWYAgwZXZ.jpg?name=small",
+                    "https://pbs.twimg.com/media/FuGKVIUXoAEQjg4.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FuGKVIUWYAgwZXZ.jpg",
+                    "https://pbs.twimg.com/media/FuGKVIUXoAEQjg4.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1648751350652497921",
+                "created_time": "2023-04-19T18:12:08",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1648751350652497921",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "This morning, #TeamDutch\u2019s Danielle attended the ribbon-cutting ceremony for @SheppardPratt\u2019s newly renovated main building in Towson. This renovation is an important step in continuing to provide accessible, world-class behavioral healthcare to #Marylanders! https://t.co/H9dQ3cuZkM",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SheppardPratt"
+                ],
+                "text_tagged_users_ids": [
+                    "860087023"
+                ],
+                "text_tags": [
+                    "marylanders",
+                    "teamdutch"
+                ],
+                "timestamp": 1681927928,
+                "view_count": 804
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F1z9U6mXsAA7K3I.jpg?name=small",
+                    "https://pbs.twimg.com/media/F1z9U6pXwAElQgX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F1z9U6mXsAA7K3I.jpg",
+                    "https://pbs.twimg.com/media/F1z9U6pXwAElQgX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1683498950735671297",
+                "created_time": "2023-07-24T15:26:42",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1683498950735671297",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "#TeamDutch's Danielle attended the grand opening of the @MercyMedCenter Personal Physicians in #MD02's Hunt Valley last week. Excited my constituents will have greater access to leading-edge primary healthcare where they live, shop and work! https://t.co/QgVxbHPxSG",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MercyMedCenter"
+                ],
+                "text_tagged_users_ids": [
+                    "124482695"
+                ],
+                "text_tags": [
+                    "md02",
+                    "teamdutch"
+                ],
+                "timestamp": 1690212402,
+                "view_count": 558
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F8VxnfOWUAA-k8w.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F8VxnfOWUAA-k8w.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1712900309951914107",
+                "created_time": "2023-10-13T18:37:12",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1712900309951914107",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The life expectancy of someone with metastatic breast cancer is between 4 and 36 months. They can't afford to wait to receive care.\n\nThat's why I support @RepGarbarino & @USRepKCastor\u2019s #MetastaticBreastCancerAccesstoCareAct to waive Medicare and SSDI waiting periods. https://t.co/GxY0MyQExy",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGarbarino",
+                    "USRepKCastor"
+                ],
+                "text_tagged_users_ids": [
+                    "1344349650447433729",
+                    "1880674038"
+                ],
+                "text_tags": [
+                    "metastaticbreastcanceraccesstocareact"
+                ],
+                "timestamp": 1697222232,
+                "view_count": 824
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F-CPc4qXgAAbEoj.jpg?name=small",
+                    "https://pbs.twimg.com/media/F-CPiXKXUAEI1xf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F-CPc4qXgAAbEoj.jpg",
+                    "https://pbs.twimg.com/media/F-CPiXKXUAEI1xf.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1720534926905225692",
+                "created_time": "2023-11-03T20:14:27",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1720534926905225692",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Yesterday, #TeamDutch Danielle attended the ribbon cutting ceremony to commemorate the brand-new Louis and Phyllis Friedman Building at @GBMCHealthcare. This expansion contains 2 new acute care units and larger patient rooms. A huge gain for healthcare in #MD02! https://t.co/I1I8SgHO4P",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GBMCHealthcare"
+                ],
+                "text_tagged_users_ids": [
+                    "2651777486"
+                ],
+                "text_tags": [
+                    "md02",
+                    "teamdutch"
+                ],
+                "timestamp": 1699042467,
+                "view_count": 903
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F-SCdrTW4AA4Y-t.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F-SCdrTW4AA4Y-t.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1723357412441411660",
+                "created_time": "2023-11-11T15:10:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1723357412441411660",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "On #VeteransDay, we remember and pay tribute to the personal sacrifices made by veterans and their families in #MD02 and across the country. I will continue to make sure veterans receive world-class healthcare, disability benefits and other services they have earned. https://t.co/CkLEtSVEdu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "md02",
+                    "veteransday"
+                ],
+                "timestamp": 1699715400,
+                "view_count": 671
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1765937310929977447",
+                "created_time": "2024-03-08T03:07:19",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1765937310929977447",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Loving @potus\u2019 ominous, \u201cI will stop you\u201d in reference to anyone who tries to mess with Social Security or Medicare or raise the retirement age. Let\u2019s protect seniors.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1709867239,
+                "view_count": 603
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/team-maryland-announces-4-million-federal-investment-modernizing-states"
+                ],
+                "attached_links_url": [
+                    "https://t.co/CVDkEA07It"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRkxcB8WAAAbUpc.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRkxcB8WAAAbUpc.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1808531093928222772",
+                "created_time": "2024-07-03T15:59:48",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1808531093928222772",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "#TeamMaryland announced nearly $4 million in @CMSGov funding to modernize Maryland\u2019s all-payer health care system. Maryland\u2019s medical system is already world-renowned, but this funding will reduce overall healthcare spending and further enhance care. https://t.co/CVDkEA07It https://t.co/NG0bW1t62m",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "70837868"
+                ],
+                "text_tags": [
+                    "teammaryland"
+                ],
+                "timestamp": 1720022388,
+                "view_count": 336
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/team-maryland-announces-25-million-bolster-school-based-medicaid-chip"
+                ],
+                "attached_links_url": [
+                    "https://t.co/VIFfhckt33"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRun-8BWgAEXMut.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRun-8BWgAEXMut.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1809224447704051835",
+                "created_time": "2024-07-05T13:54:56",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1809224447704051835",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Another health care win! #TeamMaryland announced $2.5 million in @CMSGov funding to expand school-based health services for children. It is critical that children have access to quality, convenient health care to set them up for a bright future. https://t.co/VIFfhckt33 https://t.co/fH3dhI2UBu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "70837868"
+                ],
+                "text_tags": [
+                    "teammaryland"
+                ],
+                "timestamp": 1720187696,
+                "view_count": 309
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRLYTASWAAAvzKs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRLYTASWAAAvzKs.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1818299762149589205",
+                "created_time": "2024-07-30T14:57:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1818299762149589205",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "59 years ago, President Lyndon B. Johnson signed Medicare and Medicaid into law\u2014transforming health care in America.\n\nI will continue working to expand these programs and stand firmly against any attempts by Extreme MAGA Republicans to cut these programs. https://t.co/OQEak0aQkt",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1722351420,
+                "view_count": 690
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GZYdeJJXsAEo2e2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GZYdeJJXsAEo2e2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1843693567572881724",
+                "created_time": "2024-10-08T16:42:55",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1843693567572881724",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Proud to have earned a 95% on the @civilrightsorg scorecard for my votes on protecting healthcare access, reproductive freedom, rights for voters, workers, the disabled and the LGBTQ community & more. Still more work to be done and measures to get to the President\u2019s desk! https://t.co/6guUgWEKiF",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "civilrightsorg"
+                ],
+                "text_tagged_users_ids": [
+                    "58503762"
+                ],
+                "text_tags": null,
+                "timestamp": 1728405775,
+                "view_count": 374
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

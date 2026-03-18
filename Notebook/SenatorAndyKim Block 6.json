@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.banking.senate.gov/newsroom/minority/banking-democrats-call-on-chairman-scott-to-hold-hearing-on-trumps-disastrous-use-of-emergency-powers-to-impose-tariffs-and-cause-chaos-for-american-families"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rw1wFNeGNG"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1078771848882593793",
+                "author_username": "SenatorAndyKim",
+                "community_notes": null,
+                "conversation_id": "1909747577496420652",
+                "created_time": "2025-04-08T23:17:58",
+                "favorite_count": 23,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1909747577496420652",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "The American people are paying the price for Trump's tariffs.\n\u00a0\nSenator Kim joined @SenateBanking Democrats in calling for a hearing to dive into their economic damage and full harm to working families, and to exercise congress' oversight duty.\nhttps://t.co/rw1wFNeGNG",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenateBanking"
+                ],
+                "text_tagged_users_ids": [
+                    "104324860"
+                ],
+                "text_tags": null,
+                "timestamp": 1744154278,
+                "view_count": 1017
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1078771848882593793",
+                "author_username": "SenatorAndyKim",
+                "community_notes": null,
+                "conversation_id": "1947737531153330547",
+                "created_time": "2025-07-22T19:16:29",
+                "favorite_count": 157,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1947737531153330547",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 37,
+                "retweet_count": 26,
+                "source": "Twitter for iPhone",
+                "text": "I am grateful to see that New Jersey's District Court judges succeeded in appointing Desiree Grace as New Jersey's U.S. Attorney. I hope to see her exercise the same judgement and reason in this new position. New Jersey deserves someone who will be measured and thoughtful in their considerations, and a US attorney who will honor the rule of law above all else. I wish Desiree good luck in this endeavor as she helps us fight for a better New Jersey.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1753211789,
+                "view_count": 8536
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

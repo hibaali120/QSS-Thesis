@@ -1,0 +1,54 @@
+{
+    "politician": "RepCraigGoldman",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "2006058981374988618",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1678069758288166913",
+                    "author_username": "EndKidneyDeaths",
+                    "community_notes": null,
+                    "conversation_id": "2006058981374988618",
+                    "created_time": "2026-01-02T00:55:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2006892050059505860",
+                    "in_reply_to_post_id": "2006058981374988618",
+                    "in_reply_to_profile_id": "1875192416602599424",
+                    "in_reply_to_profile_username": "RepCraigGoldman",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCraigGoldman Happy New Year \ud83c\udf89@RepCraigGoldman!\nPlease cosponsor the End Kidney Deaths Act.\nLives saved + dollars saved = let\u2019s get this done in 2026. \u2705",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCraigGoldman"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875192416602599424"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1767315325,
+                    "view_count": 8
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,418 @@
+{
+    "politician": "RepRitchie",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1492257299347513346",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1497373045",
+                    "author_username": "jeri_love2uall",
+                    "community_notes": null,
+                    "conversation_id": "1492257299347513346",
+                    "created_time": "2022-02-13T21:31:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1492974702586851328",
+                    "in_reply_to_post_id": "1492257299347513346",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRitchie @USProgressives @RepMondaire We need some help for cancer survivors. Many things are contributing to increased number of cases. Everyone would benefit from the needed #Medicare4All. Lobbyists are everywhere and it makes for slow progress, imo.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie",
+                        "USProgressives",
+                        "RepMondaire"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304",
+                        "246088673",
+                        "1345883634046279681"
+                    ],
+                    "text_tags": [
+                        "medicare4all"
+                    ],
+                    "timestamp": 1644787881,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3302775858",
+                    "author_username": "Joyyyyc3eeee",
+                    "community_notes": null,
+                    "conversation_id": "1492257299347513346",
+                    "created_time": "2022-02-12T14:22:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1492504367840305163",
+                    "in_reply_to_post_id": "1492257299347513346",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRitchie @RepMondaire #VoteBlueNoMatterWho #VoteBlue2022 #VoteThemAllOut2022  #CancelStudentDebt #ClimateCrisis #WomensRightsAreHumanRights \n#BetoForTexas",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRitchie",
+                        "RepMondaire"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304",
+                        "1345883634046279681"
+                    ],
+                    "text_tags": [
+                        "betofortexas",
+                        "cancelstudentdebt",
+                        "climatecrisis",
+                        "voteblue2022",
+                        "votebluenomatterwho",
+                        "votethemallout2022",
+                        "womensrightsarehumanrights"
+                    ],
+                    "timestamp": 1644675745,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1075528703520718848",
+                    "author_username": "sayed_elkafrawy",
+                    "community_notes": null,
+                    "conversation_id": "1492257299347513346",
+                    "created_time": "2022-02-11T22:46:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1492268946770202625",
+                    "in_reply_to_post_id": "1492257299347513346",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRitchie @RepMondaire HR3548 when?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie",
+                        "RepMondaire"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304",
+                        "1345883634046279681"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644619616,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "912576389332766725",
+                    "author_username": "PeterFishkind",
+                    "community_notes": null,
+                    "conversation_id": "1492257299347513346",
+                    "created_time": "2022-02-11T22:10:17",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1492259722455658501",
+                    "in_reply_to_post_id": "1492257299347513346",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRitchie @RepMondaire Great work!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie",
+                        "RepMondaire"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304",
+                        "1345883634046279681"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644617417,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1494738174064701444",
+            "replies": []
+        },
+        {
+            "conversation_id": "1512100514720325632",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FPwQp99XoAI8fpF.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FPwQp99XoAI8fpF.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1317529838715047937",
+                    "author_username": "DavidHechavarr4",
+                    "community_notes": null,
+                    "conversation_id": "1512100514720325632",
+                    "created_time": "2022-04-07T16:15:59",
+                    "favorite_count": 1,
+                    "geo_lat": 21.33384608,
+                    "geo_lon": -80.62386444,
+                    "id": "1512101895078391810",
+                    "in_reply_to_post_id": "1512100514720325632",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": "CU",
+                    "place_country_name": "Cuba",
+                    "place_full_name": "Cuba",
+                    "place_type": "country",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "Twitter for Android",
+                    "text": "@RepRitchie https://t.co/UIJGm7At6d",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRitchie"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649348159,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1480586013563043847",
+                    "author_username": "bestun_osman",
+                    "community_notes": null,
+                    "conversation_id": "1512100514720325632",
+                    "created_time": "2022-04-07T16:11:51",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1512100853167099909",
+                    "in_reply_to_post_id": "1512100514720325632",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 5,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRitchie help winner dvlottery @RepRitchie pass H.R3548......",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649347911,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1567980751273984001",
+            "replies": []
+        },
+        {
+            "conversation_id": "1569770677640519681",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "128573134",
+                    "author_username": "nixon_rosadohot",
+                    "community_notes": null,
+                    "conversation_id": "1569770677640519681",
+                    "created_time": "2022-09-13T19:38:46",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1569772595393794050",
+                    "in_reply_to_post_id": "1569770677640519681",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRitchie Will you meet with me on HR8393",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663097926,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1570119904946176000",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1264452886064517120",
+                    "author_username": "drew_bbking",
+                    "community_notes": null,
+                    "conversation_id": "1570119904946176000",
+                    "created_time": "2022-09-23T22:04:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573433050247340032",
+                    "in_reply_to_post_id": "1570119904946176000",
+                    "in_reply_to_profile_id": "1276403757224546304",
+                    "in_reply_to_profile_username": "RepRitchie",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRitchie @RepDelBene #PriorAuth -  Pls contact your former City Council members to encourage them to vote NO on amending Admin Law 12-126 which the Unions want to amend to change our NYC retirees medicare plan we've had for decades for an inferior Med Adv Plan.  Thank you. Pls contact me for more inf",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRitchie",
+                        "RepDelBene"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1276403757224546304",
+                        "995193054"
+                    ],
+                    "text_tags": [
+                        "priorauth"
+                    ],
+                    "timestamp": 1663970646,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1587498569916891136",
+            "replies": []
+        },
+        {
+            "conversation_id": "1601773774184947714",
+            "replies": []
+        },
+        {
+            "conversation_id": "1603397576400715776",
+            "replies": []
+        }
+    ]
+}

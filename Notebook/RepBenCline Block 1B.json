@@ -1,0 +1,243 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FKyZtZRX0AAZq7Z.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FKyZtZRX0AAZq7Z.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1072158357237174272",
+                "author_username": "RepBenCline",
+                "community_notes": null,
+                "conversation_id": "1489735643907383296",
+                "created_time": "2022-02-04T23:00:30",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1489735643907383296",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Cancer knows no bounds and has taken far too many of our moms and dads, sons and daughters, and brothers and sisters. On this #WorldCancerDay, we recommit ourselves to raising awareness about this disease and encourage its prevention, early detection, and treatment. https://t.co/kaajz9Rx03",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "worldcancerday"
+                ],
+                "timestamp": 1644015630,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1755987216080195584/img/06eogAN0Wcb4pfxd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1755987216080195584/vid/avc1/568x320/HHqP4Qz3a9mlt3PL.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 172,
+                        "id": "1755987216080195584",
+                        "url": "https://video.twimg.com/amplify_video/1755987216080195584/vid/avc1/568x320/HHqP4Qz3a9mlt3PL.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1072158357237174272",
+                "author_username": "RepBenCline",
+                "community_notes": null,
+                "conversation_id": "1755987317997670889",
+                "created_time": "2024-02-09T16:09:35",
+                "favorite_count": 63,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1755987317997670889",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 12,
+                "source": "Twitter for iPhone",
+                "text": "Secretary Mayorkas has willfully neglected his oath to protect our nation\u2019s sovereignty, our communities, and the American people and must be held accountable.\n\nI look forward to once again voting for impeachment when Majority Leader Scalise returns from cancer treatment next week.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1707494975,
+                "view_count": 1714
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wfxrtv.com/city-of-salem/youngkin-says-qualichem-to-invest-9-million-for-expansion-in-salem/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/oJpv12gKwX"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1072158357237174272",
+                "author_username": "RepBenCline",
+                "community_notes": null,
+                "conversation_id": "1922694093819277367",
+                "created_time": "2025-05-14T16:42:48",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922694093819277367",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Great news for Salem! QualiChem is investing $9 million to expand into a new 48,550-square-foot facility.\n\nAs a leading producer of metalworking fluids and water treatment solutions, QualiChem plays a key role in supporting critical industries like aerospace, medical, and automotive.\n\nhttps://t.co/oJpv12gKwX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747240968,
+                "view_count": 641
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1072158357237174272",
+                "author_username": "RepBenCline",
+                "community_notes": null,
+                "conversation_id": "1924470327003771178",
+                "created_time": "2025-05-19T14:20:55",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1924470327003771178",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Elizabeth and I were saddened to learn of President Biden\u2019s cancer diagnosis. We are praying for his strength and a full recovery, and we\u2019re keeping the Biden family in our thoughts during this difficult time.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747664455,
+                "view_count": 763
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1930670008692011008/img/ZQKOaF_mN37MLm8-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1930670008692011008/vid/avc1/640x360/qsdszJiWiAkjBXV-.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 85,
+                        "id": "1930670008692011008",
+                        "url": "https://video.twimg.com/amplify_video/1930670008692011008/vid/avc1/640x360/qsdszJiWiAkjBXV-.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1072158357237174272",
+                "author_username": "RepBenCline",
+                "community_notes": null,
+                "conversation_id": "1930670067450036407",
+                "created_time": "2025-06-05T16:56:28",
+                "favorite_count": 44,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930670067450036407",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "Last year the EU slapped major U.S. tech with almost $6.7 B in fines\u2014nearly 20% of its entire tariff revenues. That\u2019s why I asked Secretary @howardlutnick today how the Trump Admin is securing a level playing field and stop the EU's discriminatory cash-grab fines. This treatment is flat-out unacceptable, and America won\u2019t stand for it.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "howardlutnick"
+                ],
+                "text_tagged_users_ids": [
+                    "1393335583834091521"
+                ],
+                "text_tags": null,
+                "timestamp": 1749142588,
+                "view_count": 7232
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

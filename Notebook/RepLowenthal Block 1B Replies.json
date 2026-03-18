@@ -1,0 +1,419 @@
+{
+    "politician": "RepLowenthal",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1529934651120402445",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=f7dutCWo48I"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/rUcuS4akek"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-31T01:09:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1531442600070111232",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal You have bankrupt our city, our state, and country.\n\nAnd you voted for President Brandon. How's that working out?\n\nhttps://t.co/rUcuS4akek",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653959343,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://michaelshellenberger.substack.com/p/three-times-more-homeless-die-under?s=w"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/GpzAryo1HG"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-30T22:48:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1531407144079089664",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal Gavin Newsom claims his Housing First policy is more compassionate than New York's Shelter First policy. \n\nBut new data show that 3x more homeless people died in L.A. than NYC, from 2020-2021, despite the fact that NYC has 14k more homeless than L.A.\n\nhttps://t.co/GpzAryo1HG",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653950889,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-30T21:40:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1531390155017187329",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal Hoax Quiz.\nHow many of these hoaxes do you still believe are true?\n\n1. Russia Collusion Hoax\n2. Steele \u00bb\u203aDossier hooker story\n3. Russian paying bounties on US soldiers in Afghanistan\n4. Trump called Neo-Nazis \"Fine people.\"",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653946839,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1028294246384582657",
+                    "author_username": "TammiNotGOP",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-27T00:59:18",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1529990594117763072",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepLowenthal A few of your regular trollbots should call for help. Thanks congressman!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653613158,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-27T00:56:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1529989971058167808",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal Who do you trust less?\n\nPoliticians. \n\nBillionaires.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653613009,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://lbpost.com/features/queen-mary/how-long-beach-leaders-charted-a-disastrous-course-for-the-queen-mary"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/cxgfsgo0Pf"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-27T00:46:21",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1529987338142613504",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal https://t.co/cxgfsgo0Pf",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653612381,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://lbpost.com/features/queen-mary/how-long-beach-leaders-charted-a-disastrous-course-for-the-queen-mary"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/cxgfsgFBGN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-27T00:46:07",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1529987276914077697",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal You voted for this. Put the taxpayers in deep debt.\n\nDo not vote for anyone who pushed this crap on us.\n\nhttps://t.co/cxgfsgFBGN",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653612367,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FTuRmTwUsAEE_rc.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FTuRmTwUsAEE_rc.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1001591646234992640",
+                    "author_username": "BobDobb41589309",
+                    "community_notes": null,
+                    "conversation_id": "1529934651120402445",
+                    "created_time": "2022-05-27T00:04:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1529976800805130241",
+                    "in_reply_to_post_id": "1529934651120402445",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepLowenthal Yea? Care to explain this? https://t.co/rpcJ2je8lK",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepLowenthal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1055730738"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1653609869,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1539777540000485377",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1055730738",
+                    "author_username": "RepLowenthal",
+                    "community_notes": null,
+                    "conversation_id": "1539777540000485377",
+                    "created_time": "2022-06-23T01:09:08",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1539777542068047873",
+                    "in_reply_to_post_id": "1539777540000485377",
+                    "in_reply_to_profile_id": "1055730738",
+                    "in_reply_to_profile_username": "RepLowenthal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "The legislation strengthens and expands more than 30 critical programs that collectively support mental health care and substance use disorder prevention, care, treatment, and recovery support services in communities across the nation. 2/4",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1655946548,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

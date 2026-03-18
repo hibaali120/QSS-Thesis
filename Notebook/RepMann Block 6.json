@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://myvoteinfo.voteks.org/VoterView"
+                ],
+                "attached_links_url": [
+                    "https://t.co/KuKl0IfhuR"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GbT-DODWIAA_JXw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GbT-DODWIAA_JXw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345825008887721986",
+                "author_username": "RepMann",
+                "community_notes": null,
+                "conversation_id": "1853784330230771936",
+                "created_time": "2024-11-05T13:00:00",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1853784330230771936",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Happy Election Day. I hope you'll exercise your right to vote in our country and make your voice heard. \n\nI am praying for our state and our country while believing that our best days are yet to come. Find your polling location at https://t.co/KuKl0IfhuR. https://t.co/QAzPX9RWsv",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1730811600,
+                "view_count": 667
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

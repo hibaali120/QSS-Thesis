@@ -1,0 +1,406 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1540058847162900485/img/_sfwhFX6lhfgjLaI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1540058847162900485/vid/480x270/Lz-8VT_IinFyMSlm.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 253,
+                        "id": "1540058847162900485",
+                        "url": "https://video.twimg.com/amplify_video/1540058847162900485/vid/480x270/Lz-8VT_IinFyMSlm.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1540059891104202765",
+                "created_time": "2022-06-23T19:51:05",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1540059891104202765",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter Media Studio",
+                "text": "I am proud to support the @RepublicanStudy FY23 budget, which includes two of my provisions - the Price Stability Act and the Social Security Disability Insurance Return to Work Act\n\nThis budget will stabilize our economy while securing our communities, benefitting all Americans. https://t.co/bYgoAuh3OY",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepublicanStudy"
+                ],
+                "text_tagged_users_ids": [
+                    "22528309"
+                ],
+                "text_tags": null,
+                "timestamp": 1656013865,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://disasterassistance.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/xDfkeIcis5"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1642948627646541825",
+                "created_time": "2023-04-03T17:54:11",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1642948627646541825",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "To reach @fema, please call 1-800-621-3362, visit https://t.co/xDfkeIcis5, or download the FEMA app from the App Store. FEMA is able to assist those who do not have insurance on their primary residence or are under-insured on their primary residence.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "fema"
+                ],
+                "text_tagged_users_ids": [
+                    "16669075"
+                ],
+                "text_tags": null,
+                "timestamp": 1680544451,
+                "view_count": 881
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://hill.house.gov/news/documentsingle.aspx?DocumentID=9426"
+                ],
+                "attached_links_url": [
+                    "https://t.co/4gZc3QvI8m"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1876634786459967536",
+                "created_time": "2025-01-07T14:19:33",
+                "favorite_count": 38,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1876634786459967536",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 19,
+                "retweet_count": 10,
+                "source": "Twitter Web App",
+                "text": "Instead of focusing on enhancing economic opportunity for all consumers, CFPB Director Chopra\u2019s regulatory overreach will drive up costs to any American seeking medical care and have a devastating impact on consumers\u2019 access to healthcare, particularly in rural areas.\n\nMy full statement, below:\nhttps://t.co/4gZc3QvI8m",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1736259573,
+                "view_count": 9366
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Grj97OwXQAAifqN.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Grj97OwXQAAifqN.png"
+                ],
+                "attached_videos": null,
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1925568676129882116",
+                "created_time": "2025-05-22T15:05:22",
+                "favorite_count": 152,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925568676129882116",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 12,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 199,
+                "retweet_count": 27,
+                "source": "Twitter Web App",
+                "text": "Today, I voted to pass the historic One Big Beautiful Bill. It\u2019s a big win for families, small businesses, and the future of our economy.\n\n\u2705 Secures the border\n\u2705 Cuts red tape\n\u2705 Lowers energy costs\n\u2705 Protects Medicaid and SNAP\n\u2705 Makes tax cuts permanent\nRead my full statement below. \u2b07\ufe0f\n\n#OBBB #AR02",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747926322,
+                "view_count": 15359
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GyVyghaW4AEeYWe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GyVyghaW4AEeYWe.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1956095985295265798",
+                "created_time": "2025-08-14T20:50:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956095985295265798",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 6,
+                "source": "Twitter Web App",
+                "text": "Had the chance to visit the Divine Mercy Health Center in Little Rock last week\u2014an incredible operation with an innovative membership model.\n\nThis faith-inspired nonprofit is making a real difference and increasing access to healthcare right here in central Arkansas. For a small monthly fee, patients get access to primary care, mental health screening, addiction counseling, and more.\n\nThanks to Dr. Lee, Lori Wilbur, and the DMHC team for showing me around!\n\n#AR02 #dmhc #Arkansas #health #LittleRock #DivineMercyHealthCenter",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755204600,
+                "view_count": 1135
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://bit.ly/3JTkYQQ"
+                ],
+                "attached_links_url": [
+                    "https://t.co/EE56Lz74Xd"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1965531706259128320/img/XApcz6cwCLabukcV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1965531706259128320/vid/avc1/1920x888/DTwQWRq-03rXwqYz.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 12,
+                        "id": "1965531706259128320",
+                        "url": "https://video.twimg.com/amplify_video/1965531706259128320/vid/avc1/1920x888/DTwQWRq-03rXwqYz.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1965548672462078434",
+                "created_time": "2025-09-09T22:51:36",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1965548672462078434",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Today, I submitted testimony to the Congressional Record on how to improve Social Security Disability Insurance, including the need to remove barriers for Americans with disabilities who want to work. As I wrote in my remarks: \"SSDI recipients understandably fear the consequences of losing their benefits if they return to work in any capacity...Congress must address these hurdles so that those with more short-term disabilities can more easily return to work.\"\n\nThank you @RepNateMoran for introducing my Statement for the Record at today's @WaysandMeansGOP hearing on supporting opportunities for individuals with disabilities to work.\n\nYou can read my full remarks here\u27a1\ufe0fhttps://t.co/EE56Lz74Xd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1757458296,
+                "view_count": 1009
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1974117304171479040/img/28jFAM2opm652_FF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1974117304171479040/vid/avc1/720x406/N7XndzfBYRCJYmNf.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 94,
+                        "id": "1974117304171479040",
+                        "url": "https://video.twimg.com/amplify_video/1974117304171479040/vid/avc1/720x406/N7XndzfBYRCJYmNf.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1974119047790014881",
+                "created_time": "2025-10-03T14:27:13",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974119047790014881",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "We should be working to renew the flood insurance program, supporting our farmers, and bringing down costs for Americans. It\u2019s time for #SenateDemocrats to reject Chuck Schumer\u2019s shutdown, pass the clean CR, and get back to governing.\n\n#SchumerShutdown #AR02 @MorningsMaria https://t.co/hOrRXTWCOr",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MorningsMaria"
+                ],
+                "text_tagged_users_ids": [
+                    "2330590446"
+                ],
+                "text_tags": [
+                    "ar02",
+                    "schumershutdown",
+                    "senatedemocrats"
+                ],
+                "timestamp": 1759501633,
+                "view_count": 11400
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1974243487911411712/img/WI_6q7SmHENgpV6K.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1974243487911411712/vid/avc1/720x406/rBNcSpJqcaD7Yozk.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 76,
+                        "id": "1974243487911411712",
+                        "url": "https://video.twimg.com/amplify_video/1974243487911411712/vid/avc1/720x406/rBNcSpJqcaD7Yozk.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2953974395",
+                "author_username": "RepFrenchHill",
+                "community_notes": null,
+                "conversation_id": "1974244120819372468",
+                "created_time": "2025-10-03T22:44:12",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974244120819372468",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 55,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "The American people want us to fund the government and solve problems. Instead, Chuck Schumer and #SenateDemocrats shut it down to restore waste, fraud, and abuse and give taxpayer-funded healthcare to illegal immigrants. It\u2019s time to end the games and get back to governing.\n\n#schumershutdown #SchumerShutdown2025 @MorningsMaria",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "senatedemocrats"
+                ],
+                "timestamp": 1759531452,
+                "view_count": 11877
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

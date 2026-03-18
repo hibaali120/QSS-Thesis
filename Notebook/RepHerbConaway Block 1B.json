@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1872681063597887488",
+                "author_username": "RepHerbConaway",
+                "community_notes": null,
+                "conversation_id": "1917223724857598004",
+                "created_time": "2025-04-29T14:26:18",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1917223926142271773",
+                "in_reply_to_post_id": "1917223814447980816",
+                "in_reply_to_profile_id": "1872681063597887488",
+                "in_reply_to_profile_username": "RepHerbConaway",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "2. They\u2019ve stalled cancer breakthroughs.\n\nThere was a major breakthrough for colon cancer treatment, but now it\u2019s on hold thanks to government layoffs. Clinical trials are delayed, even for patients already enrolled.\n\n(Reminder: 1 in 4 Americans will face colon cancer.)",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1745936778,
+                "view_count": 47
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

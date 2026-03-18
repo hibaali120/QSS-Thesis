@@ -1,0 +1,578 @@
+{
+    "politician": "gracenapolitano",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1484184419560833024",
+            "replies": []
+        },
+        {
+            "conversation_id": "1573045656532713472",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "161411080",
+                    "author_username": "gracenapolitano",
+                    "community_notes": null,
+                    "conversation_id": "1573045656532713472",
+                    "created_time": "2022-09-22T20:24:45",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573045658097164289",
+                    "in_reply_to_post_id": "1573045656532713472",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "CMS required Part D plans to cover all or substantially all medications within these six classes, which help protect patients needing antidepressants, antipsychotics, anticonvulsants, immunosuppressants, antiretrovirals, and antineoplastics.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1663878285,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1573045656532713472",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "161411080",
+                    "author_username": "gracenapolitano",
+                    "community_notes": null,
+                    "conversation_id": "1573045656532713472",
+                    "created_time": "2022-09-22T20:24:45",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1573045658097164289",
+                    "in_reply_to_post_id": "1573045656532713472",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "CMS required Part D plans to cover all or substantially all medications within these six classes, which help protect patients needing antidepressants, antipsychotics, anticonvulsants, immunosuppressants, antiretrovirals, and antineoplastics.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1663878285,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1638993426229211137",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=mkA2_nijiyE"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/v8tIwUfLN2"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "925207555265118208",
+                    "author_username": "MMF92691",
+                    "community_notes": null,
+                    "conversation_id": "1638993426229211137",
+                    "created_time": "2023-03-27T05:57:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1640231619780042752",
+                    "in_reply_to_post_id": "1638993426229211137",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano https://t.co/v8tIwUfLN2",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679896666,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fr-rHj8WYAETuqU.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fr-rHj8WYAETuqU.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1638993426229211137",
+                    "created_time": "2023-03-24T10:46:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1639217064337612800",
+                    "in_reply_to_post_id": "1638993426229211137",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano https://t.co/XIIQifV5fI",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679654777,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3166258060",
+                    "author_username": "UrdumbJ",
+                    "community_notes": null,
+                    "conversation_id": "1638993426229211137",
+                    "created_time": "2023-03-23T20:04:02",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638995038402236419",
+                    "in_reply_to_post_id": "1638993426229211137",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano The only thing the ACA did is make it harder to get heathcare and higher costs. \nWorst government takeover ever.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679601842,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1652025239792959489",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1653471685062869011/pu/img/2UfP-jXI2Yqc_6VK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1653471685062869011/pu/vid/1280x720/G8p7t8u1nE1BGcU-.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 139,
+                            "id": "1653471685062869011",
+                            "url": "https://video.twimg.com/ext_tw_video/1653471685062869011/pu/vid/1280x720/G8p7t8u1nE1BGcU-.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1652025239792959489",
+                    "created_time": "2023-05-02T18:49:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1653471812200611860",
+                    "in_reply_to_post_id": "1652025239792959489",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano https://t.co/HKPEe4WqOW",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1683053374,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "161411080",
+                    "author_username": "gracenapolitano",
+                    "community_notes": null,
+                    "conversation_id": "1652025239792959489",
+                    "created_time": "2023-04-28T19:01:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1652025241697173504",
+                    "in_reply_to_post_id": "1652025239792959489",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Without in-patient beds, individuals experiencing mental health crisis are often forced to deal w/ their illness without professional care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1682708485,
+                    "view_count": 60
+                }
+            ]
+        },
+        {
+            "conversation_id": "1652025239792959489",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1653471685062869011/pu/img/2UfP-jXI2Yqc_6VK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1653471685062869011/pu/vid/1280x720/G8p7t8u1nE1BGcU-.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 139,
+                            "id": "1653471685062869011",
+                            "url": "https://video.twimg.com/ext_tw_video/1653471685062869011/pu/vid/1280x720/G8p7t8u1nE1BGcU-.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1652025239792959489",
+                    "created_time": "2023-05-02T18:49:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1653471812200611860",
+                    "in_reply_to_post_id": "1652025239792959489",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano https://t.co/HKPEe4WqOW",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1683053374,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "161411080",
+                    "author_username": "gracenapolitano",
+                    "community_notes": null,
+                    "conversation_id": "1652025239792959489",
+                    "created_time": "2023-04-28T19:01:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1652025241697173504",
+                    "in_reply_to_post_id": "1652025239792959489",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Without in-patient beds, individuals experiencing mental health crisis are often forced to deal w/ their illness without professional care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1682708485,
+                    "view_count": 60
+                }
+            ]
+        },
+        {
+            "conversation_id": "1691944824197321048",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1691944824197321048",
+                    "created_time": "2023-08-31T18:12:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697311364392395222",
+                    "in_reply_to_post_id": "1691944824197321048",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano @gracenapolitano: Thank you for your support! The Russian aggression is devastating. We urgently need defensive weapons to protect our country and our people. #DefendUkraine #NoMoreAppeasement",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": [
+                        "defendukraine",
+                        "nomoreappeasement"
+                    ],
+                    "timestamp": 1693505538,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F33cSMRW0AApSXo.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F33cSMRW0AApSXo.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "925207555265118208",
+                    "author_username": "MMF92691",
+                    "community_notes": null,
+                    "conversation_id": "1691944824197321048",
+                    "created_time": "2023-08-19T04:12:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1692751254965883307",
+                    "in_reply_to_post_id": "1691944824197321048",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@gracenapolitano https://t.co/Z8fJ9L7zOr",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "gracenapolitano"
+                    ],
+                    "text_tagged_users_ids": [
+                        "161411080"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1692418323,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1717240054072922190",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "161411080",
+                    "author_username": "gracenapolitano",
+                    "community_notes": null,
+                    "conversation_id": "1717240054072922190",
+                    "created_time": "2023-10-25T18:01:49",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1717240056912523349",
+                    "in_reply_to_post_id": "1717240054072922190",
+                    "in_reply_to_profile_id": "161411080",
+                    "in_reply_to_profile_username": "gracenapolitano",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "He is not fit to represent Americans who need a champion not a divider. He is unfit to be the speaker of the people\u2019s house",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1698256909,
+                    "view_count": 339
+                }
+            ]
+        }
+    ]
+}

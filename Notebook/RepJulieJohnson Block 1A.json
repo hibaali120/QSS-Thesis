@@ -1,0 +1,1006 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5-QbnZWwAERcdc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5-QbnZWwAERcdc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1990872641519980659",
+                "created_time": "2025-11-18T20:00:01",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1990872641519980659",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "HAPPENING TOMORROW\ud83d\udc47\n\n@Rep_McBride & I are going live on Instagram at 2:00 PM CT/3:00 PM ET to discuss the Epstein Files, health care, what we\u2019re doing to lower costs, & to take your questions! Don\u2019t miss it!\n\n@HouseDemocrats @DemWomenCaucus @EqualityCaucus @HouseDPCC https://t.co/kNTwhWXbW4",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Rep_McBride",
+                    "HouseDemocrats",
+                    "DemWomenCaucus",
+                    "EqualityCaucus",
+                    "HouseDPCC"
+                ],
+                "text_tagged_users_ids": [
+                    "1874886856942452736",
+                    "43963249",
+                    "890675418780618753",
+                    "1392282998",
+                    "3027286779"
+                ],
+                "text_tags": null,
+                "timestamp": 1763496001,
+                "view_count": 565
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1991232509435343000",
+                "created_time": "2025-11-19T19:50:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991232509435343000",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1990872641519980659",
+                "quoted_status_profile_id": "1861777824463376384",
+                "quoted_status_profile_username": "RepJulieJohnson",
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I'm about to go live on Instagram with @Rep_McBride to discuss the Epstein Files, health care, what we\u2019re doing to lower costs, & to take your questions! \n\nDon\u2019t miss it!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Rep_McBride"
+                ],
+                "text_tagged_users_ids": [
+                    "1874886856942452736"
+                ],
+                "text_tags": null,
+                "timestamp": 1763581800,
+                "view_count": 335
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1991621357558239235/img/WzmIgLqjxr3CGf8d.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1991621357558239235/vid/avc1/1920x1080/YlcSnVT8z7-IDwrs.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 183,
+                        "id": "1991621357558239235",
+                        "url": "https://video.twimg.com/amplify_video/1991621357558239235/vid/avc1/1920x1080/YlcSnVT8z7-IDwrs.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1991893364564734139",
+                "created_time": "2025-11-21T15:36:00",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991893364564734139",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I recently hosted a health care roundtable with leaders from across North Texas to discuss lowering costs, improving access, strengthening our workforce, and reforming prior authorization.\n\nI remain laser-focused on lowering costs and expanding affordable care. @NewDemCoalition https://t.co/Popb1m7vFp",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NewDemCoalition"
+                ],
+                "text_tagged_users_ids": [
+                    "761783018"
+                ],
+                "text_tags": null,
+                "timestamp": 1763739360,
+                "view_count": 188
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.ms.now/opinion/msnbc-opinion/tiktok-black-woman-labor-pain-white-nurse-rcna244478"
+                ],
+                "attached_links_url": [
+                    "https://t.co/A2g92WI37Z"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1992031776114696266",
+                "created_time": "2025-11-22T00:46:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1992031776114696266",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "No one should be ignored when seeking medical care \u2014 yet stories like this show how bias and disrespect still cost Black women their safety and dignity.\n\nWe have to confront these failures head-on and demand better from our health care system. https://t.co/A2g92WI37Z",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763772360,
+                "view_count": 220
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1995233604796809216/img/2vMItkemOHMAToDP.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1995233604796809216/vid/avc1/1080x1920/iUZMc_3LRcxqzXOh.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 47,
+                        "id": "1995233604796809216",
+                        "url": "https://video.twimg.com/amplify_video/1995233604796809216/vid/avc1/1080x1920/iUZMc_3LRcxqzXOh.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1995309121277702503",
+                "created_time": "2025-12-01T01:49:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995309121277702503",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The contrast couldn\u2019t be clearer: Republicans are governing with cruelty\u2014holding working families hostage and attacking health care.\n\nDemocrats are fighting with compassion to keep care accessible, lower costs, and restore trust in a government that works for the people. https://t.co/IgRQroXRGj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764553740,
+                "view_count": 257
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1996618410243821582/img/-j7_tZAx6nET_qSE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1996618410243821582/vid/avc1/1080x1920/6f94q9GbYmMFQk_m.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 76,
+                        "id": "1996618410243821582",
+                        "url": "https://video.twimg.com/amplify_video/1996618410243821582/vid/avc1/1080x1920/6f94q9GbYmMFQk_m.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1996618669905117486",
+                "created_time": "2025-12-04T16:32:40",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996618669905117486",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udce2 I just introduced the Fast Track Health Care Apprenticeships Act with @RepMikeKennedy \u2014 a commonsense step to address workforce shortages that are straining patients, providers, and families.\n\nIt\u2019s long past time to strengthen our pipeline and expand access to care. https://t.co/ejdUb9h2Eq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepMikeKennedy"
+                ],
+                "text_tagged_users_ids": [
+                    "1875302141440749573"
+                ],
+                "text_tags": null,
+                "timestamp": 1764865960,
+                "view_count": 171
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://juliejohnson.house.gov/media/press-releases/johnson-introduces-bipartisan-bill-address-health-care-workforce-shortage"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HsydzT0Enj"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1996618669905117486",
+                "created_time": "2025-12-04T16:32:41",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996618671867990155",
+                "in_reply_to_post_id": "1996618669905117486",
+                "in_reply_to_profile_id": "1861777824463376384",
+                "in_reply_to_profile_username": "RepJulieJohnson",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Read more about the legislation here: https://t.co/HsydzT0Enj",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1764865961,
+                "view_count": 126
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-unveil-health-care-action-plan"
+                ],
+                "attached_links_url": [
+                    "https://t.co/uNLqhFSrrz"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1996967436172636161/img/Viuvgi5lKU1_1EnD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1996967436172636161/vid/avc1/1080x1920/jw6M3L14pI8INBEv.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 81,
+                        "id": "1996967436172636161",
+                        "url": "https://video.twimg.com/amplify_video/1996967436172636161/vid/avc1/1080x1920/jw6M3L14pI8INBEv.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1996967677764546865",
+                "created_time": "2025-12-05T15:39:30",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1996967677764546865",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I was proud to join the @NewDemCoalition in releasing a bold Health Care Action Plan focused on lowering costs and expanding access to care. \n\nIt\u2019s a roadmap to more affordability, more transparency, and better care for every family. https://t.co/uNLqhFSrrz https://t.co/5HV3ZjAFsM",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NewDemCoalition"
+                ],
+                "text_tagged_users_ids": [
+                    "761783018"
+                ],
+                "text_tags": null,
+                "timestamp": 1764949170,
+                "view_count": 377
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://newdemocratcoalition.house.gov/media-center/press-releases/new-dems-unveil-health-care-action-plan"
+                ],
+                "attached_links_url": [
+                    "https://t.co/uNLqhFSrrz"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1996985015897399296/img/OI9bbzLkD6OtUmbF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1996985015897399296/vid/avc1/1080x1920/opWDDXaeuZU8WER7.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 40,
+                        "id": "1996985015897399296",
+                        "url": "https://video.twimg.com/amplify_video/1996985015897399296/vid/avc1/1080x1920/opWDDXaeuZU8WER7.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "1997000516887302213",
+                "created_time": "2025-12-05T17:50:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1997000516887302213",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Republicans are refusing to address the health care crisis they created.\n\nBut the @NewDemCoalition and I are stepping up \u2014 releasing a Health Care Action Plan to lower costs, strengthen our system, and prevent it from completely falling apart. https://t.co/uNLqhFSrrz https://t.co/YCJHR5VPrZ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NewDemCoalition"
+                ],
+                "text_tagged_users_ids": [
+                    "761783018"
+                ],
+                "text_tags": null,
+                "timestamp": 1764957000,
+                "view_count": 448
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/atrupar/status/1999616971990503528?s=20"
+                ],
+                "attached_links_url": [
+                    "https://t.co/C65yod56JX"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2000995319744749652",
+                "created_time": "2025-12-16T18:23:55",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000995319744749652",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "2000674961619345594",
+                "quoted_status_profile_id": "31128529",
+                "quoted_status_profile_username": "WaysMeansCmte",
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "ACA tax credit expirations mean a $23B tax hike on the middle class.\n\n15 years. No GOP health care plan. Just a @POTUS who raids taxpayer dollars and tells us, \u201cDon\u2019t make it sound so bad.\" https://t.co/C65yod56JX",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1765909435,
+                "view_count": 401
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2001047617367580869",
+                "created_time": "2025-12-16T21:51:44",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001047617367580869",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "2000959423771238733",
+                "quoted_status_profile_id": "250492272",
+                "quoted_status_profile_username": "igorbobic",
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Illness doesn\u2019t care who you voted for.\n\nI\u2019ve heard from thousands of constituents who refuse to see their health care sacrificed for political games.\n\nBut @SpeakerJohnson keeps kicking the can down the road while costs rise and coverage is put at risk.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1765921904,
+                "view_count": 310
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2000959423771238733",
+                "created_time": "2025-12-16T21:55:11",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001048484858745153",
+                "in_reply_to_post_id": "2000959423771238733",
+                "in_reply_to_profile_id": "250492272",
+                "in_reply_to_profile_username": "igorbobic",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "@igorbobic Illness doesn\u2019t care who you voted for.\n\nI\u2019ve heard from thousands of constituents who refuse to see their health care sacrificed for political games.\n\nBut @SpeakerJohnson keeps kicking the can down the road while costs rise and coverage is put at risk.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "igorbobic",
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "250492272",
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1765922111,
+                "view_count": 80
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2000955305669357915",
+                "created_time": "2025-12-16T21:55:18",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001048514927681862",
+                "in_reply_to_post_id": "2000955305669357915",
+                "in_reply_to_profile_id": "126401831",
+                "in_reply_to_profile_username": "elwasson",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "@elwasson Illness doesn\u2019t care who you voted for.\n\nI\u2019ve heard from thousands of constituents who refuse to see their health care sacrificed for political games.\n\nBut @SpeakerJohnson keeps kicking the can down the road while costs rise and coverage is put at risk.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "elwasson",
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "126401831",
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1765922118,
+                "view_count": 1000
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001318505673584640/img/oqs_9PuZxc3RASZJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001318505673584640/vid/avc1/1080x1920/HYjpNLTd4cympjlW.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 65,
+                        "id": "2001318505673584640",
+                        "url": "https://video.twimg.com/amplify_video/2001318505673584640/vid/avc1/1080x1920/HYjpNLTd4cympjlW.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2001318675777781860",
+                "created_time": "2025-12-17T15:48:49",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001318675777781860",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8 BREAKING \ud83d\udea8\n\nEnough Republicans have joined @HouseDemocrats to force a vote on a 3-year extension of ACA tax credits.\n\nIf Congress does nothing, health care costs will skyrocket for millions of families.\n\n@SpeakerJohnson must bring this to the floor for a vote \u2014 now. https://t.co/LoyqEaYW9B",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseDemocrats",
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "43963249",
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1765986529,
+                "view_count": 303
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2001370991247921386",
+                "created_time": "2025-12-17T19:16:42",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001370991247921386",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "2000935125878558797",
+                "quoted_status_profile_id": "827279765287559171",
+                "quoted_status_profile_username": "SpeakerJohnson",
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "The real headline: @POTUS protects fraudsters.\n\nTrump reinstated 850 agents and brokers who were suspended for suspected fraud \u2014 instead of holding them accountable.\n\nRepublicans will tolerate fraud if it gives them an excuse to rip health care away from millions of Americans.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1765999002,
+                "view_count": 366
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2000935125878558797",
+                "created_time": "2025-12-17T19:17:07",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001371096449454505",
+                "in_reply_to_post_id": "2000935125878558797",
+                "in_reply_to_profile_id": "827279765287559171",
+                "in_reply_to_profile_username": "SpeakerJohnson",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "@SpeakerJohnson The real headline: @POTUS protects fraudsters.\n\nTrump reinstated 850 agents and brokers who were suspended for suspected fraud \u2014 instead of holding them accountable.\n\nRepublicans will tolerate fraud if it gives them an excuse to rip health care away from millions of Americans.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson",
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171",
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1765999027,
+                "view_count": 197
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001426584717213696/img/XSYpA68bHQtP4GN9.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001426584717213696/vid/avc1/1080x1920/fkF67kpDjpE-mZgh.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 84,
+                        "id": "2001426584717213696",
+                        "url": "https://video.twimg.com/amplify_video/2001426584717213696/vid/avc1/1080x1920/fkF67kpDjpE-mZgh.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2001434219403178044",
+                "created_time": "2025-12-17T23:27:57",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001434219403178044",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Americans are about to face thousands more in health care costs or lose coverage. Republicans created this crisis & are refusing to fix it.\n\nI voted NO on a GOP bill that raises costs & won\u2019t extend ACA tax credits.\n\n@SpeakerJohnson must put an extension up for a vote. https://t.co/a0dAJxlBXL",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1766014077,
+                "view_count": 245
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001701502587408384/img/tbVd5TwpY2uu6cGW.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001701502587408384/vid/avc1/1080x1920/dAkdD-XwUAwtzloa.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 129,
+                        "id": "2001701502587408384",
+                        "url": "https://video.twimg.com/amplify_video/2001701502587408384/vid/avc1/1080x1920/dAkdD-XwUAwtzloa.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2001702464743997651",
+                "created_time": "2025-12-18T17:13:52",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001702464743997651",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "This week, House Republicans are pushing two cruel, anti-trans bills.\n\nInstead of lowering costs or helping Texans afford housing, health care, or groceries, @SpeakerJohnson is choosing to bully a small, vulnerable community and attack the lifesaving health care trans people need to survive.\n\nI joined @Rep_McBride and @RepAOC to call out the harm these bills do to the #LGBTQ community \u2014 and to demand Congress focus on real priorities.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1766078032,
+                "view_count": 1159
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001741141155160064/img/7kzspAcZjoxC2tmS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001741141155160064/vid/avc1/1920x1080/f5fBgEsyQHm3qRFM.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 63,
+                        "id": "2001741141155160064",
+                        "url": "https://video.twimg.com/amplify_video/2001741141155160064/vid/avc1/1920x1080/f5fBgEsyQHm3qRFM.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2002450930617192853",
+                "created_time": "2025-12-20T18:48:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2002450930617192853",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Instead of extending the Affordable Care Act\u2019s tax credits, @SpeakerJohnson gaveled Congress out of session \u2014 guaranteeing that millions will pay more for health care.\n\nThis fight isn\u2019t over. I\u2019ll keep pushing to extend these tax credits and lower costs for families. https://t.co/6U3OwwrQnt",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1766256480,
+                "view_count": 207
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2003650510289600515/img/gag1uyJzgdIwJqUL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2003650510289600515/vid/avc1/1080x1920/AvMRXsT7Qq47VRtb.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 117,
+                        "id": "2003650510289600515",
+                        "url": "https://video.twimg.com/amplify_video/2003650510289600515/vid/avc1/1080x1920/AvMRXsT7Qq47VRtb.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1861777824463376384",
+                "author_username": "RepJulieJohnson",
+                "community_notes": null,
+                "conversation_id": "2003650941141274815",
+                "created_time": "2025-12-24T02:16:25",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003650941141274815",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Families are stressing over how much more everything costs, with prices through the roof in Trump's America.\n\nThat\u2019s why I\u2019m focused on lowering costs across the board: groceries, housing, health care, and energy. \n\nYou deserve relief. That's what I'm fighting for. https://t.co/y0hReFelNE",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766542585,
+                "view_count": 274
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

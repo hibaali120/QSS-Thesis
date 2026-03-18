@@ -1,0 +1,106 @@
+{
+    "politician": "RepRWilliams",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1522318924104323072",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1520952270699089920",
+                    "author_username": "RobertM48140053",
+                    "community_notes": null,
+                    "conversation_id": "1522318924104323072",
+                    "created_time": "2022-05-06T04:12:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1522429073737273344",
+                    "in_reply_to_post_id": "1522318924104323072",
+                    "in_reply_to_profile_id": "1077446982",
+                    "in_reply_to_profile_username": "RepRWilliams",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRWilliams How long will you be in Austin?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRWilliams"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1077446982"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651810351,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1945558309441827269",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "Https://www.gbmresearch.org/blog/the-government-just-cut-100-of-funding-for-glioblastoma"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/G05o2wu3vj"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1228815396595208193",
+                    "author_username": "DemsHd94",
+                    "community_notes": null,
+                    "conversation_id": "1945558309441827269",
+                    "created_time": "2025-07-16T19:47:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945571096910041370",
+                    "in_reply_to_post_id": "1945558309441827269",
+                    "in_reply_to_profile_id": "1077446982",
+                    "in_reply_to_profile_username": "RepRWilliams",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRWilliams Supporting continued research? You voted for the bill that guts  glioblastoma research funding and access to care.  Enjoy your lunch. \nhttps://t.co/G05o2wu3vj",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRWilliams"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1077446982"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752695271,
+                    "view_count": 22
+                }
+            ]
+        }
+    ]
+}

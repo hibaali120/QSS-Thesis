@@ -1,0 +1,104 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GIAOE3pWEAAjeXC.jpg?name=small",
+                    "https://pbs.twimg.com/media/GIAOE3qWQAAEMbR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GIAOE3pWEAAjeXC.jpg",
+                    "https://pbs.twimg.com/media/GIAOE3qWQAAEMbR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1611396007111057408",
+                "author_username": "RepLangworthy",
+                "community_notes": null,
+                "conversation_id": "1765469902230458670",
+                "created_time": "2024-03-06T20:10:00",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1765469902230458670",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "TweetDeck Web App",
+                "text": "Today, I had the opportunity to meet with leaders from local food banks: Food Bank of the Southern Tier, Feedmore WNY, and Feeding New York State. We had a great discussion about the importance of nutrition security and ways to support their work in our region. https://t.co/0yVMrYgRRf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1709755800,
+                "view_count": 330
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://langworthy.house.gov/media/press-releases/congressman-langworthy-announces-usda-purchase-surplus-concord-grape-juice"
+                ],
+                "attached_links_url": [
+                    "https://t.co/kSimRrmnzN"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GLesWIDXoAAjknS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GLesWIDXoAAjknS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1611396007111057408",
+                "author_username": "RepLangworthy",
+                "community_notes": null,
+                "conversation_id": "1781081915283460219",
+                "created_time": "2024-04-18T22:06:34",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1781081915283460219",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Great news for New York grape growers! \ud83c\udf47\n\nThe USDA has agreed to purchase $45 million in surplus Concord grape juice to distribute to various nutrition assistance programs, benefitting communities in need across the nation as well as our grape growers.\n\nI\u2019m always proud to advocate for the hardworking agricultural community in our region and ensure they have a seat at the table in Washington.\n\nRead more:\nhttps://t.co/kSimRrmnzN",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1713477994,
+                "view_count": 2337
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

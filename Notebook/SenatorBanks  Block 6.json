@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wane.com/news/indiana/marine-from-fort-wayne-identified-as-1-of-4-killed-in-nato-exercise-crash/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/nryOwSgcBZ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "816131319033950208",
+                "author_username": "SenatorBanks",
+                "community_notes": null,
+                "conversation_id": "1505723361011380225",
+                "created_time": "2022-03-21T01:49:58",
+                "favorite_count": 107,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1505723361011380225",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 31,
+                "source": "Twitter for iPhone",
+                "text": "Heatbreaking news. Praying for Capt. Tomkiewicz and his family \ud83d\ude4f\ud83c\udffb \n\nhttps://t.co/nryOwSgcBZ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1647827398,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

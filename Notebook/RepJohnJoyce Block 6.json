@@ -1,0 +1,109 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F28vfksWsAA_Xln.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F28vfksWsAA_Xln.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1082311988926124036",
+                "author_username": "RepJohnJoyce",
+                "community_notes": null,
+                "conversation_id": "1688620649047089153",
+                "created_time": "2023-08-07T18:38:30",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1688620649047089153",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Fulton County Medical Center is unveiling their brand new Clinical Education Suite and Wellness Center designed to provide our health care providers with the tools and experience they need to help treat us and heal. Thank you for showing me the facility! https://t.co/yM7eI2YXvI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1691433510,
+                "view_count": 660
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001299188416458752/img/zvOJJKsrn_KTodLo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001299188416458752/vid/avc1/640x360/kpApVTvwOJ8Wfm58.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 91,
+                        "id": "2001299188416458752",
+                        "url": "https://video.twimg.com/amplify_video/2001299188416458752/vid/avc1/640x360/kpApVTvwOJ8Wfm58.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1082311988926124036",
+                "author_username": "RepJohnJoyce",
+                "community_notes": null,
+                "conversation_id": "2001299262659862780",
+                "created_time": "2025-12-17T14:31:41",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001299262659862780",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Proud to vote in support of the Whole Milk for Healthy Kids Act of 2025 that passed in the House and now heads to @POTUS's desk to be signed into law.\n\nAllowing schools to offer healthy whole milk is crucial to a child\u2019s nutrition and development.\n\nView my full remarks here: https://t.co/pdo0rq6XXL",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1765981901,
+                "view_count": 411
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

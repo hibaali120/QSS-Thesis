@@ -1,0 +1,62 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1936127492743462912/img/Mf0MWjlYJgMXg3y1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1936127492743462912/vid/avc1/720x1280/q6R8ydXV74MJYf6o.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 72,
+                        "id": "1936127492743462912",
+                        "url": "https://video.twimg.com/amplify_video/1936127492743462912/vid/avc1/720x1280/q6R8ydXV74MJYf6o.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "282219422",
+                "author_username": "RepTimMooreNC",
+                "community_notes": null,
+                "conversation_id": "1936127631767863772",
+                "created_time": "2025-06-20T18:22:53",
+                "favorite_count": 23,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1936127631767863772",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Today, I had a chance to visit Chimney Rock to see the major progress they\u2019re making in Hurricane Helene efforts. This wastewater treatment package plant is instrumental in this area\u2019s reopening. https://t.co/GvF28yAu1F",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750443773,
+                "view_count": 1404
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

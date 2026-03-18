@@ -1,0 +1,104 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FT0s8IeWIAAG0Cj.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FT0s8IeWIAAG0Cj.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "17976923",
+                "author_username": "cathymcmorris",
+                "community_notes": null,
+                "conversation_id": "1531274234906849280",
+                "created_time": "2022-05-30T14:00:01",
+                "favorite_count": 29,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1531274234906849280",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 6,
+                "source": "Twitter Web App",
+                "text": "Today we pay homage to those who answered America\u2019s call in her darkest hours & laid down their life for freedom. We remember how they gave their final breath so we did not have to; so we could sleep in peace knowing we were free & safe from all evil. \n\nMay God watch over them. https://t.co/j6YYmfoZDv",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1653919201,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://energycommerce.house.gov/posts/e-and-c-republicans-launch-probe-in-nih-s-billion-dollar-public-relations-spending-spree"
+                ],
+                "attached_links_url": [
+                    "https://t.co/RmmRzQeVnf"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "17976923",
+                "author_username": "cathymcmorris",
+                "community_notes": null,
+                "conversation_id": "1650952824459763712",
+                "created_time": "2023-04-25T20:00:01",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1650952824459763712",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 16,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Americans have been force fed a constant diet of Anthony Fauci propaganda since the onset of the pandemic.\n\n@RepMGriffith, @RepGuthrie, and I are leading to ensure taxpayer dollars aren\u2019t being spent to silence scientific debate or promote personalities.\nhttps://t.co/RmmRzQeVnf",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepMGriffith",
+                    "RepGuthrie"
+                ],
+                "text_tagged_users_ids": [
+                    "234057152",
+                    "1908143071"
+                ],
+                "text_tags": null,
+                "timestamp": 1682452801,
+                "view_count": 2139
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

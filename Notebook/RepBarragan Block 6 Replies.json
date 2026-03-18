@@ -1,0 +1,629 @@
+{
+    "politician": "RepBarragan",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1533236332356567042",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.youtube.com/watch?v=bLtV6TtZDHU"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/JwFI7HZkUo"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2254495818",
+                    "author_username": "supun32",
+                    "community_notes": null,
+                    "conversation_id": "1533236332356567042",
+                    "created_time": "2022-06-05T15:48:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1533475772525993985",
+                    "in_reply_to_post_id": "1533236332356567042",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBarragan @First5LA @providence @lahcedu That's great you're out in the neighborhoods. I've noticed rental prices start to shoot up. Are the reps in southern california starting to look at single home speculation and how it's exacerbating our current #HousingCrisis? This video was good: https://t.co/JwFI7HZkUo",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "First5LA",
+                        "providence",
+                        "lahcedu"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "85369984",
+                        "831935904918892544",
+                        "3194549336"
+                    ],
+                    "text_tags": [
+                        "housingcrisis"
+                    ],
+                    "timestamp": 1654444089,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FUcmUswWAAEJUKL.jpg?name=small",
+                        "https://pbs.twimg.com/media/FUcmUttXEAAT92m.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FUcmUswWAAEJUKL.jpg",
+                        "https://pbs.twimg.com/media/FUcmUttXEAAT92m.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "816833925456789505",
+                    "author_username": "RepBarragan",
+                    "community_notes": null,
+                    "conversation_id": "1533236332356567042",
+                    "created_time": "2022-06-04T23:56:44",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1533236341194076166",
+                    "in_reply_to_post_id": "1533236332356567042",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "Today, we saw our future scientists, engineers, & innovators from #CA44 hard at work at @bgcofcarson putting their robots to the test in a series of competitions.\n\nThese young kids have bright futures & will bring  diversity & innovation to #STEM fields in the future. https://t.co/w96kBUGEIo",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "bgcofcarson"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479003377"
+                    ],
+                    "text_tags": [
+                        "ca44",
+                        "stem"
+                    ],
+                    "timestamp": 1654387004,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1545519177485762566",
+            "replies": []
+        },
+        {
+            "conversation_id": "1553844910431805441",
+            "replies": []
+        },
+        {
+            "conversation_id": "1675895324978692099",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "843892242624516102",
+                    "author_username": "APWAMarty",
+                    "community_notes": null,
+                    "conversation_id": "1675895324978692099",
+                    "created_time": "2023-07-03T16:22:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1675902857457926144",
+                    "in_reply_to_post_id": "1675895324978692099",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBarragan @UN @unfoundation @UNICEF @FAO Thanks for sharing @RepBarragan",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "UN",
+                        "unfoundation",
+                        "UNICEF",
+                        "FAO"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "14159148",
+                        "39511166",
+                        "33933259",
+                        "19649135"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1688401352,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1698702402835096037",
+            "replies": []
+        },
+        {
+            "conversation_id": "1745529864705159259",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1644116592786292742",
+                    "author_username": "F_X_Z_1",
+                    "community_notes": null,
+                    "conversation_id": "1745529864705159259",
+                    "created_time": "2024-01-11T20:18:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1745540789730791632",
+                    "in_reply_to_post_id": "1745529864705159259",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBarragan @Campaign4Kids I agree: the parents should provide healthcare, nutrition, and education to their own children--NOT THE GOVERNMENT. (My dad did and my mom was a housewife.)",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "Campaign4Kids"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "197567344"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1705004329,
+                    "view_count": 31
+                }
+            ]
+        },
+        {
+            "conversation_id": "1760420106662814129",
+            "replies": []
+        },
+        {
+            "conversation_id": "1762573967007629613",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1644116592786292742",
+                    "author_username": "F_X_Z_1",
+                    "community_notes": null,
+                    "conversation_id": "1762573967007629613",
+                    "created_time": "2024-02-27T22:28:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1762605760067092692",
+                    "in_reply_to_post_id": "1762573967007629613",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBarragan @HouseDemocrats CA food stamp $20 match program is over in June, free internet is over in May & they're not taking any more applications. This is good news. Gov budget cuts lower inflation hi-prices. This is a transitional period. Econ looking good for 2026-'27. \u270c\ud83c\udffbTRUMP 2024\u270c\ud83c\udffb He knows biz.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1709072935,
+                    "view_count": 21
+                }
+            ]
+        },
+        {
+            "conversation_id": "1791552308335055141",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1636383055362539521",
+                    "author_username": "castleman_808",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-20T00:01:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1792344901939781775",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1792339657046573076",
+                    "quoted_status_profile_id": "951531694229606400",
+                    "quoted_status_profile_username": "MayorBillWells",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBarragan @HouseDemocrats Maybe we can secure our border to illegal immigrants?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716163299,
+                    "view_count": 23
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/crimeinnyc/status/1791920832035356968?s=46&t=DmAW3fWmP09ezRf1uU1B5g"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/te5Iaj6jhG"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1636383055362539521",
+                    "author_username": "castleman_808",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-19T22:30:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1792321873084059686",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1791920832035356968",
+                    "quoted_status_profile_id": "986403517081505793",
+                    "quoted_status_profile_username": "Crime_In_NYC",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBarragan @HouseDemocrats Close the border to ILLEGAL Immigrants.  \n\nhttps://t.co/te5Iaj6jhG",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716157808,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1141158027690516480",
+                    "author_username": "BD67820353",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-18T16:39:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1791871285334851996",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBarragan @HouseDemocrats A harsh take is: You breed em you feed em. No child should go hungry but are there any consequences for the parents to have a child they were not ready for? What if they do it again? And again? The tax payer is expected to fund horrible decisions forever?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716050380,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1473485044018601984",
+                    "author_username": "FedUpWithBadAir",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-18T00:01:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1791619996491059653",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBarragan @HouseDemocrats Republicans are sociopaths, so that's not surprising.\n\nI just hope they get walloped in November...",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715990468,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GNz4Fk6bQAgZ_UB.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GNz4Fk6bQAgZ_UB.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "107277829",
+                    "author_username": "iaacm",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-17T21:20:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1791579531670929731",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBarragan @HouseDemocrats You back a genocide that is starving millions \u2014 many of them children \u2014 in a man-made famine, as Israel continues to block, or even attack aid delivery. https://t.co/qYjLFF9L2Y",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715980820,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816833925456789505",
+                    "author_username": "RepBarragan",
+                    "community_notes": null,
+                    "conversation_id": "1791552308335055141",
+                    "created_time": "2024-05-17T21:00:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1791574425076126058",
+                    "in_reply_to_post_id": "1791552308335055141",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 1,
+                    "source": "TweetDeck Web App",
+                    "text": "Los Republicanos de la C\u00e1mara de Representantes recortaron radicalmente los fondos del #FarmBill para programas cr\u00edticos de nutrici\u00f3n en los que millones de estadounidenses dependen para alimentar a sus familias.\n\n Los beneficios SNAP ayudan a m\u00e1s de 2 Millones de familias de bajos recursos de California a poner comida en la mesa. \n\n@HouseDemocrats est\u00e1n enfocados en reducir las cargas sobre las familias, y a los republicanos no parece importarles.\n#GenteSobrePolitica",
+                    "text_lang": "es",
+                    "text_tagged_users": [
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "43963249"
+                    ],
+                    "text_tags": [
+                        "farmbill"
+                    ],
+                    "timestamp": 1715979603,
+                    "view_count": 372
+                }
+            ]
+        },
+        {
+            "conversation_id": "1914448453863620984",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1914448453863620984",
+                    "created_time": "2025-04-21T22:41:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1914449350958153746",
+                    "in_reply_to_post_id": "1914448453863620984",
+                    "in_reply_to_profile_id": "816833925456789505",
+                    "in_reply_to_profile_username": "RepBarragan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Congresswoman, the VA's budget has surged from $199.6B to $325B under Trump - a 63% increase. The real issue? Decades of bureaucratic bloat from prior administrations misallocating funds meant for veterans. While Biden's team expanded VA enrollment without fixing systemic failures, Trump's DOGE is streamlining operations to redirect resources from administrative fatcats to frontline care.\n\nHomelessness and food insecurity stem from legacy mismanagement, not current policies that actually increased veteran healthcare spending by $125B.\n\nThe GOP Study Committee's proposals target long-term solvency, not current beneficiaries - unlike Biden's inflationary policies that eroded purchasing power for fixed incomes.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBarragan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816833925456789505"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1745275268,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1985060489064226885",
+            "replies": []
+        },
+        {
+            "conversation_id": "1993504479317029124",
+            "replies": []
+        }
+    ]
+}

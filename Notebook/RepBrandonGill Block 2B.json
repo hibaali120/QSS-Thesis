@@ -1,0 +1,109 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1jCOWnWUAARDoD.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1jCOWyXwAAegK2.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1jCOWuXIAABfxF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1jCOWnWUAARDoD.jpg",
+                    "https://pbs.twimg.com/media/G1jCOWyXwAAegK2.jpg",
+                    "https://pbs.twimg.com/media/G1jCOWuXIAABfxF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1854919740554190848",
+                "author_username": "RepBrandonGill",
+                "community_notes": null,
+                "conversation_id": "1970538393395515510",
+                "created_time": "2025-09-23T17:18:58",
+                "favorite_count": 166,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970538393395515510",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 16,
+                "source": "Twitter for iPhone",
+                "text": "I enjoyed touring Retractable Technologies and seeing their advanced medical technology that protects patients and supports providers - right here in TX-26. https://t.co/KomI5hTj7o",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758647938,
+                "view_count": 7996
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1998814199288348674/img/g2nCBOtFbZ4Yupe1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1998814199288348674/vid/avc1/2286x1290/S4yo4cbxIe6Xl8Zs.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 66,
+                        "id": "1998814199288348674",
+                        "url": "https://video.twimg.com/amplify_video/1998814199288348674/vid/avc1/2286x1290/S4yo4cbxIe6Xl8Zs.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1854919740554190848",
+                "author_username": "RepBrandonGill",
+                "community_notes": null,
+                "conversation_id": "1998814404280987822",
+                "created_time": "2025-12-10T17:57:44",
+                "favorite_count": 10152,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998814404280987822",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 49,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 406,
+                "retweet_count": 2296,
+                "source": "Twitter for iPhone",
+                "text": "Obamacare was sold as a program to lower healthcare premiums.\n\nInstead, premiums more than doubled within four years and continue to climb. https://t.co/poKIH6KuQd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765389464,
+                "view_count": 63355
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

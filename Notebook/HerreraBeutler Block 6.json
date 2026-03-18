@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "242926427",
+                "author_username": "HerreraBeutler",
+                "community_notes": null,
+                "conversation_id": "1479493875756675072",
+                "created_time": "2022-01-07T16:43:23",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1479493879497953283",
+                "in_reply_to_post_id": "1479493878323552272",
+                "in_reply_to_profile_id": "242926427",
+                "in_reply_to_profile_username": "HerreraBeutler",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Please remain safe and exercise caution as we continue to see historic river levels throughout Southwest Washington. I will continue sharing additional information and emergency management resources. Stay tuned.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1641573803,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

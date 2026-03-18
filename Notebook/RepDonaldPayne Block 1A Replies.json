@@ -1,0 +1,587 @@
+{
+    "politician": "RepDonaldPayne",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1669097536701833219",
+            "replies": []
+        },
+        {
+            "conversation_id": "1669400169312296960",
+            "replies": []
+        },
+        {
+            "conversation_id": "1672591698981974019",
+            "replies": []
+        },
+        {
+            "conversation_id": "1679868702613798914",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1567630142897537024",
+                    "author_username": "LACVTLa",
+                    "community_notes": null,
+                    "conversation_id": "1679868702613798914",
+                    "created_time": "2023-07-20T20:02:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1682118685077524481",
+                    "in_reply_to_post_id": "1679868702613798914",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDonaldPayne Congressman Donald Payne, Jr. is making great strides in bringing awareness to peripheral artery disease! Let\u2019s encourage our legislators to support the Amputation Reduction and Compassion Act. #PAD #amputation #diabetes @RepDonaldPayne",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": [
+                        "amputation",
+                        "diabetes",
+                        "pad"
+                    ],
+                    "timestamp": 1689883321,
+                    "view_count": 27
+                }
+            ]
+        },
+        {
+            "conversation_id": "1679884749391769601",
+            "replies": []
+        },
+        {
+            "conversation_id": "1681036097013284865",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "826140102493609988",
+                    "author_username": "VioletaQSmith",
+                    "community_notes": null,
+                    "conversation_id": "1681036097013284865",
+                    "created_time": "2023-07-17T23:39:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681086279612608512",
+                    "in_reply_to_post_id": "1681036097013284865",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne Congratulations!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689637176,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1683557699068338179",
+            "replies": []
+        },
+        {
+            "conversation_id": "1684252288607457280",
+            "replies": []
+        },
+        {
+            "conversation_id": "1684931759538933761",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "87062117",
+                    "author_username": "guyczar",
+                    "community_notes": null,
+                    "conversation_id": "1684931759538933761",
+                    "created_time": "2023-08-07T07:17:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688449148905775104",
+                    "in_reply_to_post_id": "1684931759538933761",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne @RepWilson LMAO! Did the cowgirl finally go back to work? Three years on vacation.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne",
+                        "RepWilson"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864",
+                        "234014087"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691392621,
+                    "view_count": 2
+                }
+            ]
+        },
+        {
+            "conversation_id": "1687204664704651268",
+            "replies": []
+        },
+        {
+            "conversation_id": "1691839734622892038",
+            "replies": []
+        },
+        {
+            "conversation_id": "1696583776711647534",
+            "replies": []
+        },
+        {
+            "conversation_id": "1701309857255625108",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1412972983279398912",
+                    "author_username": "CaseyHa19141717",
+                    "community_notes": null,
+                    "conversation_id": "1701309857255625108",
+                    "created_time": "2023-09-13T07:01:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1701853702208864351",
+                    "in_reply_to_post_id": "1701309857255625108",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDonaldPayne You morons are the ones that brought this impeachment stuff on yourselves. So shut up and deal with it. You idiots put the country through 4 years of nonsense. You losers can dish it out but can't take it? Suck it up, buttercup! Stop whining and again, remember who started it!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1694588516,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1704235174534185346",
+            "replies": []
+        },
+        {
+            "conversation_id": "1704944899894776050",
+            "replies": []
+        },
+        {
+            "conversation_id": "1719702127461761433",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1719702127461761433",
+                    "created_time": "2023-11-02T00:07:53",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1719868899334684842",
+                    "in_reply_to_post_id": "1719702127461761433",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne @RepDonaldPayne While healthcare is important, our immediate concern is surviving Russian aggression. Please prioritize supporting Ukraine's defense needs.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1698883673,
+                    "view_count": 2
+                }
+            ]
+        },
+        {
+            "conversation_id": "1757861088618578344",
+            "replies": []
+        },
+        {
+            "conversation_id": "1767637990082290108",
+            "replies": []
+        },
+        {
+            "conversation_id": "1767645544401301554",
+            "replies": []
+        },
+        {
+            "conversation_id": "1778425358582169968",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "961394482859167745",
+                    "author_username": "dickeyman1",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-18T21:37:43",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781074656130212244",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 2,
+                    "source": "Twitter for Android",
+                    "text": "@RepDonaldPayne How did you post this while in a coma??? Did you vote too???",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713476263,
+                    "view_count": 148
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/jsolomonReports/status/1780937086968672569?t=sEU5VHDyDAy612737RjN9Q&s=19"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/6NON5VABD1"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585800280280555522",
+                    "author_username": "tim0_2000",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-18T21:20:23",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781070292720202184",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1780937086968672569",
+                    "quoted_status_profile_id": "523248016",
+                    "quoted_status_profile_username": "jsolomonReports",
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@RepDonaldPayne Has the congressman voted since the 6th? Perhaps by proxy? We The People see what you criminals are up to. https://t.co/6NON5VABD1",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713475223,
+                    "view_count": 48
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1591157903200817153",
+                    "author_username": "TomZeeeeee",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-18T18:00:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781020003585679559",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne Since you were in intensive care on April 11th, when this was posted, did somebody hack into your account?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713463233,
+                    "view_count": 26
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1656795621674590211",
+                    "author_username": "FaithCommonSenz",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-18T15:04:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1780975637924032881",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDonaldPayne I do not know you or follow you on social media.  I just saw your name go by on chyron.  I will say a prayer for your recovery.  I also pray regularly that people wake up to the Covid \u201cvax\u201d harms & stop taking it over & over. @naomirwolf @P_McCulloughMD @RWMaloneMD @PierreKory",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne",
+                        "naomirwolf",
+                        "P_McCulloughMD",
+                        "RWMaloneMD",
+                        "PierreKory"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864",
+                        "289420613",
+                        "1465347964252180493",
+                        "39844876",
+                        "2163723997"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713452655,
+                    "view_count": 27
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "35783147",
+                    "author_username": "MorrisBoyd",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-17T21:14:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1780706396067316074",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne Prayers and good wishes.......\nMy son was in ICU for 3 months from a brain injury, It is a tough go...hold on!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713388463,
+                    "view_count": 155
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/MbGaUSA/status/1778708732307755502"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/nDPieZ06oZ"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1393283223841562626",
+                    "author_username": "LiberTProsperiT",
+                    "community_notes": null,
+                    "conversation_id": "1778425358582169968",
+                    "created_time": "2024-04-12T11:26:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1778746397090570742",
+                    "in_reply_to_post_id": "1778425358582169968",
+                    "in_reply_to_profile_id": "1155335864",
+                    "in_reply_to_profile_username": "RepDonaldPayne",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1778708732307755502",
+                    "quoted_status_profile_id": "1514468130",
+                    "quoted_status_profile_username": "MbGaUSA",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDonaldPayne I know you must be on your 9th or 10th shot by now I\u2019ve lost track where all you lab rats should be by now. Maybe it\u2019s a good time to reassess.\nhttps://t.co/nDPieZ06oZ",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDonaldPayne"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1155335864"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1712921163,
+                    "view_count": 114
+                }
+            ]
+        }
+    ]
+}

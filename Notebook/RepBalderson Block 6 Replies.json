@@ -1,0 +1,150 @@
+{
+    "politician": "RepBalderson",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1571244337891082246",
+            "replies": []
+        },
+        {
+            "conversation_id": "1626270037727141888",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1626270037727141888",
+                    "created_time": "2023-02-19T12:15:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1627280684573237249",
+                    "in_reply_to_post_id": "1626270037727141888",
+                    "in_reply_to_profile_id": "1037341536592310272",
+                    "in_reply_to_profile_username": "RepBalderson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBalderson @KnoxCommHosp Putin does not respect borders.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBalderson",
+                        "KnoxCommHosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1037341536592310272",
+                        "330356600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1676808923,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "849918715",
+                    "author_username": "berneunion2",
+                    "community_notes": null,
+                    "conversation_id": "1626270037727141888",
+                    "created_time": "2023-02-16T19:39:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1626305217758220290",
+                    "in_reply_to_post_id": "1626270037727141888",
+                    "in_reply_to_profile_id": "1037341536592310272",
+                    "in_reply_to_profile_username": "RepBalderson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBalderson @KnoxCommHosp If the GQP is able to cut back Medicare and Medicaid, rural hospitals won't be able to stay open. They depend on both those Federal programs for revenue.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBalderson",
+                        "KnoxCommHosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1037341536592310272",
+                        "330356600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1676576353,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "31764578",
+                    "author_username": "katdomalski",
+                    "community_notes": null,
+                    "conversation_id": "1626270037727141888",
+                    "created_time": "2023-02-16T17:26:25",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1626271796822519808",
+                    "in_reply_to_post_id": "1626270037727141888",
+                    "in_reply_to_profile_id": "1037341536592310272",
+                    "in_reply_to_profile_username": "RepBalderson",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBalderson @KnoxCommHosp I doubt rural hospitals will want to invite Balderson back when he and the GOP dissolves Medicare. \n\nMedicare and Medicaid are what\u2019s keeping rural hospitals in business, which is the right thing to do. \n\nWhen will Republicans learn?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBalderson",
+                        "KnoxCommHosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1037341536592310272",
+                        "330356600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1676568385,
+                    "view_count": 27
+                }
+            ]
+        }
+    ]
+}

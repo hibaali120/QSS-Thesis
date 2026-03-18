@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2cwEcdXcAA127w.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2cwEcdXcAA127w.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872431129011130368",
+                "author_username": "RepBrianJack",
+                "community_notes": null,
+                "conversation_id": "1974599817864073330",
+                "created_time": "2025-10-04T22:17:37",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974599817864073330",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "As we endure the fourth day of Senate Democrats\u2019 government shutdown, Radical Left Democrats continue to demand taxpayer-funded healthcare for illegal immigrants.\n\nPage 57 of the Democrats\u2019 proposal (Section 2141) repeals the One Big Beautiful Bill Act\u2019s safeguards against waste, fraud, and abuse in health care spending, which would result in $200 Billion in taxpayer-funded benefits for citizens of other countries!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759616257,
+                "view_count": 1169
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

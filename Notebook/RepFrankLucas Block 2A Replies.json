@@ -1,0 +1,64 @@
+{
+    "politician": "RepFrankLucas",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1502418410076094472",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FNwQtNlUYAAySMf.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FNwQtNlUYAAySMf.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1430477968674000900",
+                    "author_username": "DTonkopiy",
+                    "community_notes": null,
+                    "conversation_id": "1502418410076094472",
+                    "created_time": "2022-03-13T19:44:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1503094756947111940",
+                    "in_reply_to_post_id": "1502418410076094472",
+                    "in_reply_to_profile_id": "242772524",
+                    "in_reply_to_profile_username": "RepFrankLucas",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepFrankLucas @swosu @usdaRD We're dying in Ukraine. Please help us. Shield the sky. Give us air defense #NoFlyZone https://t.co/R5OVWVZabS",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFrankLucas",
+                        "swosu",
+                        "usdaRD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "242772524",
+                        "19255429",
+                        "124196924"
+                    ],
+                    "text_tags": [
+                        "noflyzone"
+                    ],
+                    "timestamp": 1647200690,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

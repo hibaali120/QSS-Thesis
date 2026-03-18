@@ -1,0 +1,147 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmZ-iGHaEAAA0x0.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmZ-iGHaEAAA0x0.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875244261844668416",
+                "author_username": "RepSarahElfreth",
+                "community_notes": null,
+                "conversation_id": "1902347022197264689",
+                "created_time": "2025-03-19T13:10:48",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1902347022197264689",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Medicaid provides more than one in five Americans with health coverage. Last week, I joined my colleagues in filing an amicus brief in support of Medicaid patients\u2019 right to exercise agency and autonomy when choosing their provider. https://t.co/LYet08uxtU",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1742389848,
+                "view_count": 189
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G7BGOc4XwAEWu-c.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G7BGOc4XwAEWu-c.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875244261844668416",
+                "author_username": "RepSarahElfreth",
+                "community_notes": null,
+                "conversation_id": "1995171853602521543",
+                "created_time": "2025-11-30T16:43:33",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995171853602521543",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "After receiving multiple classified briefings on these operations in the Caribbean over the last few weeks, I am left with more questions than answers. Led by Chairman @RepMikeRogersAL and Ranking Member @RepAdamSmith, my colleagues and I on both sides of the aisle will exercise our full, bipartisan Congressional oversight powers. A comprehensive accounting of these operations \u2013 and their legality \u2013 will be our top priority.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepMikeRogersAL",
+                    "RepAdamSmith"
+                ],
+                "text_tagged_users_ids": [
+                    "33977070",
+                    "58928690"
+                ],
+                "text_tags": null,
+                "timestamp": 1764521013,
+                "view_count": 214
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G76k85cWsAAK9lf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G76k85cWsAAK9lf.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875244261844668416",
+                "author_username": "RepSarahElfreth",
+                "community_notes": null,
+                "conversation_id": "1999216653951771088",
+                "created_time": "2025-12-11T20:36:08",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999216653951771088",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Every American deserves the basic dignity of being paid what they are owed for the work they've done. Nobody should fear for their job or their safety as they exercise their right to organize with their colleagues. That's why I\u2019ve co-sponsored the LET\u2019S Protect Workers Act to ensure there are proper penalties in place on exploiting workers, endangering children, and limiting the right to organize hardworking Americans.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765485368,
+                "view_count": 152
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

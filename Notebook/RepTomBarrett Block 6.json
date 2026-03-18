@@ -1,0 +1,159 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GowlxfuWoAA0rUI.jpg?name=small",
+                    "https://pbs.twimg.com/media/GowlxeMW0AEI1Bk.jpg?name=small",
+                    "https://pbs.twimg.com/media/GowlxftWcAAgwXL.jpg?name=small",
+                    "https://pbs.twimg.com/media/GowlxeMXIAAENKg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GowlxfuWoAA0rUI.jpg",
+                    "https://pbs.twimg.com/media/GowlxeMW0AEI1Bk.jpg",
+                    "https://pbs.twimg.com/media/GowlxftWcAAgwXL.jpg",
+                    "https://pbs.twimg.com/media/GowlxeMXIAAENKg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1859761953725624320",
+                "author_username": "RepTomBarrett",
+                "community_notes": null,
+                "conversation_id": "1912945495514718325",
+                "created_time": "2025-04-17T19:05:21",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912945495514718325",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "This week, I visited Shiawassee Health and Wellness, Shiawassee county\u2019s community mental health provider, with former State Rep. Ben Frederick. We had a thoughtful conversation about the challenges and opportunities in delivering quality mental health care close to home. Grateful for the dedicated team making a difference every day in the lives of Shiawassee County residents.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1744916721,
+                "view_count": 474
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/nwsdetroit/status/1951652211852714169?s=46"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HHWc4jYwUO"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1859761953725624320",
+                "author_username": "RepTomBarrett",
+                "community_notes": null,
+                "conversation_id": "1951778110476632151",
+                "created_time": "2025-08-02T22:52:35",
+                "favorite_count": 18,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1951778183126130909",
+                "in_reply_to_post_id": "1951778110476632151",
+                "in_reply_to_profile_id": "1859761953725624320",
+                "in_reply_to_profile_username": "RepTomBarrett",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": "1951652211852714169",
+                "quoted_status_profile_id": "596438734",
+                "quoted_status_profile_username": "NWSDetroit",
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Air quality alerts have been issued for the entire state through Sunday. Please exercise caution and continue to monitor local weather alerts for guidance and updates.\nhttps://t.co/HHWc4jYwUO",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1754175155,
+                "view_count": 1239
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gx7Qr1nXMAApefd.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gx7QxkWX0AA6M3k.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gx7Q0QTWAAAaOZG.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gx7Q0icXoAA9q0K.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gx7Qr1nXMAApefd.jpg",
+                    "https://pbs.twimg.com/media/Gx7QxkWX0AA6M3k.jpg",
+                    "https://pbs.twimg.com/media/Gx7Q0QTWAAAaOZG.jpg",
+                    "https://pbs.twimg.com/media/Gx7Q0icXoAA9q0K.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1859761953725624320",
+                "author_username": "RepTomBarrett",
+                "community_notes": null,
+                "conversation_id": "1954245682895929828",
+                "created_time": "2025-08-09T18:17:33",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1954245682895929828",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "It was great to be back at Camp Grayling yesterday for Exercise Northern Strike! \n\nI always loved participating in this combat training during my time in the Army, and it was special to see the operation from the other side. Thank you to @SecArmy, @RepJackBergman, and @SenatorSlotkin for teaming up to highlight how the next generation of soldiers are preparing to lead the way right here in Michigan.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SecArmy",
+                    "RepJackBergman"
+                ],
+                "text_tagged_users_ids": [
+                    "814367737342328833",
+                    "815241612154417152"
+                ],
+                "text_tags": null,
+                "timestamp": 1754763453,
+                "view_count": 844
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

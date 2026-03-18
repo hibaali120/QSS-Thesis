@@ -1,0 +1,328 @@
+{
+    "politician": "USRepMikeDoyle",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1481739240304218116",
+            "replies": []
+        },
+        {
+            "conversation_id": "1488888642785456128",
+            "replies": []
+        },
+        {
+            "conversation_id": "1489258037038567430",
+            "replies": []
+        },
+        {
+            "conversation_id": "1506272567593779207",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FOj3qylXIAMU-hT.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FOj3qylXIAMU-hT.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "759946280164524032",
+                    "author_username": "soopajx",
+                    "community_notes": null,
+                    "conversation_id": "1506272567593779207",
+                    "created_time": "2022-03-23T20:15:40",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506726391735271433",
+                    "in_reply_to_post_id": "1506272567593779207",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@USRepMikeDoyle UNIVERSAL HEALTHCARE NOW https://t.co/lnnjMmbQTl",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648066540,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "26010586",
+                    "author_username": "jrkakapastate",
+                    "community_notes": null,
+                    "conversation_id": "1506272567593779207",
+                    "created_time": "2022-03-23T09:54:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506570180369043461",
+                    "in_reply_to_post_id": "1506272567593779207",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@USRepMikeDoyle How the government got the middle class to pay for the poor, (that won\u2019t try to participate).",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648029296,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1537427860574593024",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://youtu.be/raBaCSwExbs"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/s7csEhH2it"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "717724781609684993",
+                    "author_username": "ConnieJeanNovak",
+                    "community_notes": null,
+                    "conversation_id": "1537427860574593024",
+                    "created_time": "2022-06-16T18:43:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1537506073644609537",
+                    "in_reply_to_post_id": "1537427860574593024",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@USRepMikeDoyle @EnergyCommerce What about banning congress from profiting off of companies and policies they over see? Going on Rupe Hall to push rhetoric w/out doing anything while continuing to cash in. https://t.co/s7csEhH2it",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1655404988,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1542228702364319744",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "328008554",
+                    "author_username": "D_Clark19",
+                    "community_notes": null,
+                    "conversation_id": "1542228702364319744",
+                    "created_time": "2022-06-29T20:00:47",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1542236657071669249",
+                    "in_reply_to_post_id": "1542228702364319744",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@USRepMikeDoyle Fear!!! Fear!!! Vote for my party or terrible things will happen!!! #DoBetter ya only gotta \u201cwork\u201d 22 more days\u2026 and this is how u spend it",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305"
+                    ],
+                    "text_tags": [
+                        "dobetter"
+                    ],
+                    "timestamp": 1656532847,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1545071225696911360",
+            "replies": []
+        },
+        {
+            "conversation_id": "1547286794215034881",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "611738001",
+                    "author_username": "SCuskley",
+                    "community_notes": null,
+                    "conversation_id": "1547286794215034881",
+                    "created_time": "2022-07-13T18:47:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1547291677378879488",
+                    "in_reply_to_post_id": "1547286794215034881",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@USRepMikeDoyle @HouseDemocrats You GOTTA check out this new science. It's called \"ec-o-nom-ics\".",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1657738057,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "328008554",
+                    "author_username": "D_Clark19",
+                    "community_notes": null,
+                    "conversation_id": "1547286794215034881",
+                    "created_time": "2022-07-13T18:32:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1547287878937579522",
+                    "in_reply_to_post_id": "1547286794215034881",
+                    "in_reply_to_profile_id": "39249305",
+                    "in_reply_to_profile_username": "USRepMikeDoyle",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@USRepMikeDoyle @HouseDemocrats And what\u2019s the affect on inflation if that passes?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "USRepMikeDoyle",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "39249305",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1657737152,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1548033768438448132",
+            "replies": []
+        },
+        {
+            "conversation_id": "1562461784279515141",
+            "replies": []
+        },
+        {
+            "conversation_id": "1574854496743788549",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1468677099594698757",
+                "author_username": "Congressman_JVD",
+                "community_notes": null,
+                "conversation_id": "1668736779875237894",
+                "created_time": "2023-06-13T21:47:06",
+                "favorite_count": 130,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1668736779875237894",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 26,
+                "retweet_count": 34,
+                "source": "Twitter for iPhone",
+                "text": "Millions of Americans who rely on pistol braces to exercise their 2nd Amendment rights are at risk of being felons thanks to Biden's ATF.\u2028\u00a0\nThis is an egregious overstep by DC bureaucrats & I was proud to vote YES on @Rep_Clyde\u2019s bill to nullify this unconstitutional ruling.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Rep_Clyde"
+                ],
+                "text_tagged_users_ids": [
+                    "1357017361568694274"
+                ],
+                "text_tags": null,
+                "timestamp": 1686692826,
+                "view_count": 6246
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://pressofatlanticcity.com/news/local/article_5d3ccdec-286f-470d-928e-b14582e7a71c.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/LMPmg9Y6j5"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1468677099594698757",
+                "author_username": "Congressman_JVD",
+                "community_notes": null,
+                "conversation_id": "1915056804570005573",
+                "created_time": "2025-04-23T14:54:56",
+                "favorite_count": 210,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915056804570005573",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 38,
+                "retweet_count": 46,
+                "source": "Twitter for iPhone",
+                "text": "My office is closely monitoring the forest fire in Ocean County, NJ.\n\nWhile the fire has still not been fully contained, evacuation orders have been lifted, and the Garden State Parkway has reopened. We urge everyone to exercise caution when traveling through the area.\n\nThank you to the dedicated NJ Forest Fire Service and all the brave fire companies who worked tirelessly through the night to keep our communities safe.\nhttps://t.co/LMPmg9Y6j5",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1745420096,
+                "view_count": 4699
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

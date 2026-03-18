@@ -1,0 +1,580 @@
+{
+    "politician": "RepMcClellan",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1694777292696809845",
+            "replies": []
+        },
+        {
+            "conversation_id": "1696277356124557709",
+            "replies": []
+        },
+        {
+            "conversation_id": "1697235945475465671",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "774605524515958784",
+                    "author_username": "0neMPoM0aASNfun",
+                    "community_notes": null,
+                    "conversation_id": "1697235945475465671",
+                    "created_time": "2023-09-01T00:15:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697402820276961484",
+                    "in_reply_to_post_id": "1697235945475465671",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMcClellan If the US Congress changes the election law to allow American voters to choose their heads of state globally, will American voters support or oppose it? Of course, they will support 100% because they hope to have greater rights and more choices.009",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693527343,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1598090407992336390",
+                    "author_username": "thereal_tpyall",
+                    "community_notes": null,
+                    "conversation_id": "1697235945475465671",
+                    "created_time": "2023-08-31T13:14:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697236334304182404",
+                    "in_reply_to_post_id": "1697235945475465671",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMcClellan Nutrition hasn't improved and they live off the government. Revision needs to happen. We are encouraging fat lazy people to be fat and lazy.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1693487649,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1704571223852687485",
+            "replies": []
+        },
+        {
+            "conversation_id": "1707094991842017294",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633610542584659970",
+                    "author_username": "RepMcClellan",
+                    "community_notes": null,
+                    "conversation_id": "1707094991842017294",
+                    "created_time": "2023-09-27T18:08:57",
+                    "favorite_count": 9,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1707094993049886946",
+                    "in_reply_to_post_id": "1707094991842017294",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 4,
+                    "source": "Twitter Web App",
+                    "text": "While extreme MAGA Republicans want to cut SNAP and other food assistance benefits from working Americans, @HouseDemocrats are fighting to pass a Farm Bill that supports the most vulnerable families and addresses hunger in the U.S.  \n\nAmericans are counting on all of us.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695838137,
+                    "view_count": 290
+                }
+            ]
+        },
+        {
+            "conversation_id": "1769079734346883289",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GI5ztVmWUAA2eU8.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GI5ztVmWUAA2eU8.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1588424322506522624",
+                    "author_username": "faceofcharles",
+                    "community_notes": null,
+                    "conversation_id": "1769079734346883289",
+                    "created_time": "2024-03-17T21:40:26",
+                    "favorite_count": 0,
+                    "geo_lat": 37.7108482,
+                    "geo_lon": -80.27175,
+                    "id": "1769478930388439486",
+                    "in_reply_to_post_id": "1769079734346883289",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Virginia, USA",
+                    "place_type": "admin",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcClellan @linksinc @CWVALinks @ValleyLinks @LinksRichmondva The Negroes in #Virginia need our repair. You\u2019ve been warned https://t.co/bfrKydAfxJ",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan",
+                        "linksinc",
+                        "CWVALinks",
+                        "ValleyLinks",
+                        "LinksRichmondva"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970",
+                        "559069644",
+                        "1030422480991789056",
+                        "1514489853890678787",
+                        "994617071316164608"
+                    ],
+                    "text_tags": [
+                        "virginia"
+                    ],
+                    "timestamp": 1710711626,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "1825313686044496155",
+            "replies": []
+        },
+        {
+            "conversation_id": "1831739340189483167",
+            "replies": []
+        },
+        {
+            "conversation_id": "1890067746853175805",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1812607927355936768",
+                    "author_username": "Spaniard2126",
+                    "community_notes": null,
+                    "conversation_id": "1890067746853175805",
+                    "created_time": "2025-02-13T16:06:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1890070162575094098",
+                    "in_reply_to_post_id": "1890067746853175805",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcClellan The link doesn\u2019t show any explanation for any of those claims.  Do your constituents a favor and just share the budget bill.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739462817,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://democrats-budget.house.gov/legislation/republican-rip-off"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/9sdt0Hkf6a"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633610542584659970",
+                    "author_username": "RepMcClellan",
+                    "community_notes": null,
+                    "conversation_id": "1890067746853175805",
+                    "created_time": "2025-02-13T15:57:22",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1890067750258901147",
+                    "in_reply_to_post_id": "1890067746853175805",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "See the impacts in your district here:\n\nhttps://t.co/9sdt0Hkf6a",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1739462242,
+                    "view_count": 433
+                }
+            ]
+        },
+        {
+            "conversation_id": "1894562742062719359",
+            "replies": []
+        },
+        {
+            "conversation_id": "1894562742062719359",
+            "replies": []
+        },
+        {
+            "conversation_id": "1899193924079481212",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633610542584659970",
+                    "author_username": "RepMcClellan",
+                    "community_notes": null,
+                    "conversation_id": "1899193924079481212",
+                    "created_time": "2025-03-10T20:21:32",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1899193928047636796",
+                    "in_reply_to_post_id": "1899193924079481212",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "Republicans want to cut veterans benefits, health care, affordable housing, nutrition programs, and more.\n\nThey devised this plan without consulting Democrats ONCE \u2014 because House Republicans would rather shut down the government than work with Democrats on a bipartisan basis.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1741638092,
+                    "view_count": 139
+                }
+            ]
+        },
+        {
+            "conversation_id": "1901036233570066599",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1714737748106444801",
+                    "author_username": "LePaul232301",
+                    "community_notes": null,
+                    "conversation_id": "1901036233570066599",
+                    "created_time": "2025-03-15T23:43:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1901056767296934269",
+                    "in_reply_to_post_id": "1901036233570066599",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcClellan @linksinc @CWVALinks @ValleyLinks And where does this money come from?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan",
+                        "linksinc",
+                        "CWVALinks",
+                        "ValleyLinks"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970",
+                        "559069644",
+                        "1030422480991789056",
+                        "1514489853890678787"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742082227,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1907120101087744462",
+            "replies": []
+        },
+        {
+            "conversation_id": "1910353443681694122",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633610542584659970",
+                    "author_username": "RepMcClellan",
+                    "community_notes": null,
+                    "conversation_id": "1910353443681694122",
+                    "created_time": "2025-04-10T15:25:28",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910353446311444666",
+                    "in_reply_to_post_id": "1910353443681694122",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "The American people have rallied and shown up time and time again to send a clear message to the Trump Administration and Congressional Republicans: don\u2019t touch our Medicaid, Social Security, nutrition programs, veterans benefits and other popular programs.\n\nBut House Republicans\u2019 budget would slash all of these \u2014 and real lives hang in the balance.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1744298728,
+                    "view_count": 80
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910371045007073345",
+            "replies": []
+        },
+        {
+            "conversation_id": "1933513367903146008",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1933513367903146008",
+                    "created_time": "2025-06-13T13:16:37",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1933513843545641131",
+                    "in_reply_to_post_id": "1933513367903146008",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Constitution isn\u2019t under attack\u2014Congressional obstruction is. When federal agents face violent mobs blocking ICE raids, deploying the National Guard under Title 10 authority isn\u2019t intimidation; it\u2019s enforcing the law. Remember James Comey\u2019s \u201c8647\u201d shell threat? The same D.C. insiders crying \u201coverreach\u201d stayed silent as a former FBI director posted veiled assassination references.\n\nOversight isn\u2019t a license to paralyze immigration enforcement or endanger officers. Biden\u2019s admin left the border wide open, fueling chaos Trump is now forced to clean up.\n\nIf Congress wants oversight, start by securing the border instead of grandstanding while cities burn.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcClellan",
+                        "RepLaMonica",
+                        "SenAlexPadilla"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1633610542584659970",
+                        "1844608219865354246",
+                        "1351236267707654145"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1749820597,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1953938770291528097",
+            "replies": []
+        },
+        {
+            "conversation_id": "1999519932183085118",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://mcclellan.house.gov/media/press-releases/mcclellan-announces-2025-2026-congressional-app-challenge-winner"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/wWyN8eBuGf"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633610542584659970",
+                    "author_username": "RepMcClellan",
+                    "community_notes": null,
+                    "conversation_id": "1999519932183085118",
+                    "created_time": "2025-12-12T16:43:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1999520407834046481",
+                    "in_reply_to_post_id": "1999519932183085118",
+                    "in_reply_to_profile_id": "1633610542584659970",
+                    "in_reply_to_profile_username": "RepMcClellan",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Read more in my release here: https://t.co/wWyN8eBuGf",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1765557789,
+                    "view_count": 110
+                }
+            ]
+        }
+    ]
+}

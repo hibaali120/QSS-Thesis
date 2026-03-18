@@ -1,0 +1,240 @@
+{
+    "politician": "RepMcCaul",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1858895557328007430",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/wallstreetapes/status/1860443088629694611"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/66cGioX11c"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1478903057652011010",
+                    "author_username": "Li6ertyFan",
+                    "community_notes": null,
+                    "conversation_id": "1858895557328007430",
+                    "created_time": "2024-11-24T01:04:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1860489602928103779",
+                    "in_reply_to_post_id": "1858895557328007430",
+                    "in_reply_to_profile_id": "26424123",
+                    "in_reply_to_profile_username": "RepMcCaul",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1860443088629694611",
+                    "quoted_status_profile_id": "1099579684981944320",
+                    "quoted_status_profile_username": "WallStreetApes",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcCaul https://t.co/66cGioX11c",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMcCaul"
+                    ],
+                    "text_tagged_users_ids": [
+                        "26424123"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1732410262,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1763667638188724224",
+                    "author_username": "MorwoodRay",
+                    "community_notes": null,
+                    "conversation_id": "1858895557328007430",
+                    "created_time": "2024-11-19T15:35:22",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1858896861010039089",
+                    "in_reply_to_post_id": "1858895557328007430",
+                    "in_reply_to_profile_id": "26424123",
+                    "in_reply_to_profile_username": "RepMcCaul",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepMcCaul More spending without any offsetting cuts. You are helping destroy our country. 36 Trillion and counting.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcCaul"
+                    ],
+                    "text_tagged_users_ids": [
+                        "26424123"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1732030522,
+                    "view_count": 50
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://mccaul.house.gov/media-center/press-releases/mccaul-votes-support-americas-veterans"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/j6RzQtnGxc"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "26424123",
+                    "author_username": "RepMcCaul",
+                    "community_notes": null,
+                    "conversation_id": "1858895557328007430",
+                    "created_time": "2024-11-19T15:30:12",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1858895558355677489",
+                    "in_reply_to_post_id": "1858895557328007430",
+                    "in_reply_to_profile_id": "26424123",
+                    "in_reply_to_profile_username": "RepMcCaul",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "https://t.co/j6RzQtnGxc",
+                    "text_lang": "zxx",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1732030212,
+                    "view_count": 1096
+                }
+            ]
+        },
+        {
+            "conversation_id": "1866966258111140220",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://mccaul.house.gov/media-center/press-releases/mccaul-votes-fund-us-military-support-servicemembers-and-restore-dod"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/L1NhkEGsAS"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "26424123",
+                    "author_username": "RepMcCaul",
+                    "community_notes": null,
+                    "conversation_id": "1866966258111140220",
+                    "created_time": "2024-12-11T22:00:17",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1866966259432296579",
+                    "in_reply_to_post_id": "1866966258111140220",
+                    "in_reply_to_profile_id": "26424123",
+                    "in_reply_to_profile_username": "RepMcCaul",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 3,
+                    "source": "Twitter Web App",
+                    "text": "Most importantly, this bill improves the quality of life of our brave men and women in uniform. It authorizes a pay raise, improves housing, and provides adequate healthcare to ensure\u00a0these heroes\u00a0have\u00a0access to the resources they earned.\n\nhttps://t.co/L1NhkEGsAS",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1733954417,
+                    "view_count": 1347
+                }
+            ]
+        },
+        {
+            "conversation_id": "1951349032150016128",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "14283705",
+                    "author_username": "sethgho",
+                    "community_notes": null,
+                    "conversation_id": "1951349032150016128",
+                    "created_time": "2025-08-05T01:08:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1952537251285791146",
+                    "in_reply_to_post_id": "1951349032150016128",
+                    "in_reply_to_profile_id": "26424123",
+                    "in_reply_to_profile_username": "RepMcCaul",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMcCaul You mean \u201cLeander.\u201d Why are you my rep here in Leander? What does this vestigial span of Austin suburbs have in common with Belleville and Sealy? I\u2019ve never heard of them. Never even seen a sign with those names before. \n\nWhat, exactly, does \u201cdistrict\u201d mean?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMcCaul"
+                    ],
+                    "text_tagged_users_ids": [
+                        "26424123"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1754356131,
+                    "view_count": 27
+                }
+            ]
+        }
+    ]
+}

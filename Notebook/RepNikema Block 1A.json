@@ -1,0 +1,994 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2wDaaBWIAQRtRj.jpg?name=small",
+                    "https://pbs.twimg.com/media/G2wDaZ4XAAA_YnS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2wDaaBWIAQRtRj.jpg",
+                    "https://pbs.twimg.com/media/G2wDaZ4XAAA_YnS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1975958092929012036",
+                "created_time": "2025-10-08T16:14:55",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975958092929012036",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I joined the entire Georgia Democratic delegation in demanding that Speaker Mike Johnson call his Republican colleagues back to D.C., so we can negotiate in good faith to prevent health care cost spikes and end this #RepublicanShutdown.\n\u00a0\nI've been here in D.C., ready to do the work for the #FightingFifth and the American people. My Republican colleagues should be doing the same.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "republicanshutdown"
+                ],
+                "timestamp": 1759940095,
+                "view_count": 243
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2wxBOKWgAAwZ8v.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2wxBOKWgAAwZ8v.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1976008236999540808",
+                "created_time": "2025-10-08T19:34:10",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976008236999540808",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Every day Mike Johnson doesn\u2019t call for votes in the House is another day Republicans refuse to meet Democrats at the table, stop health care costs from rising, and end this #RepublicanShutdown. https://t.co/wYRSu8fQn7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "republicanshutdown"
+                ],
+                "timestamp": 1759952050,
+                "view_count": 221
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1976340850792636416/img/X9JLU4Y3VpH00VFS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976340850792636416/vid/avc1/810x1440/DpCW1ws9QcogB4Dg.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 28,
+                        "id": "1976340850792636416",
+                        "url": "https://video.twimg.com/amplify_video/1976340850792636416/vid/avc1/810x1440/DpCW1ws9QcogB4Dg.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1976340909630317039",
+                "created_time": "2025-10-09T17:36:06",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976340909630317039",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "\"I am here to fight because we don't have to choose between your jobs and your health care. The American people deserve both.\"\u00a0\n\u00a0\nJoined @BigTiggerShow this morning to talk how we get out of the #RepublicanShutdown and how I'm fighting for the #FightingFifth. https://t.co/ZoQRqcM24R",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BigTiggerShow"
+                ],
+                "text_tagged_users_ids": [
+                    "124020339"
+                ],
+                "text_tags": [
+                    "fightingfifth",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1760031366,
+                "view_count": 215
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G26yHCvWYAA110N.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G26yHCvWYAA110N.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1976713123722850692",
+                "created_time": "2025-10-10T18:15:08",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976713123722850692",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "We're on day 10 of the #RepublicanShutdown, and it has now been 21 days since Mike Johnson last called a vote in the House. I'm ready to work for the #FightingFifth and the American people, and to negotiate in good faith to reopen the government AND secure affordable health care. https://t.co/I8SsUchAW0",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fightingfifth",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1760120108,
+                "view_count": 390
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3eAvunWgAAwjHV.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3eAvuiWsAEyKfv.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3eAvulW0AA1GcP.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3eAvunWgAAwjHV.jpg",
+                    "https://pbs.twimg.com/media/G3eAvuiWsAEyKfv.jpg",
+                    "https://pbs.twimg.com/media/G3eAvulW0AA1GcP.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1979192121803280468",
+                "created_time": "2025-10-17T14:25:48",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1979192121803280468",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "The Trump Administration must immediately reinstate ALL CDC employees wrongfully laid off during the #RepublicanShutdown. Public health can\u2019t wait\u2014every one of these workers is essential to keeping us safe.\u00a0\n\u00a0\nAny and all efforts to undermine the CDC, in the heart of the #FightingFifth, are dangerous and unacceptable.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "republicanshutdown"
+                ],
+                "timestamp": 1760711148,
+                "view_count": 230
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1979259571169316864/img/oFKyBzRiT9djtRqA.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1979259571169316864/vid/avc1/1080x1920/pVlpSc5m3nhYBzpw.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 25,
+                        "id": "1979259571169316864",
+                        "url": "https://video.twimg.com/amplify_video/1979259571169316864/vid/avc1/1080x1920/pVlpSc5m3nhYBzpw.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1979259642078175268",
+                "created_time": "2025-10-17T18:54:06",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1979259642078175268",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "It's a false choice to say that we have to choose between reopening the government and saving health care. We can and will do both for the working families in the #FightingFifth and across the country.\u00a0\n\u00a0\nWe must cancel the cuts, lower costs, and save health care! https://t.co/XTOalaKJmB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fightingfifth"
+                ],
+                "timestamp": 1760727246,
+                "view_count": 311
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G3fd84cXsAA44co.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3fd84lWsAAEDhU.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3fd84ZW0AAw5ht.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3fd84eWIAAvGVi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G3fd84cXsAA44co.jpg",
+                    "https://pbs.twimg.com/media/G3fd84lWsAAEDhU.jpg",
+                    "https://pbs.twimg.com/media/G3fd84ZW0AAw5ht.jpg",
+                    "https://pbs.twimg.com/media/G3fd84eWIAAvGVi.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1979294602055291371",
+                "created_time": "2025-10-17T21:13:01",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1979294602055291371",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "This week, the #RepublicanShutdown hit day 17 as House Democrats stayed in D.C. to work for the American people\u2014fighting to reopen the government and protect health care. Catch up on the rest of my week in #NikemasNotes! https://t.co/zUA3AyJVPm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nikemasnotes",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1760735581,
+                "view_count": 223
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981362343905841152/img/-QtuCOigTZsc3q7I.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981362343905841152/vid/avc1/1920x1080/MTm6j245LaXOpYK1.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 37,
+                        "id": "1981362343905841152",
+                        "url": "https://video.twimg.com/amplify_video/1981362343905841152/vid/avc1/1920x1080/MTm6j245LaXOpYK1.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1981362428861419554",
+                "created_time": "2025-10-23T14:09:49",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981362428861419554",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "House Democrats remain united to cancel the cuts, lower the costs, and save health care for the #FightingFifth and all Americans. #RepublicanShutdown https://t.co/wKtCD4FtBV",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fightingfifth",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1761228589,
+                "view_count": 483
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G39O9p2WAAAx6rB.jpg?name=small",
+                    "https://pbs.twimg.com/media/G39O9p2XEAA5DCw.jpg?name=small",
+                    "https://pbs.twimg.com/media/G39O9p1WsAAjAxH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G39O9p2WAAAx6rB.jpg",
+                    "https://pbs.twimg.com/media/G39O9p2XEAA5DCw.jpg",
+                    "https://pbs.twimg.com/media/G39O9p1WsAAjAxH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1981389190324457518",
+                "created_time": "2025-10-23T15:56:10",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981389190324457518",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "#TeamNikema joined the Clayton Health Fair for a #CongressInYourCommunity event.\n\nAs the #RepublicanShutdown threatens next month\u2019s SNAP benefits, Team Nikema met constituents where they are \u2014 addressing their concerns about keeping food on the table. Republicans must come to the table with Democrats to end this shutdown and stop the cuts.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "congressinyourcommunity",
+                    "republicanshutdown",
+                    "teamnikema"
+                ],
+                "timestamp": 1761234970,
+                "view_count": 195
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1981773548747182080/img/WwRQyFG1ZKAm2OGO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1981773548747182080/vid/avc1/1080x1920/v7Ml7X4UgrjmTNkK.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 48,
+                        "id": "1981773548747182080",
+                        "url": "https://video.twimg.com/amplify_video/1981773548747182080/vid/avc1/1080x1920/v7Ml7X4UgrjmTNkK.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1981773677977878592",
+                "created_time": "2025-10-24T17:23:59",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981773677977878592",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "This is a false choice. We don\u2019t have to choose between lowering your costs, canceling the cuts, saving health care, and ending the #RepublicanShutdown. Republicans need to get back to Washington, D.C., and do their jobs. https://t.co/Fg4hCJKhX3",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "republicanshutdown"
+                ],
+                "timestamp": 1761326639,
+                "view_count": 273
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G4RrO0FXsAIVqnt.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G4RrO0FXsAIVqnt.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1982827641754296787",
+                "created_time": "2025-10-27T15:12:03",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1982827641754296787",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "It\u2019s been 38 days since Speaker Mike Johnson last called a vote on the House floor. That\u2019s 38 days of Republicans refusing to work with Democrats to end this #RepublicanShutdown, lower health care costs, and protect SNAP benefits for families in the #FightingFifth and across the country.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fightingfifth",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1761577923,
+                "view_count": 969
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://youtube.com/live/OnYuwKYUfSM"
+                ],
+                "attached_links_url": [
+                    "https://t.co/3npCSCSeOA"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1983166584895222197",
+                "created_time": "2025-10-28T13:38:53",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983166584895222197",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "While Republicans increase health care costs, I\u2019m working with @DemWomenCaucus, @HouseDemocrats, and advocates on solutions to ensure women and families in the #FightingFifth and across the country can afford their child care & health care. https://t.co/3npCSCSeOA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DemWomenCaucus",
+                    "HouseDemocrats"
+                ],
+                "text_tagged_users_ids": [
+                    "890675418780618753",
+                    "43963249"
+                ],
+                "text_tags": [
+                    "fightingfifth"
+                ],
+                "timestamp": 1761658733,
+                "view_count": 519
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1983640033329287168/img/Evoy9mH3B64JT6N_.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1983640033329287168/vid/avc1/1920x1080/9JjbpV4Jhu0sqz90.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 63,
+                        "id": "1983640033329287168",
+                        "url": "https://video.twimg.com/amplify_video/1983640033329287168/vid/avc1/1920x1080/9JjbpV4Jhu0sqz90.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1983640146948825158",
+                "created_time": "2025-10-29T21:00:39",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1983640146948825158",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 8,
+                "source": "Twitter for iPhone",
+                "text": "I joined the Steering and Policy Committee and @DemWomenCaucus hearing to support America\u2019s caregivers and protect the health care of millions of women and families. It was my honor to introduce my #FightingFifth constituent, Kingia Randall \u2014 a devoted caregiver to her family. Thank you to all the panelists and organizations who spoke out against this Republican health care crisis.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DemWomenCaucus"
+                ],
+                "text_tagged_users_ids": [
+                    "890675418780618753"
+                ],
+                "text_tags": [
+                    "fightingfifth"
+                ],
+                "timestamp": 1761771639,
+                "view_count": 630
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G42d3g3WwAEEivs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G42d3g3WwAEEivs.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1985416591043875172",
+                "created_time": "2025-11-03T18:39:37",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985416591043875172",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "My Republican colleagues have been on vacation for a month and a half while Mike Johnson refuses to call the House into session. As this #RepublicanShutdown drags on, families are missing SNAP benefits and watching their health care costs rise. I\u2019m working for the people of the #FightingFifth to ensure every family can afford the care they need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "republicanshutdown"
+                ],
+                "timestamp": 1762195177,
+                "view_count": 331
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G43DCEUXoAAET00.jpg?name=small",
+                    "https://pbs.twimg.com/media/G43DCEUXwAAMRcm.jpg?name=small",
+                    "https://pbs.twimg.com/media/G43DCEWXoAA4-ZR.jpg?name=small",
+                    "https://pbs.twimg.com/media/G43DCEdXAAA6_7F.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G43DCEUXoAAET00.jpg",
+                    "https://pbs.twimg.com/media/G43DCEUXwAAMRcm.jpg",
+                    "https://pbs.twimg.com/media/G43DCEWXoAA4-ZR.jpg",
+                    "https://pbs.twimg.com/media/G43DCEdXAAA6_7F.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1985457468642902315",
+                "created_time": "2025-11-03T21:22:03",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985457468642902315",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "The #RepublicanShutdown is ripping plates from tables. I\u2019ve been out in the #FightingFifth delivering groceries to seniors, but that\u2019s a drop in the bucket compared to our communities\u2019 needs. We must reopen the government, lower health care costs, and keep children, seniors, veterans, and working families fed. It\u2019s a false choice to do anything less.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fightingfifth",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1762204923,
+                "view_count": 250
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1987674313323864336",
+                "created_time": "2025-11-10T00:11:00",
+                "favorite_count": 48,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1987674313323864336",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 16,
+                "source": "Twitter for iPhone",
+                "text": "Republicans are forcing us to choose between keeping healthcare costs low, feeding hungry children, and paying our dedicated federal workers.\n\nFor me, it\u2019s a false choice. It\u2019s a NO on any bill that does not address the Republican health care crisis.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762733460,
+                "view_count": 2473
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5e6YEsXAAAszas.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5e6YEsXAAAszas.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1988262685956293028",
+                "created_time": "2025-11-11T15:08:59",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1988262685956293028",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "On Veterans Day, we remember, recognize, and THANK our veterans for the courageous sacrifices they have made in service to our country.\n\nI will never stop fighting to ensure our heroes have the respect, security, and health care they earned while defending our democracy. https://t.co/gK3deXXKLU",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762873739,
+                "view_count": 268
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G5v__cVXsAAJPwm.jpg?name=small",
+                    "https://pbs.twimg.com/media/G5v__cRXAAAgK7_.jpg?name=small",
+                    "https://pbs.twimg.com/media/G5v__cSW4AA9ymL.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G5v__cVXsAAJPwm.jpg",
+                    "https://pbs.twimg.com/media/G5v__cRXAAAgK7_.jpg",
+                    "https://pbs.twimg.com/media/G5v__cSW4AA9ymL.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "1989465129566765484",
+                "created_time": "2025-11-14T22:47:04",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1989465129566765484",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "The #RepublicanShutdown \u2014 the longest government shutdown in history \u2014 ended this week with no promise of affordable health care in sight. You can bet I will keep fighting to save our health care. Catch up on the rest of my week with #NikemasNotes! https://t.co/BYfC4O4X06",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nikemasnotes",
+                    "republicanshutdown"
+                ],
+                "timestamp": 1763160424,
+                "view_count": 307
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G9beO3wXUAQs8Km.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G9beO3wXUAQs8Km.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "2006035034273095991",
+                "created_time": "2025-12-30T16:09:57",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2006035034273095991",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "This year, I fought back\u2014and continue to fight\u2014against the Trump Administration\u2019s assault on our public health. From standing with laid-off CDC employees to holding RFK Jr. and HHS accountable, I will never stop fighting for your health and safety. https://t.co/Dy3u8sfR9Q",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1767110997,
+                "view_count": 197
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.ajc.com/opinion/black-mamas-deserve-better/2SRPEUUBWVA77GZZJ7W4ZER7XU/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/BtA20qHNkJ"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G9c6FmkWgAEafW8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G9c6FmkWgAEafW8.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345461797361504259",
+                "author_username": "RepNikema",
+                "community_notes": null,
+                "conversation_id": "2006137903944999199",
+                "created_time": "2025-12-30T22:58:43",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2006137903944999199",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "This year, the fight for Black Maternal Health in the #FightingFifth and across the country did not stop. During Black Maternal Health Month I authored an op ed alongside @BlackWomensRJ President, Regina Davis Moss, appearing in the AJC. Black mamas deserve better, and I will never stop fighting for mamas everywhere.\n\nhttps://t.co/BtA20qHNkJ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BlackWomensRJ"
+                ],
+                "text_tagged_users_ids": [
+                    "122125066"
+                ],
+                "text_tags": [
+                    "fightingfifth"
+                ],
+                "timestamp": 1767135523,
+                "view_count": 202
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,160 @@
+{
+    "politician": "CongressMin",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1902128222143435094",
+            "replies": []
+        },
+        {
+            "conversation_id": "1924472002246484176",
+            "replies": []
+        },
+        {
+            "conversation_id": "1940512820807786830",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Gu9hEZ5XMAA7a-t.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Gu9hEZ5XMAA7a-t.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1707616427082162176",
+                    "author_username": "mike_m29752",
+                    "community_notes": null,
+                    "conversation_id": "1940512820807786830",
+                    "created_time": "2025-07-03T20:53:59",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940876698851201348",
+                    "in_reply_to_post_id": "1940512820807786830",
+                    "in_reply_to_profile_id": "1858680194112065536",
+                    "in_reply_to_profile_username": "CongressMin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@CongressMin https://t.co/mmUUhX4Z1B",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "CongressMin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1858680194112065536"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1751576039,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1753252283067088896",
+                    "author_username": "B2BFCM",
+                    "community_notes": null,
+                    "conversation_id": "1940512820807786830",
+                    "created_time": "2025-07-02T23:02:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940546618325074206",
+                    "in_reply_to_post_id": "1940512820807786830",
+                    "in_reply_to_profile_id": "1858680194112065536",
+                    "in_reply_to_profile_username": "CongressMin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@CongressMin What is the criteria under which they would lose healthcare under the BBB?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CongressMin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1858680194112065536"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1751497342,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1940512820807786830?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/YQVdJB5ZV6"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1940512820807786830",
+                    "created_time": "2025-07-02T20:55:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940514759901659636",
+                    "in_reply_to_post_id": "1940512820807786830",
+                    "in_reply_to_profile_id": "1858680194112065536",
+                    "in_reply_to_profile_username": "CongressMin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Bipartisan Health Care Act\u2019s Medicaid provisions\u2014like Section 101 streamlining out-of-state provider enrollment and Section 113 cracking down on pharmacy middlemen\u2014aim to redirect funds from bureaucratic black holes to actual care. When 10% of cancer patients rely on Medicaid, the problem isn\u2019t funding levels\u2014it\u2019s $55 million wasted on redundant administrative layers (Section 110) while families fight for treatments. This bill forces states to audit residency claims (Section 104) and prioritize citizens over systemic fraud.\n\nIf California\u2019s Medicaid program operated at 80% efficiency instead of 62%, Dino\u2019s family wouldn\u2019t face coverage gaps. Real reform means cutting bloat, not care\u2014exactly what this legislation tackles by mandating transparency in drug pricing (Section 227) and eliminating $3.2 billion in annual spread pricing scams.\n\nThe numbers don\u2019t lie\u2014see how every dollar reclaimed could mean a life saved: https://t.co/YQVdJB5ZV6",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "CongressMin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1858680194112065536"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1751489746,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1961086345633243621",
+            "replies": []
+        }
+    ]
+}

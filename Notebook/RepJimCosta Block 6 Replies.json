@@ -1,0 +1,1042 @@
+{
+    "politician": "RepJimCosta",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1501943460063891472",
+            "replies": []
+        },
+        {
+            "conversation_id": "1527137362282684416",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549895679106961409",
+            "replies": []
+        },
+        {
+            "conversation_id": "1577702832274567168",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1577702832274567168",
+                    "created_time": "2022-10-05T16:50:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1577702834367336450",
+                    "in_reply_to_post_id": "1577702832274567168",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "As CEO of the Fresno Economic Opportunities Commission, she has led the organization to achieve its mission of helping people become self-sufficient through job placement, education, family, nutrition services, housing, and health.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1664988642,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1628803361137991683",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1628803361137991683",
+                    "created_time": "2023-02-23T17:05:57",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1628803362513616902",
+                    "in_reply_to_post_id": "1628803361137991683",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "As President and CEO of the BLACK Wellness and Prosperity Center, she has dedicated her time to improving health outcomes for all women and infants. (2/4)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1677171957,
+                    "view_count": 156
+                }
+            ]
+        },
+        {
+            "conversation_id": "1628832816166313987",
+            "replies": []
+        },
+        {
+            "conversation_id": "1646639175045902336",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585869001506234370",
+                    "author_username": "wrighttd",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-14T03:32:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646717927092256768",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Is the food organic?  Should be.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681443123,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-13T22:19:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646639179907088385",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "As we prepare to reauthorize the Farm Bill, it remains a top priority of mine to bolster nutrition and food assistance programs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1681424348,
+                    "view_count": 267
+                }
+            ]
+        },
+        {
+            "conversation_id": "1646639175045902336",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585869001506234370",
+                    "author_username": "wrighttd",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-14T03:32:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646717927092256768",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Is the food organic?  Should be.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681443123,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-13T22:19:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646639179907088385",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "As we prepare to reauthorize the Farm Bill, it remains a top priority of mine to bolster nutrition and food assistance programs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1681424348,
+                    "view_count": 267
+                }
+            ]
+        },
+        {
+            "conversation_id": "1656667601806966785",
+            "replies": []
+        },
+        {
+            "conversation_id": "1681496580841512967",
+            "replies": []
+        },
+        {
+            "conversation_id": "1688263675574910976",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633441668576813058",
+                    "author_username": "HurremOhs",
+                    "community_notes": null,
+                    "conversation_id": "1688263675574910976",
+                    "created_time": "2023-08-06T19:23:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688269679029080064",
+                    "in_reply_to_post_id": "1688263675574910976",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @FresnoEOCWIC The CCP's infiltration in the US is a concerning reality. Grateful to @RepGosar, @RepAndyBiggsAZ, and @EliCrane_AZ for their daily fight on Capitol Hill. Appreciate patriots like Kathleen Winn educating Americans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "FresnoEOCWIC",
+                        "RepGosar",
+                        "RepAndyBiggsAZ"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804",
+                        "2314022947",
+                        "240760644",
+                        "816652616625168388"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691349832,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2855083986",
+                    "author_username": "mubei802",
+                    "community_notes": null,
+                    "conversation_id": "1688263675574910976",
+                    "created_time": "2023-08-06T19:13:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688267031315943425",
+                    "in_reply_to_post_id": "1688263675574910976",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @FresnoEOCWIC The CCP suppresses freedom of speech and undermines human rights. It is time for the Chinese people to stand up for their own values and fight for a better future. #CCP #China #Freedom #HumanRights",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "FresnoEOCWIC"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804",
+                        "2314022947"
+                    ],
+                    "text_tags": [
+                        "ccp",
+                        "china",
+                        "freedom",
+                        "humanrights"
+                    ],
+                    "timestamp": 1691349201,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1694054327592329359",
+            "replies": []
+        },
+        {
+            "conversation_id": "1717921935307198510",
+            "replies": []
+        },
+        {
+            "conversation_id": "1764463291508682773",
+            "replies": []
+        },
+        {
+            "conversation_id": "1765770909590098361",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "202280326",
+                    "author_username": "MonicaGinDC",
+                    "community_notes": null,
+                    "conversation_id": "1765770909590098361",
+                    "created_time": "2024-03-08T02:37:09",
+                    "favorite_count": 0,
+                    "geo_lat": 38.87924748,
+                    "geo_lon": -77.035399,
+                    "id": "1765929722838401081",
+                    "in_reply_to_post_id": "1765770909590098361",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Washington, DC",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Thanks for your unwavering support and helping us in the fight to #endhunger",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": [
+                        "endhunger"
+                    ],
+                    "timestamp": 1709865429,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "1877467891332788236",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1877467891332788236",
+                    "created_time": "2025-01-10T07:22:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1877616900298985868",
+                    "in_reply_to_post_id": "1877467891332788236",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @repjimcosta, as a Ukrainian, I see parallels between your bill & our own efforts to strengthen law enforcement in Ukraine. NATO membership would bring similar benefits & protection to our brave men & women in uniform.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "repjimcosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1736493728,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1906830459109306777",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1906830459109306777",
+                    "created_time": "2025-03-31T22:10:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1906831509731815560",
+                    "in_reply_to_post_id": "1906830459109306777",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "@RepJimCosta @RepLangworthy @amyklobuchar @RogerMarshallMD Govt wastes billions on SNAP fraud: 6.5M dead people's SSNs still active. Biden burns $15M on IRS army, $50M on eco-grants.\n\n$1.9T in improper payments since '03.\n\nEvery dollar wasted on circus acts & foreign influencers = food stolen from American families.\n\nFix the fraud first.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "RepLangworthy",
+                        "amyklobuchar",
+                        "RogerMarshallMD"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804",
+                        "1611396007111057408",
+                        "33537967",
+                        "1240107944"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1743459033,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910165869923119431",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1910165869923119431",
+                    "created_time": "2025-04-10T04:47:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910192904749851125",
+                    "in_reply_to_post_id": "1910165869923119431",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @repjimcosta, I see what you're saying about dairy production, but what about Ukraine's dairy industry? We need NATO support to protect our farmers & nation from Russian aggression",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "repjimcosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744260452,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910336934083227790",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1910336934083227790",
+                    "created_time": "2025-04-10T18:46:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910404072135352385",
+                    "in_reply_to_post_id": "1910336934083227790",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @repjimcosta, as a proud Ukrainian, I urge you: let's focus on building bridges, not walls. Ukraine is seeking NATO membership, let's work together to strengthen democracy & security for all, not just citizens.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "repjimcosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744310799,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1706522001920401408",
+                    "author_username": "takakakahaha",
+                    "community_notes": null,
+                    "conversation_id": "1910336934083227790",
+                    "created_time": "2025-04-10T15:56:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910361163944296470",
+                    "in_reply_to_post_id": "1910336934083227790",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Why don\u2019t you fix in house CA government and stop blaming the US government?   Why don\u2019t you look at the gas tax, CPUC, high speed rail?  This all doesn\u2019t have to do with Trump admin, but your house not working for the CA people.  Get your house in order!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744300568,
+                    "view_count": 64
+                }
+            ]
+        },
+        {
+            "conversation_id": "1910384249368195160",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1910384249368195160",
+                    "created_time": "2025-04-11T00:45:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910494421746868646",
+                    "in_reply_to_post_id": "1910384249368195160",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @repjimcosta, as a Ukrainian, I'm appalled by your party's priorities. Our country fought for freedom & democracy. I urge you to support Ukraine's bid to join NATO, and let's work together for a more just world.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "repjimcosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744332340,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1910384249368195160",
+                    "created_time": "2025-04-10T17:32:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1910385303220580540",
+                    "in_reply_to_post_id": "1910384249368195160",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The real issue isn\u2019t funding\u2014it\u2019s accountability. SNAP\u2019s $230B \"cut\" targets waste, fraud, and abuse in a program where 40% of improper payments stem from eligibility errors. The House Agriculture Committee\u2019s reforms enforce work requirements for able-bodied adults, redirecting resources to those truly in need. \n\nValadao\u2019s district has 27.9% SNAP households\u2014how many are gaming the system while farmers face overregulation? Bloated bureaucracy starves efficiency, not budgets. \n\nRedirect funds to streamline aid, slash red tape, and let Valley growers thrive without D.C. micromanaging every dollar.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1744306324,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1940176087469670477",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1719249870362750976",
+                    "author_username": "LovelyRottie",
+                    "community_notes": null,
+                    "conversation_id": "1940176087469670477",
+                    "created_time": "2025-07-02T16:59:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940455181533303207",
+                    "in_reply_to_post_id": "1940176087469670477",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJimCosta Able body people can seek work.\nCalifornia funds everything for #illegalAliens\nPrevent Obesity by disabling the ability to purchase sugary drinks & foods.\nStart with school lunches (real food from a local farm).",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": [
+                        "illegalaliens"
+                    ],
+                    "timestamp": 1751475541,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1866152891553128448",
+                    "author_username": "RickyWomac68904",
+                    "community_notes": null,
+                    "conversation_id": "1940176087469670477",
+                    "created_time": "2025-07-02T13:07:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940396809257722001",
+                    "in_reply_to_post_id": "1940176087469670477",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta Looks good to this taxpayer.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1751461624,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1940176087469670477",
+                    "created_time": "2025-07-01T22:37:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1940177997283119548",
+                    "in_reply_to_post_id": "1940176087469670477",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Cutting SNAP by $204B while ignoring the real drivers of Medicaid collapse\u2014fraudulent billing, Big Pharma overcharges, and millions of illegal immigrants exploiting loopholes\u2014is peak Washington theater. The Thrifty Food Plan alone wastes $37B on outdated pricing models that don\u2019t reflect real grocery costs, while hospitals charge $500 for a Tylenol.\n\nWant to fix nutrition programs? Start by auditing the $2.9B ORR influx care contracts and ending ER mandate abuse by non-citizens.\n\nReal reform targets waste, not just budgets.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1751409455,
+                    "view_count": 25
+                }
+            ]
+        },
+        {
+            "conversation_id": "1949918964147986523",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1949918964147986523?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/u2qvn8jmu9"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1949918964147986523",
+                    "created_time": "2025-07-28T19:46:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1949919363689001181",
+                    "in_reply_to_post_id": "1949918964147986523",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Head Start's mission is vital, but Fresno's recent $35M injection can't ignore systemic failures. Case in point: Cantua Creek and San Joaquin Head Start sites shuttered this year despite prior funding\u2014enrollment plummeted from 2,700 to 1,707 since 2023. Throwing cash at bureaucracy without fixing mismanagement just fuels the cycle.\n\nThe real issue? Agencies like Fresno EOC can't maintain 95% enrollment mandates while competing preschools outpace them with flexible schedules. Audit the program's $55M Joint Autonomy Office allocations before expanding bloat.\n\nTrue accountability means redirecting funds to classrooms that deliver, not propping up failing sites.\n\nTaxpayers deserve to see where every dollar goes\u2014scrutinize the numbers for yourself: https://t.co/u2qvn8jmu9",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753731978,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1968490285593190637",
+            "replies": []
+        },
+        {
+            "conversation_id": "1985873129152135190",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1985873129152135190?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/mcHIdnyhDJ"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1985873129152135190",
+                    "created_time": "2025-11-05T00:56:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1985873772658782483",
+                    "in_reply_to_post_id": "1985873129152135190",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Rep. Costa frames Trump\u2019s SNAP stance as defying courts, but the real issue is Democrats weaponizing shutdowns to sneak migrant benefits into every bill. The USDA\u2019s contingency funds exist for emergencies\u2014not endless globalist handouts. Judges ordering payments without congressional approval enable the same bureaucratic bloat that\u2019s collapsing Medicaid via fraud and illegal immigration.\n\nCalifornia\u2019s 30% SNAP dependency isn\u2019t a virtue\u2014it\u2019s proof of systemic failure. Trump\u2019s enforcing fiscal sanity: prioritize citizens, cut waste, and stop funding foreign aid while Americans struggle.\n\nThe shutdown persists because Democrats refuse to negotiate\u2014they\u2019d rather exploit crises than fix broken programs.\n\nSee how political brinkmanship and unchecked spending are driving the crisis: https://t.co/mcHIdnyhDJ",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762304177,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1986596937144164813",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,445 @@
+{
+    "politician": "RepJohnJoyce",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1688620649047089153",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/amplify_video_thumb/1688634809243881472/img/D8--dWEyeHnVmM5b.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/amplify_video/1688634809243881472/vid/640x360/0fi8OQbSlAzfJHKk.mp4?tag=14"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 40,
+                            "id": "1688634809243881472",
+                            "url": "https://video.twimg.com/amplify_video/1688634809243881472/vid/640x360/0fi8OQbSlAzfJHKk.mp4?tag=14",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1501346015454052353",
+                    "author_username": "gettrwenwu222",
+                    "community_notes": null,
+                    "conversation_id": "1688620649047089153",
+                    "created_time": "2023-08-07T19:35:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688634873248948227",
+                    "in_reply_to_post_id": "1688620649047089153",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce Bombshell: Pfizer executive admits mRNA Covid vaccine not tested to stop virus spread before rolling out to the public.\n\n\u91cd\u78c5\u70b8\u5f39\uff1a\u8f89\u745e\u9ad8\u7ba1\u627f\u8ba4\uff0cmRNA Covid \u75ab\u82d7\u5728\u5411\u516c\u4f17\u63a8\u51fa\u4e4b\u524d\u5e76\u672a\u7ecf\u8fc7\u6d4b\u8bd5\u4ee5\u963b\u6b62\u75c5\u6bd2\u4f20\u64ad\u3002\n#WuhanLab #Covid19 https://t.co/P3bHWKYeRG",
+                    "text_lang": "zh",
+                    "text_tagged_users": [
+                        "RepJohnJoyce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036"
+                    ],
+                    "text_tags": [
+                        "covid19",
+                        "wuhanlab"
+                    ],
+                    "timestamp": 1691436901,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "850095544844378112",
+                    "author_username": "TessCondor",
+                    "community_notes": null,
+                    "conversation_id": "1688620649047089153",
+                    "created_time": "2023-08-07T19:18:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688630599664197632",
+                    "in_reply_to_post_id": "1688620649047089153",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJohnJoyce Dude. The Grand Opening was in January.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691435882,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F284CQcXoAA_a4t.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F284CQcXoAA_a4t.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2808956889",
+                    "author_username": "HarlowDad",
+                    "community_notes": null,
+                    "conversation_id": "1688620649047089153",
+                    "created_time": "2023-08-07T19:15:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688630001313226753",
+                    "in_reply_to_post_id": "1688620649047089153",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce You failed your oath,constituents and your personal integrity! Posing for pictures and pretending that you care will never erase your shame! https://t.co/ntYkM4oLQS",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691435740,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "28098888",
+                    "author_username": "YanNubdub",
+                    "community_notes": null,
+                    "conversation_id": "1688620649047089153",
+                    "created_time": "2023-08-07T18:42:45",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688621717462171648",
+                    "in_reply_to_post_id": "1688620649047089153",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce Pretty wild to use these people for a photo op when not that long ago you betrayed them by trying to decertify their votes.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691433765,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001299262659862780",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "46448674",
+                    "author_username": "Crusher58",
+                    "community_notes": null,
+                    "conversation_id": "2001299262659862780",
+                    "created_time": "2025-12-21T18:25:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002807681279488278",
+                    "in_reply_to_post_id": "2001299262659862780",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJohnJoyce @POTUS This is frivolous stuff. Folks have brains & choose milk for God's sake. Join your fellow Rs & extend subsidies. MAGA sinking fast. Choose right course now.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766341536,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "302110001",
+                    "author_username": "IrishGolfer8",
+                    "community_notes": null,
+                    "conversation_id": "2001299262659862780",
+                    "created_time": "2025-12-20T02:06:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002198997214375991",
+                    "in_reply_to_post_id": "2001299262659862780",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce @POTUS How about growing some balls and standing up to your felonious leader? You\u2019re a weak and pathetic pussy, John.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766196414,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "392788374",
+                    "author_username": "michaelbennet29",
+                    "community_notes": null,
+                    "conversation_id": "2001299262659862780",
+                    "created_time": "2025-12-18T16:10:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001686485032964329",
+                    "in_reply_to_post_id": "2001299262659862780",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJohnJoyce @POTUS Moo are a moo ron.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766074222,
+                    "view_count": 17
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8Z6EVXXYAEQLjh.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8Z6EVXXYAEQLjh.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2808956889",
+                    "author_username": "HarlowDad",
+                    "community_notes": null,
+                    "conversation_id": "2001299262659862780",
+                    "created_time": "2025-12-17T22:36:38",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001421306495943051",
+                    "in_reply_to_post_id": "2001299262659862780",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce @POTUS Great. You\u2019ll be remembered for proudly supporting the Whole Milk Act and not for turning a blind eye to child rape, rampant corruption and criminal executive misconduct by this Administration. Money and power over service and honor! https://t.co/eIwXRMBbd7",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJohnJoyce",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766010998,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8ZLbhaXMAAL9qg.jpg?name=small",
+                        "https://pbs.twimg.com/media/G8ZLbhMWIAAXiPU.jpg?name=small",
+                        "https://pbs.twimg.com/media/G8ZLbhSWQAAspo_.jpg?name=small",
+                        "https://pbs.twimg.com/media/G8ZLbhsWoAALudr.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8ZLbhaXMAAL9qg.jpg",
+                        "https://pbs.twimg.com/media/G8ZLbhMWIAAXiPU.jpg",
+                        "https://pbs.twimg.com/media/G8ZLbhSWQAAspo_.jpg",
+                        "https://pbs.twimg.com/media/G8ZLbhsWoAALudr.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "3398597573",
+                    "author_username": "9903CoastGuard",
+                    "community_notes": null,
+                    "conversation_id": "2001299262659862780",
+                    "created_time": "2025-12-17T19:12:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001370025014497572",
+                    "in_reply_to_post_id": "2001299262659862780",
+                    "in_reply_to_profile_id": "1082311988926124036",
+                    "in_reply_to_profile_username": "RepJohnJoyce",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJohnJoyce @POTUS \ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8\ud83c\uddfa\ud83c\uddf8 https://t.co/fS38kHqiTC",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepJohnJoyce",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082311988926124036",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765998772,
+                    "view_count": 5
+                }
+            ]
+        }
+    ]
+}

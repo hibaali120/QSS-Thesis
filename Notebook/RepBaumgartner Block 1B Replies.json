@@ -1,0 +1,101 @@
+{
+    "politician": "RepBaumgartner",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1924286561643872665",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3771249734",
+                    "author_username": "6kfootdrop",
+                    "community_notes": null,
+                    "conversation_id": "1924286561643872665",
+                    "created_time": "2025-05-19T11:39:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924429763902619895",
+                    "in_reply_to_post_id": "1924286561643872665",
+                    "in_reply_to_profile_id": "1869814916430888960",
+                    "in_reply_to_profile_username": "RepBaumgartner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBaumgartner so try bipartisanship\nlike tom and george did\ndon't be stubborn like cathy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBaumgartner"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1869814916430888960"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747654784,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/TheCradleMedia/status/1921737370497601727"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/5IXTRqxiiR"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1640180158920310785",
+                    "author_username": "Brimtuckian",
+                    "community_notes": null,
+                    "conversation_id": "1924286561643872665",
+                    "created_time": "2025-05-19T02:39:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924293788102484300",
+                    "in_reply_to_post_id": "1924286561643872665",
+                    "in_reply_to_profile_id": "1869814916430888960",
+                    "in_reply_to_profile_username": "RepBaumgartner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBaumgartner Netanyahu fully drops the mask: \"We are demolishing more and more houses, they have nowhere to return to ... The only logical outcome would be the desire of the Gazans to emigrate abroad\". https://t.co/5IXTRqxiiR",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBaumgartner"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1869814916430888960"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747622365,
+                    "view_count": 18
+                }
+            ]
+        }
+    ]
+}

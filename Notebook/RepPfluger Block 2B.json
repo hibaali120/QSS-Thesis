@@ -1,0 +1,422 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FJZXcpxX0AI05uY.jpg?name=small",
+                    "https://pbs.twimg.com/media/FJZXcpxXIAQkM-f.jpg?name=small",
+                    "https://pbs.twimg.com/media/FJZXgpgXsAMq4w7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FJZXcpxX0AI05uY.jpg",
+                    "https://pbs.twimg.com/media/FJZXcpxXIAQkM-f.jpg",
+                    "https://pbs.twimg.com/media/FJZXgpgXsAMq4w7.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "1483470178088333315",
+                "created_time": "2022-01-18T16:03:47",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1483470183381573636",
+                "in_reply_to_post_id": "1483470178088333315",
+                "in_reply_to_profile_id": "1341120751399809026",
+                "in_reply_to_profile_username": "RepPfluger",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 14,
+                "source": "Twitter Web App",
+                "text": "I joined @RepAnnWagner in a letter to NBC urging them to air all footage of human rights protests captured during the coverage of the Winter Olympic Games.\n\nExpose the #CCP.\n\nRead the letter\ud83d\udc47 https://t.co/ZsO4WvjnAq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepAnnWagner"
+                ],
+                "text_tagged_users_ids": [
+                    "1051446626"
+                ],
+                "text_tags": [
+                    "ccp"
+                ],
+                "timestamp": 1642521827,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FYDh2LJXwAwml4G.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FYDh2LJXwAwml4G.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "1549486597762158597",
+                "created_time": "2022-07-19T20:09:27",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1549486597762158597",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "We are so grateful for @torchnet for all you do to keep our community healthy.\n\nRural hospitals are critical to access to care in TX-11. Excited to continuing working with my colleagues in Congress to prioritize the long-term viability of rural hospitals and healthcare workers! https://t.co/XrTsZfqELP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "torchnet"
+                ],
+                "text_tagged_users_ids": [
+                    "110523935"
+                ],
+                "text_tags": null,
+                "timestamp": 1658261367,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://pfluger.house.gov/news/documentsingle.aspx?DocumentID=2129"
+                ],
+                "attached_links_url": [
+                    "https://t.co/AsFwikXBYO"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1821331361170411521/lTkZTkDa?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "1823396232263283099",
+                "created_time": "2024-08-13T16:28:33",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1823396232263283099",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": ".@SteveDaines and I introduced legislation to fully fund the \u201cRip and Replace\u201d program, remove Chinese equipment from our telecom networks, and protect rural coverage. Read more\ud83d\udc47\nhttps://t.co/AsFwikXBYO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SteveDaines"
+                ],
+                "text_tagged_users_ids": [
+                    "11651202"
+                ],
+                "text_tags": null,
+                "timestamp": 1723566513,
+                "view_count": 696
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000950298915868674/img/DR4jX4jeRwQO0RTQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000950298915868674/vid/avc1/1920x1080/_ddb79wkkbqYOZLe.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 142,
+                        "id": "2000950298915868674",
+                        "url": "https://video.twimg.com/amplify_video/2000950298915868674/vid/avc1/1920x1080/_ddb79wkkbqYOZLe.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "2000968122434543922",
+                "created_time": "2025-12-16T16:35:51",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000968122434543922",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Proud to lead the More Affordable Care Act in the House, and I thank @SenRickScott for his leadership in the Senate. The bill will fix the broken system of Obamacare and lower health care coverage costs for all Americans.\n\nWatch us explain more here \u2935\ufe0f https://t.co/Xc2wv3F8tH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenRickScott"
+                ],
+                "text_tagged_users_ids": [
+                    "131546062"
+                ],
+                "text_tags": null,
+                "timestamp": 1765902951,
+                "view_count": 364
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000986848567422979/img/ZGFk7GbFXEIjZDio.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000986848567422979/vid/avc1/640x360/pSkVsKs6gsh9BUhb.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 57,
+                        "id": "2000986848567422979",
+                        "url": "https://video.twimg.com/amplify_video/2000986848567422979/vid/avc1/640x360/pSkVsKs6gsh9BUhb.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "2000986912455086363",
+                "created_time": "2025-12-16T17:50:31",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000986912455086363",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Since its inception, Obamacare has failed to deliver on its core promises, leaving millions of Americans with higher premiums, fewer choices, and less coverage.\n\nThat's why @SenRickScott and I introduced the More Affordable Care Act. Watch me discuss our bill on @MorningsMaria: https://t.co/18EkIPuozj",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenRickScott",
+                    "MorningsMaria"
+                ],
+                "text_tagged_users_ids": [
+                    "131546062",
+                    "2330590446"
+                ],
+                "text_tags": null,
+                "timestamp": 1765907431,
+                "view_count": 9044
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000999371731550211/img/CWQWAGo3IA-CI8fi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000999371731550211/vid/avc1/1920x1080/YQl1gFNcgRIsvMv0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 76,
+                        "id": "2000999371731550211",
+                        "url": "https://video.twimg.com/amplify_video/2000999371731550211/vid/avc1/1920x1080/YQl1gFNcgRIsvMv0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "2000999436789670273",
+                "created_time": "2025-12-16T18:40:17",
+                "favorite_count": 30,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000999436789670273",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "This week, @HouseGOP will vote on legislation to lower the burdensome costs of health care for ALL Americans \u2013 not just a select percentage as under Obamacare.\n\nThis bill will lower premiums, restore pricing transparency, and protect small businesses. https://t.co/8AcfzLzc0u",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1765910417,
+                "view_count": 3512
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001336963001888770/img/hNGzWHLr1KmVHZbg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001336963001888770/vid/avc1/1920x1080/6PbLUcSpzvBK1PB4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 114,
+                        "id": "2001336963001888770",
+                        "url": "https://video.twimg.com/amplify_video/2001336963001888770/vid/avc1/1920x1080/6PbLUcSpzvBK1PB4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "2001337429987377271",
+                "created_time": "2025-12-17T17:03:21",
+                "favorite_count": 37,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001337429987377271",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 15,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8I just spoke on the House Floor in favor of the Lower Health Care Premiums for All Americans Act.\n\nObamacare has failed to deliver on its promises, leaving millions of Americans with higher premiums, fewer choices, and less coverage. @HouseGOP is working to fix America\u2019s broken health care system and this legislation is a great first step.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1765991001,
+                "view_count": 3382
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states"
+                ],
+                "attached_links_url": [
+                    "https://t.co/gzAHJqO7Ry"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1341120751399809026",
+                "author_username": "RepPfluger",
+                "community_notes": null,
+                "conversation_id": "2005709363344740757",
+                "created_time": "2025-12-29T18:35:51",
+                "favorite_count": 37,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005709363344740757",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 14,
+                "retweet_count": 10,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8$281 million is officially coming to Texas to strengthen and expand rural health care.\n\nThanks to our Working Families Tax Cuts law signed by President Trump, patients, providers, and hospitals in rural communities across Texas will greatly benefit. \nhttps://t.co/gzAHJqO7Ry",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1767033351,
+                "view_count": 4840
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

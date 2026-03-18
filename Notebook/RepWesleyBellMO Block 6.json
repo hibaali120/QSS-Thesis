@@ -1,0 +1,102 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gl2lnOVXAAALafv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gl2lnOVXAAALafv.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875208198166122496",
+                "author_username": "RepWesleyBellMO",
+                "community_notes": null,
+                "conversation_id": "1899856715786383698",
+                "created_time": "2025-03-12T16:15:13",
+                "favorite_count": 42,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1899856715786383698",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 18,
+                "source": "Twitter for iPhone",
+                "text": "Through the Department of Education, St. Louis Schools received:\n\n\ud83d\udd39$53.7M in funding for low-income students through Title I\n\ud83d\udd39$17.3M in Child Nutrition Act funding\n\ud83d\udd39$8.5M in Children with Disabilities Funding\n\u00a0\nBy dismantling the Dept. of Ed, kids across the country will lose access to critical funding that helps them meet basic needs. There is nothing more important to me than the wellbeing of our children\u2014I won\u2019t stop pushing back on this",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1741796113,
+                "view_count": 1711
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G26DAEkWAAA3hUO.jpg?name=small",
+                    "https://pbs.twimg.com/media/G26DAEiXUAAGavg.jpg?name=small",
+                    "https://pbs.twimg.com/media/G26DAEkXMAA-l8w.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G26DAEkWAAA3hUO.jpg",
+                    "https://pbs.twimg.com/media/G26DAEiXUAAGavg.jpg",
+                    "https://pbs.twimg.com/media/G26DAEkXMAA-l8w.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875208198166122496",
+                "author_username": "RepWesleyBellMO",
+                "community_notes": null,
+                "conversation_id": "1976661331232059821",
+                "created_time": "2025-10-10T14:49:20",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976661331232059821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "During my visit to the People\u2019s Health Center on Delmar, I spoke with families who rely on the WIC Program for healthy meals. The Republican-led shutdown is jeopardizing essential nutrition support for mothers and children across Missouri. Congress must act now to reopen the government and ensure programs like WIC are funded.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760107760,
+                "view_count": 805
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

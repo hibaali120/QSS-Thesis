@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GiAwll2WUAAirlw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GiAwll2WUAAirlw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875994749443645440",
+                "author_username": "RepDerekSchmidt",
+                "community_notes": null,
+                "conversation_id": "1882558752068608034",
+                "created_time": "2025-01-23T22:39:17",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1882558752068608034",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, the House passed the Born-Alive Abortion Survivors Protection Act, which requires appropriate medical care for children who survive abortion procedures. Congressman Schmidt supported this commonsense legislation, which now heads to the Senate. https://t.co/5KSyKprrwA",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1737671957,
+                "view_count": 299
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G0_6j5lXcAA20ra.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G0_6j5lXcAA20ra.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875994749443645440",
+                "author_username": "RepDerekSchmidt",
+                "community_notes": null,
+                "conversation_id": "1968067061290295737",
+                "created_time": "2025-09-16T21:38:46",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968067061290295737",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Rep. Schmidt was honored with the Distinguished Health Care Advocate Award by the Kansas Hospital Association Board this month. He\u2019s proud to continue working with KHA and Kansas hospitals to support the vital role they play in serving families across the Second District. https://t.co/84JI9hg6Hf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758058726,
+                "view_count": 255
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

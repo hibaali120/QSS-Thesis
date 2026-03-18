@@ -1,0 +1,96 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nami.org/About-Mental-Illness/Warning-Signs-and-Symptoms"
+                ],
+                "attached_links_url": [
+                    "https://t.co/G62X3JdHln"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1055730738",
+                "author_username": "RepLowenthal",
+                "community_notes": null,
+                "conversation_id": "1529934651120402445",
+                "created_time": "2022-05-26T21:17:00",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1529934651120402445",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Nearly 4 in 10 U.S. adults report symptoms of anxiety or depression, up from 1 in 10 pre-pandemic. This #MentalHealthAwarenessMonth, check in on yourself & the people you care about. You can find the warning signs of a mental health condition here: https://t.co/G62X3JdHln",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "mentalhealthawarenessmonth"
+                ],
+                "timestamp": 1653599820,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1055730738",
+                "author_username": "RepLowenthal",
+                "community_notes": null,
+                "conversation_id": "1539777540000485377",
+                "created_time": "2022-06-23T01:09:08",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1539777542068047873",
+                "in_reply_to_post_id": "1539777540000485377",
+                "in_reply_to_profile_id": "1055730738",
+                "in_reply_to_profile_username": "RepLowenthal",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "The legislation strengthens and expands more than 30 critical programs that collectively support mental health care and substance use disorder prevention, care, treatment, and recovery support services in communities across the nation. 2/4",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1655946548,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

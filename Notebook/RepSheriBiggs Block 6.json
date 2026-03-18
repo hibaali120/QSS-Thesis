@@ -1,0 +1,62 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1976699604214112256/img/JCGmc8M5DnuaK6q6.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1976699604214112256/vid/avc1/1920x1080/_mCCXqu5DmR651Jq.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 304,
+                        "id": "1976699604214112256",
+                        "url": "https://video.twimg.com/amplify_video/1976699604214112256/vid/avc1/1920x1080/_mCCXqu5DmR651Jq.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1874221699253616640",
+                "author_username": "RepSheriBiggs",
+                "community_notes": null,
+                "conversation_id": "1976699945492070831",
+                "created_time": "2025-10-10T17:22:46",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976699945492070831",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I joined Newsmax to talk about what\u2019s really at stake during this Democrat-led shutdown. From WIC nutrition programs to military pay and support for our farmers, South Carolina families are paying the price while Democrats push for billions in handouts to illegal immigrants.\n\nI\u2019ll keep standing strong with President Trump to reopen the government without giving in to radical demands. Taxpayer dollars should be prioritized for the American people\u2026not illegals.\n\n\ud83d\udcde Need help during the shutdown? Call my office: (864) 224-7401",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760116966,
+                "view_count": 374
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

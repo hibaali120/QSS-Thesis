@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.pa.gov/services/vote/find-your-local-polling-place"
+                ],
+                "attached_links_url": [
+                    "https://t.co/z3tMIRVTeC"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G46m8ACWUAAd_AT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G46m8ACWUAAd_AT.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "4304448314",
+                "author_username": "CongBoyle",
+                "community_notes": null,
+                "conversation_id": "1985708056546570616",
+                "created_time": "2025-11-04T13:57:48",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985708056546570616",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 6,
+                "source": "Sprout Social",
+                "text": "It's election day, Pennsylvania! Polls are open from 7AM to 8PM \u2014 make sure to exercise your right to vote today.\n\nNeed help finding a polling place or making a plan to vote? Learn more here: https://t.co/z3tMIRVTeC https://t.co/hfeKyRRCjA",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762264668,
+                "view_count": 1029
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

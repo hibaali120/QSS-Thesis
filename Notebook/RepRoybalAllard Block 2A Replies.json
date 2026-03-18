@@ -1,0 +1,473 @@
+{
+    "politician": "RepRoybalAllard",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1482088746971545601",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "http://HealthCare.gov"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/imNLiS5oEi"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1482088746971545601",
+                    "created_time": "2022-01-14T20:34:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1482088748858945539",
+                    "in_reply_to_post_id": "1482088746971545601",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "La inscripci\u00f3n abierta termina MA\u00d1ANA, el 15 de enero. Vaya a https://t.co/imNLiS5oEi para asegurarse que est\u00e1 cubierto por el resto de 2022. Si necesita ayuda, est\u00e1 disponible de forma gratuita llamando a https://t.co/imNLiS5oEi al 1-800-318-2596.\n\u00a0\nNo espere. \u00a1Reg\u00edstrase ahora!",
+                    "text_lang": "es",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1642192468,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1506669168527134722",
+            "replies": []
+        },
+        {
+            "conversation_id": "1506670492333260802",
+            "replies": []
+        },
+        {
+            "conversation_id": "1506685959592570884",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1432683106767712258",
+                    "author_username": "Dewa72345874",
+                    "community_notes": null,
+                    "conversation_id": "1506685959592570884",
+                    "created_time": "2022-04-09T13:52:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1512790654895673354",
+                    "in_reply_to_post_id": "1506685959592570884",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRoybalAllard @HouseDemocrats @POTUS #EvacuateAUAFStudents",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepRoybalAllard",
+                        "HouseDemocrats",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233",
+                        "43963249",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": [
+                        "evacuateauafstudents"
+                    ],
+                    "timestamp": 1649512373,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1347859686486200322",
+                    "author_username": "JoseGra49094952",
+                    "community_notes": null,
+                    "conversation_id": "1506685959592570884",
+                    "created_time": "2022-03-27T20:52:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1508185214387847168",
+                    "in_reply_to_post_id": "1506685959592570884",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRoybalAllard @HouseDemocrats @POTUS More money for people in the social security please",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard",
+                        "HouseDemocrats",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233",
+                        "43963249",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648414350,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "313619623",
+                    "author_username": "LBLagoon111",
+                    "community_notes": null,
+                    "conversation_id": "1506685959592570884",
+                    "created_time": "2022-03-27T20:52:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1508185093428310016",
+                    "in_reply_to_post_id": "1506685959592570884",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRoybalAllard @HouseDemocrats @POTUS Can\u2019t afford the premiums",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard",
+                        "HouseDemocrats",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233",
+                        "43963249",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648414321,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1509138910353498114",
+            "replies": []
+        },
+        {
+            "conversation_id": "1509302164585336837",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FPIeUuNXEAA394W.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FPIeUuNXEAA394W.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1509302164585336837",
+                    "created_time": "2022-03-30T22:50:53",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1509302169060753411",
+                    "in_reply_to_post_id": "1509302164585336837",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@lapublichealth will provide a free transportation to anyone in need of a vaccine. Please get vaccinated today!\n\n2/2 https://t.co/JGmbsdU0Bx",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "lapublichealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38287098"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648680653,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1511119531648946183",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3022881498",
+                    "author_username": "SmudgedPrism",
+                    "community_notes": null,
+                    "conversation_id": "1511119531648946183",
+                    "created_time": "2022-04-07T01:23:00",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1511877166023286788",
+                    "in_reply_to_post_id": "1511119531648946183",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRoybalAllard Thank you for your vote!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649294580,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1329840009160126468",
+                    "author_username": "Kosers4ELSA",
+                    "community_notes": null,
+                    "conversation_id": "1511119531648946183",
+                    "created_time": "2022-04-06T00:57:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1511508390622732296",
+                    "in_reply_to_post_id": "1511119531648946183",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRoybalAllard Thank you so much for your support and public statement in favor of this bill, @RepRoybalAllard! \ud83d\ude4f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRoybalAllard"
+                    ],
+                    "text_tagged_users_ids": [
+                        "479872233"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649206657,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1511401671099834378",
+            "replies": []
+        },
+        {
+            "conversation_id": "1511407883807776779",
+            "replies": []
+        },
+        {
+            "conversation_id": "1512432006990282758",
+            "replies": []
+        },
+        {
+            "conversation_id": "1513504929910075399",
+            "replies": []
+        },
+        {
+            "conversation_id": "1540027765688340480",
+            "replies": []
+        },
+        {
+            "conversation_id": "1580629874057703424",
+            "replies": []
+        },
+        {
+            "conversation_id": "1582464143214669824",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1582464143214669824",
+                    "created_time": "2022-10-18T20:10:28",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1582464148092620800",
+                    "in_reply_to_post_id": "1582464143214669824",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "This is the first step to ensuring that individuals with mild to moderate hearing loss can afford the hearing devices that will allow them to hear.  Now Congress needs to pass legislation to ensure that hearing aids are covered under Medicare. 2/2",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1666123828,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1589759728133238786",
+            "replies": []
+        },
+        {
+            "conversation_id": "1598484127703072769",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "479872233",
+                    "author_username": "RepRoybalAllard",
+                    "community_notes": null,
+                    "conversation_id": "1598484127703072769",
+                    "created_time": "2022-12-02T01:08:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1598484129036861442",
+                    "in_reply_to_post_id": "1598484127703072769",
+                    "in_reply_to_profile_id": "479872233",
+                    "in_reply_to_profile_username": "RepRoybalAllard",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "We do so to honor those who died, recognize the medical advancements in treatment and prevention, acknowledge the healthcare professionals and caregivers on the front lines battling the disease, and keep fighting until the disease is eradicated. 2/3",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1669943289,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

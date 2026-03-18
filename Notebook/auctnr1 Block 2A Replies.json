@@ -1,0 +1,381 @@
+{
+    "politician": "auctnr1",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1485241334273302530",
+            "replies": []
+        },
+        {
+            "conversation_id": "1486398196909809671",
+            "replies": []
+        },
+        {
+            "conversation_id": "1496550356305825792",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "352795309",
+                    "author_username": "glennid10t",
+                    "community_notes": null,
+                    "conversation_id": "1496550356305825792",
+                    "created_time": "2022-02-23T18:26:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1496552060837597187",
+                    "in_reply_to_post_id": "1496550356305825792",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@auctnr1 @KamalaHarris Billiam, Ronna doesn't know who you are. All your horrible tweets and awful choices to show fealty makes you look like human garbage.\n\nAnd that smell...please do something about that.\nThanks.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1",
+                        "KamalaHarris"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351",
+                        "30354991"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645640790,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.politico.eu/article/vladimir-putin-war-criminal-inhumanity-syria/amp/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/CxQq2bbwaX"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "149534625",
+                    "author_username": "Jstnorv10",
+                    "community_notes": null,
+                    "conversation_id": "1496550356305825792",
+                    "created_time": "2022-02-23T18:26:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1496551989068578826",
+                    "in_reply_to_post_id": "1496550356305825792",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@auctnr1 @KamalaHarris https://t.co/CxQq2bbwaX",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "auctnr1",
+                        "KamalaHarris"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351",
+                        "30354991"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645640773,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1534809438443429891",
+            "replies": []
+        },
+        {
+            "conversation_id": "1534812286346461184",
+            "replies": []
+        },
+        {
+            "conversation_id": "1541875267911593984",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "878976722691117057",
+                    "author_username": "SonsOfPulaski",
+                    "community_notes": null,
+                    "conversation_id": "1541875267911593984",
+                    "created_time": "2022-06-28T20:11:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1541877046506409986",
+                    "in_reply_to_post_id": "1541875267911593984",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@auctnr1 Bet you won't try and find out who her clients were either.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1656447109,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1556458218267840512",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "823952985944272896",
+                    "author_username": "garrett1624",
+                    "community_notes": null,
+                    "conversation_id": "1556458218267840512",
+                    "created_time": "2022-08-08T14:54:41",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1556655142958776322",
+                    "in_reply_to_post_id": "1556458218267840512",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@auctnr1 It\u2019s alright Billy, no one expects you to understand these complicated matters.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659970481,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "105004734",
+                    "author_username": "DemocratScoop",
+                    "community_notes": null,
+                    "conversation_id": "1556458218267840512",
+                    "created_time": "2022-08-08T02:18:33",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1556464853958672389",
+                    "in_reply_to_post_id": "1556458218267840512",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@auctnr1 @All435Reps Republicans are putting diabetics in the poorhouse, took away women\u2019s rights, and tried to overthrow the US government\u2026 they are about as anti-American as you can get\u2026!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1",
+                        "All435Reps"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351",
+                        "1124447266205503488"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659925113,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1587449380545695748",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "703493521",
+                    "author_username": "Punkondeck",
+                    "community_notes": null,
+                    "conversation_id": "1587449380545695748",
+                    "created_time": "2022-11-02T04:49:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587668086076985344",
+                    "in_reply_to_post_id": "1587449380545695748",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@auctnr1 Bill, I'm voting blue because you continue to lie to everyone.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667364543,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1321568638344654849",
+                    "author_username": "conservativef17",
+                    "community_notes": null,
+                    "conversation_id": "1587449380545695748",
+                    "created_time": "2022-11-01T15:03:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587460364853051392",
+                    "in_reply_to_post_id": "1587449380545695748",
+                    "in_reply_to_profile_id": "21572351",
+                    "in_reply_to_profile_username": "auctnr1",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@auctnr1 Thank you Congressman for continuing to advocate for comprehensive immigration reform!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "auctnr1"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21572351"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667315019,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1607139671062052866",
+            "replies": []
+        },
+        {
+            "conversation_id": "1719829791690350623",
+            "replies": []
+        },
+        {
+            "conversation_id": "1740613788972261585",
+            "replies": []
+        },
+        {
+            "conversation_id": "1812527385528443250",
+            "replies": []
+        },
+        {
+            "conversation_id": "1812531945928003913",
+            "replies": []
+        },
+        {
+            "conversation_id": "1822644618468422073",
+            "replies": []
+        },
+        {
+            "conversation_id": "1830879577213714777",
+            "replies": []
+        }
+    ]
+}

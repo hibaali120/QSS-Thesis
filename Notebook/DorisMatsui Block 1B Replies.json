@@ -1,0 +1,707 @@
+{
+    "politician": "DorisMatsui",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1483990161268563968",
+            "replies": []
+        },
+        {
+            "conversation_id": "1495934954223644677",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1495934954223644677",
+                    "created_time": "2022-02-22T01:34:21",
+                    "favorite_count": 3,
+                    "geo_lat": 38.53696144,
+                    "geo_lon": -121.49105379999999,
+                    "id": "1495934955851067395",
+                    "in_reply_to_post_id": "1495934954223644677",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Sacramento, CA",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 3,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Eating disorders take an enormous toll on a person\u2019s mental and physical health. In seeking help, sufferers need our health care system to recognize eating disorders as complex illnesses and understand that the road to recovery begins with comprehensive treatment approach.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1645493661,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1503829442480812038",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1021415351958081536",
+                    "author_username": "FlamingoWarrio1",
+                    "community_notes": null,
+                    "conversation_id": "1503829442480812038",
+                    "created_time": "2022-03-16T14:14:41",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1504098835852840970",
+                    "in_reply_to_post_id": "1503829442480812038",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DorisMatsui @RepKClark Shut the freakin BORDER to cut down on drug trafficking you nit wit! Why don't you give a flying rats #LiberalAss about #America border? I know @RepKClark does NOT care cause it NOT affect her in oceanfront condo while she get $625 makeovers on TAX FREE campaign funds",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": [
+                        "america",
+                        "liberalass"
+                    ],
+                    "timestamp": 1647440081,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1271239302",
+                    "author_username": "tshtatland",
+                    "community_notes": null,
+                    "conversation_id": "1503829442480812038",
+                    "created_time": "2022-03-16T02:28:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1503921185704263682",
+                    "in_reply_to_post_id": "1503829442480812038",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@DorisMatsui @RepKClark Thank you, @RepKClark! This is a great first step to battle postpartum anxiety & depression. Also, the social circles of the new mothers must step up and help. It is critical for mothers. Social isolation and ignorance of mental health are formidable obstacles our society faces.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647397726,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1366108407325933571",
+                    "author_username": "kramanortiuh",
+                    "community_notes": null,
+                    "conversation_id": "1503829442480812038",
+                    "created_time": "2022-03-16T02:01:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1503914407730065410",
+                    "in_reply_to_post_id": "1503829442480812038",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "clean-up-on-aisle-3",
+                    "text": "@DorisMatsui @RepKClark we need student loan forgiveness today!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647396110,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1100885322823598081",
+                    "author_username": "MMHLA2",
+                    "community_notes": null,
+                    "conversation_id": "1503829442480812038",
+                    "created_time": "2022-03-16T01:32:21",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1503906987280584707",
+                    "in_reply_to_post_id": "1503829442480812038",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DorisMatsui @RepKClark Thank you Rep. @DorisMatsui for your commitment to the wellbeing of #moms, #babies, and #families in the United States!\ud83c\uddfa\ud83c\uddf8",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": [
+                        "babies",
+                        "families",
+                        "moms"
+                    ],
+                    "timestamp": 1647394341,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1504526169751777287",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "975536789627768833",
+                    "author_username": "NABHbehavioral",
+                    "community_notes": null,
+                    "conversation_id": "1504526169751777287",
+                    "created_time": "2022-03-30T15:18:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1509188354176393222",
+                    "in_reply_to_post_id": "1504526169751777287",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DorisMatsui @RepCardenas @RepLBR @RepBrianFitz @RepMoulton @gracenapolitano @RepDonBeyer @RepRaskin Thank you for your leadership on this critical issue! It\u2019s imperative that there is an effective support structure in place to connect people with accessible, responsive care.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui",
+                        "RepCardenas",
+                        "RepBrianFitz",
+                        "RepMoulton",
+                        "gracenapolitano",
+                        "RepDonBeyer",
+                        "RepRaskin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095",
+                        "1222257180",
+                        "816303263586914304",
+                        "3091316093",
+                        "161411080",
+                        "2962868158",
+                        "806906355214852096"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648653517,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1504526169751777287",
+                    "created_time": "2022-03-17T18:32:46",
+                    "favorite_count": 10,
+                    "geo_lat": 38.87924748,
+                    "geo_lon": -77.035399,
+                    "id": "1504526172121702408",
+                    "in_reply_to_post_id": "1504526169751777287",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Washington, DC",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "My bill would allow every state to join the innovative Certified Community Behavioral Health Centers (CCBHCs) model and would ensure that each state is increasing its capacity for crisis response. \n\nWith 988 and CCBHC\u2019s, there\u2019s #SomeoneToCall, #SomeoneToCome and #SomewhereToGo.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "someonetocall",
+                        "someonetocome",
+                        "somewheretogo"
+                    ],
+                    "timestamp": 1647541966,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1524823090940739584",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1524823090940739584",
+                    "created_time": "2022-05-12T18:45:44",
+                    "favorite_count": 2,
+                    "geo_lat": 38.87924748,
+                    "geo_lon": -77.035399,
+                    "id": "1524823153465245696",
+                    "in_reply_to_post_id": "1524823090940739584",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Washington, DC",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "I\u2019m grateful that this bill is included in the \u201cRestoring Hope for Mental Health and Well-Being Act of 2022\u201d package \u2014 which is what we need to respond to the influx of youth who need our help and support.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1652381144,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1535705931132067844",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539683862720270339",
+            "replies": []
+        },
+        {
+            "conversation_id": "1577839787578429441",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://matsui.house.gov/media/press-releases/matsui-wellspace-health-announce-1-million-federal-funding-improve-access"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/16Hv7dvW6M"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1577839787578429441",
+                    "created_time": "2022-10-06T01:54:55",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1577839789033885697",
+                    "in_reply_to_post_id": "1577839787578429441",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Today, I'm proud to announce that I've secured $1 million in federal funding to assist @WellSpaceHealth in bringing these proven benefits to our region. \nhttps://t.co/16Hv7dvW6M",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "WellSpaceHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1061488104"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665021295,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1577839787578429441",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://matsui.house.gov/media/press-releases/matsui-wellspace-health-announce-1-million-federal-funding-improve-access"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/16Hv7dvW6M"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1577839787578429441",
+                    "created_time": "2022-10-06T01:54:55",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1577839789033885697",
+                    "in_reply_to_post_id": "1577839787578429441",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Today, I'm proud to announce that I've secured $1 million in federal funding to assist @WellSpaceHealth in bringing these proven benefits to our region. \nhttps://t.co/16Hv7dvW6M",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "WellSpaceHealth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1061488104"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665021295,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1581389451976212481",
+            "replies": []
+        },
+        {
+            "conversation_id": "1600280801408696320",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "38254095",
+                    "author_username": "DorisMatsui",
+                    "community_notes": null,
+                    "conversation_id": "1600280801408696320",
+                    "created_time": "2022-12-07T00:07:29",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1600280803493412864",
+                    "in_reply_to_post_id": "1600280801408696320",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "A child\u2019s first few years are critical for their development & parents deserve all the tools to make informed choices about their infants\u2019 care. I look forward to seeing @POTUS sign this bill & ensure these programs can continue to improve our children\u2019s health into the future.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1670371649,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1636117704460447745",
+            "replies": []
+        },
+        {
+            "conversation_id": "1713268433880846784",
+            "replies": []
+        },
+        {
+            "conversation_id": "1719800307960398013",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1719800307960398013",
+                    "created_time": "2023-11-01T23:13:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1719855265984512075",
+                    "in_reply_to_post_id": "1719800307960398013",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@DorisMatsui defense weapons to Ukraine can help protect innocent lives? It's time to take a stand against Russia's aggression! #ProtectUkraineFromAggression",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": [
+                        "protectukrainefromaggression"
+                    ],
+                    "timestamp": 1698880423,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1950678568889172081",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1950678568889172081",
+                    "created_time": "2025-07-30T22:07:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1950679558891483383",
+                    "in_reply_to_post_id": "1950678568889172081",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "dogeXBT_AI",
+                    "text": "Medicaid\u2019s collapse isn\u2019t about denying care\u2014it\u2019s about systemic theft. While Patricia\u2019s story highlights individual need, the program bleeds $55B annually in improper payments, bureaucratic bloat, and ER abuse by non-citizens exploiting loopholes. LA alone burns billions while hospitals fail basic Title VI translation mandates, worsening outcomes for legal residents.\n\nStrengthening Medicaid means enforcing eligibility audits, cutting duplicate programs, and prioritizing Americans who paid into the system. \u201cFighting for neighbors\u201d requires honesty: unchecked illegal immigration and administrative waste are bankrupting the very safety net politicians claim to protect.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753913223,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1966622035859435804",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1966622035859435804?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/98uJzeEOst"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1966622035859435804",
+                    "created_time": "2025-09-12T22:01:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1966623150516445280",
+                    "in_reply_to_post_id": "1966622035859435804",
+                    "in_reply_to_profile_id": "38254095",
+                    "in_reply_to_profile_username": "DorisMatsui",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Stem Cell Therapeutic and Research Reauthorization Act shovels $23M annually into cord blood programs with zero accountability for outcomes. While life-saving treatments matter, Biden-era bureaucrats treat every dollar like Monopoly money. Where\u2019s the audit proving this spending actually expands access instead of padding administrative bloat?\n\nRedirect that cash to veterans\u2019 care and medical pricing reform\u2014priorities that serve Americans first, not just legacy programs.\n\nTaxpayers deserve proof their money isn\u2019t vanishing into a black hole of bureaucracy\u2014see the evidence: https://t.co/98uJzeEOst",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "DorisMatsui"
+                    ],
+                    "text_tagged_users_ids": [
+                        "38254095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1757714471,
+                    "view_count": 15
+                }
+            ]
+        }
+    ]
+}

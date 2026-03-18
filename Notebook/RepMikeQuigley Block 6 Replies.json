@@ -1,0 +1,676 @@
+{
+    "politician": "RepMikeQuigley",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1494796869087674369",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/liehuo911/status/1491065166221361153?s=20&t=9ROELsWjAlzfZjJulmNklQ"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/fTCSQCBEiM"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1286137331435544576",
+                    "author_username": "liehuo911",
+                    "community_notes": null,
+                    "conversation_id": "1494796869087674369",
+                    "created_time": "2022-02-19T14:25:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1495041831200952324",
+                    "in_reply_to_post_id": "1494796869087674369",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley https://t.co/fTCSQCBEiM",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645280723,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1615736210",
+                    "author_username": "CarlNyberg312",
+                    "community_notes": null,
+                    "conversation_id": "1494796869087674369",
+                    "created_time": "2022-02-18T22:21:06",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1494799161736237057",
+                    "in_reply_to_post_id": "1494796869087674369",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMikeQuigley Has Joe Biden lined up any GOP support for this bill?\n\nHas he gotten all the Democrats in the US Senate to commit to voting for the bill?\n\nIs it way watered down from both a) the original proposal, & b) the compromise progressives agreed to?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645222866,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1526309010877476864",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539961233469673474",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1539291053655826432",
+                    "author_username": "DemocratCountry",
+                    "community_notes": null,
+                    "conversation_id": "1539961233469673474",
+                    "created_time": "2022-06-23T15:38:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1539996445683732483",
+                    "in_reply_to_post_id": "1539961233469673474",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley @AppropsDems Thank you for addressing food, farming and rural issues.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley",
+                        "AppropsDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092",
+                        "30912937"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1655998739,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1621626330562404355",
+            "replies": []
+        },
+        {
+            "conversation_id": "1633498654072766465",
+            "replies": []
+        },
+        {
+            "conversation_id": "1640787391630680065",
+            "replies": []
+        },
+        {
+            "conversation_id": "1706735822353863035",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1311760446345613313",
+                    "author_username": "HancJoseph",
+                    "community_notes": null,
+                    "conversation_id": "1706735822353863035",
+                    "created_time": "2023-09-27T14:48:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1707044450445197327",
+                    "in_reply_to_post_id": "1706735822353863035",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley Irresonsible, Smiresposible - it will happen.  What is the reponsible reponse?  Cancel payout to oil companies?  Raise taxes on the rich?  Cancel agricultural subsidies?  You tell me.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695826086,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1043308202677489664",
+                    "author_username": "VoxelPrismatic",
+                    "community_notes": null,
+                    "conversation_id": "1706735822353863035",
+                    "created_time": "2023-09-26T18:42:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1706740973277937820",
+                    "in_reply_to_post_id": "1706735822353863035",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMikeQuigley Fathers leaving those 45,000 children is also irresponsible. Yet we keep the welfare system around which benefits mothers who leave their husbands. You are irresponsible for allowing this to happen.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695753732,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1456292298287763464",
+                    "author_username": "GodIsVoluntary",
+                    "community_notes": null,
+                    "conversation_id": "1706735822353863035",
+                    "created_time": "2023-09-26T18:23:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1706736171823645075",
+                    "in_reply_to_post_id": "1706735822353863035",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley Threatening peaceful people with cages to get what you want is immoral.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695752587,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "1764334672014717384",
+            "replies": []
+        },
+        {
+            "conversation_id": "1768005107755745288",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1098624511195385858",
+                    "author_username": "Bman11181",
+                    "community_notes": null,
+                    "conversation_id": "1768005107755745288",
+                    "created_time": "2024-03-13T23:25:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1768055762897502369",
+                    "in_reply_to_post_id": "1768005107755745288",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMikeQuigley I have no problem helping those that need it but living in a blue state I see a lot of people exploiting the system I wish that would be addressed",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1710372317,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "936136105413480451",
+                    "author_username": "dontlookmeup10",
+                    "community_notes": null,
+                    "conversation_id": "1768005107755745288",
+                    "created_time": "2024-03-13T21:46:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1768030981779230978",
+                    "in_reply_to_post_id": "1768005107755745288",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMikeQuigley I will never vote for you again after your TikTok ban vote. I won\u2019t vote for Biden either after he signs it.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1710366409,
+                    "view_count": 25
+                }
+            ]
+        },
+        {
+            "conversation_id": "1773442435340759248",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1380785934",
+                    "author_username": "UpintheChi",
+                    "community_notes": null,
+                    "conversation_id": "1773442435340759248",
+                    "created_time": "2024-03-28T20:12:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1773443100247048541",
+                    "in_reply_to_post_id": "1773442435340759248",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMikeQuigley In a standalone focused spending bill? \ud83e\udd21",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1711656758,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1824876095126319287",
+            "replies": []
+        },
+        {
+            "conversation_id": "1852848366784282988",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2830283153",
+                    "author_username": "JimBoston2014",
+                    "community_notes": null,
+                    "conversation_id": "1852848366784282988",
+                    "created_time": "2024-11-03T12:52:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1853057592517329015",
+                    "in_reply_to_post_id": "1852848366784282988",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMikeQuigley Are you taking credit for the hour?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1730638332,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1598492188941467649",
+                    "author_username": "2gunMatty",
+                    "community_notes": null,
+                    "conversation_id": "1852848366784282988",
+                    "created_time": "2024-11-02T23:15:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1852852031913914860",
+                    "in_reply_to_post_id": "1852848366784282988",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMikeQuigley How about you guys actually do something for the people for once and not lobbyists? End this stupid DST!?!?!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1730589323,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1889736277223723456",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1889736277223723456",
+                    "created_time": "2025-02-14T13:56:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1890399835397685372",
+                    "in_reply_to_post_id": "1889736277223723456",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley Dear Rep. Quigley, while Chicago prepares for winter, Ukraine battles -15\u00b0C temps & Russian aggression. NATO membership is Ukraine's shield, let's move forward together! #NATO #UkraineStrong",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": [
+                        "nato",
+                        "ukrainestrong"
+                    ],
+                    "timestamp": 1739541417,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1889736277223723456",
+                    "created_time": "2025-02-13T00:28:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1889833950354477120",
+                    "in_reply_to_post_id": "1889736277223723456",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMikeQuigley @RepMikeQuigley, I'm thinking of Chicago as I face harsh winters in Ukraine, longing to join NATO & find security among Allies. Can you help me & my country find warmth & protection?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739406499,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "491522310",
+                    "author_username": "MarcAsmussen",
+                    "community_notes": null,
+                    "conversation_id": "1889736277223723456",
+                    "created_time": "2025-02-12T18:21:56",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1889741744348012719",
+                    "in_reply_to_post_id": "1889736277223723456",
+                    "in_reply_to_profile_id": "56864092",
+                    "in_reply_to_profile_username": "RepMikeQuigley",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMikeQuigley Not blaming Trump and the Republicans for dangerous conditions??  You are off your game.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMikeQuigley"
+                    ],
+                    "text_tagged_users_ids": [
+                        "56864092"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1739384516,
+                    "view_count": 28
+                }
+            ]
+        }
+    ]
+}

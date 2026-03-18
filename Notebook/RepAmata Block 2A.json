@@ -1,0 +1,256 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://radewagen.house.gov/media-center/press-releases/amata-takes-part-va-oversight-and-healthcare-efforts"
+                ],
+                "attached_links_url": [
+                    "https://t.co/7ymniVj7kF"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FOtOdIKWQAYDHSQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FOtOdIKWQAYDHSQ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3026622545",
+                "author_username": "RepAmata",
+                "community_notes": null,
+                "conversation_id": "1507384802349047818",
+                "created_time": "2022-03-25T15:51:57",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1507384802349047818",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Recent legislative hearing to examine new bills, and oversight hearing on VA recruiting and retention efforts \nhttps://t.co/7ymniVj7kF https://t.co/qhV5REbbUX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1648223517,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://radewagen.house.gov/media-center/press-releases/amata-and-colleagues-urge-medicaid-fmap-rate-extension"
+                ],
+                "attached_links_url": [
+                    "https://t.co/P92UfLFxbr"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FcuBeQ3WQAElU_q.jpg?name=small",
+                    "https://pbs.twimg.com/media/FcuBeQ1XgAENoJw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FcuBeQ3WQAElU_q.jpg",
+                    "https://pbs.twimg.com/media/FcuBeQ1XgAENoJw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3026622545",
+                "author_username": "RepAmata",
+                "community_notes": null,
+                "conversation_id": "1570491704784097280",
+                "created_time": "2022-09-15T19:16:15",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1570491704784097280",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Rep. Amata and Members of Congress from four U.S. Territories in a bipartisan letter urged House leadership to extend the territories\u2019 Medicaid match rate.\nhttps://t.co/P92UfLFxbr https://t.co/nM3BM5tMnp",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1663269375,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://radewagen.house.gov/media-center/press-releases/federal-omnibus-includes-historic-medicaid-permanence-and-6th-straight"
+                ],
+                "attached_links_url": [
+                    "https://t.co/85wSGdab8v"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3026622545",
+                "author_username": "RepAmata",
+                "community_notes": null,
+                "conversation_id": "1606295062597378049",
+                "created_time": "2022-12-23T14:26:01",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1606295062597378049",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "A vote today in the House. Focusing on American Samoa, the legislation includes two priorities: Medicaid FMAP rate permanence, and a $1M boost to Operations fund https://t.co/85wSGdab8v",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1671805561,
+                "view_count": 264
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://radewagen.house.gov/media-center/press-releases/amata-emphasizes-legislation-and-healthcare-igia"
+                ],
+                "attached_links_url": [
+                    "https://t.co/AR7DaTbbvs"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GG-PBb-a4AAzgeT.jpg?name=small",
+                    "https://pbs.twimg.com/media/GG-PBcCbMAAjS4X.jpg?name=small",
+                    "https://pbs.twimg.com/media/GG-PBcJaQAA4-lI.jpg?name=small",
+                    "https://pbs.twimg.com/media/GG-PBcKasAAoSDq.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GG-PBb-a4AAzgeT.jpg",
+                    "https://pbs.twimg.com/media/GG-PBcCbMAAjS4X.jpg",
+                    "https://pbs.twimg.com/media/GG-PBcJaQAA4-lI.jpg",
+                    "https://pbs.twimg.com/media/GG-PBcKasAAoSDq.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3026622545",
+                "author_username": "RepAmata",
+                "community_notes": null,
+                "conversation_id": "1760783296991215922",
+                "created_time": "2024-02-22T21:47:06",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1760783296991215922",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Remarks at IGIA this week emphasizing two bills I\u2019ve sponsored for American Samoa, healthcare goals for American Samoa and the Pacific Islands, and final passage of the COFA agreements https://t.co/AR7DaTbbvs https://t.co/89pKaSdxcc",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1708638426,
+                "view_count": 470
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Grp5ESgWEAAPmZH.jpg?name=small",
+                    "https://pbs.twimg.com/media/Grp5ESoWUAA0j8T.jpg?name=small",
+                    "https://pbs.twimg.com/media/Grp5ESlWYAEXndX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Grp5ESgWEAAPmZH.jpg",
+                    "https://pbs.twimg.com/media/Grp5ESoWUAA0j8T.jpg",
+                    "https://pbs.twimg.com/media/Grp5ESlWYAEXndX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3026622545",
+                "author_username": "RepAmata",
+                "community_notes": null,
+                "conversation_id": "1925984910126236115",
+                "created_time": "2025-05-23T18:39:20",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1925984910126236115",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Fa\u2019afetai to all who joined the senior town hall at TAOA! Updates included Medicaid, Social Security, and senior services. No changes to benefits\u2014Medicaid match stays at 83%. Grateful for our elders & your voices! #AmataInAction #ServingSeniors #AmericanSamoa #TAOACenter https://t.co/9pOoUiOZVK",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "amatainaction",
+                    "americansamoa",
+                    "servingseniors",
+                    "taoacenter"
+                ],
+                "timestamp": 1748025560,
+                "view_count": 189
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

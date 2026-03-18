@@ -1,0 +1,162 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1900268540755619840/pu/img/rPhOB5Q1EupS1HIo.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1900268540755619840/pu/vid/avc1/1280x720/QHJB2eU0AKl-5N10.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 174,
+                        "id": "1900268540755619840",
+                        "url": "https://video.twimg.com/ext_tw_video/1900268540755619840/pu/vid/avc1/1280x720/QHJB2eU0AKl-5N10.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1900268694158102574",
+                "created_time": "2025-03-13T19:32:16",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1900268694158102574",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "This week, during the @HouseVetAffairs Health Subcommittee hearing, I advocated for more accessible telehealth care for our veterans. I also discussed with our witnesses the new, promising TBI and PTSD medical treatments for veterans. https://t.co/09t5sEwS2g",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "282093902"
+                ],
+                "text_tags": null,
+                "timestamp": 1741894336,
+                "view_count": 591
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://king-hinds.house.gov/media/press-releases/congresswoman-king-hinds-introduces-veterans-travel-act"
+                ],
+                "attached_links_url": [
+                    "https://t.co/IPqwmY12ws"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GrFX7ZrXQAYt9tP.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GrFX7ZrXQAYt9tP.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1923416864643862745",
+                "created_time": "2025-05-16T16:34:50",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1923416864643862745",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "When I speak to veterans back home, they share with me the immense challenges they face when trying to access medical care. Far too often, they are forced to travel thousands of miles for basic care while the federal government fails to provide sufficient support.\n\nThis week, I introduced the TRAVEL Act, which aims to change that.\n\nOnce passed, the TRAVEL Act will empower the Secretary of Veterans Affairs to appoint traveling physicians to aid underserved communities like the Marianas and improve healthcare access for our veterans.\n\nThank you to @HouseVetAffairs Chair @RepBost for supporting this bill and @RepMoylan and @RepAmata for cosponsoring. This is the first step in a long journey to get our heroes the care they so rightfully deserve.\n\nTo learn more about the TRAVEL Act, read my press release here: https://t.co/IPqwmY12ws",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747413290,
+                "view_count": 984
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsDNN6eWYAQaA5L.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsDNN6eWYAQaA5L.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1876313243049754624",
+                "author_username": "RepKimKingHinds",
+                "community_notes": null,
+                "conversation_id": "1928073851763888534",
+                "created_time": "2025-05-29T13:00:02",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1928073851763888534",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "A few weeks ago, I met with @NatResources Chair @RepWesterman to provide an update on the CNMI\u2019s economic health. As Chair, he has overall jurisdiction over Insular Affairs, which works directly with communities like ours. Thank you, Chairman Westerman. https://t.co/PPh81tgMf2",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NatResources",
+                    "RepWesterman"
+                ],
+                "text_tagged_users_ids": [
+                    "41445718",
+                    "2852998461"
+                ],
+                "text_tags": null,
+                "timestamp": 1748523602,
+                "view_count": 243
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

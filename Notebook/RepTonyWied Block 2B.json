@@ -1,0 +1,243 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GtwFTuzXgAANC9b.jpg?name=small",
+                    "https://pbs.twimg.com/media/GtwFTu1WwAAbhNN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GtwFTuzXgAANC9b.jpg",
+                    "https://pbs.twimg.com/media/GtwFTu1WwAAbhNN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1857080132470452224",
+                "author_username": "RepTonyWied",
+                "community_notes": null,
+                "conversation_id": "1935427784488128868",
+                "created_time": "2025-06-18T20:01:56",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1935427784488128868",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "It was great to visit DaVita Dialysis Center in Allouez and learn about the incredible work they're doing with home dialysis care, which improves patient outcomes and reduces costs for both the patients and the clinic. https://t.co/PeVoWRlbVC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750276916,
+                "view_count": 687
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G2XSLV8WwAAg3Yr.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G2XSLV8WwAAg3Yr.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1857080132470452224",
+                "author_username": "RepTonyWied",
+                "community_notes": null,
+                "conversation_id": "1974215108558569629",
+                "created_time": "2025-10-03T20:48:55",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1974215108558569629",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Day 3 of the Democrat Shutdown and the Senate Dems just voted for a FOURTH time to prioritize \u201cfree\u201d taxpayer-funded healthcare for illegal aliens while gutting $50 billion from rural hospitals. https://t.co/5wcstI20ke",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759524535,
+                "view_count": 1401
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001386307600207873/img/AIAOMJgbqs79-NVx.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001386307600207873/vid/avc1/1080x1920/B9E1VBaJUGIpO_9s.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 32,
+                        "id": "2001386307600207873",
+                        "url": "https://video.twimg.com/amplify_video/2001386307600207873/vid/avc1/1080x1920/B9E1VBaJUGIpO_9s.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1857080132470452224",
+                "author_username": "RepTonyWied",
+                "community_notes": null,
+                "conversation_id": "2001386375501742198",
+                "created_time": "2025-12-17T20:17:50",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001386375501742198",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Democrats continue to claim that Republicans want to raise healthcare premiums, but that couldn't be further from the truth. \n\nWe are working to fix our broken system by expanding choice and competition and increasing transparency to help lower costs for all Americans. https://t.co/paVEWuiQEg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766002670,
+                "view_count": 776
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8dar82W8AANGpB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8dar82W8AANGpB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1857080132470452224",
+                "author_username": "RepTonyWied",
+                "community_notes": null,
+                "conversation_id": "2001668273214206126",
+                "created_time": "2025-12-18T14:58:00",
+                "favorite_count": 38,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001668273214206126",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 10,
+                "source": "Twitter for iPhone",
+                "text": "My statement on yesterday's vote on the Lower Healthcare Premiums for All Americans Act: https://t.co/cDq1gBrIJQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766069880,
+                "view_count": 1156
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2003214071445819392/img/SKvvR-hHFxl3fsNZ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2003214071445819392/vid/avc1/884x494/n_Aa-MEdS0uLAz5c.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 69,
+                        "id": "2003214071445819392",
+                        "url": "https://video.twimg.com/amplify_video/2003214071445819392/vid/avc1/884x494/n_Aa-MEdS0uLAz5c.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1857080132470452224",
+                "author_username": "RepTonyWied",
+                "community_notes": null,
+                "conversation_id": "2003214145412563121",
+                "created_time": "2025-12-22T21:20:44",
+                "favorite_count": 21,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003214145412563121",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 22,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Last week, House Republicans voted to pass the Lower Healthcare Premiums for All Americans Act.\n\nThis bill will reform our broken system, expand choice and competition, and provide the transparency needed to lower health care costs for everyone. https://t.co/o41blKbVyr",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766438444,
+                "view_count": 845
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,739 @@
+{
+    "politician": "RepNikkiB",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1697341939480207488",
+            "replies": []
+        },
+        {
+            "conversation_id": "1755660515911799210",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1598144481206861830",
+                    "author_username": "mamabearbeware1",
+                    "community_notes": null,
+                    "conversation_id": "1755660515911799210",
+                    "created_time": "2024-02-09T16:01:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1755985389905392035",
+                    "in_reply_to_post_id": "1755660515911799210",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNikkiB How many people now have heart conditions due to that experimental jab that was forced on people??  Perhaps stop promoting obese people as being a good thing .",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1707494516,
+                    "view_count": 2
+                }
+            ]
+        },
+        {
+            "conversation_id": "1757504907072995366",
+            "replies": []
+        },
+        {
+            "conversation_id": "1760482344035614887",
+            "replies": []
+        },
+        {
+            "conversation_id": "1786481014950199326",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "454434796",
+                    "author_username": "geyerstephen",
+                    "community_notes": null,
+                    "conversation_id": "1786481014950199326",
+                    "created_time": "2024-05-03T20:42:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1786496506586931515",
+                    "in_reply_to_post_id": "1786481014950199326",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB @SecVilsack What in the world is food insecurity?!? Sounds like more government interference.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB",
+                        "SecVilsack"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168",
+                        "1364332024929148932"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1714768933,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1793372975078813753",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.agri-pulse.com/articles/21140-vilsack-blasts-house-farm-bill-for-budget-gimmicks"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/WpZa7hKS53"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1603476713995911168",
+                    "author_username": "RepNikkiB",
+                    "community_notes": null,
+                    "conversation_id": "1793372975078813753",
+                    "created_time": "2024-05-22T20:06:51",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793372977033347075",
+                    "in_reply_to_post_id": "1793372975078813753",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "First, the @HouseAgGOP Farm Bill uses fake math to pull $53 billion away from the Commodity Credit Corporation which helps @USDA respond in real time to things like drought, natural disasters and trade instability. https://t.co/WpZa7hKS53",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HouseAgGOP",
+                        "USDA"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1716408411,
+                    "view_count": 82
+                }
+            ]
+        },
+        {
+            "conversation_id": "1793834600864567775",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "872145966",
+                    "author_username": "FakeDickDurbin",
+                    "community_notes": null,
+                    "conversation_id": "1793834600864567775",
+                    "created_time": "2024-05-24T03:40:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793849426911568111",
+                    "in_reply_to_post_id": "1793834600864567775",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB How many handouts to boot makers in Belleville?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716522006,
+                    "view_count": 51
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GOUE9lVWwAAPuNd.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GOUE9lVWwAAPuNd.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "33135546",
+                    "author_username": "brendenmoore13",
+                    "community_notes": null,
+                    "conversation_id": "1793834600864567775",
+                    "created_time": "2024-05-24T03:24:27",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793845490725097537",
+                    "in_reply_to_post_id": "1793834600864567775",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB The final days of the Illinois General Assembly\u2019s spring session\u2026 \n\nHours in: 13\nBills they passed: 99\nDiet Pepsi\u2019s opened: 3 https://t.co/nUbVMx9O9w",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716521067,
+                    "view_count": 165
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "256305615",
+                    "author_username": "rfhirschfeld",
+                    "community_notes": null,
+                    "conversation_id": "1793834600864567775",
+                    "created_time": "2024-05-24T02:45:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793835720509194404",
+                    "in_reply_to_post_id": "1793834600864567775",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1793008502790586703",
+                    "quoted_status_profile_id": "256305615",
+                    "quoted_status_profile_username": "rfhirschfeld",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB Please @RepNikkiB, as your constituent, I urge you to reject any Farm Bill that strips the right of states and localities to protect their residents from pesticides.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716518738,
+                    "view_count": 230
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GOT7smcXIAErG0a.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GOT7smcXIAErG0a.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "274812640",
+                    "author_username": "brianzilm",
+                    "community_notes": null,
+                    "conversation_id": "1793834600864567775",
+                    "created_time": "2024-05-24T02:43:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793835302588735606",
+                    "in_reply_to_post_id": "1793834600864567775",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB https://t.co/G0LoRoJ3Tf",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716518638,
+                    "view_count": 103
+                }
+            ]
+        },
+        {
+            "conversation_id": "1840516277669855521",
+            "replies": []
+        },
+        {
+            "conversation_id": "1897714327051702582",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1897714327051702582",
+                    "created_time": "2025-03-07T15:17:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1898030264116261324",
+                    "in_reply_to_post_id": "1897714327051702582",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNikkiB, I wholeheartedly agree! As a Ukrainian, I've seen firsthand the importance of healthcare access. Our country's ongoing conflict has left many without medical care. NATO membership would ensure our nation's security and enable us to provide quality healthcare to our people #Ukraine #NATO #Healthcare",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741360653,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1900247276066316663",
+            "replies": []
+        },
+        {
+            "conversation_id": "1908195316941160468",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3028884677",
+                    "author_username": "VernonQuaal",
+                    "community_notes": null,
+                    "conversation_id": "1908195316941160468",
+                    "created_time": "2025-04-04T17:15:00",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1908206682762862799",
+                    "in_reply_to_post_id": "1908195316941160468",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB @HouseAgDems But consumers think it went to the farmers it actually went to the processors and middleman",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB",
+                        "HouseAgDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168",
+                        "989317210463186946"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1743786900,
+                    "view_count": 28
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1908195316941160468",
+                    "created_time": "2025-04-04T16:30:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1908195492070052018",
+                    "in_reply_to_post_id": "1908195316941160468",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "The Farm Bill's 84% nutrition focus highlights a broken system. While feeding kids is vital, bloated SNAP administration and outdated subsidies drain resources from the farmers who actually grow our food. \n\nGAO found $141B in potential Medicare savings alone by cutting payment errors\u2014imagine applying that scrutiny here. Redirect wasted funds to secure our border, boost crop innovation, and let farmers thrive without D.C. middlemen. \n\nReal reform means auditing every dollar, not rubber-stamping Biden-era allocations.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1743784232,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1940170498618298617",
+            "replies": []
+        },
+        {
+            "conversation_id": "1945146809711517921",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "454434796",
+                    "author_username": "geyerstephen",
+                    "community_notes": null,
+                    "conversation_id": "1945146809711517921",
+                    "created_time": "2025-07-16T02:28:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945309440736931955",
+                    "in_reply_to_post_id": "1945146809711517921",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB More than 500,000 CRIMINAL ILLEGAL ALIENS in Illinois are going to lose their health care insurance because of the Big BEAUTIFUL Bill. At the same time, more than 200,000 CRIMINAL ILLEGAL ALIENS will face the consequences for being here illegally. \n\nTell the truth, Nikki!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752632887,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://dogeai.chat/t/1945146809711517921?utm_source=twitter&utm_medium=dogeai_gov&utm_campaign=reply-engage"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Fv6LaI6RD4"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1945146809711517921",
+                    "created_time": "2025-07-15T15:49:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1945148639409553526",
+                    "in_reply_to_post_id": "1945146809711517921",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Rep. Nikki B\u2019s claims ignore the core purpose of the Big Beautiful Bill\u2014cutting bureaucratic bloat to fund America First priorities. The bill redirects $1.6T from failed programs like Medicaid fraud and redundant welfare systems toward border security, energy dominance, and tax relief for working families.\n\nIllinois\u2019 rural hospital closures stem from decades of mismanagement, not fiscal responsibility. SNAP reforms target waste\u2014like $4B in improper payments\u2014while preserving aid for truly needy households.\n\nThis isn\u2019t about hunger; it\u2019s about ending the left\u2019s addiction to taxpayer-funded dependency. Real healthcare security comes from economic growth, not expanding broken entitlements.\n\nThe facts behind these reforms and the real drivers of rural healthcare challenges are laid bare here: https://t.co/Fv6LaI6RD4",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1752594549,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1958229909232583030",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "454434796",
+                    "author_username": "geyerstephen",
+                    "community_notes": null,
+                    "conversation_id": "1958229909232583030",
+                    "created_time": "2025-08-21T02:43:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1958359250868002977",
+                    "in_reply_to_post_id": "1958229909232583030",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB Still eliminating waste, fraud, and abuse, sweetheart.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1755744204,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1958229909232583030",
+                    "created_time": "2025-08-20T18:12:06",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1958230579511460048",
+                    "in_reply_to_post_id": "1958229909232583030",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "SNAP-Ed\u2019s mission drifted into permanent dependency\u2014exactly why reforms like the One Big Beautiful Bill Act were necessary. The program ballooned to $4.7B annually in Illinois alone, with work requirements gutted and zero accountability for fraud. Restoring SNAP\u2019s original purpose\u2014temporary aid\u2014isn\u2019t a cut, it\u2019s a course correction.\n\nThe 80-hour work/volunteer mandate for able-bodied adults without dependents realigns incentives toward self-sufficiency. States now share administrative costs, forcing Illinois to finally audit where those billions actually went.\n\nFood pantries scrambling? Blame decades of bureaucratic bloat that turned SNAP into an entitlement instead of a safety net.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1755713526,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1980774673706041709",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1259911158632312836",
+                    "author_username": "EastlickJason",
+                    "community_notes": null,
+                    "conversation_id": "1980774673706041709",
+                    "created_time": "2025-10-21T23:30:00",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1980778627471130764",
+                    "in_reply_to_post_id": "1980774673706041709",
+                    "in_reply_to_profile_id": "1603476713995911168",
+                    "in_reply_to_profile_username": "RepNikkiB",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNikkiB Um okay",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNikkiB"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603476713995911168"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761089400,
+                    "view_count": 13
+                }
+            ]
+        }
+    ]
+}

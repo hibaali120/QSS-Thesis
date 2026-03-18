@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1889019333960998912",
+                "author_username": "SecScottBessent",
+                "community_notes": null,
+                "conversation_id": "1942637304004432014",
+                "created_time": "2025-07-08T17:30:00",
+                "favorite_count": 10705,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1942637304004432014",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 85,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 712,
+                "retweet_count": 2532,
+                "source": "Twitter Web Client",
+                "text": "The One Big Beautiful Bill will not close rural hospitals.\n\nIn fact, this legislation creates significant new bridge funding to help stabilize rural hospitals and enhance their long-term financial solvency.\n\nThrough OBBB, we are expanding rural hospital protections, providing targeted funds to rural care, and giving states flexibility to support local providers.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751995800,
+                "view_count": 248612
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

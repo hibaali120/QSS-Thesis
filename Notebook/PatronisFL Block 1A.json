@@ -1,0 +1,165 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqSVtnqWAAALfqh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqSVtnqWAAALfqh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1919823955700912483",
+                "created_time": "2025-05-06T18:37:54",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1919823955700912483",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Great to catch up with our friends from @Lee_Health today. Thanks for all you do. Welcome to Washington! https://t.co/weaWVrzbh5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Lee_Health"
+                ],
+                "text_tagged_users_ids": [
+                    "29549391"
+                ],
+                "text_tags": null,
+                "timestamp": 1746556674,
+                "view_count": 2321
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968696933859430400/img/qfSWdF2dWbt-4EzI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968696933859430400/vid/avc1/1568x884/fYQFCly3w5Qfn4K0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 122,
+                        "id": "1968696933859430400",
+                        "url": "https://video.twimg.com/amplify_video/1968696933859430400/vid/avc1/1568x884/fYQFCly3w5Qfn4K0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1968697544470331458",
+                "created_time": "2025-09-18T15:24:05",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968697544470331458",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "For the health of our kids, we need to develop better protections when it comes to social media and other apps that collect their data. https://t.co/JwsFH2ou5y",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758209045,
+                "view_count": 225
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1978926607436849153/img/z2G4RuiLGWFWd4Iz.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3aPQ75XwAAVKxV.jpg?name=small",
+                    "https://pbs.twimg.com/media/G3aPQ76XUAAaZAA.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1978926607436849153/vid/avc1/1280x720/x9hfcywNa0E9SXTj.mp4?tag=21",
+                    "https://pbs.twimg.com/media/G3aPQ75XwAAVKxV.jpg",
+                    "https://pbs.twimg.com/media/G3aPQ76XUAAaZAA.jpg"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1978926607436849153",
+                        "url": "https://video.twimg.com/amplify_video/1978926607436849153/vid/avc1/1280x720/x9hfcywNa0E9SXTj.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1912210253841580032",
+                "author_username": "PatronisFL",
+                "community_notes": null,
+                "conversation_id": "1978926675791614199",
+                "created_time": "2025-10-16T20:51:00",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1978926675791614199",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "Day 16 of the #SchumerShutdown, and I had the honor of visiting Hurlburt Field to discuss key priorities from housing and childcare to traffic and mental health. We toured the flight line, saw the MC-130 and A-26 up close, and received briefings on how these operations impact Florida\u2019s 1st District. Grateful for the men and women who work to remain mission ready and our nation safe. While Senate Democrats focus on illegal immigarnts healthcare , I\u2019ll keep fighting for the people back home.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "schumershutdown"
+                ],
+                "timestamp": 1760647860,
+                "view_count": 1149
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

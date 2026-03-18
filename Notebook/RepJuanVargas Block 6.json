@@ -1,0 +1,144 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Frvz6xaWYAErDAe.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Frvz6xaWYAErDAe.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1260172386",
+                "author_username": "RepJuanVargas",
+                "community_notes": null,
+                "conversation_id": "1638171165767131137",
+                "created_time": "2023-03-21T13:30:16",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1638171165767131137",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Agriculture and nutrition policy go hand-in-hand. We can\u2019t talk about fighting hunger in America without supporting our farmers and ranchers!\n\nI stand with my @HouseAgDem colleagues in promising to #DefendSNAP as we celebrate the farmers who feed us this #AgDay23. https://t.co/tfRqFFwoPe",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "agday23",
+                    "defendsnap"
+                ],
+                "timestamp": 1679405416,
+                "view_count": 712
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://tinyurl.com/3s29wtvp"
+                ],
+                "attached_links_url": [
+                    "https://t.co/zP6CX0Hk8w"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1260172386",
+                "author_username": "RepJuanVargas",
+                "community_notes": null,
+                "conversation_id": "1693448373968183582",
+                "created_time": "2023-08-21T02:22:09",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1693448373968183582",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": ".@RedCross opened 2 shelters \u2013 one  \nin North & South County for people forced from homes due to the storm: \n\n\u2022 Southwestern College Jaguar Aquatics Wellness & Sports, 900 Otay Lakes Road, Chula Vista\n\n\u2022 Corky Smith Gymnasium, 274 Pico Ave., San Marcos\n\nhttps://t.co/zP6CX0Hk8w",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RedCross"
+                ],
+                "text_tagged_users_ids": [
+                    "6519522"
+                ],
+                "text_tags": null,
+                "timestamp": 1692584529,
+                "view_count": 770
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1260172386",
+                "author_username": "RepJuanVargas",
+                "community_notes": null,
+                "conversation_id": "1706697260644409398",
+                "created_time": "2023-09-26T15:48:30",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1706697260644409398",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "46 years ago today, the 1977 Food Stamp Act was signed into law, setting the framework for the modern Supplemental Nutrition Assistance Program (SNAP) we know today. I\u2019m proud to continually support SNAP so that families and those in need can put food on their tables.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1695743310,
+                "view_count": 905
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

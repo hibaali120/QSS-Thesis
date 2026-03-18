@@ -1,0 +1,107 @@
+{
+    "politician": "RepPabloJose",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1899555648066445346",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1869024914738483200",
+                    "author_username": "RepPabloJose",
+                    "community_notes": null,
+                    "conversation_id": "1899555648066445346",
+                    "created_time": "2025-03-11T20:19:19",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1899555756715971056",
+                    "in_reply_to_post_id": "1899555648066445346",
+                    "in_reply_to_profile_id": "1869024914738483200",
+                    "in_reply_to_profile_username": "RepPabloJose",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@PRPHealthTrust I appreciate Israel Rom\u00e1n's visit and the dedication of the #PuertoRico Public Health Trust (@PRPHealthTrust) to improve the quality of life and health for our people. You can count on my support. \ud83e\udd1d\ud83c\uddf5\ud83c\uddf7",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "puertorico"
+                    ],
+                    "timestamp": 1741724359,
+                    "view_count": 350
+                }
+            ]
+        },
+        {
+            "conversation_id": "1900247890338955664",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://hernandez.house.gov/services/fy26-appropriations-request"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/iUrwxycp3z"
+                    ],
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Gl8JbFpW8AAPOJN.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Gl8JbFpW8AAPOJN.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1869024914738483200",
+                    "author_username": "RepPabloJose",
+                    "community_notes": null,
+                    "conversation_id": "1900247890338955664",
+                    "created_time": "2025-03-13T18:10:10",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1900248030655262899",
+                    "in_reply_to_post_id": "1900247890338955664",
+                    "in_reply_to_profile_id": "1869024914738483200",
+                    "in_reply_to_profile_username": "RepPabloJose",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Attention, #PuertoRico! Congress directs federal funds through #appropriations bills, setting budgets for agencies and programs like education, health & public safety. Submit your federal funding requests to my office through my page \u2b07\ufe0f https://t.co/iUrwxycp3z https://t.co/CrvRtU2NzB",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "appropriations",
+                        "puertorico"
+                    ],
+                    "timestamp": 1741889410,
+                    "view_count": 347
+                }
+            ]
+        }
+    ]
+}

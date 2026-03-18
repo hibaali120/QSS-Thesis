@@ -1,0 +1,100 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FM-PjzqXsAEftGO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FM-PjzqXsAEftGO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "74508260",
+                "author_username": "BillPascrell",
+                "community_notes": null,
+                "conversation_id": "1499575048587333654",
+                "created_time": "2022-03-04T02:38:46",
+                "favorite_count": 502,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1499575048587333654",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 46,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 37,
+                "retweet_count": 352,
+                "source": "Twitter for iPhone",
+                "text": "&gt;&gt;&gt;Earlier today 84% of House republicans voted against funding cancer treatment and health care for veterans exposed to toxins.\n\nRepublicans told the troops to go to hell. https://t.co/4ATg3z224P",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1646361526,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "74508260",
+                "author_username": "BillPascrell",
+                "community_notes": null,
+                "conversation_id": "1793367148624265258",
+                "created_time": "2024-05-22T19:43:42",
+                "favorite_count": 39,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1793367148624265258",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1793281564018655556",
+                "quoted_status_profile_id": "1017819745880543238",
+                "quoted_status_profile_username": "RepWexton",
+                "reply_count": 0,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "I am so proud of @repwexton for her courageous fight against Progressive Supranuclear Palsy. PSP is a terrible condition, Parkinson\u2019s on steroids that impacts 30,000+ Americans.  #PSPawarenessmonth is a key time to build public support to find treatment and a cure \u2665\ufe0f",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepWexton"
+                ],
+                "text_tagged_users_ids": [
+                    "1017819745880543238"
+                ],
+                "text_tags": [
+                    "pspawarenessmonth"
+                ],
+                "timestamp": 1716407022,
+                "view_count": 4711
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

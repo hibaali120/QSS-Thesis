@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GXdYekHWMAAWPW8.jpg?name=small",
+                    "https://pbs.twimg.com/media/GXdYej8XsAA6zfe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GXdYekHWMAAWPW8.jpg",
+                    "https://pbs.twimg.com/media/GXdYej8XsAA6zfe.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2951574214",
+                "author_username": "RepGarretGraves",
+                "community_notes": null,
+                "conversation_id": "1835032660109894115",
+                "created_time": "2024-09-14T19:07:34",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1835032660109894115",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Assumption Parish Jurors Leroy Blanchard & Chris Carter, & OEP Director Paul LeBlanc took about a 30 sec breather after no sleep for 48 hrs. Hard hit, parts of the parish got up to 20\u201d of rain and flooding. Lost almost all power. Lots of debris. There\u2019s more to do. We\u2019ll be back. https://t.co/giTAzeus0t",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1726340854,
+                "view_count": 757
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

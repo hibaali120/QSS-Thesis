@@ -1,0 +1,295 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FM8U1IhXIAEY91-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1499436792243626006/vid/1280x720/EPuu8yqweLgiY59F.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 169,
+                        "id": "1499436792243626006",
+                        "url": "https://video.twimg.com/amplify_video/1499436792243626006/vid/1280x720/EPuu8yqweLgiY59F.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1499440766908776455",
+                "created_time": "2022-03-03T17:45:11",
+                "favorite_count": 94,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1499440766908776455",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 46,
+                "retweet_count": 16,
+                "source": "Twitter Media Studio",
+                "text": "Terminally ill patients shouldn\u2019t have to worry about bureaucratic waiting periods for Social Security Disability payments. My bill will allow the terminally ill to receive money when they need it, relieving some of the stress associated with end-of-life care. https://t.co/nw28PARFwV",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1646329511,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.lee.senate.gov/2022/3/sen-lee-introduces-bill-granting-immediate-ssdi-benefits-for-terminally-ill"
+                ],
+                "attached_links_url": [
+                    "https://t.co/9okIWnaW8C"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FM8jekWXMBE575t.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1499455686408867851/vid/1280x720/lyaFyyjezLsgy0AW.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 50,
+                        "id": "1499455686408867851",
+                        "url": "https://video.twimg.com/amplify_video/1499455686408867851/vid/1280x720/lyaFyyjezLsgy0AW.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1499460166089166848",
+                "created_time": "2022-03-03T19:02:16",
+                "favorite_count": 24,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1499460166089166848",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 8,
+                "source": "Twitter Media Studio",
+                "text": "If passed, my bill could put SSDI payments into patients' hands sooner, relieving some of the stress of end-of-life care. It would provide a voice to the oftentimes voiceless.\n\n@ABC4Utah\n\nhttps://t.co/9okIWnaW8C https://t.co/hiSAt4BpBA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ABC4Utah"
+                ],
+                "text_tagged_users_ids": [
+                    "15771003"
+                ],
+                "text_tags": null,
+                "timestamp": 1646334136,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1909631224798212599",
+                "created_time": "2025-04-08T15:35:37",
+                "favorite_count": 146,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1909631224798212599",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 7,
+                "quoted_status_id": "1908640795110105314",
+                "quoted_status_profile_id": "22650211",
+                "quoted_status_profile_username": "GMA",
+                "reply_count": 52,
+                "retweet_count": 22,
+                "source": "Twitter Web App",
+                "text": "We should make it easier for new moms who want to stay with their babies.\n\nThat\u2019s why I\u2019m introducing the Fairness for Stay-at-Home-Parents Act with @RepRileyMoore.\n\nIt exempts them from paying back insurance premiums if they don\u2019t return to work after maternity/paternity leave.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepRileyMoore"
+                ],
+                "text_tagged_users_ids": [
+                    "1875249747809710080"
+                ],
+                "text_tags": null,
+                "timestamp": 1744126537,
+                "view_count": 20142
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gq2O2wZXAAALWNv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1922349357048725504/vid/avc1/1280x720/NRMmGtxtAi9Z0X-u.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 64,
+                        "id": "1922349357048725504",
+                        "url": "https://video.twimg.com/amplify_video/1922349357048725504/vid/avc1/1280x720/NRMmGtxtAi9Z0X-u.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1922349829247676751",
+                "created_time": "2025-05-13T17:54:49",
+                "favorite_count": 1113,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922349829247676751",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 65,
+                "retweet_count": 223,
+                "source": "Twitter Media Studio",
+                "text": "With the cost of prescription drugs front and center in the national debate, Congress should ensure that Pharmacy Benefit Managers can\u2019t unfairly raise prices and distort markets for patients. https://t.co/eL1Lv1c68d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747158889,
+                "view_count": 16017
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G22BR6NWUAASMT5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G22BR6NWUAASMT5.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1976377960195387751",
+                "created_time": "2025-10-09T20:03:19",
+                "favorite_count": 70335,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1976377960195387751",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 429,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1635,
+                "retweet_count": 13834,
+                "source": "Twitter for iPhone",
+                "text": "You forced Obamacare through 16 years ago while Republicans warned it would make premiums skyrocket?\u00a0\n\n\u201cYes Dave.\u201d\n\nAnd then premiums skyrocketed?\n\n\u201cYes Dave.\u201d\n\nThen under Biden you passed additional subsidies to pay for these high premiums?\n\n\u201cYes Dave.\u201d\n\nAnd now these subsidies are largely corporate welfare driven by fraud?\n\n\u201cYes Dave.\u201d\u00a0\n\nAnd now you\u2019re shutting down the government to continue these subsidies?\u00a0\n\n\u201cThat\u2019s correct Dave.\u201d",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1760040199,
+                "view_count": 3299883
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "88784440",
+                "author_username": "SenMikeLee",
+                "community_notes": null,
+                "conversation_id": "1981731626729046410",
+                "created_time": "2025-10-24T14:36:53",
+                "favorite_count": 1647,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1981731626729046410",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 21,
+                "quoted_status_id": "1981685395093106790",
+                "quoted_status_profile_id": "15790186",
+                "quoted_status_profile_username": "RyanLEllis",
+                "reply_count": 235,
+                "retweet_count": 586,
+                "source": "Twitter for iPhone",
+                "text": "This is the broken system that Democrats have shut down the government to preserve. \n\nThey are demanding more money from Americans to keep the fraudulent Biden Covid Credits going, which will in turn continue to drive insurance premiums up for families.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761316613,
+                "view_count": 56332
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

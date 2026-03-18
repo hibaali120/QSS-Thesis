@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1lY6Tta8AAlcob.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1lY6T_a8AAbQUh.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1lZ5QxbAAATOYl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1lY6Tta8AAlcob.jpg",
+                    "https://pbs.twimg.com/media/G1lY6T_a8AAbQUh.jpg",
+                    "https://pbs.twimg.com/media/G1lZ5QxbAAATOYl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1857837273603256320",
+                "author_username": "RepNickBegich",
+                "community_notes": null,
+                "conversation_id": "1970705461625475509",
+                "created_time": "2025-09-24T04:22:50",
+                "favorite_count": 81,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1970705461625475509",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": "Greetings from Western Alaska! \n\nI had the opportunity to visit with Alaskans in Aniak, Chuathbaluk, and Bethel and hear from community members on a variety of key issues including infrastructure, housing, healthcare, education, public safety, cost of living, subsistence, job opportunities, communications, and more. \n\nGrateful for the productive discussions and the chance to hear directly from Alaskans in the Yukon-Kuskokwim region. Yes, there are challenges, but there is an opportunity to invest, build local capacity, and develop Western Alaska for the benefit of its people.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758687770,
+                "view_count": 3723
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,3969 @@
+{
+    "politician": "RepNewhouse",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1487227004520910851",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "880630045580054529",
+                    "author_username": "Theonlyman19692",
+                    "community_notes": null,
+                    "conversation_id": "1487227004520910851",
+                    "created_time": "2022-01-29T21:56:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1487545228428992513",
+                    "in_reply_to_post_id": "1487227004520910851",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse @HanfordSite Betcha the site receives funding from the Bipartisan Infrastructure Bill to do the things you are touting in this tweet, or will when the funding from it begins. You know, the bill you voted against? Yeah, that one. #FakePatriot #Oathbreaker",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HanfordSite"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "67514695"
+                    ],
+                    "text_tags": [
+                        "fakepatriot",
+                        "oathbreaker"
+                    ],
+                    "timestamp": 1643493394,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "49163341",
+                    "author_username": "THC4U2C",
+                    "community_notes": null,
+                    "conversation_id": "1487227004520910851",
+                    "created_time": "2022-01-29T01:51:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1487242074676084741",
+                    "in_reply_to_post_id": "1487227004520910851",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse @HanfordSite How appropriate!\n\nVisiting nuclear toxic waste.  \ud83e\udd23 \n\nSeriously though, my # got mixed up with one of the employees a few years back for a couple of months. \n\nI'd get repeated calls with warnings that I need to return to work immediately due to a leak detected. It's a toxic mess.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HanfordSite"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "67514695"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643421116,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FKOwtNQXMAY--9a.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FKOwtNQXMAY--9a.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2930635215",
+                    "author_username": "RepNewhouse",
+                    "community_notes": null,
+                    "conversation_id": "1487227004520910851",
+                    "created_time": "2022-01-29T00:52:05",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1487227012750139392",
+                    "in_reply_to_post_id": "1487227004520910851",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "These innovative technologies are helping Hanford make significant progress towards their cleanup goals, and I am committed to ensuring the Site continues to receive the resources it needs to meet those challenges head on. https://t.co/Jx7EGPvxoe",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1643417525,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1489702299790368769",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1222957674",
+                    "author_username": "flamingopink2",
+                    "community_notes": null,
+                    "conversation_id": "1489702299790368769",
+                    "created_time": "2022-02-04T23:28:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1489742570750021632",
+                    "in_reply_to_post_id": "1489702299790368769",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepNewhouse We can over come Covid too ! Get Vaccinated and wear a mask #VoteBlueToSaveDemocracy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "votebluetosavedemocracy"
+                    ],
+                    "timestamp": 1644017281,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FKyO4Z4UYAEgG7y.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FKyO4Z4UYAEgG7y.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "827601990037368832",
+                    "author_username": "EnriqueCerna2",
+                    "community_notes": null,
+                    "conversation_id": "1489702299790368769",
+                    "created_time": "2022-02-04T22:08:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1489722678357286912",
+                    "in_reply_to_post_id": "1489702299790368769",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse Dan's emails are becoming pure propaganda. Interesting how he has 2 personalities. https://t.co/xE9Qp5WJHP",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644012538,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1132680080356888576",
+                    "author_username": "Delmar_PNW",
+                    "community_notes": null,
+                    "conversation_id": "1489702299790368769",
+                    "created_time": "2022-02-04T21:18:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1489710009483022336",
+                    "in_reply_to_post_id": "1489702299790368769",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse And remember folks, DON'T GET CANCER, because even if you survive it, you'll be racked with medical debt for the rest of your life.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644009518,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1553098271123456002",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "776487400088276992",
+                    "author_username": "LyndaAMartin",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-08-13T01:13:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1558260372255100928",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse This is a flat out lie. You voted no! It\u2019s not ok to screw our veterans over but it\u2019s even more cowardly to lie about it Dan. Your folks haven\u2019t put up a piece of legislation for the people in years. Beyond tired of you. For the love of our region, #VoteDougWhite",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "votedougwhite"
+                    ],
+                    "timestamp": 1660353198,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1222987906182074369",
+                    "author_username": "mikewin62444122",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-08-01T11:48:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1554071596788158468",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse You proudly voted Nay.\n\n-Dam liar",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659354516,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FZEoSF4XgAAXbvL.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FZEoSF4XgAAXbvL.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "880630045580054529",
+                    "author_username": "Theonlyman19692",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-08-01T11:32:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1554067641534390275",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse No, you didn\u2019t, you gaslighting traitor. #FakePatriot. Doesn\u2019t get any more fake, lying about voting for veterans. What a disgrace. https://t.co/QPc3Zrxuvy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "fakepatriot"
+                    ],
+                    "timestamp": 1659353573,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/SenateDems/status/1552435452237553665"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Ob4pjB78OM"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "14787206",
+                    "author_username": "sistercrow",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-30T20:00:47",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553470682004017153",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse https://t.co/Ob4pjB78OM",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659211247,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "880630045580054529",
+                    "author_username": "Theonlyman19692",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-30T16:18:26",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553414726952132609",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse Bullshit. #FakePatriot",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "fakepatriot"
+                    ],
+                    "timestamp": 1659197906,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "385580486",
+                    "author_username": "KayRamseyWarner",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-30T01:45:01",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553194924920557569",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse Dan, did you forget the meanings of \"yay and \"nay\"?  Got a little confused there, did ya?  #DontLieToMe",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "dontlietome"
+                    ],
+                    "timestamp": 1659145501,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1312083915167784961",
+                    "author_username": "yskaug1",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-30T01:05:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553184859270500352",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse What happened to honesty @RepNewhouse! Just WOW!!! \ud83d\ude0f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659143101,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FY4Cy-AUcAAPyIX.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FY4Cy-AUcAAPyIX.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1500225218568093696",
+                    "author_username": "Closjm1985",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-30T00:53:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553181998084022272",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse Your are such a liar , no wonder why people hate politicians. https://t.co/M1V7FIx5Wd",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659142419,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "172214367",
+                    "author_username": "Davesnothere85",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-29T22:45:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553149640081489920",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Did you relay that to your Senate colleagues?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659134704,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1079483490968702978",
+                    "author_username": "ron59082509",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-29T21:05:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553124628448567298",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse Wrong! Manchin & Schumer played the Republicans on this & CHIPS. When are you going to learn.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659128741,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/briantylercohen/status/1552776716522749954"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/yldmP4Kjp2"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-29T20:21:48",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553113581826084864",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse WTF Dan?! You are lying, u didn't vote for HR 3967 in March and either did  41 radical obstructionist GOP Senators the other day but some of them were fist bumping on the Senate floor when it failed.\n\nhttps://t.co/yldmP4Kjp2",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659126108,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FY23gmUVEAAWM71.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FY23gmUVEAAWM71.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "49163341",
+                    "author_username": "THC4U2C",
+                    "community_notes": null,
+                    "conversation_id": "1553098271123456002",
+                    "created_time": "2022-07-29T19:24:43",
+                    "favorite_count": 14,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553099219132485632",
+                    "in_reply_to_post_id": "1553098271123456002",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 4,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse This is a bold faced lie. https://t.co/sl3GoXKtvL",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659122683,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1617650945646800896",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "385580486",
+                    "author_username": "KayRamseyWarner",
+                    "community_notes": null,
+                    "conversation_id": "1617650945646800896",
+                    "created_time": "2023-01-24T05:40:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617759181746110466",
+                    "in_reply_to_post_id": "1617650945646800896",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse @Ideal_Option Where are you on George Santos?  Will you just accept his lies, like you expect us to do for you?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "Ideal_Option"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "765353755982213120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674538820,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15030488",
+                    "author_username": "raleel",
+                    "community_notes": null,
+                    "conversation_id": "1617650945646800896",
+                    "created_time": "2023-01-24T04:52:24",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617747118579675136",
+                    "in_reply_to_post_id": "1617650945646800896",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepNewhouse @Ideal_Option And yet, we\u2019ve had multiple shootings in the last 24 hours and we aren\u2019t talking about gun violence.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "Ideal_Option"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "765353755982213120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674535944,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FnNK1hcaEAEqCdj.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FnNK1hcaEAEqCdj.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1617650945646800896",
+                    "created_time": "2023-01-24T03:00:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617719077799354369",
+                    "in_reply_to_post_id": "1617650945646800896",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @Ideal_Option Even this liar knows Republicans are liars. https://t.co/QyXHpB3bJW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "Ideal_Option"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "765353755982213120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674529258,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "895784519134879744",
+                    "author_username": "KurtADSnyder",
+                    "community_notes": null,
+                    "conversation_id": "1617650945646800896",
+                    "created_time": "2023-01-23T23:44:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617669757330939904",
+                    "in_reply_to_post_id": "1617650945646800896",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @Ideal_Option Will you vote to impeach the next Republican President? We rarely forget.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "Ideal_Option"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "765353755982213120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674517499,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1617650945646800896",
+                    "created_time": "2023-01-23T23:42:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617669108639879168",
+                    "in_reply_to_post_id": "1617650945646800896",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @Ideal_Option Dan, another photo op won't stop the #RepublicanCrimeWave.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "Ideal_Option"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "765353755982213120"
+                    ],
+                    "text_tags": [
+                        "republicancrimewave"
+                    ],
+                    "timestamp": 1674517344,
+                    "view_count": 24
+                }
+            ]
+        },
+        {
+            "conversation_id": "1641068717713793025",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/jonahowenlamb/status/1641239267992285186"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/kpe8Qd8uHv"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-30T03:10:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641276642810277888",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Dan, can't blame Biden this time.\nhttps://t.co/kpe8Qd8uHv",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680145819,
+                    "view_count": 36
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1510691824016535553",
+                    "author_username": "martha_serrao",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T23:52:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641226786292789249",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse @HouseGOP Biden is BEHOLDEN TO THE CARTELS! THEY PROVIDED HUNTER BIDEN WITH TONS OF COCAINE!!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680133933,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.tri-cityherald.com/news/local/crime/article273666135.html?ac_cid=DM780123&ac_bid=-1793626824"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/qkTAzdDadB"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T17:36:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641132355124625408",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans committed acts of murder by not acting when you controlled all three branches of the Government.\n\nFBI arrests white supremacists in Benton County, your district, Dan.\nhttps://t.co/qkTAzdDadB",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680111418,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/FsZvnkjakAEC9tS.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/FsZvnkjakAEC9tS.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "926535236967477248",
+                    "author_username": "WAHealthEnroll",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T16:55:14",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641121850158727171",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse How many times did you vote to repeal the ACA? The American Rescue Plan which funded local governments? The Inflation Reduction Act to reduce healthcare cost? https://t.co/i95wOjNToX",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680108914,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.washingtonpost.com/nation/interactive/2023/ar-15-damage-to-human-body/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/fcz7goiq1y"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "718220212324188160",
+                    "author_username": "PeaceNotWar4All",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T15:15:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641096642748383233",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse @HouseGOP https://t.co/fcz7goiq1y",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680102904,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1608486079522557952",
+                    "author_username": "MaryB1",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T14:31:41",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641085724681445378",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @HouseGOP Do something that we care about instead of babbling Fox news propaganda!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680100301,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "259469490",
+                    "author_username": "windicornr",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T14:22:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641083520360521728",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse The definition of insanity is doing the same thing over and over and expecting different results. -Albert Einstein #justsayin",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "justsayin"
+                    ],
+                    "timestamp": 1680099775,
+                    "view_count": 31
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1453202408",
+                    "author_username": "AnnSudmeierGrim",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T14:20:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641082908940337159",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepNewhouse Guns have killed more children than car accidents.  Maybe focus on that, danboy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680099629,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1610445878346522624",
+                    "author_username": "TreborFarg",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T14:11:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641080537350565896",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse @HouseGOP HUNTSVILLE, Ala. (WHNT) \u2013 A Huntsville Police Department (HPD) officer was killed and another officer was critically injured after responding to a \u2018shots fired\u2019 call on Tuesday.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680099064,
+                    "view_count": 116
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1132680080356888576",
+                    "author_username": "Delmar_PNW",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T14:06:22",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641079353374285829",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse Why don\u2019t to go on any other news channels? Fox News admitted to lying about election fraud and I don\u2019t think I\u2019ve even heard you condemn them. Do you even care about democracy?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680098782,
+                    "view_count": 30
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1374743869775024133",
+                    "author_username": "JeffHol00754270",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T13:57:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641077019873009664",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @HouseGOP Yet all the left keeps yelling is guns guns guns...",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1680098225,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://thehill.com/opinion/congress-blog/3913287-fighting-to-protect-our-communities-from-fentanyl/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/rGrkVzYEtz"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2930635215",
+                    "author_username": "RepNewhouse",
+                    "community_notes": null,
+                    "conversation_id": "1641068717713793025",
+                    "created_time": "2023-03-29T13:24:07",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1641068721610412033",
+                    "in_reply_to_post_id": "1641068717713793025",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 4,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "https://t.co/rGrkVzYEtz",
+                    "text_lang": "zxx",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1680096247,
+                    "view_count": 435
+                }
+            ]
+        },
+        {
+            "conversation_id": "1681327995666006018",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681505141625847808/pu/img/j4RlqVIUoO3CqaWE.jpg?name=small",
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681505141529415680/pu/img/Vy-MMbY3VASjGzT1.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1681505141625847808/pu/vid/360x640/lIGA3lci6UGK4xoy.mp4?tag=12",
+                        "https://video.twimg.com/ext_tw_video/1681505141529415680/pu/vid/360x640/VnXSZqufVgmYr6m2.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 57,
+                            "id": "1681505141625847808",
+                            "url": "https://video.twimg.com/ext_tw_video/1681505141625847808/pu/vid/360x640/lIGA3lci6UGK4xoy.mp4?tag=12",
+                            "view_count": null
+                        },
+                        {
+                            "duration": 55,
+                            "id": "1681505141529415680",
+                            "url": "https://video.twimg.com/ext_tw_video/1681505141529415680/pu/vid/360x640/VnXSZqufVgmYr6m2.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1639090024728911873",
+                    "author_username": "Mia782139588521",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-19T03:24:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681505184240009217",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse The CCP Produces Fentanyl to Exterminate Future Generations of Americans https://t.co/dLUw2jQDPR",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689737051,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/JoeBiden/status/1681424737384435713"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/x8hLTi5bw5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-19T01:27:16",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681475759494557697",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse I blame this crisis on Republicans.\n\nAs MTG points out, Republicans are anti-prosperity...\nhttps://t.co/x8hLTi5bw5",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689730036,
+                    "view_count": 17
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F1XDXnQaYAAuS28.jpg?name=small",
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681464846431444992/pu/img/8QcIn-FzsXyBYH1I.jpg?name=small",
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681464846347571201/pu/img/1V0ctI_j64KDewUP.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F1XDXnQaYAAuS28.jpg",
+                        "https://video.twimg.com/ext_tw_video/1681464846431444992/pu/vid/360x640/khe2YYOx43UxeXWS.mp4?tag=12",
+                        "https://video.twimg.com/ext_tw_video/1681464846347571201/pu/vid/360x640/A3xdXfFIwMIIqJ_-.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 55,
+                            "id": "1681464846431444992",
+                            "url": "https://video.twimg.com/ext_tw_video/1681464846431444992/pu/vid/360x640/khe2YYOx43UxeXWS.mp4?tag=12",
+                            "view_count": null
+                        },
+                        {
+                            "duration": 57,
+                            "id": "1681464846347571201",
+                            "url": "https://video.twimg.com/ext_tw_video/1681464846347571201/pu/vid/360x640/A3xdXfFIwMIIqJ_-.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1385966517343244289",
+                    "author_username": "i_lvhu",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-19T00:44:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681464895274106880",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse The CCP produces Fentanyl to Exterminate Future Generations of Americans.\n#TakeDownTheEvilCCP .\n#GuoHasTheGoods https://t.co/e6k8CQqwSj",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "guohasthegoods",
+                        "takedowntheevilccp"
+                    ],
+                    "timestamp": 1689727445,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1284928727390941184",
+                    "author_username": "SarahAnonymous2",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T20:59:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681408330303152129",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse Fentanyl affects lots of people,  including those who sell it, maybe you could look into why they are pushed into a very risky venture, just to have some economic stability?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689713959,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681365067932004354/pu/img/LBLI9-RO_ix3Y2Nn.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1681365067932004354/pu/vid/848x480/KZc_lRNcdz8ij0y_.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 31,
+                            "id": "1681365067932004354",
+                            "url": "https://video.twimg.com/ext_tw_video/1681365067932004354/pu/vid/848x480/KZc_lRNcdz8ij0y_.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1404034485428043777",
+                    "author_username": "KITTYHA12",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T18:07:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681365109862432770",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse https://t.co/z0eJ1qkXzE",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689703655,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1349169469751320576",
+                    "author_username": "WoehlerJason",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T17:26:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681354756336521221",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse And yet you\u2019ve passed nothing.  Not One Thing.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689701186,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F1VaWBwXwAYaLps.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F1VaWBwXwAYaLps.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1267995790749962240",
+                    "author_username": "Abs5164",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T17:05:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681349376696893491",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse https://t.co/2YZyKGPOI9",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1689699904,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681336039086997507/pu/img/-KyGhBAO07Z6yyfi.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1681336039086997507/pu/vid/360x640/XFMCBBL-8WfWYqfI.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 55,
+                            "id": "1681336039086997507",
+                            "url": "https://video.twimg.com/ext_tw_video/1681336039086997507/pu/vid/360x640/XFMCBBL-8WfWYqfI.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1656153642913628160",
+                    "author_username": "BangM77",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T16:12:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681336213737979904",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The CCP Produces Fentanyl to Exterminate Future Generations of Americans (2)\n\n#GuoHasTheGoods #freemilesguo #NFSC #takedowntheCCP #CCP\u2260CHINESE https://t.co/ehcPALRL7h",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "ccp",
+                        "freemilesguo",
+                        "guohasthegoods",
+                        "nfsc",
+                        "takedowntheccp"
+                    ],
+                    "timestamp": 1689696765,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1681335849953251329/pu/img/y-O1L1JyL5F_Hhku.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1681335849953251329/pu/vid/360x640/bhVO1M5v5a1Y1mZl.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 57,
+                            "id": "1681335849953251329",
+                            "url": "https://video.twimg.com/ext_tw_video/1681335849953251329/pu/vid/360x640/bhVO1M5v5a1Y1mZl.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1656153642913628160",
+                    "author_username": "BangM77",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T16:11:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681335958032072706",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The CCP Produces Fentanyl to Exterminate Future Generations of Americans(1)\n\n#GuoHasTheGoods #freemilesguo #NFSC #takedowntheCCP #CCP\u2260CHINESE https://t.co/XftC4UUXJd",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "ccp",
+                        "freemilesguo",
+                        "guohasthegoods",
+                        "nfsc",
+                        "takedowntheccp"
+                    ],
+                    "timestamp": 1689696704,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/amplify_video_thumb/1681333357387616256/img/Q5I5E8_dyl-9Ra_H.jpg?name=small",
+                        "https://pbs.twimg.com/amplify_video_thumb/1681333357387587584/img/Tv-Q6Yz_Vm66zVy8.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/amplify_video/1681333357387616256/vid/640x360/prZs0_7tioFOk7L_.mp4?tag=14",
+                        "https://video.twimg.com/amplify_video/1681333357387587584/vid/640x360/GSV-eHIkKCLg3yXB.mp4?tag=14"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 118,
+                            "id": "1681333357387616256",
+                            "url": "https://video.twimg.com/amplify_video/1681333357387616256/vid/640x360/prZs0_7tioFOk7L_.mp4?tag=14",
+                            "view_count": null
+                        },
+                        {
+                            "duration": 89,
+                            "id": "1681333357387587584",
+                            "url": "https://video.twimg.com/amplify_video/1681333357387587584/vid/640x360/GSV-eHIkKCLg3yXB.mp4?tag=14",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1621518536496812034",
+                    "author_username": "mikln8",
+                    "community_notes": null,
+                    "conversation_id": "1681327995666006018",
+                    "created_time": "2023-07-18T16:02:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1681333529395994625",
+                    "in_reply_to_post_id": "1681327995666006018",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse The CCP not only continues to send fentanyl to the US, but has also bought off the American judiciary system, law enforcement, and elected officials to the extent that we are losing our voice. It\u2019s time for the Americans to push back!\n#takedowntheCCP #FreeMilesGuo https://t.co/mprPhqkunN",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "freemilesguo",
+                        "takedowntheccp"
+                    ],
+                    "timestamp": 1689696125,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1704197270369902829",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.washingtonpost.com/opinions/2023/09/17/impeachment-child-poverty-house-republicans-biden/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/6ZiCipN6Xq"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T08:08:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704407125534072905",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans are pro-poverty.\nhttps://t.co/6ZiCipN6Xq",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695197299,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/AccountableGOP/status/1704179642737819983"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/8wiky0daQA"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T08:00:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704405052285505683",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse \"It's a clown show. You keep running lunatics.\"\nhttps://t.co/8wiky0daQA",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695196805,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/clearing_fog/status/1703921230230008195"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/pevJWRSnXL"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T06:09:02",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704377106640379905",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Not a drag queen.\nhttps://t.co/pevJWRSnXL",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695190142,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/MarkHertling/status/1704251094111605224"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/pkAwVhU3Zl"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T05:48:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704372006999957608",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republican lies about supporting the troops stink more than a dairy farm on a hot summer day.\nhttps://t.co/pkAwVhU3Zl",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695188926,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/kaitlancollins/status/1704303822061858916"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/AZbT8rbiru"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T02:30:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704322107503673586",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans can't govern.\n#RepublicanShutdown\nhttps://t.co/AZbT8rbiru",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "republicanshutdown"
+                    ],
+                    "timestamp": 1695177029,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/visionsurreal/status/1704149800906575982"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/iC78RIDPYi"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T01:32:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704307613582954886",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans are destroying democracy.\nhttps://t.co/iC78RIDPYi",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695173574,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/RonFilipkowski/status/1704238358610821122"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/hM881XuPws"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-20T00:52:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704297562738708524",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans can't govern...\nhttps://t.co/hM881XuPws",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695171177,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/atrupar/status/1597423243106914305"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/z0cY05nPJO"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-19T21:00:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704239060477468748",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse As the anti-democratic christofascist crisis ravages the country, we must expose all of the Republicans that want to replace democracy with an autocratic theocracy.\nhttps://t.co/z0cY05nPJO",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695157229,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/DeadlineWH/status/1701348379484123419"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/vTZ60gDjTb"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1704197270369902829",
+                    "created_time": "2023-09-19T20:55:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1704237777288822880",
+                    "in_reply_to_post_id": "1704197270369902829",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse As the corrupt right wing SCOTUS crisis ravages the country, we must expose the dark money billionaires that are taking away our freedoms and democracy.\nhttps://t.co/vTZ60gDjTb",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1695156923,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1782875942412837036",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-25T03:13:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783333473010237654",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Thank you, @RepNewhouse, for supporting Ukraine with military aid. God bless America for standing with us. Together, we will defeat Russia's aggression.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1714014807,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.detroitnews.com/story/news/politics/2024/04/24/donald-trump-unindicted-co-conspirator-in-false-electors-plot-michigan-rudy-giuliani-mark-meadows/73420368007/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/sGIwyBfLcq"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T21:06:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783241193637499377",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The loser, liar, cheater, traitor, thief, fraud, sex predator and leader of the Republican party is a criminal that's out on bail for 88 felonies and organized a failed coup.\n\nNewhouse wants him back in the WH.\nhttps://t.co/sGIwyBfLcq",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713992806,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL9V4OfacAAJlNL.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL9V4OfacAAJlNL.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T20:56:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783238555969659258",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse A groomer/rapist/SRO did this.\nNot a drag queen. https://t.co/MdwjTgFKZW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713992177,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/AmoneyResists/status/1782898562960961726"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/DoTvyKYXjX"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T20:39:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783234401637458119",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The Republican criminal mob...\nhttps://t.co/DoTvyKYXjX",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713991186,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/BidenHQ/status/1783119245754224934"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/9lieCvIqli"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T15:55:45",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783162924774871322",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Dan want's this flipping dipstick back in the WH.\nhttps://t.co/9lieCvIqli",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713974145,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1753866077266989056",
+                    "author_username": "Suspiciouslies",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T14:21:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783139091736875292",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepNewhouse Our border is still open, you are useless.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713968463,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1783097678647238656/pu/img/pwwiK_a4oV3OJ2vY.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1783097678647238656/pu/vid/avc1/1280x720/MYceJeRS_b7faySb.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 124,
+                            "id": "1783097678647238656",
+                            "url": "https://video.twimg.com/ext_tw_video/1783097678647238656/pu/vid/avc1/1280x720/MYceJeRS_b7faySb.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1285066391452778503",
+                    "author_username": "Satana40626433",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T11:36:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783097780602384859",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse https://t.co/V63gz0slDQ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713958613,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/BidenHQ/status/1782758407637729591"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/EbWCRQ9XwA"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T06:59:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1783027899316212055",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Total incompetence...\nhttps://t.co/EbWCRQ9XwA",
+                    "text_lang": "es",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713941952,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585870324012228608",
+                    "author_username": "WallaTech_",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T01:17:46",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782941972237558181",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse Traitor to America. Cuck for Ukraine.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713921466,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/Mollyploofkins/status/1782808926720761943"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/HZ8aJx1b8U"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T01:00:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782937744978878597",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans manufacture the real \"fake news\" and rig elections.\nhttps://t.co/HZ8aJx1b8U",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713920458,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL5CkuCa0AACll6.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL5CkuCa0AACll6.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T00:54:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782936030695559569",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans arguing about WWIII, Civil War, Motion to Vacate, and the Sargent At Arms yet think they have the answers to the problems facing America.\n\nWhat a bunch of \ud83e\udd21s\n#RepublicansAreDestroyingAmerica\n#RepublicansCantGovern\n#RepublicansAreTheProblem https://t.co/Qf5hUJJP3Q",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": [
+                        "republicansaredestroyingamerica",
+                        "republicansaretheproblem",
+                        "republicanscantgovern"
+                    ],
+                    "timestamp": 1713920049,
+                    "view_count": 27
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL4-zqCboAAxBJl.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL4-zqCboAAxBJl.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T00:40:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782932613273158076",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The loser, liar, cheater, traitor, thief, fraud, sex predator and leader of the Republican party is a criminal that's out on bail for 88 felonies.\n\nHe likes to grab pussy and he raw dogged a Playboy Bunny while his wife was home with a newborn.\n\nDan wants him back in the WH. https://t.co/TJnif6kqhf",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713919234,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/RollingStone/status/1782856692272619933"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/mYZqcOae7m"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T00:34:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782931141106008203",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Let's not forget that the loser, liar, cheater, traitor, thief, fraud, sex predator and leader of the Republican party is a criminal that's out on bail for 88 felonies.\nhttps://t.co/mYZqcOae7m",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713918883,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/BidenHQ/status/1754942810103415019"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/gjatsh1me9"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T00:31:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782930228928733291",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Let's not forget that the loser, liar, cheater, traitor, thief, fraud, sex predator and leader of the Republican party wants chaos and an open border, Dan.\nhttps://t.co/gjatsh1me9",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713918666,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/badfaithdoc/status/1782815865827643435"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/4oNQ8I7dU3"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-24T00:18:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782927084719091747",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans want to replace democracy with a right wing christo-extremist theocracy.\nhttps://t.co/4oNQ8I7dU3",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713917916,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/davenewworld_2/status/1782794796794323287"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/jxxWVVzN2p"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T23:21:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782912750278308168",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Not a drag queen...\nhttps://t.co/jxxWVVzN2p",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713914499,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/sarahcpr/status/1253474772702429189"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/g425TKtgzN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T22:33:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782900735728054370",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1253474772702429189",
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse 4 years ago the loser, liar, cheater, traitor, thief, fraud, sex predator and leader of the Republican party suggested hitting the body with a very powerful light and injecting disinfectant...\nhttps://t.co/g425TKtgzN",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713911634,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL4ervkbYAEg8K5.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL4ervkbYAEg8K5.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T22:16:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782896318823952532",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The Republican WAR on women continues and doesn't end with reproductive rights. \n\nRs will criminalize contraceptives, IVF, and surrogacy. https://t.co/yGsOa7ukwu",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713910581,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/FrankFigliuzzi1/status/1735662020924420327"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/VLyGQ0PdOo"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T22:08:55",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782894449405673544",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1735662020924420327",
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The  previous Republican regime stole classified intel that's endangering national security.\n\nDan wants to put the criminals back in power.\nhttps://t.co/VLyGQ0PdOo",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713910135,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/RonFilipkowski/status/1782826480260505665"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/qFMPTf5dma"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T22:01:26",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782892562413425029",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Republicans create fake news as good or better than Russians.\nhttps://t.co/qFMPTf5dma",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713909686,
+                    "view_count": 18
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3070144153",
+                    "author_username": "TsuHsu",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T21:33:16",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782885474295812204",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse Bank of America",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1713907996,
+                    "view_count": 8
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1782882597678239744/pu/img/COmXw_qsWeiq4Wj3.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1782882597678239744/pu/vid/avc1/852x480/j7JM5tIMx6olIHVq.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 50,
+                            "id": "1782882597678239744",
+                            "url": "https://video.twimg.com/ext_tw_video/1782882597678239744/pu/vid/avc1/852x480/j7JM5tIMx6olIHVq.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1701638212190363648",
+                    "author_username": "DCA88888",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T21:22:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782882642834173968",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse \ud83d\udc4d https://t.co/kdlwBf4oug",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713907321,
+                    "view_count": 22
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "224364280",
+                    "author_username": "JoeKennewick",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T21:12:24",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782880225065595060",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse You voted to send billions more to Ukraine and to other countries. Either represent us or just go away.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713906744,
+                    "view_count": 48
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL4ObNLW0AABvZH.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL4ObNLW0AABvZH.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1681310994914742281",
+                    "author_username": "Sophia510134371",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T21:05:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782878374626509201",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse https://t.co/KpamComZxZ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713906303,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GL4N76dbUAA23k7.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GL4N76dbUAA23k7.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1711569006891847680",
+                    "author_username": "wngzitn39010092",
+                    "community_notes": null,
+                    "conversation_id": "1782875942412837036",
+                    "created_time": "2024-04-23T21:02:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1782877837055451144",
+                    "in_reply_to_post_id": "1782875942412837036",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepNewhouse https://t.co/sZyg1xE1rr",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713906175,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1968730424038850983",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G1UkNvSbQAIeHfp.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G1UkNvSbQAIeHfp.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "982353320974008321",
+                    "author_username": "RRRiling",
+                    "community_notes": null,
+                    "conversation_id": "1968730424038850983",
+                    "created_time": "2025-09-20T21:53:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1969520332307644488",
+                    "in_reply_to_post_id": "1968730424038850983",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse https://t.co/q60qjASlep",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758405213,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/bennyjohnson/status/1968494603834683683"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/QKmOeoKAFB"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1968730424038850983",
+                    "created_time": "2025-09-18T20:21:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968772468476158042",
+                    "in_reply_to_post_id": "1968730424038850983",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1968494603834683683",
+                    "quoted_status_profile_id": "15212187",
+                    "quoted_status_profile_username": "bennyjohnson",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse @RepNewhouse is sucking up to the thin skinned snowflake MAGA demagogue that got his feelings hurt by a late night comedian and sent his radical right wing thug out to silence free speech.\n\nAnd it's part of Project 2025...\nhttps://t.co/QKmOeoKAFB",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758226909,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G1J5xq4bcAATpjo.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G1J5xq4bcAATpjo.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1968730424038850983",
+                    "created_time": "2025-09-18T20:13:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968770344476450936",
+                    "in_reply_to_post_id": "1968730424038850983",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse The MAGA regime are silencing free speech.\n\nSo much for the 1st amendment.\n\nIf a late night comedian hurts your feelings,\nyou might be a fascist snowflake. https://t.co/LWrMkH8Ike",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758226402,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1546364039621517312",
+                    "author_username": "wa4voter",
+                    "community_notes": null,
+                    "conversation_id": "1968730424038850983",
+                    "created_time": "2025-09-18T20:04:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968768161114710290",
+                    "in_reply_to_post_id": "1968730424038850983",
+                    "in_reply_to_profile_id": "2930635215",
+                    "in_reply_to_profile_username": "RepNewhouse",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepNewhouse yea right\n\nwatch what happens, not what's said\n\nMAGA lies like a dirty rug.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepNewhouse"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2930635215"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758225882,
+                    "view_count": 12
+                }
+            ]
+        }
+    ]
+}

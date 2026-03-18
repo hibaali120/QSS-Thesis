@@ -1,0 +1,986 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gy4goFZWAAABeEZ.jpg?name=small",
+                    "https://pbs.twimg.com/media/Gy4goF1XEAAvL4Q.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gy4goFZWAAABeEZ.jpg",
+                    "https://pbs.twimg.com/media/Gy4goF1XEAAvL4Q.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1958538806132453645",
+                "created_time": "2025-08-21T14:36:53",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1958538806132453645",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Honored to address Hometown Helena this morning!\n\nDiscussed Medicaid, tax cuts, and my Expanding Access to Capital for Rural Job Creators Act. https://t.co/SuUFqmHjhk",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755787013,
+                "view_count": 267
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gy5zNmDWUAA7TyH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gy5zNmDWUAA7TyH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1958629910857355572",
+                "created_time": "2025-08-21T20:38:54",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1958629910857355572",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Great to meet with @NeighborWorksGF yesterday!\u00a0\n\nAs a member of @FinancialCmte\u2019s Housing & Insurance Subcommittee, I\u2019m committed to making housing more accessible and affordable for Montanans. We\u2019ll keep fighting to strengthen communities across the state. https://t.co/EtOK1NB6ER",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NeighborWorksGF",
+                    "FinancialCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "174321822",
+                    "42924141"
+                ],
+                "text_tags": null,
+                "timestamp": 1755808734,
+                "view_count": 1465
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968339463517442049/img/NE-BkpGU1xaSn7Fu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968339463517442049/vid/avc1/3840x2160/wfKbsUvD_c8Z-QUE.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 111,
+                        "id": "1968339463517442049",
+                        "url": "https://video.twimg.com/amplify_video/1968339463517442049/vid/avc1/3840x2160/wfKbsUvD_c8Z-QUE.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1968339951768031505",
+                "created_time": "2025-09-17T15:43:09",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968339951768031505",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "TRIA ensures coverage for acts of terrorism remains available and affordable in the wake of 9/11.\n\nThe program is overseen by the vestigial Federal Insurance Office, the existence of which violates the McCarran-Ferguson Act.\n\nAs our @FinancialCmte witnesses attest, eliminating FIO would have no effect on this critical program.\n\n\ud83d\udcfa\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FinancialCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "42924141"
+                ],
+                "text_tags": null,
+                "timestamp": 1758123789,
+                "view_count": 1623
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1slJD_W0AABVyr.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1slJxLW4AAEeuc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1slJD_W0AABVyr.jpg",
+                    "https://pbs.twimg.com/media/G1slJxLW4AAEeuc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1971210144328372501",
+                "created_time": "2025-09-25T13:48:16",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1971210144328372501",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Joined a stacked panel to talk insurance in the Treasure State and beyond. Thanks to @BrownCSIMT and @idahodoi Director Dean Cameron for sharing the stage.\n\nI\u2019m taking my experience as State Auditor to Washington to pass bills like my FIO Elimination Act, reaffirming that regulation of the insurance industry rests with the states, not big government.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "BrownCSIMT",
+                    "IdahoDOI"
+                ],
+                "text_tagged_users_ids": [
+                    "1344059620935884801",
+                    "91155023"
+                ],
+                "text_tags": null,
+                "timestamp": 1758808096,
+                "view_count": 337
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1s5ya-XoAAwDyz.jpg?name=small",
+                    "https://pbs.twimg.com/media/G1s5y_vW4AAIgx5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1s5ya-XoAAwDyz.jpg",
+                    "https://pbs.twimg.com/media/G1s5y_vW4AAIgx5.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1971235980763173305",
+                "created_time": "2025-09-25T15:30:56",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1971235980763173305",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Stopped by the @MT_Realtors Fall Convention in Butte, America!\n\nAddressed the room and shared an update on my work on @FinancialCmte's Housing and Insurance Subcommittee that\u2019s impacting Montana\u2019s realtors. https://t.co/uQ6fONPFXz",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MT_Realtors",
+                    "FinancialCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "169533799",
+                    "42924141"
+                ],
+                "text_tags": null,
+                "timestamp": 1758814256,
+                "view_count": 211
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1972683474046754977",
+                "created_time": "2025-09-29T15:22:45",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1972683474046754977",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1972666750429786424",
+                "quoted_status_profile_id": "114756202",
+                "quoted_status_profile_username": "HouseCommerce",
+                "reply_count": 1,
+                "retweet_count": 5,
+                "source": "Twitter for iPhone",
+                "text": "Democrats want to shut down the government over healthcare for illegal aliens and DEI initiatives in foreign countries.\n\nRepublicans want to keep the government open to pay our troops and serve our seniors and veterans without delays.\n\nThe difference could not be clearer.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759159365,
+                "view_count": 434
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.ktvh.com/news/montana-news/shodair-childrens-hospital-receives-more-than-2-million-through-employee-retention-credit"
+                ],
+                "attached_links_url": [
+                    "https://t.co/UBBA3nJq1a"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1978134629149523969/yvLvwsYx?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1972768382714851482",
+                "created_time": "2025-09-29T21:00:09",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1972768382714851482",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Buffer",
+                "text": "ICYMI: My office was able to secure $2.3 MILLION from the IRS for Shodair Children\u2019s Hospital to continue its good work providing pediatric healthcare services to Montana\u2019s next generation.\n\n\ud83d\uddde\ufe0f Learn more \ud83d\udc47\nhttps://t.co/UBBA3nJq1a",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759179609,
+                "view_count": 435
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1973025125449548218",
+                "created_time": "2025-09-30T14:00:21",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973025125449548218",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Buffer",
+                "text": "For the rural and underserved communities that I represent in central and eastern Montana, investments in healthcare access just mean more.\n\nIf Democrats were allowed to follow through with their radical shutdown threats, they would rob America of $50 BILLION in funding for rural healthcare.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759240821,
+                "view_count": 265
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.ekalakaeagle.com/story/2025/10/31/local/congressman-downing-visits-school-healthcare-facility/6197.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/9xg9m8hYql"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1985448069526069701",
+                "created_time": "2025-11-03T20:44:42",
+                "favorite_count": 25,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985448069526069701",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 8,
+                "source": "Twitter Web App",
+                "text": "\ud83e\udd85ICYMI: Just because the government is shut down doesn\u2019t mean the work stops. @HouseGOP is on the ground to understand what our constituents need.\n\n\ud83d\uddde\ufe0f Read about my trip to Ekalaka \ud83d\udc47\nhttps://t.co/9xg9m8hYql",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1762202682,
+                "view_count": 6024
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1991148932013973504/img/EhfygqFoIqrpipYM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1991148932013973504/vid/avc1/1566x886/uImEyv5sRkAFzsg4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 164,
+                        "id": "1991148932013973504",
+                        "url": "https://video.twimg.com/amplify_video/1991148932013973504/vid/avc1/1566x886/uImEyv5sRkAFzsg4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1991149407060803836",
+                "created_time": "2025-11-19T14:19:47",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991149407060803836",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 8,
+                "source": "Twitter for iPhone",
+                "text": "As Montana\u2019s insurance commissioner, it was clear that the ACA\u2019s biggest problem is ADVERSE SELECTION \ud83d\udc47\n\nPrices get higher, healthy people leave, sick people stay, the risk pool gets riskier, the pool costs more money, next year, your premiums skyrocket. Wash. Rinse. Repeat. https://t.co/jLy3BZkg1w",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763561987,
+                "view_count": 1125
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1993764479553716224/img/fFqoJmH9xugJfu_V.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1993764479553716224/vid/avc1/1280x728/HujYWzV5teO_d4Oz.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 78,
+                        "id": "1993764479553716224",
+                        "url": "https://video.twimg.com/amplify_video/1993764479553716224/vid/avc1/1280x728/HujYWzV5teO_d4Oz.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1993764547581149327",
+                "created_time": "2025-11-26T19:31:25",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1993764547581149327",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "As I explained at last week\u2019s @HouseSmallBiz hearing, enhanced premium tax credits impact the individual marketplace and have no bearing on costs for small businesses.\n\nIf we\u2019re going to have these debates around healthcare, everyone needs to understand what we\u2019re talking about. https://t.co/NU0mPlexNI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseSmallBiz"
+                ],
+                "text_tagged_users_ids": [
+                    "2978291435"
+                ],
+                "text_tags": null,
+                "timestamp": 1764185485,
+                "view_count": 177
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.washingtonexaminer.com/restoring-america/faith-freedom-self-reliance/3901455/congress-needs-think-beyond-affordable-care-act-subsidies/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/HgSTkhS8VG"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1994507519449075897",
+                "created_time": "2025-11-28T20:43:43",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1994507519449075897",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Congress needs to think beyond ACA subsidies if we are going to fix our healthcare system.\n\nRead more from my op-ed in @dcexaminer \ud83d\udc47\nhttps://t.co/HgSTkhS8VG",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "dcexaminer"
+                ],
+                "text_tagged_users_ids": [
+                    "18956073"
+                ],
+                "text_tags": null,
+                "timestamp": 1764362623,
+                "view_count": 489
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1998371044067868672/img/cQw_ZhvYJUA2Jk1f.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1998371044067868672/vid/avc1/1546x886/DJmdM7B3d9uwtL4l.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 152,
+                        "id": "1998371044067868672",
+                        "url": "https://video.twimg.com/amplify_video/1998371044067868672/vid/avc1/1546x886/DJmdM7B3d9uwtL4l.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1998371114914025978",
+                "created_time": "2025-12-09T12:36:16",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1998371114914025978",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Premium hikes for folks on the individual marketplace were baked into the system months ago.\n\u00a0\nShort of a second open enrollment period, it's too little too late on EPTCs for 2026.\n\u00a0\nRather than look backwards, Congress must address the root causes of rising healthcare costs. https://t.co/5lDgrD9YjZ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765283776,
+                "view_count": 232
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1999180978124726272/img/WrCIxQMEggo9YFSv.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1999180978124726272/vid/avc1/1920x1080/HzPrnzZfSVoQGiv7.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 320,
+                        "id": "1999180978124726272",
+                        "url": "https://video.twimg.com/amplify_video/1999180978124726272/vid/avc1/1920x1080/HzPrnzZfSVoQGiv7.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1999181923495903415",
+                "created_time": "2025-12-11T18:18:08",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1999181923495903415",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The @MTLittleShell's success proves that Congress should work with @IHSgov to allow for greater tribal self-governance in healthcare.\n\n\ud83d\udcfaWatch my remarks at today's @natresources hearing on modernizing IHS\ud83d\udc47 https://t.co/zmMwpk2tmu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MTLittleShell",
+                    "IHSgov",
+                    "NatResources"
+                ],
+                "text_tagged_users_ids": [
+                    "1752883098310807552",
+                    "911306494536224768",
+                    "41445718"
+                ],
+                "text_tags": null,
+                "timestamp": 1765477088,
+                "view_count": 197
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000652870836699139/img/RWrepvTXZKkKKx2Y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000652870836699139/vid/avc1/3840x2160/6YiRC2jMCZLMP8NN.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 59,
+                        "id": "2000652870836699139",
+                        "url": "https://video.twimg.com/amplify_video/2000652870836699139/vid/avc1/3840x2160/6YiRC2jMCZLMP8NN.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2000655397993246975",
+                "created_time": "2025-12-15T19:53:11",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000655397993246975",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "As premiums increase, healthy people leave, sick people stay, the risk pool gets riskier, the pool costs more money, and premiums skyrocket once again.\n\nThat's adverse selection, and its one of the key factors to consider if we're going to fix the healthcare crisis. https://t.co/FyTkwyxlMb",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765828391,
+                "view_count": 391
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001807670165037056/img/k-QHKKk5_rjiUBIC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001807670165037056/vid/avc1/3840x2160/mPGC7BML-MSOMD_x.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 287,
+                        "id": "2001807670165037056",
+                        "url": "https://video.twimg.com/amplify_video/2001807670165037056/vid/avc1/3840x2160/mPGC7BML-MSOMD_x.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2001808226690699764",
+                "created_time": "2025-12-19T00:14:07",
+                "favorite_count": 16,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001808226690699764",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Economics 101: the more money you put into a system, the more expensive things get in that system. The same applies to Obamacare subsidies.\n\n\ud83d\udcfa Watch my remarks on the House floor today breaking down the flaws in our healthcare system \ud83d\udc47 https://t.co/UfgDuRnhuy",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766103247,
+                "view_count": 306
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G84bb4qXkAAbLGB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G84bb4qXkAAbLGB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2003569054855090669",
+                "created_time": "2025-12-23T20:51:01",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2003569054855090669",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Great discussion with @MontanaJew today on everything from healthcare to fighting antisemitism.\n\nThank you for taking the time! https://t.co/gkJqnkT08P",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MontanaJew"
+                ],
+                "text_tagged_users_ids": [
+                    "1488565713212166154"
+                ],
+                "text_tags": null,
+                "timestamp": 1766523061,
+                "view_count": 403
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.hhs.gov/press-room/cms-announces-50-billion-in-awards-to-strengthen-rural-health-in-all-50-states.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/kX2THOdrEe"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2005740382307357037",
+                "created_time": "2025-12-29T20:39:06",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005740382307357037",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8 Big news for Montana \ud83d\udea8\n\nThe Treasure State will be receiving $233.5 MILLION to put towards rural healthcare next year as part of @CMSGov\u2019s Rural Healthcare Transformation Program that was enacted in the One Big Beautiful Bill!\nhttps://t.co/kX2THOdrEe",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "70837868"
+                ],
+                "text_tags": null,
+                "timestamp": 1767040746,
+                "view_count": 206
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2005976784374779905/img/OZKdwbLeAhrBp7tT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2005976784374779905/vid/avc1/1554x888/HjRHco1NHpCiMg-0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 136,
+                        "id": "2005976784374779905",
+                        "url": "https://video.twimg.com/amplify_video/2005976784374779905/vid/avc1/1554x888/HjRHco1NHpCiMg-0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2005977057654866358",
+                "created_time": "2025-12-30T12:19:34",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005977057654866358",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Make no mistake, folks are seeing their healthcare insurance premiums rise across the country, but for a host of reasons that have little to do with the expiration of Obamacare subsidies.\n\nI joined @MorningsMaria to break it all down ahead of their expiration tomorrow.\n\n\ud83d\udcfa\ud83d\udc47 https://t.co/IR3CrE3w7H",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MorningsMaria"
+                ],
+                "text_tagged_users_ids": [
+                    "2330590446"
+                ],
+                "text_tags": null,
+                "timestamp": 1767097174,
+                "view_count": 669
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://voicesofmontana.com"
+                ],
+                "attached_links_url": [
+                    "https://t.co/omJoLRnp6z"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2006034583716778136",
+                "created_time": "2025-12-30T16:08:09",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2006034583716778136",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Big discussion on healthcare with Tom Schultz coming up on @VoicesofMT here shortly!\n\nTune in \ud83d\udcfb\nhttps://t.co/omJoLRnp6z",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "VoicesofMT"
+                ],
+                "text_tagged_users_ids": [
+                    "3903407112"
+                ],
+                "text_tags": null,
+                "timestamp": 1767110889,
+                "view_count": 601
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

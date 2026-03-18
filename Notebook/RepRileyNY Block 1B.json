@@ -1,0 +1,104 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GkVp8qPW8AAo0_B.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkVp8qRWsAARE2F.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GkVp8qPW8AAo0_B.jpg",
+                    "https://pbs.twimg.com/media/GkVp8qRWsAARE2F.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1861770594108289025",
+                "author_username": "RepRileyNY",
+                "community_notes": null,
+                "conversation_id": "1893035714930946271",
+                "created_time": "2025-02-21T20:30:59",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1893035714930946271",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "This week, I had the opportunity to meet with mayors from across the district\u2014from Norwich and New Berlin to Hudson\u2014to discuss local challenges related to housing, infrastructure, and treatment services. I will take these valuable conversations to Congress as we work toward solutions together.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740169859,
+                "view_count": 628
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmhPFJ-WoAAPTOY.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmhPFJkWsAAkw_O.jpg?name=small",
+                    "https://pbs.twimg.com/media/GmhPFJPaEAIVmsz.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmhPFJ-WoAAPTOY.jpg",
+                    "https://pbs.twimg.com/media/GmhPFJkWsAAkw_O.jpg",
+                    "https://pbs.twimg.com/media/GmhPFJPaEAIVmsz.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1861770594108289025",
+                "author_username": "RepRileyNY",
+                "community_notes": null,
+                "conversation_id": "1902857802403504618",
+                "created_time": "2025-03-20T23:00:28",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1902857802403504618",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Catholic Charities provides addiction treatment, food assistance, and other critical services to people across the Hudson Valley. Their work saves lives, but extreme budget cuts in Washington would devastate it. I met with them today to hear more and learn how I can help. https://t.co/KdXeGp6UCB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1742511628,
+                "view_count": 693
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

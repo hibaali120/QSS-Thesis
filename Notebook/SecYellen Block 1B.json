@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://home.treasury.gov/news/press-releases/jy1563"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ZoJmJO7HfT"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1333171793201225728",
+                "author_username": "SecYellen",
+                "community_notes": null,
+                "conversation_id": "1672199609840541696",
+                "created_time": "2023-06-23T11:07:09",
+                "favorite_count": 141,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1672199609840541696",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 21,
+                "retweet_count": 43,
+                "source": "Twitter Web App",
+                "text": "I welcome the consensus that official bilateral creditors have reached on providing a debt treatment to Zambia. Debt relief for Zambia has been a priority for me and I am pleased the international community has come together in Zambia\u2019s time of need.  https://t.co/ZoJmJO7HfT",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1687518429,
+                "view_count": 18596
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

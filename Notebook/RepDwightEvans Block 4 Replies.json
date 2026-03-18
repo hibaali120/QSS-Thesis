@@ -1,0 +1,58 @@
+{
+    "politician": "RepDwightEvans",
+    "block": "4",
+    "posts": [
+        {
+            "conversation_id": "1658869147332116483",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://nobulart.com/wordpress/wp-content/uploads/2021/08/Deagel-2025-Forecast-by-Country.pdf"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/7cWNLVKFo5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1594210337795997696",
+                    "author_username": "A5Megan",
+                    "community_notes": null,
+                    "conversation_id": "1658869147332116483",
+                    "created_time": "2023-05-17T16:24:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1658871079710883848",
+                    "in_reply_to_post_id": "1658869147332116483",
+                    "in_reply_to_profile_id": "90639372",
+                    "in_reply_to_profile_username": "RepDwightEvans",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDwightEvans Look what Bill Gates accomplished with his formula of reducing the world's Carbon. https://t.co/7cWNLVKFo5",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDwightEvans"
+                    ],
+                    "text_tagged_users_ids": [
+                        "90639372"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1684340660,
+                    "view_count": 22
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,513 @@
+{
+    "politician": "RepSarahElfreth",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1902347022197264689",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1902347022197264689",
+                    "created_time": "2025-03-19T13:16:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1902348364387430658",
+                    "in_reply_to_post_id": "1902347022197264689",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Medicaid\u2019s real problem? Billions vanish into bureaucratic bloat while patients get scraps. Take the VA\u2014$2B wasted on consultants making PowerPoints instead of funding vets\u2019 care. Or the EPA flushing $287M down the drain on DEI grants. \n\nRedirect that cash to frontline services, not D.C. middlemen. When bureaucrats prioritize paperwork over patients, it\u2019s not about \u201cchoice\u201d\u2014it\u2019s a system rigged to keep agencies fat while Americans suffer.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1742390168,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1995171853602521543",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/jessebwatters/status/1996396336447676643?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Z6n5yt50b2"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-12-04T04:10:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1996431809262034978",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith Go ahead, defend the drug running terrorists, clowns. \ud83e\udd21\n\nhttps://t.co/Z6n5yt50b2",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764821409,
+                    "view_count": 18
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/shem_infinite/status/1996318961147813902?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/CuQAm1EOIo"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-12-03T21:04:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1996324726466117866",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith The old Joe Biden would approve\u2026\n\nhttps://t.co/CuQAm1EOIo",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764795879,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/real_robn/status/1995220965874434546?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/19yZNlp5ep"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-12-01T17:24:01",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995544428220436866",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith We care more about the criminal illegals allowed in our country under Biden to overwhelm our resources and be used for illegal votes. \ud83e\udd28\n\nhttps://t.co/19yZNlp5ep",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764609841,
+                    "view_count": 14
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/marionawfal/status/1995319921274720685?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/oZ38x77BRD"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-12-01T14:48:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995505402189115429",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith We\u2019re left with more questions than answers on the fraud that @DOGE exposed and that you and Dems tried to deflect and coverup. Where\u2019s the oversight on the theft of OUR hard earned tax dollars??? We\u2019d like a comprehensive accounting to be top priority\ud83e\udd28\n\nhttps://t.co/oZ38x77BRD",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith",
+                        "DOGE"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690",
+                        "1856751787644260354"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764600537,
+                    "view_count": 31
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/jessekellydc/status/1995241014794350690?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/UTXllpU294"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-12-01T13:50:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995490598166675724",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith I\u2019m old enough to remember Obama droning innocents too. How many in Congress are blackmailed, threatened, or getting kickbacks from narco-terrorists? \ud83e\udd14\n\nhttps://t.co/UTXllpU294",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764597007,
+                    "view_count": 22
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1668353723246993415",
+                    "author_username": "BradTho588346",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-11-30T22:07:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995253291048116420",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith Thus, examining War Powers and the Constitution. Along with the Geneva Convention or the ICC Roman Statute we do not participate in. Along with Naval Maritime Policy. Since the foundation of our nation war has been debated. I am betting on the DOW not the media.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764540429,
+                    "view_count": 17
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1892272432653676544",
+                    "author_username": "Bob99999H",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-11-30T18:51:07",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995203959456518421",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith MORE CONCERNED ABOUT THE SAFETY OF DRUG RUNNERS THAN AMERICANS!!!   \nONCE AGAIN, ANYONE BUT YOUR REAL CONSTITUENTS",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764528667,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/ericldaugh/status/1994577632755605750?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/8OVoDj6H2n"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1995171853602521543",
+                    "created_time": "2025-11-30T17:01:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995176419635417127",
+                    "in_reply_to_post_id": "1995171853602521543",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth @RepMikeRogersAL @RepAdamSmith We finally have a president who\u2019s defending our country and protecting our borders, and Dems and RINOs have a problem with it, but never had one with drugs and criminals pouring in for years and harming Americans. Says it all. \n\nhttps://t.co/8OVoDj6H2n",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth",
+                        "RepMikeRogersAL",
+                        "RepAdamSmith"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416",
+                        "33977070",
+                        "58928690"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764522101,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1999216653951771088",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/repandyharrismd/status/1998451431557521533?s=61&t=sFhRpRcuhG7j07QhMULmew"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Kcm5B4zQE1"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "833318849613352960",
+                    "author_username": "BjhaneyHaney",
+                    "community_notes": null,
+                    "conversation_id": "1999216653951771088",
+                    "created_time": "2025-12-12T18:28:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1999546851263996191",
+                    "in_reply_to_post_id": "1999216653951771088",
+                    "in_reply_to_profile_id": "1875244261844668416",
+                    "in_reply_to_profile_username": "RepSarahElfreth",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepSarahElfreth Let\u2019s protect all Americans, by removing criminal illegals allowed and coddled by Democrats. At least we have one rep who understands.\n\nhttps://t.co/Kcm5B4zQE1",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSarahElfreth"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875244261844668416"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765564093,
+                    "view_count": 13
+                }
+            ]
+        }
+    ]
+}

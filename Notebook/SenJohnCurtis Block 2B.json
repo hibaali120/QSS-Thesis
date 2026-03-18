@@ -1,0 +1,149 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F3WAshfW4AAjm0o.jpg?name=small",
+                    "https://pbs.twimg.com/media/F3WAvXWWEAAHCRR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F3WAshfW4AAjm0o.jpg",
+                    "https://pbs.twimg.com/media/F3WAvXWWEAAHCRR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "931614483050414080",
+                "author_username": "SenJohnCurtis",
+                "community_notes": null,
+                "conversation_id": "1690398918801031169",
+                "created_time": "2023-08-12T16:24:42",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1690398918801031169",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 0,
+                "source": "TweetDeck Web App",
+                "text": "Great to be with FirstNet and first responders yesterday for a ribbon-cutting ceremony at a new communications tower in American Fork Canyon. \n\nUtah's emergency services now have enhanced coverage, ensuring safety for visitors and residents. https://t.co/wMND9BE198",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1691857482,
+                "view_count": 1705
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.heraldextra.com/news/local/2023/aug/16/emergency-network-coverage-expanded-in-american-fork-canyon/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/BdyFxBLrZU"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "931614483050414080",
+                "author_username": "SenJohnCurtis",
+                "community_notes": null,
+                "conversation_id": "1691841279687045283",
+                "created_time": "2023-08-16T15:56:08",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1691841279687045283",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Via @heraldextra: Emergency network coverage expanded in American Fork Canyon\nhttps://t.co/BdyFxBLrZU",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "heraldextra"
+                ],
+                "text_tagged_users_ids": [
+                    "16910966"
+                ],
+                "text_tags": null,
+                "timestamp": 1692201368,
+                "view_count": 609
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GDhId1rXMAAJE_c.jpg?name=small",
+                    "https://pbs.twimg.com/media/GDhId1sWkAAmmHO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GDhId1rXMAAJE_c.jpg",
+                    "https://pbs.twimg.com/media/GDhId1sWkAAmmHO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "931614483050414080",
+                "author_username": "SenJohnCurtis",
+                "community_notes": null,
+                "conversation_id": "1745224536847495233",
+                "created_time": "2024-01-10T23:22:08",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1745224536847495233",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Great meeting with the team at Donor Connect this week. We delved into how organ procurement organizations are evaluated in the US and the vital role they play in Utah, serving 3.9M residents, 90+ hospitals, 3 transplant centers, and the Wahlen VA Medical Center. https://t.co/OXDoWcLsdZ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704928928,
+                "view_count": 775
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

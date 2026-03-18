@@ -1,0 +1,967 @@
+{
+    "politician": "RepCarbajal",
+    "posts": [
+        {
+            "conversation_id": "1481675077473415169",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1481675077473415169",
+                    "created_time": "2022-01-13T17:10:41",
+                    "favorite_count": 9,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1481675079016751105",
+                    "in_reply_to_post_id": "1481675077473415169",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Making it easier for more Americans to exercise the right to vote is something every public servant should be able to get behind. \n\nReforms like:\n\ud83d\uddf3\ufe0f Creating automatic voter registration\n\ud83d\ude8c Making Election Day a federal holiday, &\n\u2696\ufe0f Ending partisan gerrymandering (2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1642093841,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1492892319913168900",
+            "replies": []
+        },
+        {
+            "conversation_id": "1509584881621377032",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1192183568",
+                    "author_username": "DentistUnmasked",
+                    "community_notes": null,
+                    "conversation_id": "1509584881621377032",
+                    "created_time": "2022-03-31T17:41:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1509586759092342788",
+                    "in_reply_to_post_id": "1509584881621377032",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal Thank you",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648748504,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1520090426346287104",
+            "replies": []
+        },
+        {
+            "conversation_id": "1521908401986584580",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "76496643",
+                    "author_username": "pismobch",
+                    "community_notes": null,
+                    "conversation_id": "1521908401986584580",
+                    "created_time": "2022-05-04T18:48:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1521924719229870080",
+                    "in_reply_to_post_id": "1521908401986584580",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCarbajal @RepMcGovern @POTUS hunger will end?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "RepMcGovern",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "242426145",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1651690103,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1522330196417855488",
+            "replies": []
+        },
+        {
+            "conversation_id": "1538282449930801155",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539683512793579520",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "74477736",
+                    "author_username": "checoho",
+                    "community_notes": null,
+                    "conversation_id": "1539683512793579520",
+                    "created_time": "2022-06-22T19:23:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1539690449702531072",
+                    "in_reply_to_post_id": "1539683512793579520",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal Is everyone who utilizes these services going to get the free service of red flag laws used on them? Just curious",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1655925783,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1555277377768390656",
+            "replies": []
+        },
+        {
+            "conversation_id": "1570883864884817921",
+            "replies": []
+        },
+        {
+            "conversation_id": "1575185520602550272",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "25773567",
+                    "author_username": "Lalaej",
+                    "community_notes": null,
+                    "conversation_id": "1575185520602550272",
+                    "created_time": "2022-09-28T18:25:45",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575190037360037890",
+                    "in_reply_to_post_id": "1575185520602550272",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal @WhiteHouse @POTUS @SecVilsack Thank you, @RepCarbajal for all your hard work for your constituents \ud83d\udc99\ud83d\uddf3",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "WhiteHouse",
+                        "POTUS",
+                        "SecVilsack"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "1879644163769335808",
+                        "1879650942410481666",
+                        "1364332024929148932"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664389545,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1612885384911851553",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1612885384911851553",
+                    "created_time": "2023-01-10T18:53:49",
+                    "favorite_count": 20,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1612885439459004417",
+                    "in_reply_to_post_id": "1612885384911851553",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "@POTUS @RepJimmyPanetta I will continue to utilize every resource I have to get the Central Coast the support we need to keep individuals safe and minimize the damage to our environment.\n\nPlease continue to exercise vigilance, and stay aware of emergency alerts.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "POTUS",
+                        "RepJimmyPanetta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1879650942410481666",
+                        "796736612554117120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1673376829,
+                    "view_count": 627
+                }
+            ]
+        },
+        {
+            "conversation_id": "1618341434125615104",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "882011240410820608",
+                    "author_username": "kildea_m",
+                    "community_notes": null,
+                    "conversation_id": "1618341434125615104",
+                    "created_time": "2023-01-26T09:15:45",
+                    "favorite_count": 0,
+                    "geo_lat": 40.2193326,
+                    "geo_lon": -74.71374,
+                    "id": "1618538169091383296",
+                    "in_reply_to_post_id": "1618341434125615104",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Mercerville, NJ",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal @HouseDemocrats Another foreign born Marxist managed to get elected to congress. Long past time to close our border to those hostile to our country.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1674724545,
+                    "view_count": 4
+                }
+            ]
+        },
+        {
+            "conversation_id": "1638342165758656514",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fr1UZ3DWwAAgMAz.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fr1UZ3DWwAAgMAz.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1638342165758656514",
+                    "created_time": "2023-03-22T15:10:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1638558686313324545",
+                    "in_reply_to_post_id": "1638342165758656514",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCarbajal https://t.co/s1Ce0wJ1XP",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1679497808,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1696928918689776034",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1315769276632977408",
+                    "author_username": "FlagWaver6",
+                    "community_notes": null,
+                    "conversation_id": "1696928918689776034",
+                    "created_time": "2023-08-30T23:01:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1697021833143529835",
+                    "in_reply_to_post_id": "1696928918689776034",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal @CityofLompoc But Ukraine needs so much more in aid than Americans ? #AmericaFirst",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "CityofLompoc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "830200222072524802"
+                    ],
+                    "text_tags": [
+                        "americafirst"
+                    ],
+                    "timestamp": 1693436508,
+                    "view_count": 18
+                }
+            ]
+        },
+        {
+            "conversation_id": "1715119936509559270",
+            "replies": []
+        },
+        {
+            "conversation_id": "1727076203788722426",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1727076203788722426",
+                    "created_time": "2023-11-21T21:34:12",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1727077977727623596",
+                    "in_reply_to_post_id": "1727076203788722426",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@SBCPublicHealth I helped pass legislation that\u2019s saving Central Coast residents $1,100/year on ACA premiums.\n\nThere\u2019s more to be done to ensure all Americans have access to affordable health care\u2013but thanks to @HouseDemocrats, we\u2019re seeing record-low uninsured rates and more signed up than ever!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "HouseDemocrats"
+                    ],
+                    "text_tagged_users_ids": [
+                        "43963249"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1700602452,
+                    "view_count": 227
+                }
+            ]
+        },
+        {
+            "conversation_id": "1734606288854655487",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "755946292510011393",
+                    "author_username": "smariepeter",
+                    "community_notes": null,
+                    "conversation_id": "1734606288854655487",
+                    "created_time": "2023-12-13T13:24:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734927326205681771",
+                    "in_reply_to_post_id": "1734606288854655487",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal Thousands of Palestinians have been slaughtered by an unchecked Israel in the last two months (including children! babies!) and our politicians are over here making nonsense like this for social media clout",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1702473882,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "http://CoveredCA.com"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/F2ZXrkcnP5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1734606288854655487",
+                    "created_time": "2023-12-12T16:09:19",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734606364067115315",
+                    "in_reply_to_post_id": "1734606288854655487",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "For uninterrupted coverage starting January 1st, you must enroll by this Friday, December 15th!\n\nEnroll today @ https://t.co/F2ZXrkcnP5!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1702397359,
+                    "view_count": 230
+                }
+            ]
+        },
+        {
+            "conversation_id": "1734606288854655487",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "755946292510011393",
+                    "author_username": "smariepeter",
+                    "community_notes": null,
+                    "conversation_id": "1734606288854655487",
+                    "created_time": "2023-12-13T13:24:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734927326205681771",
+                    "in_reply_to_post_id": "1734606288854655487",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarbajal Thousands of Palestinians have been slaughtered by an unchecked Israel in the last two months (including children! babies!) and our politicians are over here making nonsense like this for social media clout",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1702473882,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "http://CoveredCA.com"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/F2ZXrkcnP5"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1734606288854655487",
+                    "created_time": "2023-12-12T16:09:19",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1734606364067115315",
+                    "in_reply_to_post_id": "1734606288854655487",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "For uninterrupted coverage starting January 1st, you must enroll by this Friday, December 15th!\n\nEnroll today @ https://t.co/F2ZXrkcnP5!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1702397359,
+                    "view_count": 230
+                }
+            ]
+        },
+        {
+            "conversation_id": "1745084964742259033",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1440116238772944902",
+                    "author_username": "momofhorses",
+                    "community_notes": null,
+                    "conversation_id": "1745084964742259033",
+                    "created_time": "2024-01-11T01:19:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1745254043730182475",
+                    "in_reply_to_post_id": "1745084964742259033",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCarbajal @CoveredCA Stop using my tax dollars for illegal aliens.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "CoveredCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "915514734"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1704935963,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1755691982217769129",
+            "replies": []
+        },
+        {
+            "conversation_id": "1767673564163944870",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1602321735855972352",
+                    "author_username": "EnriqueSuave515",
+                    "community_notes": null,
+                    "conversation_id": "1767673564163944870",
+                    "created_time": "2024-03-12T22:10:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1767674533186789718",
+                    "in_reply_to_post_id": "1767673564163944870",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCarbajal The CDC has recommended the covid vax for children, even though there are indications that the covid vax is associated with a rise in turbo cancers. Also this natural non-gain of function version of covid is just the common cold.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1710281425,
+                    "view_count": 25
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/GIgJo4HXIAA6AvC.jpg?name=small",
+                        "https://pbs.twimg.com/media/GIgJq7YWoAE3v-0.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/GIgJo4HXIAA6AvC.jpg",
+                        "https://pbs.twimg.com/media/GIgJq7YWoAE3v-0.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "816157667882373120",
+                    "author_username": "RepCarbajal",
+                    "community_notes": null,
+                    "conversation_id": "1767673564163944870",
+                    "created_time": "2024-03-12T22:06:34",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1767673565548015944",
+                    "in_reply_to_post_id": "1767673564163944870",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "I told Ava & her Mother Vanessa that I'm committed to investing more in pediatric cancer research, lowering treatment costs, and finally achieving not just a cure for cancer, but also a health care system that puts no family in financial peril just for seeking the care they need. https://t.co/WTLXeKDchQ",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1710281194,
+                    "view_count": 323
+                }
+            ]
+        },
+        {
+            "conversation_id": "1770201772012769659",
+            "replies": []
+        },
+        {
+            "conversation_id": "1781415493091397687",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "301515508",
+                    "author_username": "PWArroyo",
+                    "community_notes": null,
+                    "conversation_id": "1781415493091397687",
+                    "created_time": "2024-04-20T21:40:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781800069588742390",
+                    "in_reply_to_post_id": "1781415493091397687",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCarbajal @DaVita dear Salud,\n I was just going to write you after I read the \"Blood Money\" article in Mother Jones.May June,  a subscriber funded   publication. It had details of how the near monopoly allows the Da  ITA  DIALIYSIS  to skimp on staff and dismiss the difficult cases, etc.  read.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "DaVita"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "28676469"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713649215,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://youtu.be/ZsQ_EYXwTzg?si=nm6VT6D_8DRaWq8w"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/PGZV71kptD"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "4577236040",
+                    "author_username": "HorribleDisgust",
+                    "community_notes": null,
+                    "conversation_id": "1781415493091397687",
+                    "created_time": "2024-04-19T20:14:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1781416095930613976",
+                    "in_reply_to_post_id": "1781415493091397687",
+                    "in_reply_to_profile_id": "816157667882373120",
+                    "in_reply_to_profile_username": "RepCarbajal",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCarbajal @DaVita You should watch this Salud https://t.co/PGZV71kptD",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarbajal",
+                        "DaVita"
+                    ],
+                    "text_tagged_users_ids": [
+                        "816157667882373120",
+                        "28676469"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1713557669,
+                    "view_count": 45
+                }
+            ]
+        },
+        {
+            "conversation_id": "1785082753031041445",
+            "replies": []
+        }
+    ]
+}

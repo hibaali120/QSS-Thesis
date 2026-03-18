@@ -1,0 +1,548 @@
+{
+    "politician": "RepCarlos",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1478838063736496128",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "761951551673864192",
+                    "author_username": "BabyHeadz",
+                    "community_notes": null,
+                    "conversation_id": "1478838063736496128",
+                    "created_time": "2022-01-10T18:31:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1480608255474733060",
+                    "in_reply_to_post_id": "1478838063736496128",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos \u201cI want to force constituents who don\u2019t live in coastal areas to help pay for repairs when we experience devastating hurricanes by raising flood insurance rates across the country.\u201d",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1641839491,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1316871622482186240",
+                    "author_username": "RobertToala3",
+                    "community_notes": null,
+                    "conversation_id": "1478838063736496128",
+                    "created_time": "2022-01-07T17:25:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1479504554580492288",
+                    "in_reply_to_post_id": "1478838063736496128",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos No your not, i have not heard of you having a Q&A in our district, you are a ghost.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1641576348,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1347763564027768834",
+                    "author_username": "kcastr3",
+                    "community_notes": null,
+                    "conversation_id": "1478838063736496128",
+                    "created_time": "2022-01-07T13:36:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1479446756446322688",
+                    "in_reply_to_post_id": "1478838063736496128",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos You are a bunch of cowards! Dark day of remembrance of January 6th for our country and you THREE couldn\u2019t be there to honor policemen WHO SAVED YOU",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1641562568,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "862874466333986816",
+                    "author_username": "RealSteveJoe",
+                    "community_notes": null,
+                    "conversation_id": "1478838063736496128",
+                    "created_time": "2022-01-06T19:56:22",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1479180058325667842",
+                    "in_reply_to_post_id": "1478838063736496128",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepCarlos But you will vote against any climate change legislation because your God Trump tells you to.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1641498982,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1723874637656826044",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F-zSRZWXoAAQzYZ.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F-zSRZWXoAAQzYZ.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1643299220114268172",
+                    "author_username": "ou_rosemar26919",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T08:39:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723983962597429737",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos @nytimes https://t.co/Ki8RqxO58w",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699864781,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1723938589690523651/pu/img/E7JYjhg5MbQqzBsU.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1723938589690523651/pu/vid/avc1/1280x720/_ovIduamjztnYcYJ.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 127,
+                            "id": "1723938589690523651",
+                            "url": "https://video.twimg.com/ext_tw_video/1723938589690523651/pu/vid/avc1/1280x720/_ovIduamjztnYcYJ.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1690380951807754240",
+                    "author_username": "MGBS02",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T05:39:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723938700172623908",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos @nytimes \ud83d\udc89For all those who have been vaccinated, Artesunate is the only solution to resolve residual damage in the body.#MilesGuo\n*************** https://t.co/NKPtpNHqDX",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": [
+                        "milesguo"
+                    ],
+                    "timestamp": 1699853990,
+                    "view_count": 20
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1723930848892698624/pu/img/IZulXZIcvjVdSKqI.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1723930848892698624/pu/vid/avc1/1280x720/rcusqrUKGYKDQbnv.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 127,
+                            "id": "1723930848892698624",
+                            "url": "https://video.twimg.com/ext_tw_video/1723930848892698624/pu/vid/avc1/1280x720/rcusqrUKGYKDQbnv.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1285066391452778503",
+                    "author_username": "Satana40626433",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T05:08:52",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723930910368698652",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos @nytimes https://t.co/0dmIxsgKMI",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699852132,
+                    "view_count": 5
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F-yFyGiW0AA1PSo.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F-yFyGiW0AA1PSo.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1362578874660511745",
+                    "author_username": "YhtATC1HXGQ6LWo",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T03:05:29",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723899858367447070",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCarlos @nytimes Ukraine. Avdiivka. 2023. October https://t.co/YL9Ajlof1p",
+                    "text_lang": "ro",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699844729,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/F-x1ShAaIAAmQeb.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/F-x1ShAaIAAmQeb.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1681119948897394688",
+                    "author_username": "greagettr",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T01:53:27",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723881729210069265",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Mac",
+                    "text": "@RepCarlos @nytimes https://t.co/T0xqyD19cf",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699840407,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1666057188131893248",
+                    "author_username": "LSapitan30493",
+                    "community_notes": null,
+                    "conversation_id": "1723874637656826044",
+                    "created_time": "2023-11-13T01:34:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723876918502539695",
+                    "in_reply_to_post_id": "1723874637656826044",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCarlos @nytimes Good for you Carlos,  of course we stand with Israel.  Unfortunately you will be primaried soon, as your voting doesn't follow the will of the people. We never wanted Mccarthy,  we want term limits and we don't want you doing insider trading.  Bye bye Carlos.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "nytimes"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "807095"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1699839260,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "1801240274166780148",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/GP-id0yWAAAd6WK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/GP-id0yWAAAd6WK.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1447278479104430086",
+                    "author_username": "xyrqq82smz",
+                    "community_notes": null,
+                    "conversation_id": "1801240274166780148",
+                    "created_time": "2024-06-13T19:33:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1801337015348199468",
+                    "in_reply_to_post_id": "1801240274166780148",
+                    "in_reply_to_profile_id": "1343679195034103808",
+                    "in_reply_to_profile_username": "RepCarlos",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepCarlos @Nicklaus4Kids Said the \u201cmen\u201d that applauded and sheer the reducci\u00f3n of Medicare and MEDICAID to our children\u2019s in FL. Payaso https://t.co/1l0sQU1L3o",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCarlos",
+                        "Nicklaus4Kids"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343679195034103808",
+                        "40918963"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1718307186,
+                    "view_count": 6
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,304 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1912877910299459585/img/GfCXnEVnlUeDDHtd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1912877910299459585/vid/avc1/1080x1920/RcoV6mRXbdoFk-oY.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1912877910299459585",
+                        "url": "https://video.twimg.com/amplify_video/1912877910299459585/vid/avc1/1080x1920/RcoV6mRXbdoFk-oY.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1912877980528922950",
+                "created_time": "2025-04-17T14:37:04",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912877980528922950",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "I ran into Marissa, a constituent and nurse with @CareOregon at the store. She is worried about cuts to Medicare & Medicaid, as her patients rely on these programs for care.\n\nI voted against cuts to the programs last week, and I'll keep fighting to protect them. #MedicaidMatters. https://t.co/aEaEGxqcnb",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CareOregon"
+                ],
+                "text_tagged_users_ids": [
+                    "59267093"
+                ],
+                "text_tags": [
+                    "medicaidmatters"
+                ],
+                "timestamp": 1744900624,
+                "view_count": 568
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1928505862722654209/img/FOlGBAdbg8aD5N2l.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1928505862722654209/vid/avc1/1080x1920/smeOPf4dI_NhFdMr.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 53,
+                        "id": "1928505862722654209",
+                        "url": "https://video.twimg.com/amplify_video/1928505862722654209/vid/avc1/1080x1920/smeOPf4dI_NhFdMr.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1928506397861220487",
+                "created_time": "2025-05-30T17:38:49",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1928506397861220487",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "In Oregon, Planned Parenthood serves 110,000 patients a year, many of whom rely on Medicaid for treatment. \n\nThe Republicans' budget cuts will make it harder for women to access the care they need. \n\nPlanned Parenthood Columbia Willamette CEO Dr. Sara Kennedy has the facts \u2b07\ufe0f https://t.co/XryKo7cP1p",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748626729,
+                "view_count": 306
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GudKWqMXgAAZVxc.jpg?name=small",
+                    "https://pbs.twimg.com/media/GudKWqMXEAAPp7S.jpg?name=small",
+                    "https://pbs.twimg.com/media/GudKWqOWAAAocpe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GudKWqMXgAAZVxc.jpg",
+                    "https://pbs.twimg.com/media/GudKWqMXEAAPp7S.jpg",
+                    "https://pbs.twimg.com/media/GudKWqOWAAAocpe.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1938599922112069956",
+                "created_time": "2025-06-27T14:06:53",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1938599922112069956",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Republicans are continuing to push for their trash budget, which rips Medicaid away from our hospitals and our communities. \n\nThis week, I met with nurses from CD5 who shared a bit about the devastating impacts this will have on our districts, and patients who come to them for care.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751033213,
+                "view_count": 268
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1939738583188832256/img/2tTF6jBn4PwOgwDd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1939738583188832256/vid/avc1/1080x1920/f-qWbxQfGN2xfg1K.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 61,
+                        "id": "1939738583188832256",
+                        "url": "https://video.twimg.com/amplify_video/1939738583188832256/vid/avc1/1080x1920/f-qWbxQfGN2xfg1K.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1939738763107708975",
+                "created_time": "2025-06-30T17:32:14",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1939738763107708975",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Republicans\u2019 trash budget is now in the Senate, where even more cuts to essential programs are being discussed. \n\nIf they have it their way, hundreds of rural hospitals will be forced to close while the rich get richer. https://t.co/2qmxYTfTuh",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751304734,
+                "view_count": 304
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1940409612416725025",
+                "created_time": "2025-07-02T13:58:00",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1940409624987140352",
+                "in_reply_to_post_id": "1940409612416725025",
+                "in_reply_to_profile_id": "1875014393613688832",
+                "in_reply_to_profile_username": "RepBynum",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "This bill is a disaster. \n\nIt\u2019s defunds Planned Parenthood, limits access to SNAP for millions of Americans, funnels more taxpayer dollars to the masked men of ICE, threatens our rural hospitals, and so much more. \n\n\ud83e\uddf5 2/7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751464680,
+                "view_count": 40
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1940533945369604096/img/kiRhelCBNnBZGX4n.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1940533945369604096/vid/avc1/1080x1920/AhqL7Po9YyhjU8Fi.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 93,
+                        "id": "1940533945369604096",
+                        "url": "https://video.twimg.com/amplify_video/1940533945369604096/vid/avc1/1080x1920/AhqL7Po9YyhjU8Fi.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1875014393613688832",
+                "author_username": "RepBynum",
+                "community_notes": null,
+                "conversation_id": "1940536023328739572",
+                "created_time": "2025-07-02T22:20:16",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1940536023328739572",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Last night, I introduced several amendments to try to make the trash bill better. \n\nI tried to stop the cuts to rural hospitals, Planned Parenthood, and SNAP, but Republicans said no. \n\nSo I\u2019ll be voting no on the budget \u2013 it\u2019s bad for my constituents and bad for America. https://t.co/QwSPVoAdR8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751494816,
+                "view_count": 253
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

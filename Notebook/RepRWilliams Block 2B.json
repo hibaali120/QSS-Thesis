@@ -1,0 +1,106 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FSBc_WEWYAIzETm.jpg?name=small",
+                    "https://pbs.twimg.com/media/FSBc_XtXMAQBKRY.jpg?name=small",
+                    "https://pbs.twimg.com/media/FSBc_XtXoAAIe4P.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FSBc_WEWYAIzETm.jpg",
+                    "https://pbs.twimg.com/media/FSBc_XtXMAQBKRY.jpg",
+                    "https://pbs.twimg.com/media/FSBc_XtXoAAIe4P.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1077446982",
+                "author_username": "RepRWilliams",
+                "community_notes": null,
+                "conversation_id": "1522318924104323072",
+                "created_time": "2022-05-05T20:54:49",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1522318924104323072",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Great visit to the TX Health Huguley Hospital to address a variety of issues from expanding telehealth options & growing the healthcare workforce.\n\nThis week is National Hospital Week & I enjoyed thanking the healthcare staff for their important work to care for patients. https://t.co/DInpnOkk2f",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1651784089,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GwAAkgWWgAA0amj.jpg?name=small",
+                    "https://pbs.twimg.com/media/GwAAmjvWgAA5eeX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GwAAkgWWgAA0amj.jpg",
+                    "https://pbs.twimg.com/media/GwAAmjvWgAA5eeX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1077446982",
+                "author_username": "RepRWilliams",
+                "community_notes": null,
+                "conversation_id": "1945558309441827269",
+                "created_time": "2025-07-16T18:57:02",
+                "favorite_count": 14,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1945558309441827269",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "On #GlioblastomaAwarenessDay, let us join together to support the millions of patients, families, and caregivers who are battling this devastating disease.\n\nBy raising awareness and supporting continued research, we move closer to a future without glioblastoma. https://t.co/WIlOKxZHlJ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "glioblastomaawarenessday"
+                ],
+                "timestamp": 1752692222,
+                "view_count": 628
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

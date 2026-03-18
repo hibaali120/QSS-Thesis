@@ -1,0 +1,102 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://HealthCare.gov",
+                    "https://www.healthcare.gov/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/NeUN6H8Rip",
+                    "https://t.co/b7kkN9Tn03"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "432676344",
+                "author_username": "GKButterfield",
+                "community_notes": null,
+                "conversation_id": "1482077562058813448",
+                "created_time": "2022-01-14T19:50:01",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1482077562058813448",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Open Enrollment ends TOMORROW, Jan. 15th. Sign up today to #GetCovered at https://t.co/NeUN6H8Rip before the deadline. https://t.co/b7kkN9Tn03",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "getcovered"
+                ],
+                "timestamp": 1642189801,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "432676344",
+                "author_username": "GKButterfield",
+                "community_notes": null,
+                "conversation_id": "1494746052179767301",
+                "created_time": "2022-02-18T18:50:04",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1494746052179767301",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Today, @RepDeborahRoss & I led our Democratic colleagues in the N.C. delegation in sending a letter to congressional leadership requesting that provisions to close the Medicaid coverage gap remain in the Build Back Better legislation as negotiations in Congress continue.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepDeborahRoss"
+                ],
+                "text_tagged_users_ids": [
+                    "1348683154815655940"
+                ],
+                "text_tags": null,
+                "timestamp": 1645210204,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

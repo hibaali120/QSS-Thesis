@@ -1,0 +1,249 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQqBja2XwAI9cS2.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FQqBja2XwAI9cS2.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1516166674856222720",
+                "created_time": "2022-04-18T21:27:58",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1516166674856222720",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 9,
+                "source": "Twitter for iPhone",
+                "text": "Congratulations to one of Kentucky\u2019s own champions in the treatment arena, Tim Robinson on receiving the 2022 Beacon of Hope award at the @RxSummit. Thanks to his network of 30 treatment @arccenters across Kentucky, he has helped save more than 41,000 lives! https://t.co/bGS2uIQMDI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RxSummit",
+                    "arccenters"
+                ],
+                "text_tagged_users_ids": [
+                    "425872825",
+                    "1296138571"
+                ],
+                "text_tags": null,
+                "timestamp": 1650317278,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://halrogers.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X8aVkKwAua"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FcAQ0_8XoAU2W7u.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FcAQ0_8XoAU2W7u.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1567271210341343232",
+                "created_time": "2022-09-06T21:59:09",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1567271210341343232",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The days of boiling water in Buckhorn, Ky. will soon be over, thanks to $8.9 million in funding that @GovAndyBeshear & I announced today for a new water treatment plant. I was grateful to share some good news after the flood. Read more at https://t.co/X8aVkKwAua. https://t.co/3xS8r1ZI07",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GovAndyBeshear"
+                ],
+                "text_tagged_users_ids": [
+                    "1192549822865297409"
+                ],
+                "text_tags": null,
+                "timestamp": 1662501549,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://halrogers.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X8aVkKwAua"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FwRHNWcWYA0zonH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FwRHNWcWYA0zonH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1658529586173337610",
+                "created_time": "2023-05-16T17:47:21",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1658529586173337610",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I am proud to join @RepSpanberger to introduce H.R. 3355 to help pay student loans for more treatment providers who specialize in substance use disorder and mental health care. Learn more at https://t.co/X8aVkKwAua. https://t.co/7m3Y91bjsI",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepSpanberger"
+                ],
+                "text_tagged_users_ids": [
+                    "1078771401497161728"
+                ],
+                "text_tags": null,
+                "timestamp": 1684259241,
+                "view_count": 2236
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1798410649975877831",
+                "created_time": "2024-06-05T17:44:46",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1798410649975877831",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1798375146534961322",
+                "quoted_status_profile_id": "301549400",
+                "quoted_status_profile_username": "HouseAppropsGOP",
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Today the U.S. House passed the 1st of 12 funding bills for 2025 - Military Construction & VA includes: \n\u2705Improvements at Ft. Knox & Ft. Campbell\n\u2705Veterans healthcare & benefits\n\u2705Modernization of VA health records\n\u2705Veterans Opioid Treatment & Prevention",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717609486,
+                "view_count": 1345
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://halrogers.house.gov/press-releases?id=B0A79520-BBF9-44EA-817B-B854CD7C3B07"
+                ],
+                "attached_links_url": [
+                    "https://t.co/rna2PpAcGd"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GsoyfclXYAAHVXF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GsoyfclXYAAHVXF.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "550401754",
+                "author_username": "RepHalRogers",
+                "community_notes": null,
+                "conversation_id": "1930411032154877993",
+                "created_time": "2025-06-04T23:47:10",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930411032154877993",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "The House voted to reauthorize the Substance Use Disorder Prevention that Promotes Opioid Recovery and Treatment (SUPPORT) Act, which was first signed into law in 2018 by President Trump. \n\nThe legislation has successfully expanded access to treatment and recovery opportunities, opened the door for more work-to-recovery programs, and is effectively turning the tide on the nation\u2019s drug overdose crisis. \n\nClick the link to learn more about the SUPPORT Act and how it has helped save lives in Kentucky and across the country:\nhttps://t.co/rna2PpAcGd",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749080830,
+                "view_count": 446
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

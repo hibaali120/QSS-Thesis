@@ -1,0 +1,980 @@
+{
+    "politician": "RepStephMurphy",
+    "posts": [
+        {
+            "conversation_id": "1479515674234007557",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1059871245079076866",
+                    "author_username": "MatthewSalavar1",
+                    "community_notes": null,
+                    "conversation_id": "1479515674234007557",
+                    "created_time": "2022-01-07T22:58:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1479588261974716423",
+                    "in_reply_to_post_id": "1479515674234007557",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy @scfdpio You're a #DINO (Dem In Name Only) that lied to your progressive base, went DC and helped Manchin kill BBB! I'm thankful your not running again, you fake! I bet you already have a lobbyist job lined up, you corporate hack! #KEEPDINOSEXTINCT #VoteThemAllOut2022\n#CancelStudentLoans",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy",
+                        "scfdpio"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736",
+                        "2591809956"
+                    ],
+                    "text_tags": [
+                        "cancelstudentloans",
+                        "dino",
+                        "keepdinosextinct",
+                        "votethemallout2022"
+                    ],
+                    "timestamp": 1641596305,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1480927366482382851",
+            "replies": []
+        },
+        {
+            "conversation_id": "1481000561847975936",
+            "replies": []
+        },
+        {
+            "conversation_id": "1482070151994527754",
+            "replies": []
+        },
+        {
+            "conversation_id": "1494065498341924869",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/rachel78373451/status/1493028448972988416"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/Ko4q8ftwUj"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1336730761186172931",
+                    "author_username": "Amberle68664577",
+                    "community_notes": null,
+                    "conversation_id": "1494065498341924869",
+                    "created_time": "2022-02-17T12:26:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1494287106163855361",
+                    "in_reply_to_post_id": "1494065498341924869",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepStephMurphy https://t.co/Ko4q8ftwUj",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645100783,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1487267034245345283",
+                    "author_username": "BeatrizBeans",
+                    "community_notes": null,
+                    "conversation_id": "1494065498341924869",
+                    "created_time": "2022-02-16T22:43:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1494079938831556624",
+                    "in_reply_to_post_id": "1494065498341924869",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy I hope you care about the humane treatment of all animals\u2014domestic, farm, and wild or feral (the \u201cwild\u201d horses). \nI applaud you for this bill and I hope you have all of the Minnesota representatives on board.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645051390,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "29307782",
+                    "author_username": "ItsTodd",
+                    "community_notes": null,
+                    "conversation_id": "1494065498341924869",
+                    "created_time": "2022-02-16T22:07:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1494070847241441289",
+                    "in_reply_to_post_id": "1494065498341924869",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepStephMurphy How about Unborn Baby Protections?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1645049223,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1499416662491205633",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "206496785",
+                    "author_username": "KJPar",
+                    "community_notes": null,
+                    "conversation_id": "1499416662491205633",
+                    "created_time": "2022-03-03T16:11:48",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1499417266244489222",
+                    "in_reply_to_post_id": "1499416662491205633",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy I am glad President Biden brought this issue to the forefront and I appreciate you getting behind it.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1646323908,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1504571975381004294",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1967901320",
+                    "author_username": "AnschuetzEric",
+                    "community_notes": null,
+                    "conversation_id": "1504571975381004294",
+                    "created_time": "2022-03-17T22:16:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1504582560445349901",
+                    "in_reply_to_post_id": "1504571975381004294",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepStephMurphy We will miss your diligent work serving the people of Central Florida and defending democracy abroad and at home.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647555410,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "743998382197334016",
+                    "author_username": "JeppeSun",
+                    "community_notes": null,
+                    "conversation_id": "1504571975381004294",
+                    "created_time": "2022-03-17T21:40:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1504573351662084097",
+                    "in_reply_to_post_id": "1504571975381004294",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepStephMurphy We will miss your assistance.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647553215,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1121358636184473601",
+                    "author_username": "DrJoeRobinette",
+                    "community_notes": null,
+                    "conversation_id": "1504571975381004294",
+                    "created_time": "2022-03-17T21:39:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1504573053304557572",
+                    "in_reply_to_post_id": "1504571975381004294",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy You should do yourself (and your constituents) a favor and just resign now.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647553144,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1505206974593613831",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1402415526534647813",
+                    "author_username": "glen_mal",
+                    "community_notes": null,
+                    "conversation_id": "1505206974593613831",
+                    "created_time": "2022-03-19T22:45:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1505314669396955136",
+                    "in_reply_to_post_id": "1505206974593613831",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@RepStephMurphy I say it's time to stop getting Marines killed by phasing out the Osprey...We all know what the Osprey is...a response to British  Harrier Jump Jets..The Brits understand the technology we don't...from day1 this plane has been plagued by problems 1st killing ppl in US then Japan.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647729959,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1506326589335822345",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "872871032641736705",
+                    "author_username": "capon_cate",
+                    "community_notes": null,
+                    "conversation_id": "1506326589335822345",
+                    "created_time": "2022-03-23T18:33:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506700635193892867",
+                    "in_reply_to_post_id": "1506326589335822345",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy Take the money from unspent funds in the Democrat passed American Rescue Plan which only served to exacerbate inflation....we are broke Stephanie....even you can see that!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648060399,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1432449637391249434",
+                    "author_username": "SkurkaJames",
+                    "community_notes": null,
+                    "conversation_id": "1506326589335822345",
+                    "created_time": "2022-03-23T17:50:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506689842377281538",
+                    "in_reply_to_post_id": "1506326589335822345",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepStephMurphy Actually, the need for a fourth COVID shot is very complicated and still open to question, according to the scientists. Children may not benefit as a whole. More paranoia about vaccines may have unintended consequences. Let's follow science and data, focus on those in need.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648057826,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "450147724",
+                    "author_username": "diegoclaymore03",
+                    "community_notes": null,
+                    "conversation_id": "1506326589335822345",
+                    "created_time": "2022-03-22T18:14:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506333544125276167",
+                    "in_reply_to_post_id": "1506326589335822345",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepStephMurphy Talk to your anti vax colleagues about it. Or maybe convince Manchin and Sinema to do it on a party line vote",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647972877,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "159295814",
+                    "author_username": "suzannechowla",
+                    "community_notes": null,
+                    "conversation_id": "1506326589335822345",
+                    "created_time": "2022-03-22T18:12:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506332985112506371",
+                    "in_reply_to_post_id": "1506326589335822345",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepStephMurphy Please prioritize this. This truly CANNOT wait. Too much is at stake. This could get grim REAL FAST. Plz dive in deep & work to do whatever it takes to get this passed. If there have to be clawbacks, or state-by-state COVID19 spending accounting to move it forward, then do that.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647972744,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1326321744169275393",
+                    "author_username": "PheltMarc",
+                    "community_notes": null,
+                    "conversation_id": "1506326589335822345",
+                    "created_time": "2022-03-22T17:53:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1506328172224258057",
+                    "in_reply_to_post_id": "1506326589335822345",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "erased431111_hsKuO9Lj8P",
+                    "text": "That\u2019s crazy talk, @RepStephMurphy. Here in \u2018Mercia we only believe in being reactive, not proactive. That would make too much sense.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1647971597,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1506738215725764618",
+            "replies": []
+        },
+        {
+            "conversation_id": "1508487514646097928",
+            "replies": []
+        },
+        {
+            "conversation_id": "1508910556257923075",
+            "replies": []
+        },
+        {
+            "conversation_id": "1557852610333655040",
+            "replies": []
+        },
+        {
+            "conversation_id": "1558212147733209093",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1514763197185634311",
+                    "author_username": "ScottDGAF1",
+                    "community_notes": null,
+                    "conversation_id": "1558212147733209093",
+                    "created_time": "2022-08-12T22:07:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1558213662984179712",
+                    "in_reply_to_post_id": "1558212147733209093",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepStephMurphy Of course you did, it will nothing to help",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1660342062,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "796183515998068736",
+                    "author_username": "RepStephMurphy",
+                    "community_notes": null,
+                    "conversation_id": "1558212147733209093",
+                    "created_time": "2022-08-12T22:01:41",
+                    "favorite_count": 28,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1558212149528461314",
+                    "in_reply_to_post_id": "1558212147733209093",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 3,
+                    "source": "Twitter Web App",
+                    "text": "This bill also includes a major provision I helped to negotiate that will finally lower prescription drug prices for American families, without hurting our nation\u2019s ability to develop new medicines.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1660341701,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1558236885289521152",
+            "replies": []
+        },
+        {
+            "conversation_id": "1562163063918415874",
+            "replies": []
+        },
+        {
+            "conversation_id": "1565391128932876291",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fbliog0XgAArxa4.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fbliog0XgAArxa4.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "796183515998068736",
+                    "author_username": "RepStephMurphy",
+                    "community_notes": null,
+                    "conversation_id": "1565391128932876291",
+                    "created_time": "2022-09-01T17:28:25",
+                    "favorite_count": 16,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1565391136889442304",
+                    "in_reply_to_post_id": "1565391128932876291",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "It was wonderful to chat with the students about their ambitions in medicine and some of them were kind enough to teach me about taking 0.5 selfies! https://t.co/Y29CSzbkXU",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1662053305,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1565391128932876291",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fbliog0XgAArxa4.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fbliog0XgAArxa4.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "796183515998068736",
+                    "author_username": "RepStephMurphy",
+                    "community_notes": null,
+                    "conversation_id": "1565391128932876291",
+                    "created_time": "2022-09-01T17:28:25",
+                    "favorite_count": 16,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1565391136889442304",
+                    "in_reply_to_post_id": "1565391128932876291",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "It was wonderful to chat with the students about their ambitions in medicine and some of them were kind enough to teach me about taking 0.5 selfies! https://t.co/Y29CSzbkXU",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1662053305,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1565761916953313282",
+            "replies": []
+        },
+        {
+            "conversation_id": "1568281509634912258",
+            "replies": []
+        },
+        {
+            "conversation_id": "1580294562127695873",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.google.com/amp/s/www.vice.com/amp/en/article/yw48dw/a-form-of-permanent-wage-theft-when-the-soaring-price-of-college-isnt-worth-it"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/e0YHSQab5d"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1465155519375724547",
+                    "author_username": "FTpMJNarcoClub",
+                    "community_notes": null,
+                    "conversation_id": "1580294562127695873",
+                    "created_time": "2022-10-13T15:00:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1580574301455278080",
+                    "in_reply_to_post_id": "1580294562127695873",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepStephMurphy @USDA No assistance for students ripped off by your @FullSail \"university\" predatory student lending diploma mill?\nhttps://t.co/e0YHSQab5d",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepStephMurphy",
+                        "USDA",
+                        "FullSail"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736",
+                        "61853389",
+                        "19679993"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665673253,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fe9TvfSX0AImbXp.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fe9TvfSX0AImbXp.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1465155519375724547",
+                    "author_username": "FTpMJNarcoClub",
+                    "community_notes": null,
+                    "conversation_id": "1580294562127695873",
+                    "created_time": "2022-10-13T14:59:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1580574071271862274",
+                    "in_reply_to_post_id": "1580294562127695873",
+                    "in_reply_to_profile_id": "796183515998068736",
+                    "in_reply_to_profile_username": "RepStephMurphy",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepStephMurphy @USDA https://t.co/vydxAL0OV9",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepStephMurphy",
+                        "USDA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "796183515998068736",
+                        "61853389"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665673198,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

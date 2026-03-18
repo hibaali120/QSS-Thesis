@@ -1,0 +1,65 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.lung.org/help-support"
+                ],
+                "attached_links_url": [
+                    "https://t.co/r4NifzXzkg"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GoMysVqW4AA2LHX.jpg?name=small",
+                    "https://pbs.twimg.com/media/GoMytGgXgAA0-Bm.jpg?name=small",
+                    "https://pbs.twimg.com/media/GoMyuRqXsAAO9OO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GoMysVqW4AA2LHX.jpg",
+                    "https://pbs.twimg.com/media/GoMytGgXgAA0-Bm.jpg",
+                    "https://pbs.twimg.com/media/GoMyuRqXsAAO9OO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1081350574589833221",
+                "author_username": "RepEdCase",
+                "community_notes": null,
+                "conversation_id": "1910426448952705494",
+                "created_time": "2025-04-10T20:15:34",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1910426448952705494",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 119,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "#TurnTheHillTurquoise. I met w/Keely Luke Kim, a lung cancer survivor from Honolulu, & the American Lung Assn/Hawai\u2019i on their message that lung health is important, lung cancer is preventable and treatable if detected early, and federal research and treatment funding is critical. Mahalo for your personal story, Keely. More info on prevention, screening and treatment here: https://t.co/r4NifzXzkg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "turnthehillturquoise"
+                ],
+                "timestamp": 1744316134,
+                "view_count": 10943
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,70 @@
+{
+    "politician": "RepBrianJack",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1893829067842941077",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/peggy_gabour/status/1893812802193682614"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/XEidPKkCNJ"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1497254745995722753",
+                    "author_username": "Gueto72Noa",
+                    "community_notes": null,
+                    "conversation_id": "1893829067842941077",
+                    "created_time": "2025-02-24T18:30:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1894092493857153275",
+                    "in_reply_to_post_id": "1893829067842941077",
+                    "in_reply_to_profile_id": "1872431129011130368",
+                    "in_reply_to_profile_username": "RepBrianJack",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBrianJack @CBellRacing @ATLMotorSpdwy @NASCAR Putin should be REMOVED... #TrumpRESIGNATION @realDonaldTrump #TrumpGoToHell \ud83d\udd25\ud83d\udd25\ud83d\udd25\n\n#TrumpIsARussianAsset \n#TrumpIsARussianAsset \n#TrumpIsARussianAsset \n\nhttps://t.co/XEidPKkCNJ",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBrianJack",
+                        "CBellRacing",
+                        "ATLMotorSpdwy",
+                        "NASCAR",
+                        "realDonaldTrump"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872431129011130368",
+                        "909674118",
+                        "1887242617769115648",
+                        "49153854",
+                        "25073877"
+                    ],
+                    "text_tags": [
+                        "trumpgotohell",
+                        "trumpisarussianasset",
+                        "trumpresignation"
+                    ],
+                    "timestamp": 1740421815,
+                    "view_count": 9
+                }
+            ]
+        }
+    ]
+}

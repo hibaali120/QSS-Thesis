@@ -1,0 +1,200 @@
+{
+    "politician": "RepCicilline",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1555926512968376321",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1550476887604035584",
+                    "author_username": "JSkidmark752022",
+                    "community_notes": null,
+                    "conversation_id": "1555926512968376321",
+                    "created_time": "2022-08-07T02:17:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1556102309754683392",
+                    "in_reply_to_post_id": "1555926512968376321",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCicilline Who stole who's water?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCicilline"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659838676,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "469459893",
+                    "author_username": "cashworth50",
+                    "community_notes": null,
+                    "conversation_id": "1555926512968376321",
+                    "created_time": "2022-08-06T20:44:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1556018449784119301",
+                    "in_reply_to_post_id": "1555926512968376321",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCicilline Hyperbolic nonsense",
+                    "text_lang": "fr",
+                    "text_tagged_users": [
+                        "RepCicilline"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659818682,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1587511989487607808",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "469459893",
+                    "author_username": "cashworth50",
+                    "community_notes": null,
+                    "conversation_id": "1587511989487607808",
+                    "created_time": "2022-11-01T18:36:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587513861380325376",
+                    "in_reply_to_post_id": "1587511989487607808",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepCicilline Money laundering for photo ops....",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCicilline"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667327773,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1598732174093479937",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1598727810914275329/pu/img/S-ZTKDet2BuSRm8P.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1598727810914275329/pu/vid/846x472/BuBBz1TSoJnGaqts.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 71,
+                            "id": "1598727810914275329",
+                            "url": "https://video.twimg.com/ext_tw_video/1598727810914275329/pu/vid/846x472/BuBBz1TSoJnGaqts.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "462143773",
+                    "author_username": "RepCicilline",
+                    "community_notes": null,
+                    "conversation_id": "1598732174093479937",
+                    "created_time": "2022-12-02T17:33:56",
+                    "favorite_count": 6,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1598732208625229824",
+                    "in_reply_to_post_id": "1598732174093479937",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "H.R. 6878, the Protecting the Health and Wellness of Babies and Pregnant Women in Custody Act of 2022, will ensure pregnant women in incarceration get the prenatal care they need. https://t.co/Eq5FSAkqLf",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1670002436,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

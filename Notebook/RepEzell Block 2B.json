@@ -1,0 +1,146 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GPaNaE9XkAAeqzJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GPaNaE9XkAAeqzJ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1602788004749344768",
+                "author_username": "RepEzell",
+                "community_notes": null,
+                "conversation_id": "1798780671286186376",
+                "created_time": "2024-06-06T18:15:06",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1798780671286186376",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Day in and day out, the Singing River Dialysis Center provides complete care for Mississippians living with kidney disease. I had the opportunity to visit their facility and meet with providers and patients. https://t.co/EOT1EVQqS9",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717697706,
+                "view_count": 394
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1602788004749344768",
+                "author_username": "RepEzell",
+                "community_notes": null,
+                "conversation_id": "1872667632916406276",
+                "created_time": "2024-12-27T15:35:30",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1872667632916406276",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1872646268461138053",
+                "quoted_status_profile_id": "17395987",
+                "quoted_status_profile_username": "MSEMA",
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "#MS4 now is the time to stay weather aware, as our district is in the path for potential severe weather. \n\nStay up to date with your local news coverage!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "ms4"
+                ],
+                "timestamp": 1735313730,
+                "view_count": 386
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1986870119520202752/img/Y9oVMtEb3k9gswAF.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1986870119520202752/vid/avc1/1920x884/VxPOCe4wULF4DXeq.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 319,
+                        "id": "1986870119520202752",
+                        "url": "https://video.twimg.com/amplify_video/1986870119520202752/vid/avc1/1920x884/VxPOCe4wULF4DXeq.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1602788004749344768",
+                "author_username": "RepEzell",
+                "community_notes": null,
+                "conversation_id": "1986870386110157186",
+                "created_time": "2025-11-07T18:56:28",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1986870386110157186",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "While Washington plays politics, I\u2019m focused on solutions. \n\nOn the Ricky Matthews Show, I talked about my bill to reauthorize NFIP and include a grace period so South Mississippians don\u2019t lose coverage during the shutdown. https://t.co/M3ZnTmbe5W",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762541788,
+                "view_count": 259
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

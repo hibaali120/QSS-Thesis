@@ -1,0 +1,61 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.youtube.com/watch?v=128PdL4REMA"
+                ],
+                "attached_links_url": [
+                    "https://t.co/QjBUwNl295"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GdVXuP5WMAA4kU9.jpg?name=small",
+                    "https://pbs.twimg.com/media/GdVXuP5W4AAC8wp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GdVXuP5WMAA4kU9.jpg",
+                    "https://pbs.twimg.com/media/GdVXuP5W4AAC8wp.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610356961475809280",
+                "author_username": "RepKiley",
+                "community_notes": null,
+                "conversation_id": "1861490476735438941",
+                "created_time": "2024-11-26T19:21:29",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1861490476735438941",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Congrats to Sindhu Vemulapalli & Ashi Gupta of Vista Del Lago High School on winning the Congressional App Challenge for California's 3rd District with their app, MicroMind Balance. This app is designed to help people learn more neurological wellness and nutritional value. Thank you to all who participated in this year's challenge! https://t.co/QjBUwNl295",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1732648889,
+                "view_count": 1114
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

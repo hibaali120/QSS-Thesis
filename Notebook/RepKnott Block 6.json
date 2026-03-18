@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GhcCmuHW4AA_Z6h.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GhcCmuHW4AA_Z6h.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1874964140105863168",
+                "author_username": "RepKnott",
+                "community_notes": null,
+                "conversation_id": "1879974305129521157",
+                "created_time": "2025-01-16T19:29:37",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1879974305129521157",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "The free exercise of religious faith is a bedrock of American liberty.\n\nOn #NationalReligiousFreedomDay we recognize and celebrate our right to live our faith and defend our principles. https://t.co/aeNFave5be",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "nationalreligiousfreedomday"
+                ],
+                "timestamp": 1737055777,
+                "view_count": 203
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

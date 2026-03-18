@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GkZuCnKWMAEH-pf.jpg?name=small",
+                    "https://pbs.twimg.com/media/GkZuEI-WgAI22nB.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GkZuCnKWMAEH-pf.jpg",
+                    "https://pbs.twimg.com/media/GkZuEI-WgAI22nB.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1620505546913894401",
+                "author_username": "repgabeevans",
+                "community_notes": null,
+                "conversation_id": "1893677203755540975",
+                "created_time": "2025-02-23T15:00:02",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1893677203755540975",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I had a great visit conversation with Evans City leaders about upcoming expansion projects and water treatment facilities.\n\nI look forward to helping secure the resources necessary to help create a better future for the city! https://t.co/ix92RZ0IQ5",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1740322802,
+                "view_count": 1030
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

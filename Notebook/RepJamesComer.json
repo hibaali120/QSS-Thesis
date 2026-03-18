@@ -1,0 +1,1262 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FPCRyWKWYAw3FXY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1508865181908189193/vid/1168x720/xWb17foCK-PfdKIP.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 44,
+                        "id": "1508865181908189193",
+                        "url": "https://video.twimg.com/amplify_video/1508865181908189193/vid/1168x720/xWb17foCK-PfdKIP.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1508866228533841926",
+                "created_time": "2022-03-29T17:58:36",
+                "favorite_count": 26,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1508866228533841926",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 9,
+                "source": "Twitter Media Studio",
+                "text": "Medicare for All is a disaster in the making.\n\nYet @OversightDems arguments for a federal takeover of health care include...how efficient the government is!? https://t.co/2EeOVZJ7ic",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "OversightDems"
+                ],
+                "text_tagged_users_ids": [
+                    "31122582"
+                ],
+                "text_tags": null,
+                "timestamp": 1648576716,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FPrmek7XwAIXrIc.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FPrmek7XwAIXrIc.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1511774042218450944",
+                "created_time": "2022-04-06T18:33:13",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1511774042218450944",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Good front page coverage in the @PaducahSunNews of our legislation to preserve the natural heritage of @LandBtwnLakes! https://t.co/UO8GyefRZO",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "PaducahSunNews",
+                    "LandBtwnLakes"
+                ],
+                "text_tagged_users_ids": [
+                    "23076143",
+                    "596164164"
+                ],
+                "text_tags": null,
+                "timestamp": 1649269993,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQULhODXMAY9dLV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1514629373705474056/vid/1280x720/z3hOh5ej-iFOkXVB.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 31,
+                        "id": "1514629373705474056",
+                        "url": "https://video.twimg.com/amplify_video/1514629373705474056/vid/1280x720/z3hOh5ej-iFOkXVB.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1514630058639597568",
+                "created_time": "2022-04-14T15:42:01",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1514630058639597568",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 9,
+                "source": "Twitter Media Studio",
+                "text": "Great coverage from @WEHTWTVWlocal of our Oversight Committee trip to see the #BidenBorderCrisis firsthand.\n\n\"Comer has been vocal in his disapproval of the nation's immigration policies.\" https://t.co/NweDwCqzhS",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "WEHTWTVWlocal"
+                ],
+                "text_tagged_users_ids": [
+                    "47127897"
+                ],
+                "text_tags": [
+                    "bidenbordercrisis"
+                ],
+                "timestamp": 1649950921,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQytKxKXEAgxjyI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1516768902356819968/vid/1280x720/7DugrLsYZeJg9SmU.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 144,
+                        "id": "1516768902356819968",
+                        "url": "https://video.twimg.com/amplify_video/1516768902356819968/vid/1280x720/7DugrLsYZeJg9SmU.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1516777607475380227",
+                "created_time": "2022-04-20T13:55:36",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1516777607475380227",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 6,
+                "source": "Twitter Media Studio",
+                "text": "Great coverage from @JuliaBenbrook of my recent trip to the southern border and the seriousness of the illegal immigration crisis. https://t.co/0n5WMLBkhc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JuliaBenbrook"
+                ],
+                "text_tagged_users_ids": [
+                    "354444384"
+                ],
+                "text_tags": null,
+                "timestamp": 1650462936,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FY2WTjNWAAAiD6J.jpg?name=small",
+                    "https://pbs.twimg.com/media/FY2WTjLXgAAZgeR.jpg?name=small",
+                    "https://pbs.twimg.com/media/FY2WTjMXkAI17Uh.jpg?name=small",
+                    "https://pbs.twimg.com/media/FY2WTjMWAAgx3l-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FY2WTjNWAAAiD6J.jpg",
+                    "https://pbs.twimg.com/media/FY2WTjLXgAAZgeR.jpg",
+                    "https://pbs.twimg.com/media/FY2WTjMXkAI17Uh.jpg",
+                    "https://pbs.twimg.com/media/FY2WTjMWAAgx3l-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1553062714980843526",
+                "created_time": "2022-07-29T16:59:40",
+                "favorite_count": 77,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1553062714980843526",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 32,
+                "retweet_count": 46,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8NEW\ud83d\udea8\n\nThe Biden Admin is planning to provide illegal immigrants ID cards when released into the U.S. \n\nThis will fuel the Border Crisis & potentially allow illegal migrants to improperly access housing & healthcare benefits.\n\nWe\u2019re seeking answers.\n\n@RepGrothman @GOPoversight https://t.co/jgB03wFwow",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepGrothman",
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "2976606250",
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1659113980,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1572937141021188098/img/SGEKmXO4KQRWH12e.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1572937141021188098/vid/1280x720/zsiR7aRxdxQhu6xq.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 394,
+                        "id": "1572937141021188098",
+                        "url": "https://video.twimg.com/amplify_video/1572937141021188098/vid/1280x720/zsiR7aRxdxQhu6xq.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1572938240499355648",
+                "created_time": "2022-09-22T13:17:54",
+                "favorite_count": 110,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1572938240499355648",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 43,
+                "retweet_count": 55,
+                "source": "Twitter Media Studio",
+                "text": "We need to know if @POTUS has compromised national security in his dealings with China. \n\nDid China pay to play to ensure favorable treatment with a future Biden Administration?\n\nIt sure looks like it. \n\nJoined @EveningEdit to discuss the latest in my @GOPoversight investigation. https://t.co/FlkyHq8kDb",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS",
+                    "EveningEdit",
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666",
+                    "2375568110",
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1663852674,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1620797032276365315/img/ImW4nMqyCV_wXeWO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1620797032276365315/vid/1920x1080/ORHQjudIH6gFarQZ.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 443,
+                        "id": "1620797032276365315",
+                        "url": "https://video.twimg.com/amplify_video/1620797032276365315/vid/1920x1080/ORHQjudIH6gFarQZ.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1620799375340445706",
+                "created_time": "2023-02-01T15:00:58",
+                "favorite_count": 189,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1620799375340445706",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 98,
+                "retweet_count": 71,
+                "source": "Twitter Media Studio",
+                "text": "Today\u2019s @GOPoversight hearing is a first step in examining the massive waste, fraud, and abuse in COVID-relief programs.\n\nUp to $400 billion in unemployment insurance benefits were paid out improperly and that's just the tip of the iceberg.\n\nTaxpayers deserve better. @SquawkCNBC https://t.co/wDnKozG9jX",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "SquawkCNBC"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "404422077"
+                ],
+                "text_tags": null,
+                "timestamp": 1675263658,
+                "view_count": 8939
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1623327830753918976/img/nS6OY5QsxQ39aw2z.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1623327830753918976/vid/1920x1080/ANkIK0adbs0chFKo.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 519,
+                        "id": "1623327830753918976",
+                        "url": "https://video.twimg.com/amplify_video/1623327830753918976/vid/1920x1080/ANkIK0adbs0chFKo.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1623330415888027650",
+                "created_time": "2023-02-08T14:38:25",
+                "favorite_count": 818,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1623330415888027650",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 9,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 93,
+                "retweet_count": 263,
+                "source": "Twitter Media Studio",
+                "text": "Twitter, under the leadership of our witnesses today, was a private company the government used to accomplish what it constitutionally cannot: limit the free exercise of speech.\n\n@GOPoversight will examine this coordination between the government & Big Tech. @MariaBartiromo https://t.co/QCWsbM3NYc",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "MariaBartiromo"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "208155240"
+                ],
+                "text_tags": null,
+                "timestamp": 1675867105,
+                "view_count": 33436
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1629301592762507264",
+                "created_time": "2023-02-25T02:05:45",
+                "favorite_count": 110,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1629301592762507264",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 5,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 83,
+                "retweet_count": 26,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8\ud83d\udcfa TONIGHT, I\u2019m on @FoxNews @IngrahamAngle at 10pmET. \n\nJoining @SeanDuffyWI to discuss @SecretaryPete\u2019s failure to promptly respond to the train derailment catastrophe in East Palestine, Ohio and ensuing environmental and public health emergency. \n\nDon\u2019t miss it. Tune in!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FoxNews",
+                    "IngrahamAngle",
+                    "SeanDuffyWI",
+                    "SecretaryPete"
+                ],
+                "text_tagged_users_ids": [
+                    "1367531",
+                    "50769180",
+                    "234022257",
+                    "1356958547603513346"
+                ],
+                "text_tags": null,
+                "timestamp": 1677290745,
+                "view_count": 8568
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1629516166879404033/img/twPZO08DoY28rrRI.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1629516166879404033/vid/1920x1080/Iclm4Q6bCI8AherT.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 300,
+                        "id": "1629516166879404033",
+                        "url": "https://video.twimg.com/amplify_video/1629516166879404033/vid/1920x1080/Iclm4Q6bCI8AherT.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1629517979342995456",
+                "created_time": "2023-02-25T16:25:35",
+                "favorite_count": 568,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1629517979342995456",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 22,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 217,
+                "retweet_count": 194,
+                "source": "Twitter Media Studio",
+                "text": "Secretary Buttigieg is attempting to distract the American people from his failure to promptly respond to the environmental and health disaster in Ohio. \n\n@GOPoversight is focused on why @USDOT delayed responding to this crisis. Americans deserve transparency & answers.\n\n@FoxNews https://t.co/Dhwt5ea7JA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "USDOT",
+                    "FoxNews"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "393562221",
+                    "1367531"
+                ],
+                "text_tags": null,
+                "timestamp": 1677342335,
+                "view_count": 17957
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://oversight.house.gov/release/comer-bidens-labor-secretary-nomination-alarming-for-taxpayers%EF%BF%BC/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/5ieIaCyWnA"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1630696135835672578",
+                "created_time": "2023-02-28T22:27:10",
+                "favorite_count": 121,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1630696135835672578",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 8,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 45,
+                "retweet_count": 53,
+                "source": "Twitter for iPhone",
+                "text": "It\u2019s alarming that @POTUS is nominating Julie Su as the new @USDOL Secretary.\n\nSu oversaw the CA unemployment insurance program during the pandemic where at least $32 billion was lost to fraud.\n\nSu would now oversee the entire UI program. \n\nUnacceptable.\ud83d\udc47\ud83c\udffc\nhttps://t.co/5ieIaCyWnA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS",
+                    "USDOL"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666",
+                    "20179628"
+                ],
+                "text_tags": null,
+                "timestamp": 1677623230,
+                "view_count": 4425
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1630998381039419408",
+                "created_time": "2023-03-01T18:28:11",
+                "favorite_count": 135,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1630998381039419408",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 10,
+                "quoted_status_id": "1630951997452025857",
+                "quoted_status_profile_id": "22508473",
+                "quoted_status_profile_username": "GOPoversight",
+                "reply_count": 61,
+                "retweet_count": 33,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nPharmacy Benefit Managers\u2019 anticompetitive tactics are driving up health care costs for Americans and harming patient care.\n\nI am launching a @GOPoversight investigation to shine a light on this issue in the healthcare system & will examine solutions to lower drug costs.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1677695291,
+                "view_count": 14671
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wsj.com/articles/house-republicans-investigate-covid-19-aid-to-hospitals-29b6b3da"
+                ],
+                "attached_links_url": [
+                    "https://t.co/X0KNCxtWIq"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1645834311206043656",
+                "created_time": "2023-04-11T17:00:52",
+                "favorite_count": 741,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1645834311206043656",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 23,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 122,
+                "retweet_count": 255,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8Today, I launched an investigation into @HHSGov's failure to provide COVID relief funds to low-income hospitals.\n\nHHS funneled billions of taxpayer dollars to highly profitable hospitals in wealthy areas while rural hospitals battled bankruptcy. \n\n@WSJ\nhttps://t.co/X0KNCxtWIq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HHSGov",
+                    "WSJ"
+                ],
+                "text_tagged_users_ids": [
+                    "44783853",
+                    "3108351"
+                ],
+                "text_tags": null,
+                "timestamp": 1681232452,
+                "view_count": 29566
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1696550602623316419",
+                "created_time": "2023-08-29T15:49:18",
+                "favorite_count": 400,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1696550602623316419",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1696535932349149441",
+                "quoted_status_profile_id": "1209417007",
+                "quoted_status_profile_username": "SteveScalise",
+                "reply_count": 37,
+                "retweet_count": 52,
+                "source": "Twitter for iPhone",
+                "text": "My friend @SteveScalise has always been a fighter and I know cancer doesn\u2019t stand a chance. Leader Scalise and his family are in my prayers and this entire Congress stands behind him as he begins treatment.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SteveScalise"
+                ],
+                "text_tagged_users_ids": [
+                    "1209417007"
+                ],
+                "text_tags": null,
+                "timestamp": 1693324158,
+                "view_count": 14255
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://comer.house.gov/press-release?id=902BC059-6C99-4088-800C-9DFACEF0E4BD"
+                ],
+                "attached_links_url": [
+                    "https://t.co/oyTpxvR2dy"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1725248821670683047",
+                "created_time": "2023-11-16T20:25:47",
+                "favorite_count": 247,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1725248821670683047",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 7,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 91,
+                "retweet_count": 59,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8I am proud to support @murraystateuniv's plan to develop a top-tier, accredited school of veterinary medicine in Kentucky.\n\nIt's time for the Commonwealth to establish itself as a top destination for students seeking an education in veterinary medicine.\nhttps://t.co/oyTpxvR2dy",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "murraystateuniv"
+                ],
+                "text_tagged_users_ids": [
+                    "21405148"
+                ],
+                "text_tags": null,
+                "timestamp": 1700166347,
+                "view_count": 15076
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1729610288159170979",
+                "created_time": "2023-11-28T21:16:41",
+                "favorite_count": 4168,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1729610288159170979",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 197,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2539,
+                "retweet_count": 1150,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8The DOJ & IRS already gave Hunter Biden special treatment.\n\nCongress isn\u2019t about to do the same.\n\nDepositions are a key part of the investigative process. @GOPoversight won\u2019t conduct this investigation on Hunter\u2019s terms.\n\nThe President\u2019s son must first appear for a deposition.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1701206201,
+                "view_count": 213605
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GBPiONQXEAAV4sV.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GBPiONQXEAAV4sV.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1734979273352495388",
+                "created_time": "2023-12-13T16:51:07",
+                "favorite_count": 10441,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1734979273352495388",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 386,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5046,
+                "retweet_count": 3113,
+                "source": "Twitter Web App",
+                "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\nHunter Biden today defied lawful subpoenas and we will now initiate contempt of Congress proceedings. \n\nWe will not provide special treatment because his last name is Biden.\n\nRead my full statement with @Jim_Jordan below.\ud83d\udc47 https://t.co/0m5zc4k4a6",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Jim_Jordan"
+                ],
+                "text_tagged_users_ids": [
+                    "18166778"
+                ],
+                "text_tags": null,
+                "timestamp": 1702486267,
+                "view_count": 760290
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1743287726902817051",
+                "created_time": "2024-01-05T15:05:57",
+                "favorite_count": 2553,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1743287726902817051",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 93,
+                "quoted_status_id": "1743286969143116267",
+                "quoted_status_profile_id": "22508473",
+                "quoted_status_profile_username": "GOPoversight",
+                "reply_count": 1540,
+                "retweet_count": 631,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8\ud83d\udea8\ud83d\udea8\n\n@GOPoversight will be holding a markup on Wednesday next week to hold Hunter Biden in contempt of Congress.\n\nThe President\u2019s son doesn\u2019t get special treatment.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1704467157,
+                "view_count": 117867
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1744887190310486016/pu/img/YjqCJ2np1cnSySuT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1744887190310486016/pu/vid/avc1/1152x720/UsBNww4xigZQQBaw.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 98,
+                        "id": "1744887190310486016",
+                        "url": "https://video.twimg.com/ext_tw_video/1744887190310486016/pu/vid/avc1/1152x720/UsBNww4xigZQQBaw.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1744889246899417351",
+                "created_time": "2024-01-10T01:09:49",
+                "favorite_count": 1484,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1744889246899417351",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 38,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 538,
+                "retweet_count": 556,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8WATCH\ud83d\udea8\n\nTHEN: When Democrats were in the majority, they emphasized the importance of adhering to Congressional subpoenas.\n\nNOW: Democrats are quick to give special treatment to Hunter Biden & defend him for attempting to set the terms of his subpoena.\n https://t.co/o4EYrfXiXs",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1704848989,
+                "view_count": 55127
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1745994051977936896/img/U3UJvPeEaTnAsC36.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1745994051977936896/vid/avc1/1280x720/9J5F3xQENYKNJzi0.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 230,
+                        "id": "1745994051977936896",
+                        "url": "https://video.twimg.com/amplify_video/1745994051977936896/vid/avc1/1280x720/9J5F3xQENYKNJzi0.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1746185342137622911",
+                "created_time": "2024-01-13T15:00:02",
+                "favorite_count": 1333,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1746185342137622911",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 90,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1372,
+                "retweet_count": 317,
+                "source": "Twitter Media Studio",
+                "text": "The American people will not tolerate, and the House will not provide, special treatment for the Biden family.\n\nThe President's son has an opportunity to comply and appear for a private deposition. @GOPoversight will not tolerate any additional stunts or delays. @NEWSMAX https://t.co/FtqFtBfOJK",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "NEWSMAX"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "20545835"
+                ],
+                "text_tags": null,
+                "timestamp": 1705158002,
+                "view_count": 75582
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1747420002603421857",
+                "created_time": "2024-01-17T00:46:08",
+                "favorite_count": 604,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1747420002603421857",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1747417121921941937",
+                "quoted_status_profile_id": "22508473",
+                "quoted_status_profile_username": "GOPoversight",
+                "reply_count": 111,
+                "retweet_count": 171,
+                "source": "Twitter for iPhone",
+                "text": "When federal employees openly sought to thwart the policies of President Trump, Democrats labeled attempts to restore accountability as \u2018attempts to return to a patronage system.\u2019 \n\nNow, they are getting a taste of their own medicine.\n\nThey need to be held accountable.\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1705452368,
+                "view_count": 27209
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1800171437132541952/img/AL6poRJYZjJoLg2c.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1800171437132541952/vid/avc1/1280x720/6FQioglDkzYurN6F.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 121,
+                        "id": "1800171437132541952",
+                        "url": "https://video.twimg.com/amplify_video/1800171437132541952/vid/avc1/1280x720/6FQioglDkzYurN6F.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1800174010807865515",
+                "created_time": "2024-06-10T14:31:44",
+                "favorite_count": 1918,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1800174010807865515",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 55,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 860,
+                "retweet_count": 578,
+                "source": "Twitter Media Studio",
+                "text": "\ud83d\udea8AG Garland has done more damage to the credibility of the Justice Department than Dr. Fauci did to the credibility of public health.\n\nIf Merrick Garland wants to defy Congress, he will now face consequences.\n\n@HouseGOP is moving forward this week to hold AG Garland accountable. https://t.co/Jl8NukQ2Pp",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1718029904,
+                "view_count": 60857
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1810014905438708136",
+                "created_time": "2024-07-07T18:15:56",
+                "favorite_count": 21473,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1810014905438708136",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 342,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2198,
+                "retweet_count": 4627,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8BREAKING\ud83d\udea8\n\nI\u2019m calling on President Joe Biden\u2019s physician, Dr. Kevin O\u2019Connor, to appear for a @GOPoversight transcribed interview regarding his medical assessments of Joe Biden & involvement in the Biden family\u2019s business schemes.\n\nDr. O\u2019Connor\u2019s medical assessments have been potentially influenced by his business pursuits with the Biden family.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1720376156,
+                "view_count": 1978102
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1810681588063068160/img/OrMjfLAz-j1EJBgR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1810681588063068160/vid/avc1/1280x720/f2KHsNB_IsALlzBR.mp4?tag=14"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 125,
+                        "id": "1810681588063068160",
+                        "url": "https://video.twimg.com/amplify_video/1810681588063068160/vid/avc1/1280x720/f2KHsNB_IsALlzBR.mp4?tag=14",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1810682730532720889",
+                "created_time": "2024-07-09T14:29:38",
+                "favorite_count": 2803,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1810682730532720889",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 81,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 817,
+                "retweet_count": 1005,
+                "source": "Twitter Media Studio",
+                "text": "Why has the President's doctor, Dr. O\u2019Connor, never recommended Joe Biden take a cognitive test?\n\nWhy was Dr. O\u2019Connor involved in the Biden family\u2019s business schemes?\n\nThis is medical malpractice or a coverup.\n\n Dr. O\u2019Connor needs to appear before @GOPoversight. @JesseBWatters https://t.co/ynxJY7fGi3",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight",
+                    "JesseBWatters"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473",
+                    "56561449"
+                ],
+                "text_tags": null,
+                "timestamp": 1720535378,
+                "view_count": 371299
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1274852794206388225",
+                "author_username": "RepJamesComer",
+                "community_notes": null,
+                "conversation_id": "1813325782262968532",
+                "created_time": "2024-07-16T21:32:11",
+                "favorite_count": 102,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1813325782262968532",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1813320713765548034",
+                "quoted_status_profile_id": "22508473",
+                "quoted_status_profile_username": "GOPoversight",
+                "reply_count": 33,
+                "retweet_count": 26,
+                "source": "Twitter for iPhone",
+                "text": "\ud83d\udea8 Self-benefitting policies pushed by Pharmacy Benefit Managers serve to help their bottom line rather than patients.\n\nRepublicans & Democrats have sounded the alarm over PBMs & their role in rising drug prices.\n\n@GOPoversight is working to hold PBMs accountable next week.\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GOPoversight"
+                ],
+                "text_tagged_users_ids": [
+                    "22508473"
+                ],
+                "text_tags": null,
+                "timestamp": 1721165531,
+                "view_count": 11524
+            }
+        ],
+        "page_info": {
+            "cursor": "aWRfYXNjfDE4MTMzMjU3ODIyNjI5Njg1MzI=",
+            "has_next_page": true
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

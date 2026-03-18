@@ -1,0 +1,154 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1874580463752196096",
+                "author_username": "RepAprilDelaney",
+                "community_notes": null,
+                "conversation_id": "1884289874746036388",
+                "created_time": "2025-01-28T17:18:10",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1884289880144089486",
+                "in_reply_to_post_id": "1884289877753356758",
+                "in_reply_to_profile_id": "1874580463752196096",
+                "in_reply_to_profile_username": "RepAprilDelaney",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The impact from these freezes are far reaching\u2014from nutrition assistance to farm aid to highway funding to small business loans to workforce education to cancer and innovation research @NIST, @NIH. But, listen MD-06: I will have your back and work to defend this funding.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NIST",
+                    "NIH"
+                ],
+                "text_tagged_users_ids": [
+                    "46648807",
+                    "15134240"
+                ],
+                "text_tags": null,
+                "timestamp": 1738084690,
+                "view_count": 225
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.youtube.com/watch?app=desktop&v=qmeLZYEAxwI"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ealirESJ27"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1874580463752196096",
+                "author_username": "RepAprilDelaney",
+                "community_notes": null,
+                "conversation_id": "1922445239102345357",
+                "created_time": "2025-05-14T00:13:56",
+                "favorite_count": 120,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922445239102345357",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 127,
+                "retweet_count": 58,
+                "source": "Twitter Web App",
+                "text": "Republicans are working to extend Trump\u2019s tax cuts for the wealthiest Americans. To pay for it, they're cutting $300 billion from vital nutrition programs like SNAP, which helps 42 million Americans to put food on the table.\n\nIn our district, 1 in 9 families rely on SNAP\u2014half of whom are children.\n\nAs Maryland's only voice on @HouseAgDems, I'll keep fighting these cruel cuts and push for a real bipartisan Farm Bill that supports our farmers and families.\n\nStay tuned. https://t.co/ealirESJ27",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747181636,
+                "view_count": 9656
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1922711731135971328/img/sqBpbY5pgJ7kt2cE.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1922711731135971328/vid/avc1/1920x990/apLyoAvNJoeXDaeV.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 116,
+                        "id": "1922711731135971328",
+                        "url": "https://video.twimg.com/amplify_video/1922711731135971328/vid/avc1/1920x990/apLyoAvNJoeXDaeV.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1874580463752196096",
+                "author_username": "RepAprilDelaney",
+                "community_notes": null,
+                "conversation_id": "1922712425599828008",
+                "created_time": "2025-05-14T17:55:39",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1922712425599828008",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Today in our @HouseAgDems committee session, I expressed my concern that the Reconciliation bill eliminates SNAP-Ed. In Maryland alone, it supports more than 70 jobs and partners with over 600 organizations statewide. It reaches thousands - from school wellness policies to Pre-K nutrition. Cutting it is reckless. #SAVESNAPEd",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseAgDems"
+                ],
+                "text_tagged_users_ids": [
+                    "989317210463186946"
+                ],
+                "text_tags": null,
+                "timestamp": 1747245339,
+                "view_count": 400
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

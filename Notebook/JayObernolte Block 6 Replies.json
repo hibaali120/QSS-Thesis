@@ -1,0 +1,140 @@
+{
+    "politician": "JayObernolte",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1877834184586129885",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1877834184586129885",
+                    "created_time": "2025-01-12T03:58:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1878290416388186378",
+                    "in_reply_to_post_id": "1877834184586129885",
+                    "in_reply_to_profile_id": "272482466",
+                    "in_reply_to_profile_username": "JayObernolte",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@JayObernolte @JayObernolte: As a Ukrainian, I yearn for NATO membership to ensure our security & sovereignty. Our democracy & values align w/ yours. Let's work together to strengthen our alliances & defend freedom!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JayObernolte"
+                    ],
+                    "text_tagged_users_ids": [
+                        "272482466"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1736654306,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "977902481991593985",
+                    "author_username": "ZiomkowskiChris",
+                    "community_notes": null,
+                    "conversation_id": "1877834184586129885",
+                    "created_time": "2025-01-11T04:22:35",
+                    "favorite_count": 9,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1877934105146397033",
+                    "in_reply_to_post_id": "1877834184586129885",
+                    "in_reply_to_profile_id": "272482466",
+                    "in_reply_to_profile_username": "JayObernolte",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@JayObernolte Great work Jay. Keep up the excellent performance.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JayObernolte"
+                    ],
+                    "text_tagged_users_ids": [
+                        "272482466"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1736569355,
+                    "view_count": 33
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "826693129235423232",
+                    "author_username": "PastorClintFbc",
+                    "community_notes": null,
+                    "conversation_id": "1877834184586129885",
+                    "created_time": "2025-01-11T01:05:41",
+                    "favorite_count": 7,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1877884554410967539",
+                    "in_reply_to_post_id": "1877834184586129885",
+                    "in_reply_to_profile_id": "272482466",
+                    "in_reply_to_profile_username": "JayObernolte",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@JayObernolte Absolutely",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JayObernolte"
+                    ],
+                    "text_tagged_users_ids": [
+                        "272482466"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1736557541,
+                    "view_count": 24
+                }
+            ]
+        }
+    ]
+}

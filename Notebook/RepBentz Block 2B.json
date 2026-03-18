@@ -1,0 +1,106 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://Bentz.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/xjmOczQyI8"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GZ8sx96WMAAEtd4.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GZ8sx96WMAAEtd4.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345788865911656454",
+                "author_username": "RepBentz",
+                "community_notes": null,
+                "conversation_id": "1846243614000607585",
+                "created_time": "2024-10-15T17:35:53",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1846243614000607585",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Recently, my office helped an Air Force retiree from Jacksonville get his Tricare coverage reinstated after he and his family were unexpectedly dropped.\n\nIf you need assistance with Veterans Affairs issues, passport services, or Social Security concerns, my office is here to help. Please don\u2019t hesitate to reach out by visiting my website \u2b07\ufe0f\n\n\ud83d\udd17 https://t.co/xjmOczQyI8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1729013753,
+                "view_count": 428
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bentz.house.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/QEmHwnafGm"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GxmiAdrWEAAVkTi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GxmiAdrWEAAVkTi.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1345788865911656454",
+                "author_username": "RepBentz",
+                "community_notes": null,
+                "conversation_id": "1952770046012342768",
+                "created_time": "2025-08-05T16:33:54",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1952770046012342768",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 20,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "My office is here to help! Recently, we helped Andrew, an Air Force retiree, after he and his family were unexpectedly dropped from their Tricare coverage. My office successfully worked to have him and his family coverage reinstated with no lapse, making sure that they receive the care that they deserve! \n\nIf you need assistance with a federal agency, call us at (541) 776-4646 or visit my website here \u27a1\ufe0f https://t.co/QEmHwnafGm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1754411634,
+                "view_count": 674
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

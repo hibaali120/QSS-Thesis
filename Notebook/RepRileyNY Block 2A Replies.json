@@ -1,0 +1,699 @@
+{
+    "politician": "RepRileyNY",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1947670231284858987",
+            "replies": []
+        },
+        {
+            "conversation_id": "1948413578161131955",
+            "replies": []
+        },
+        {
+            "conversation_id": "1949827497958265197",
+            "replies": []
+        },
+        {
+            "conversation_id": "1950601587191099494",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2385807552",
+                    "author_username": "scragsma70",
+                    "community_notes": null,
+                    "conversation_id": "1950601587191099494",
+                    "created_time": "2025-07-31T17:55:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1950978744774173059",
+                    "in_reply_to_post_id": "1950601587191099494",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRileyNY Try again. Abortion is the very antithesis of healthcare.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1753984554,
+                    "view_count": 26
+                }
+            ]
+        },
+        {
+            "conversation_id": "1950914295451021471",
+            "replies": []
+        },
+        {
+            "conversation_id": "1955373262336033252",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1513322040",
+                    "author_username": "JenJenJennywren",
+                    "community_notes": null,
+                    "conversation_id": "1955373262336033252",
+                    "created_time": "2025-08-13T04:33:14",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1955487786842366426",
+                    "in_reply_to_post_id": "1955373262336033252",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY Hey, what\u2019s it like taking money from a country that is actively engaged in the genocide & starvations of thousands of tiny children?? \nHow do you sleep at night??",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1755059594,
+                    "view_count": 23
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.wbng.com/2025/08/10/suny-broome-provide-free-healthcare-public-limited-time/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/SWHKxd2hCK"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1861770594108289025",
+                    "author_username": "RepRileyNY",
+                    "community_notes": null,
+                    "conversation_id": "1955373262336033252",
+                    "created_time": "2025-08-12T20:58:09",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1955373263997276366",
+                    "in_reply_to_post_id": "1955373262336033252",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "https://t.co/SWHKxd2hCK",
+                    "text_lang": "zxx",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1755032289,
+                    "view_count": 348
+                }
+            ]
+        },
+        {
+            "conversation_id": "1956357309514285473",
+            "replies": []
+        },
+        {
+            "conversation_id": "1965052410357026829",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973075939039809950",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973795260917813706",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1640010328355356672",
+                    "author_username": "conservdriver",
+                    "community_notes": null,
+                    "conversation_id": "1973795260917813706",
+                    "created_time": "2025-10-02T17:08:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973797251899167009",
+                    "in_reply_to_post_id": "1973795260917813706",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepRileyNY Repeal the ACA. It is a disaster.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759424910,
+                    "view_count": 28
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974532160016224293",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1396221865421639683",
+                    "author_username": "lwillz2",
+                    "community_notes": null,
+                    "conversation_id": "1974532160016224293",
+                    "created_time": "2025-10-04T22:52:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974608683192725670",
+                    "in_reply_to_post_id": "1974532160016224293",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRileyNY Genocide Josh, can you explain the trip to Israel and how much $ you receive from AIPAC? Thanks bro",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759618371,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "1975668414254559731",
+            "replies": []
+        },
+        {
+            "conversation_id": "1976303482542924270",
+            "replies": []
+        },
+        {
+            "conversation_id": "1976367287453221362",
+            "replies": []
+        },
+        {
+            "conversation_id": "1976727575448768696",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "980716404",
+                    "author_username": "katiewr31413491",
+                    "community_notes": null,
+                    "conversation_id": "1976727575448768696",
+                    "created_time": "2025-10-14T18:34:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978167507509715234",
+                    "in_reply_to_post_id": "1976727575448768696",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY Sullivan County hospitals are ESSENTIAL!!!! \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d\ud83d\udc4d @TCFDiscovery is in Sullivan County & it\u2019s a big community of disabled young adults. They have many health problems. Traveling long distances would be incredibly difficult & expensive!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY",
+                        "TCFDiscovery"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025",
+                        "717548362371874817"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760466861,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1988781382211096740",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1791919090124128258",
+                    "author_username": "PACoryMartin",
+                    "community_notes": null,
+                    "conversation_id": "1988781382211096740",
+                    "created_time": "2025-11-13T15:27:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988992097173569761",
+                    "in_reply_to_post_id": "1988781382211096740",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY There\u2019s a letter to oppose Save Our Bacon/EATS Act.  Please sign it, just about everyone else did, we need to protect our states\u2019 rights and advance a healthier more sustainable food system.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763047644,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1149015643695587329",
+                    "author_username": "BraunOtto211",
+                    "community_notes": null,
+                    "conversation_id": "1988781382211096740",
+                    "created_time": "2025-11-13T12:12:40",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988943090258964978",
+                    "in_reply_to_post_id": "1988781382211096740",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY Democrat tax and buy votes is the problem\u2026",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763035960,
+                    "view_count": 24
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1096258166524968960",
+                    "author_username": "TomysMidwood",
+                    "community_notes": null,
+                    "conversation_id": "1988781382211096740",
+                    "created_time": "2025-11-13T09:03:50",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988895569503273322",
+                    "in_reply_to_post_id": "1988781382211096740",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY This is a Biden budget rolled over as a continuing resolution so\u2026",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763024630,
+                    "view_count": 41
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1519295118506868736",
+                    "author_username": "noliberalloons",
+                    "community_notes": null,
+                    "conversation_id": "1988781382211096740",
+                    "created_time": "2025-11-13T08:58:08",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988894135533678851",
+                    "in_reply_to_post_id": "1988781382211096740",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepRileyNY Notice how your teams rant has gone from hating millionaires to hating billionaires\u2026\u2026because you\u2019re all millionaires now\u2026another reason nobody trusts you.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763024288,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1989080659076215128",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1984795931607547904",
+                    "author_username": "ChrisWalto23767",
+                    "community_notes": null,
+                    "conversation_id": "1989080659076215128",
+                    "created_time": "2025-11-14T03:47:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1989178362057879628",
+                    "in_reply_to_post_id": "1989080659076215128",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRileyNY @RepRileyNY Thank you for standing up for seniors and pushing back on these Medicare Advantage cuts. While you\u2019re defending Upstate communities, I hope you\u2019ll also oppose the EATS Act \u2014 most of the NY delegation already has. New Yorkers need you with them on this too.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763092053,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1040428686711959552",
+                    "author_username": "joeyswithwings",
+                    "community_notes": null,
+                    "conversation_id": "1989080659076215128",
+                    "created_time": "2025-11-13T23:50:25",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1989118685341184038",
+                    "in_reply_to_post_id": "1989080659076215128",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRileyNY @RepRileyNY Thank you for pressing insurers on these Medicare Advantage cuts. Seniors deserve better than corporate cost-shifting. I\u2019m also urging you to oppose the EATS Act\u2014most of NY\u2019s delegation already has. Hope you\u2019ll stand with them.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763077825,
+                    "view_count": 33
+                }
+            ]
+        },
+        {
+            "conversation_id": "1989812382269424116",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1096258166524968960",
+                    "author_username": "TomysMidwood",
+                    "community_notes": null,
+                    "conversation_id": "1989812382269424116",
+                    "created_time": "2025-11-16T20:34:04",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1990156437537087786",
+                    "in_reply_to_post_id": "1989812382269424116",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY \u201ccorporations\u201d are such a lazy scapegoat for Democrats. Pay no attention to my party\u2019s insane regulatory regime and extremely high taxes.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763325244,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1991254757755810299",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996627328848552106",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1096258166524968960",
+                    "author_username": "TomysMidwood",
+                    "community_notes": null,
+                    "conversation_id": "1996627328848552106",
+                    "created_time": "2025-12-04T18:39:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1996650624763810033",
+                    "in_reply_to_post_id": "1996627328848552106",
+                    "in_reply_to_profile_id": "1861770594108289025",
+                    "in_reply_to_profile_username": "RepRileyNY",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepRileyNY Why didn\u2019t the affordable care act make healthcare affordable? Was it just a subsidy scam and massive government spending?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRileyNY"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1861770594108289025"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764873579,
+                    "view_count": 25
+                }
+            ]
+        }
+    ]
+}

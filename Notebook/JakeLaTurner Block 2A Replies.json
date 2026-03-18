@@ -1,0 +1,239 @@
+{
+    "politician": "JakeLaTurner",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1581331076978335744",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1895169728",
+                    "author_username": "gunnwilliams",
+                    "community_notes": null,
+                    "conversation_id": "1581331076978335744",
+                    "created_time": "2022-10-15T17:47:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1581341092229750785",
+                    "in_reply_to_post_id": "1581331076978335744",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@JakeLaTurner Affordable Healthcare and not the for profit crap we suffer from.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1665856070,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1585798886928437249",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2513616505",
+                    "author_username": "lynngr70",
+                    "community_notes": null,
+                    "conversation_id": "1585798886928437249",
+                    "created_time": "2022-10-30T16:43:30",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1586760717994188802",
+                    "in_reply_to_post_id": "1585798886928437249",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@JakeLaTurner You say that now but if you win, God forbid, it will be a completely different story. What was your vote on capping insulin?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667148210,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.washingtonpost.com/opinions/2022/08/05/social-security-privatization-midterms/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/0tC8L7vIIW"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "309896509",
+                    "author_username": "lonis_edison",
+                    "community_notes": null,
+                    "conversation_id": "1585798886928437249",
+                    "created_time": "2022-10-28T01:53:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1585812080837464064",
+                    "in_reply_to_post_id": "1585798886928437249",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for Android",
+                    "text": "@JakeLaTurner The social security program that the @gop wants to end? \nhttps://t.co/0tC8L7vIIW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner",
+                        "gop"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481",
+                        "11134252"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666922037,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "15551500",
+                    "author_username": "billcummings",
+                    "community_notes": null,
+                    "conversation_id": "1585798886928437249",
+                    "created_time": "2022-10-28T01:43:14",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1585809382574784513",
+                    "in_reply_to_post_id": "1585798886928437249",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPad",
+                    "text": "@JakeLaTurner Stop lying Jake.  @GOPLeader has vowed that, if Republicans gain the majority, he will use the debt ceiling as leverage to extort cuts to Medicare and Social Security.  You know full well that you will support him.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666921394,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "493734885",
+                    "author_username": "jhawkcat",
+                    "community_notes": null,
+                    "conversation_id": "1585798886928437249",
+                    "created_time": "2022-10-28T01:16:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1585802594269945856",
+                    "in_reply_to_post_id": "1585798886928437249",
+                    "in_reply_to_profile_id": "1082329240681492481",
+                    "in_reply_to_profile_username": "JakeLaTurner",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@JakeLaTurner @KansasGOP Maybe Medicare and social security wouldn't be in danger if you weren't sending money to Ukraine \n\nAnd you are your rino buddies weren't complicit in advancing the Biden regime's destruction of America\n\nToo bad I'm no longer in your district and can't vote you out",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JakeLaTurner",
+                        "KansasGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1082329240681492481",
+                        "62932775"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666919775,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

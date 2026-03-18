@@ -1,0 +1,122 @@
+{
+    "politician": "PatronisFL",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1950659851253928194",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973842714841215029",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1325629189551255552",
+                    "author_username": "tramppolitics",
+                    "community_notes": null,
+                    "conversation_id": "1973842714841215029",
+                    "created_time": "2025-10-02T20:27:07",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973847231825662442",
+                    "in_reply_to_post_id": "1973842714841215029",
+                    "in_reply_to_profile_id": "1912210253841580032",
+                    "in_reply_to_profile_username": "PatronisFL",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@PatronisFL @JimmyPatronis @SenSchumer Jamie and his friends in the congressional GOPeepee pushed through the Big Ugly Bill nobody wanted with no idea how to pay for it and now when it comes time to do so he and his peepee buddies are clueless what to do.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "PatronisFL",
+                        "JimmyPatronis",
+                        "SenSchumer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1912210253841580032",
+                        "33402633",
+                        "17494010"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759436827,
+                    "view_count": 38
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974185691241460192",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1618245199725006850",
+                    "author_username": "RarickAnne",
+                    "community_notes": null,
+                    "conversation_id": "1974185691241460192",
+                    "created_time": "2025-10-03T19:16:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974191953911951461",
+                    "in_reply_to_post_id": "1974185691241460192",
+                    "in_reply_to_profile_id": "1912210253841580032",
+                    "in_reply_to_profile_username": "PatronisFL",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@PatronisFL As a Floridian, flood insurance has become unattainable for most.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "PatronisFL"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1912210253841580032"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759519015,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1975246613124616635",
+            "replies": []
+        },
+        {
+            "conversation_id": "1975290851199963486",
+            "replies": []
+        },
+        {
+            "conversation_id": "1976307339276784060",
+            "replies": []
+        }
+    ]
+}

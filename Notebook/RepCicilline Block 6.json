@@ -1,0 +1,152 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FZfC6qNX0AEozWa.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FZfC6qNX0AEozWa.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "462143773",
+                "author_username": "RepCicilline",
+                "community_notes": null,
+                "conversation_id": "1555926512968376321",
+                "created_time": "2022-08-06T14:39:23",
+                "favorite_count": 72,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1555926512968376321",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 17,
+                "source": "Twitter for iPhone",
+                "text": "The #VotingRightsAct was signed into law nearly six decades ago, and yet far too many Americans still do not have full access to exercise this right.\n\nThinking of my friend John Lewis today and how we can live out his legacy by passing the Voting Rights Advancement Act. https://t.co/fgrSvBFI7i",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "votingrightsact"
+                ],
+                "timestamp": 1659796763,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fgf5lU6UAAA2kQi.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fgf5mXVUAAAbUyd.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fgf5lU6UAAA2kQi.jpg",
+                    "https://pbs.twimg.com/media/Fgf5mXVUAAAbUyd.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "462143773",
+                "author_username": "RepCicilline",
+                "community_notes": null,
+                "conversation_id": "1587511989487607808",
+                "created_time": "2022-11-01T18:28:47",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1587511989487607808",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "The new El Centro community center in Central Falls will help connect residents with the health, wellness, fitness, & other resources they need and deserve.\n\nThe city has been working towards this for years, and I\u2019m proud to have helped bring home $3.7M for this crucial project. https://t.co/fScflhK5S7",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1667327327,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1598727810914275329/pu/img/S-ZTKDet2BuSRm8P.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1598727810914275329/pu/vid/846x472/BuBBz1TSoJnGaqts.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 71,
+                        "id": "1598727810914275329",
+                        "url": "https://video.twimg.com/ext_tw_video/1598727810914275329/pu/vid/846x472/BuBBz1TSoJnGaqts.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "462143773",
+                "author_username": "RepCicilline",
+                "community_notes": null,
+                "conversation_id": "1598732174093479937",
+                "created_time": "2022-12-02T17:33:56",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1598732208625229824",
+                "in_reply_to_post_id": "1598732174093479937",
+                "in_reply_to_profile_id": "462143773",
+                "in_reply_to_profile_username": "RepCicilline",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "H.R. 6878, the Protecting the Health and Wellness of Babies and Pregnant Women in Custody Act of 2022, will ensure pregnant women in incarceration get the prenatal care they need. https://t.co/Eq5FSAkqLf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1670002436,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

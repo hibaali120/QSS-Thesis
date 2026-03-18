@@ -1,0 +1,817 @@
+{
+    "politician": "RepJimCosta",
+    "posts": [
+        {
+            "conversation_id": "1481761165764087808",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1481761165764087808",
+                    "created_time": "2022-01-13T22:52:46",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1481761167420837889",
+                    "in_reply_to_post_id": "1481761165764087808",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 3,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "I continue to urge the Senate to pass the Build Back Better Act, which would cap insulin prices at $35 per month. Americans should not have to pay thousands for a life-saving treatment. (2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1642114366,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1501943460063891472",
+            "replies": []
+        },
+        {
+            "conversation_id": "1502023548612878337",
+            "replies": []
+        },
+        {
+            "conversation_id": "1504556930726969366",
+            "replies": []
+        },
+        {
+            "conversation_id": "1509648006789971973",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/amplify_video_thumb/1774197249545035776/img/BS84dZn6N3dtq1qO.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/amplify_video/1774197249545035776/vid/avc1/720x1280/2rGHmBuRUi8pvkr-.mp4?tag=14"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 430,
+                            "id": "1774197249545035776",
+                            "url": "https://video.twimg.com/amplify_video/1774197249545035776/vid/avc1/720x1280/2rGHmBuRUi8pvkr-.mp4?tag=14",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2254448815",
+                    "author_username": "HolaArizona",
+                    "community_notes": null,
+                    "conversation_id": "1509648006789971973",
+                    "created_time": "2024-03-30T22:12:08",
+                    "favorite_count": 0,
+                    "geo_lat": 33.50034208,
+                    "geo_lon": -112.16452422,
+                    "id": "1774197949800853671",
+                    "in_reply_to_post_id": "1509648006789971973",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Phoenix, AZ",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Happy Birthday, my vision of you will always be working beside you in the fields of Arizona\u2026 https://t.co/dKsZxojrTF",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1711836728,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "72781706",
+                    "author_username": "decitect",
+                    "community_notes": null,
+                    "conversation_id": "1509648006789971973",
+                    "created_time": "2022-03-31T22:50:17",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1509664408879788084",
+                    "in_reply_to_post_id": "1509648006789971973",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta @PeggyStuart Lean on @GOPLeader to recognize Mr. Chavez\u2019s importance to the Central Valley and California.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1648767017,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1511169536292179971",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3022881498",
+                    "author_username": "SmudgedPrism",
+                    "community_notes": null,
+                    "conversation_id": "1511169536292179971",
+                    "created_time": "2022-04-07T01:18:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1511876026577661952",
+                    "in_reply_to_post_id": "1511169536292179971",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Thank you for your support!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649294308,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1329840009160126468",
+                    "author_username": "Kosers4ELSA",
+                    "community_notes": null,
+                    "conversation_id": "1511169536292179971",
+                    "created_time": "2022-04-05T02:37:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1511171061043367938",
+                    "in_reply_to_post_id": "1511169536292179971",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Thank you for the support, @RepJimCosta! \ud83d\ude4f",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649126231,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1522684689877803008",
+            "replies": []
+        },
+        {
+            "conversation_id": "1527137362282684416",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549895679106961409",
+            "replies": []
+        },
+        {
+            "conversation_id": "1571930681470758914",
+            "replies": []
+        },
+        {
+            "conversation_id": "1577702832274567168",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1577702832274567168",
+                    "created_time": "2022-10-05T16:50:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1577702834367336450",
+                    "in_reply_to_post_id": "1577702832274567168",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "As CEO of the Fresno Economic Opportunities Commission, she has led the organization to achieve its mission of helping people become self-sufficient through job placement, education, family, nutrition services, housing, and health.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1664988642,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1580547652743307266",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1518674071042502656",
+                    "author_username": "creatures_media",
+                    "community_notes": null,
+                    "conversation_id": "1580547652743307266",
+                    "created_time": "2022-10-13T13:31:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1580551912054616065",
+                    "in_reply_to_post_id": "1580547652743307266",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Hey Nazi. Gas prices are through the roof along with everything else. How are you going to fix that? By murdering babies?! That\u2019s your answer?! Vote this \ud83e\udd21 out of office. #pedohitlerbiden #costababykiller",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": [
+                        "costababykiller",
+                        "pedohitlerbiden"
+                    ],
+                    "timestamp": 1665667915,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1593337329887887366",
+            "replies": []
+        },
+        {
+            "conversation_id": "1617665174785384449",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FnMZ6H5aMAEFZMD.jpg?name=small",
+                        "https://pbs.twimg.com/media/FnMZ6H3aAAEhiHJ.jpg?name=small",
+                        "https://pbs.twimg.com/media/FnMZ6H4aMAIq-M8.jpg?name=small",
+                        "https://pbs.twimg.com/media/FnMZ6H4aAAEwtUB.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FnMZ6H5aMAEFZMD.jpg",
+                        "https://pbs.twimg.com/media/FnMZ6H3aAAEhiHJ.jpg",
+                        "https://pbs.twimg.com/media/FnMZ6H4aMAIq-M8.jpg",
+                        "https://pbs.twimg.com/media/FnMZ6H4aAAEwtUB.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1617665174785384449",
+                    "created_time": "2023-01-23T23:26:53",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1617665200592936961",
+                    "in_reply_to_post_id": "1617665174785384449",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "This federal funding that I secured will help expand mental health services, substance abuse treatment, education and transportation services to help our most vulnerable heal and recover. https://t.co/oRDJFPhch9",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1674516413,
+                    "view_count": 246
+                }
+            ]
+        },
+        {
+            "conversation_id": "1623154543021137925",
+            "replies": []
+        },
+        {
+            "conversation_id": "1628803361137991683",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1628803361137991683",
+                    "created_time": "2023-02-23T17:05:57",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1628803362513616902",
+                    "in_reply_to_post_id": "1628803361137991683",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "As President and CEO of the BLACK Wellness and Prosperity Center, she has dedicated her time to improving health outcomes for all women and infants. (2/4)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1677171957,
+                    "view_count": 156
+                }
+            ]
+        },
+        {
+            "conversation_id": "1628832816166313987",
+            "replies": []
+        },
+        {
+            "conversation_id": "1646639175045902336",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585869001506234370",
+                    "author_username": "wrighttd",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-14T03:32:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646717927092256768",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Is the food organic?  Should be.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681443123,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-13T22:19:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646639179907088385",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "As we prepare to reauthorize the Farm Bill, it remains a top priority of mine to bolster nutrition and food assistance programs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1681424348,
+                    "view_count": 267
+                }
+            ]
+        },
+        {
+            "conversation_id": "1646639175045902336",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1585869001506234370",
+                    "author_username": "wrighttd",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-14T03:32:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646717927092256768",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepJimCosta Is the food organic?  Should be.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681443123,
+                    "view_count": 6
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "245451804",
+                    "author_username": "RepJimCosta",
+                    "community_notes": null,
+                    "conversation_id": "1646639175045902336",
+                    "created_time": "2023-04-13T22:19:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1646639179907088385",
+                    "in_reply_to_post_id": "1646639175045902336",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "As we prepare to reauthorize the Farm Bill, it remains a top priority of mine to bolster nutrition and food assistance programs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1681424348,
+                    "view_count": 267
+                }
+            ]
+        },
+        {
+            "conversation_id": "1656667601806966785",
+            "replies": []
+        },
+        {
+            "conversation_id": "1663764085383778304",
+            "replies": []
+        },
+        {
+            "conversation_id": "1681496580841512967",
+            "replies": []
+        },
+        {
+            "conversation_id": "1686776373048754194",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2855026083",
+                    "author_username": "mubei793",
+                    "community_notes": null,
+                    "conversation_id": "1686776373048754194",
+                    "created_time": "2023-08-02T16:40:22",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1686778982392381440",
+                    "in_reply_to_post_id": "1686776373048754194",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta Vaccine uptake linked to disability increase in civilian labor force as per Bureau of Labor Statistics & Pfizer trial data. Correlation between excess SAEs rate and change in disabilities.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1690994422,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1688263675574910976",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1633441668576813058",
+                    "author_username": "HurremOhs",
+                    "community_notes": null,
+                    "conversation_id": "1688263675574910976",
+                    "created_time": "2023-08-06T19:23:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688269679029080064",
+                    "in_reply_to_post_id": "1688263675574910976",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @FresnoEOCWIC The CCP's infiltration in the US is a concerning reality. Grateful to @RepGosar, @RepAndyBiggsAZ, and @EliCrane_AZ for their daily fight on Capitol Hill. Appreciate patriots like Kathleen Winn educating Americans.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "FresnoEOCWIC",
+                        "RepGosar",
+                        "RepAndyBiggsAZ"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804",
+                        "2314022947",
+                        "240760644",
+                        "816652616625168388"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1691349832,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2855083986",
+                    "author_username": "mubei802",
+                    "community_notes": null,
+                    "conversation_id": "1688263675574910976",
+                    "created_time": "2023-08-06T19:13:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1688267031315943425",
+                    "in_reply_to_post_id": "1688263675574910976",
+                    "in_reply_to_profile_id": "245451804",
+                    "in_reply_to_profile_username": "RepJimCosta",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepJimCosta @FresnoEOCWIC The CCP suppresses freedom of speech and undermines human rights. It is time for the Chinese people to stand up for their own values and fight for a better future. #CCP #China #Freedom #HumanRights",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJimCosta",
+                        "FresnoEOCWIC"
+                    ],
+                    "text_tagged_users_ids": [
+                        "245451804",
+                        "2314022947"
+                    ],
+                    "text_tags": [
+                        "ccp",
+                        "china",
+                        "freedom",
+                        "humanrights"
+                    ],
+                    "timestamp": 1691349201,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1694054327592329359",
+            "replies": []
+        }
+    ]
+}

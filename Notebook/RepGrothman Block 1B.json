@@ -1,0 +1,347 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1483191015783739395/pu/img/R2R7uvq05a4Q7oOT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1483191015783739395/pu/vid/480x272/f_BBQv84L_3EWYCz.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 71,
+                        "id": "1483191015783739395",
+                        "url": "https://video.twimg.com/ext_tw_video/1483191015783739395/pu/vid/480x272/f_BBQv84L_3EWYCz.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1483191045273927685",
+                "created_time": "2022-01-17T21:34:36",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1483191045273927685",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 22,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Two years into #COVID19, shortages of effective treatments like monoclonal antibodies are unacceptable. On the House floor, I urged @POTUS to make this life-saving treatment more readily-available in #WI06 and nationwide. https://t.co/808oW9goJj",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": [
+                    "covid19",
+                    "wi06"
+                ],
+                "timestamp": 1642455276,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1483836847533002752/pu/img/Zn6uwGEyp-kLuaCJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1483836847533002752/pu/vid/480x272/8MAdfNXBGabM9Y4r.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 120,
+                        "id": "1483836847533002752",
+                        "url": "https://video.twimg.com/ext_tw_video/1483836847533002752/pu/vid/480x272/8MAdfNXBGabM9Y4r.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1483836897411616773",
+                "created_time": "2022-01-19T16:20:59",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1483836897411616773",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Monoclonal antibodies have been a resounding success in treating #COVID19. Notably, President Trump used them when he contracted the virus. The fact that this treatment isn\u2019t widely available is yet another shortcoming of @POTUS during his first year in office. @RepublicanStudy https://t.co/lDRqH4NkuP",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS",
+                    "RepublicanStudy"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666",
+                    "22528309"
+                ],
+                "text_tags": [
+                    "covid19"
+                ],
+                "timestamp": 1642609259,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FRwd1kJXIAEg2s7.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FRwd1kJXIAEg2s7.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1521123594935410688",
+                "created_time": "2022-05-02T13:45:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1521123594935410688",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "It was great to meet with #WI members of the Alliance for Childhood Cancer to discuss initiatives for a more patient-centered approach to childhood cancer treatment. https://t.co/8aPeZW7Iyz",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "wi"
+                ],
+                "timestamp": 1651499100,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FR8SnUFWUAQBRAN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FR8SnUFWUAQBRAN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1521955674393096192",
+                "created_time": "2022-05-04T20:51:24",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1521955674393096192",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Thank you to #WI members of @Pathologists for meeting with me and answering my questions regarding vitamin D deficiencies and severe #COVID19 symptoms. https://t.co/g7UKiDhY4A",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Pathologists"
+                ],
+                "text_tagged_users_ids": [
+                    "24725678"
+                ],
+                "text_tags": [
+                    "covid19",
+                    "wi"
+                ],
+                "timestamp": 1651697484,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1722362051006267398",
+                "created_time": "2023-11-08T21:14:47",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1722362051006267398",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Americans diagnosed w/ cancer deserve their preferred method of chemotherapy treatment at the most affordable cost, yet oral medications result in over-the-top copayments.\n\nThe Cancer Drug Parity Act will require health insurers provide equal coverage for oral and IV treatments.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1699478087,
+                "view_count": 880
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1930404453238153227",
+                "created_time": "2025-06-04T23:21:01",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930404453238153227",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "The House passed the SUPPORT Act.\n\u00a0\nWe\u2019re taking action to fight the opioid and fentanyl crisis by expanding prevention, treatment, and recovery efforts that save lives.\n\u00a0\nThis crisis has torn families apart, and this bill brings us one step closer to protecting our communities and restoring hope.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749079261,
+                "view_count": 443
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GtQwf4UXQAADIxY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GtQwf4UXQAADIxY.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2976606250",
+                "author_username": "RepGrothman",
+                "community_notes": null,
+                "conversation_id": "1933223478234099860",
+                "created_time": "2025-06-12T18:02:49",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1933223478234099860",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 18,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I had an impactful meeting with the @alzassociation to discuss groundbreaking medications that can slow or prevent the progression of Alzheimer\u2019s. We also explored how Congress can better support early diagnosis and empower both patients and providers in the fight against this disease.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "alzassociation"
+                ],
+                "text_tagged_users_ids": [
+                    "21121491"
+                ],
+                "text_tags": null,
+                "timestamp": 1749751369,
+                "view_count": 686
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

@@ -1,0 +1,532 @@
+{
+    "politician": "RepBeatty",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1501773366964928517",
+            "replies": []
+        },
+        {
+            "conversation_id": "1534634875583614976",
+            "replies": []
+        },
+        {
+            "conversation_id": "1554115494436737026",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1376034019113066504",
+                    "author_username": "jj497gw",
+                    "community_notes": null,
+                    "conversation_id": "1554115494436737026",
+                    "created_time": "2022-08-01T23:56:43",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1554254835008036864",
+                    "in_reply_to_post_id": "1554115494436737026",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBeatty Stop helping Israel murder innocent Palestinians with our tax dollars you hypocrite",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659398203,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1366108407325933571",
+                    "author_username": "kramanortiuh",
+                    "community_notes": null,
+                    "conversation_id": "1554115494436737026",
+                    "created_time": "2022-08-01T15:21:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1554125187708338176",
+                    "in_reply_to_post_id": "1554115494436737026",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "clean-up-on-aisle-3",
+                    "text": "@RepBeatty @WhipClyburn you dont need to be drowning in student loan debt to understand that this issue is sidelining millions of Americans from economic prosperity",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659367293,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1557437619558092802",
+            "replies": []
+        },
+        {
+            "conversation_id": "1558584687672582145",
+            "replies": []
+        },
+        {
+            "conversation_id": "1574805574818086912",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fdvz5jAWAAEcN0l.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fdvz5jAWAAEcN0l.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1354155660951347200",
+                    "author_username": "katbuzz92965",
+                    "community_notes": null,
+                    "conversation_id": "1574805574818086912",
+                    "created_time": "2022-09-28T13:50:06",
+                    "favorite_count": 7,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575120668135493632",
+                    "in_reply_to_post_id": "1574805574818086912",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 6,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBeatty Movement to #repealWEP & #repealGPO THANKS YOU  @RepBeatty for co-sponsoring H.R. 82. PLS SIGN DISCHARGE PETITION FRIDAY! Also PLS ASK @SpeakerPelosi to bring H.R. 82 to the floor! Has 302 co-sponsors! Plenty of bipartisan support! #SaveHR82#EliminateWEPGPO https://t.co/Ws9FbH7JBm",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty",
+                        "SpeakerPelosi"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632",
+                        "15764644"
+                    ],
+                    "text_tags": [
+                        "repealgpo",
+                        "repealwep"
+                    ],
+                    "timestamp": 1664373006,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1583833065667047424",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1482405222119055367",
+                    "author_username": "MeggyEggyMcCamm",
+                    "community_notes": null,
+                    "conversation_id": "1583833065667047424",
+                    "created_time": "2022-10-22T14:52:54",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1583833780376461316",
+                    "in_reply_to_post_id": "1583833065667047424",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBeatty Yes! I have spoken to so many patients who can afford crucial, life saving medication! A person has asthma and cannot afford the rescue inhaler they need; they just sit and \u201chope.\u201d It is terrifying! And completely unnecessary. Everyone deserves to have the medications they need.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666450374,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1586374817074319361",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fgj8K7fX0AAVuDr.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fgj8K7fX0AAVuDr.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1354155660951347200",
+                    "author_username": "katbuzz92965",
+                    "community_notes": null,
+                    "conversation_id": "1586374817074319361",
+                    "created_time": "2022-11-02T13:17:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587796136768770048",
+                    "in_reply_to_post_id": "1586374817074319361",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBeatty My mom had a stroke when she was just 52. Disabled her for the rest of her life. She list most of her ability to speak. It was very difficult for my family. She was the tax commissioner of Montgomery near Cincinnati Ohio. https://t.co/pxAY200MwW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1667395073,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fgj7n3RWQAI0bRx.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fgj7n3RWQAI0bRx.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1354155660951347200",
+                    "author_username": "katbuzz92965",
+                    "community_notes": null,
+                    "conversation_id": "1586374817074319361",
+                    "created_time": "2022-11-02T13:15:29",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587795534626029569",
+                    "in_reply_to_post_id": "1586374817074319361",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 3,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBeatty Thank you @RepBeatty \nfor co-sponsoring H.R. 82. Shows U want to do the right thing! Many seniors paid into SocSec many years and do NOT receive FULL second pension! PLS follow up by signing DISCHARGE PETITION for H.R.82 when you return to Washington. #Save82  #EliminateWEPGPO https://t.co/d3V3TNE8Da",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": [
+                        "eliminatewepgpo",
+                        "save82"
+                    ],
+                    "timestamp": 1667394929,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1648784652763635716",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1648990347605819395/pu/img/YFVpLM0zMvopyvVq.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1648990347605819395/pu/vid/464x848/mL4KpNwqm6CKnORe.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 28,
+                            "id": "1648990347605819395",
+                            "url": "https://video.twimg.com/ext_tw_video/1648990347605819395/pu/vid/464x848/mL4KpNwqm6CKnORe.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1648784652763635716",
+                    "created_time": "2023-04-20T10:02:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1648990474349191171",
+                    "in_reply_to_post_id": "1648784652763635716",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBeatty @GoutAlliance https://t.co/9yrkmasZAu",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepBeatty",
+                        "GoutAlliance"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632",
+                        "967135289243205632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1681984940,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1793766654033244418",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1758251146123333632",
+                    "author_username": "AccessCareAZ",
+                    "community_notes": null,
+                    "conversation_id": "1793766654033244418",
+                    "created_time": "2024-05-24T01:44:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1793820253220372734",
+                    "in_reply_to_post_id": "1793766654033244418",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepBeatty @FLOTUS @DCNewsBash Appreciate your ongoing work on this very important health issue.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty",
+                        "FLOTUS",
+                        "DCNewsBash"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632",
+                        "1879651867288018944",
+                        "115908039"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1716515050,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1830213515639976155",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1708128013752442880",
+                    "author_username": "endinglibtards",
+                    "community_notes": null,
+                    "conversation_id": "1830213515639976155",
+                    "created_time": "2024-09-02T02:18:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830430044885528777",
+                    "in_reply_to_post_id": "1830213515639976155",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepBeatty It was in June you ignorant fucking \ud83e\udd21",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1725243505,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/drcarcia/status/1830235885407007030"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/VOPc926BDO"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1749244124468056064",
+                    "author_username": "DrCarcia",
+                    "community_notes": null,
+                    "conversation_id": "1830213515639976155",
+                    "created_time": "2024-09-01T13:27:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830236015732363371",
+                    "in_reply_to_post_id": "1830213515639976155",
+                    "in_reply_to_profile_id": "1531521632",
+                    "in_reply_to_profile_username": "RepBeatty",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepBeatty https://t.co/VOPc926BDO",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepBeatty"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1531521632"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1725197244,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1840827196069257724",
+            "replies": []
+        }
+    ]
+}

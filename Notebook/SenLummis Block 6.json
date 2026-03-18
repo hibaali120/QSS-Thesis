@@ -1,0 +1,153 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Ggs9Z19XsAAXmee.jpg?name=small",
+                    "https://pbs.twimg.com/media/Ggs9Z19XIAAgffk.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Ggs9Z19XsAAXmee.jpg",
+                    "https://pbs.twimg.com/media/Ggs9Z19XIAAgffk.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "22831059",
+                "author_username": "SenLummis",
+                "community_notes": null,
+                "conversation_id": "1876661190694449351",
+                "created_time": "2025-01-07T16:04:29",
+                "favorite_count": 1838,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1876661190694449351",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 27,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 74,
+                "retweet_count": 263,
+                "source": "Twitter Web App",
+                "text": "I enjoyed meeting with Paul Atkins, the @SECGov Chair nominee. We discussed digital asset legislation & reforming the rulemaking process. Thanks for stopping by, and I look forward to putting the SEC on the \u201cAtkins diet!\u201d https://t.co/WBUAxnOMNl",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SECGov"
+                ],
+                "text_tagged_users_ids": [
+                    "18481050"
+                ],
+                "text_tags": null,
+                "timestamp": 1736265869,
+                "view_count": 154894
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.wyomingnews.com/laramieboomerang/news/university-of-wyoming-receives-national-award-for-student-wellness-community-efforts/article_4aa2fbec-df45-11ef-8251-ef70101754d1.html"
+                ],
+                "attached_links_url": [
+                    "https://t.co/1rbu9AmPKO"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1885395660565848065/LhWlOhkN?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "22831059",
+                "author_username": "SenLummis",
+                "community_notes": null,
+                "conversation_id": "1885833005648015442",
+                "created_time": "2025-02-01T23:30:00",
+                "favorite_count": 143,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1885833005648015442",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 29,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "A well-deserved honor for the University of Wyoming!\n\nhttps://t.co/1rbu9AmPKO",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1738452600,
+                "view_count": 55542
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.pvhc.org/pvhc-nutrition-services-receives-2024-turnip-the-beet-gold-award/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/mik9iObvM0"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "22831059",
+                "author_username": "SenLummis",
+                "community_notes": null,
+                "conversation_id": "1947033270006210589",
+                "created_time": "2025-07-20T20:38:00",
+                "favorite_count": 79,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1947033270006210589",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 29,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Congratulations to Powell Valley Healthcare\u2019s Nutrition Services Department on winning the 2024 Turnip the Beet Gold Award from @USDA. It is great to see our community taking care of one another, congratulations again on this amazing achievement.\nhttps://t.co/mik9iObvM0",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "USDA"
+                ],
+                "text_tagged_users_ids": [
+                    "61853389"
+                ],
+                "text_tags": null,
+                "timestamp": 1753043880,
+                "view_count": 24700
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

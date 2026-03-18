@@ -1,0 +1,145 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FSgWG6bXEAAEyhh.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FSgWG6bXEAAEyhh.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "4205133682",
+                "author_username": "GReschenthaler",
+                "community_notes": null,
+                "conversation_id": "1524492856760672256",
+                "created_time": "2022-05-11T20:53:15",
+                "favorite_count": 47,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1524492856760672256",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "I\u2019m proud that the House Judiciary Committee passed the Public Safety Officer Support Act, legislation I introduced to expand disability benefits to include coverage for first responders who die as a result of suicide or are disabled due to traumatic service-related experiences. https://t.co/fIkX1zMG6K",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1652302395,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/3m7vjtj"
+                ],
+                "attached_links_url": [
+                    "https://t.co/OeyTVgxsR2"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "4205133682",
+                "author_username": "GReschenthaler",
+                "community_notes": null,
+                "conversation_id": "1532028432435101697",
+                "created_time": "2022-06-01T15:56:56",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1532028432435101697",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Our first responders deserve comprehensive coverage for the physical & mental wounds they suffer while serving our communities. \n\nThanks to @PittsburghPG for highlighting this issue & how my bill, the Public Safety Officer Support Act, will address it.\nhttps://t.co/OeyTVgxsR2",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "PittsburghPG"
+                ],
+                "text_tagged_users_ids": [
+                    "21780652"
+                ],
+                "text_tags": null,
+                "timestamp": 1654099016,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "4205133682",
+                "author_username": "GReschenthaler",
+                "community_notes": null,
+                "conversation_id": "1968025031742767581",
+                "created_time": "2025-09-16T18:51:46",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968025031742767581",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": "1879650942410481666",
+                "in_reply_to_profile_username": "POTUS",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1967589906147860606",
+                "quoted_status_profile_id": "1879946117544128512",
+                "quoted_status_profile_username": "DrOzCMS",
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for Android",
+                "text": "@POTUS and congressional Republicans created the Rural Health Transformation Fund to save rural hospitals. This fund will deliver $10 billion annually to ensure rural hospitals can continue providing lifesaving care.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1758048706,
+                "view_count": 322
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

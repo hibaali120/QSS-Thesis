@@ -1,0 +1,100 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://thehill.com/opinion/4441565-why-we-just-sued-the-u-s-department-of-labor/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/OoCpqlf77c"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1610356961475809280",
+                "author_username": "RepKiley",
+                "community_notes": null,
+                "conversation_id": "1753124047968231603",
+                "created_time": "2024-02-01T18:31:59",
+                "favorite_count": 130,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1753124047968231603",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 13,
+                "retweet_count": 46,
+                "source": "Twitter Web App",
+                "text": "Acting Department of Labor Secretary Julie Su's treatment of independent contractors will cost millions of jobs across the country. My legislation under the Congressional Review Act will protect independent work and flexible opportunities for Americans. https://t.co/OoCpqlf77c",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1706812319,
+                "view_count": 2355
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GO64k66WsAMKFz8.jpg?name=small",
+                    "https://pbs.twimg.com/media/GO64k66WsAcbInc.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GO64k66WsAMKFz8.jpg",
+                    "https://pbs.twimg.com/media/GO64k66WsAcbInc.png"
+                ],
+                "attached_videos": null,
+                "author_id": "1610356961475809280",
+                "author_username": "RepKiley",
+                "community_notes": null,
+                "conversation_id": "1796576249864691876",
+                "created_time": "2024-05-31T16:15:31",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1796576249864691876",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I recently met with Julie and Talan Yorn, advocates for Lyme disease awareness. We discussed the need for research, funding, testing, and early diagnosis of Lyme disease. Additionally, we emphasized the importance of education for doctors, healthcare providers, and schools, as our children are the most susceptible to Lyme disease.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717172131,
+                "view_count": 878
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

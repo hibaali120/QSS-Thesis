@@ -1,0 +1,95 @@
+{
+    "politician": "JacksonLeeTX18",
+    "block": "4",
+    "posts": [
+        {
+            "conversation_id": "1753547546612351163",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1647615328149438468",
+                    "author_username": "perantozzi9891",
+                    "community_notes": null,
+                    "conversation_id": "1753547546612351163",
+                    "created_time": "2024-02-04T22:42:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1754274249450176558",
+                    "in_reply_to_post_id": "1753547546612351163",
+                    "in_reply_to_profile_id": "80612021",
+                    "in_reply_to_profile_username": "JacksonLeeTX18",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": null,
+                    "text": "@JacksonLeeTX18 What else are you going to do about heart health????   How bout recommending proper diet and avoiding all the sugary laden foods that blanket most supermarket shelves",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "JacksonLeeTX18"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1707086548,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.cdc.gov/heartdisease/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/eyxPy47NPa"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "80612021",
+                    "author_username": "JacksonLeeTX18",
+                    "community_notes": null,
+                    "conversation_id": "1753547546612351163",
+                    "created_time": "2024-02-02T22:34:49",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1753547548453658990",
+                    "in_reply_to_post_id": "1753547546612351163",
+                    "in_reply_to_profile_id": "80612021",
+                    "in_reply_to_profile_username": "JacksonLeeTX18",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "It is crucial to heart health to get annual medical exams, and to take medications as prescribed for management of heart disease-related conditions, including but not limited to high blood pressure and high cholesterol.\nLearn more: https://t.co/eyxPy47NPa",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1706913289,
+                    "view_count": 823
+                }
+            ]
+        }
+    ]
+}

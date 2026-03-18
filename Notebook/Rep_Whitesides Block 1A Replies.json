@@ -1,0 +1,430 @@
+{
+    "politician": "Rep_Whitesides",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1968029429482782859",
+            "replies": []
+        },
+        {
+            "conversation_id": "1968048165128429898",
+            "replies": []
+        },
+        {
+            "conversation_id": "1968068627476992396",
+            "replies": []
+        },
+        {
+            "conversation_id": "1972033559964930211",
+            "replies": []
+        },
+        {
+            "conversation_id": "1972779038780637639",
+            "replies": []
+        },
+        {
+            "conversation_id": "1972824560970907733",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978589201441730979",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978626916014801325",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1872709283634397185",
+                    "author_username": "Rep_Whitesides",
+                    "community_notes": null,
+                    "conversation_id": "1978626916014801325",
+                    "created_time": "2025-10-16T00:59:53",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978626918560809379",
+                    "in_reply_to_post_id": "1978626916014801325",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Many older adults in our district depend on ACA coverage before they qualify for Medicare. \n\nFor a 60-year-old couple earning $85,000, losing ACA tax credits could mean paying $1,900 more per month for coverage. \n\nSeniors deserve stability, not sudden spikes in costs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1760576393,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978626916014801325",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1872709283634397185",
+                    "author_username": "Rep_Whitesides",
+                    "community_notes": null,
+                    "conversation_id": "1978626916014801325",
+                    "created_time": "2025-10-16T00:59:53",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978626918560809379",
+                    "in_reply_to_post_id": "1978626916014801325",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Many older adults in our district depend on ACA coverage before they qualify for Medicare. \n\nFor a 60-year-old couple earning $85,000, losing ACA tax credits could mean paying $1,900 more per month for coverage. \n\nSeniors deserve stability, not sudden spikes in costs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1760576393,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978626916014801325",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1872709283634397185",
+                    "author_username": "Rep_Whitesides",
+                    "community_notes": null,
+                    "conversation_id": "1978626916014801325",
+                    "created_time": "2025-10-16T00:59:53",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978626918560809379",
+                    "in_reply_to_post_id": "1978626916014801325",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Many older adults in our district depend on ACA coverage before they qualify for Medicare. \n\nFor a 60-year-old couple earning $85,000, losing ACA tax credits could mean paying $1,900 more per month for coverage. \n\nSeniors deserve stability, not sudden spikes in costs.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1760576393,
+                    "view_count": 36
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978852849883705733",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978944041682456830",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "72627630",
+                    "author_username": "ffmedic402",
+                    "community_notes": null,
+                    "conversation_id": "1978944041682456830",
+                    "created_time": "2025-10-17T15:40:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979210914730774833",
+                    "in_reply_to_post_id": "1978944041682456830",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Rep_Whitesides Just reopen the government. Do your job. Be brave and do the right thing",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Rep_Whitesides"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872709283634397185"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760715628,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1979229535598936506",
+            "replies": []
+        },
+        {
+            "conversation_id": "1979280138069250233",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1407769563010191360",
+                    "author_username": "DesertF15696032",
+                    "community_notes": null,
+                    "conversation_id": "1979280138069250233",
+                    "created_time": "2025-10-25T02:50:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981916353188778052",
+                    "in_reply_to_post_id": "1979280138069250233",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@Rep_Whitesides Gee, where did that outbreak of tuberculosis come from? \n\nAsking for Costco members, we'll wait...",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Rep_Whitesides"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872709283634397185"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761360655,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1979298876851990699",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "56109054",
+                    "author_username": "steve_ON",
+                    "community_notes": null,
+                    "conversation_id": "1979298876851990699",
+                    "created_time": "2025-10-18T19:45:14",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979634898035163216",
+                    "in_reply_to_post_id": "1979298876851990699",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Rep_Whitesides Welcome to CA, where Democrats will make sure CA taxpayers foot the bill for illegal alien health care.\nCalifornia budgeted an estimated $12 billion for healthcare for undocumented immigrants in the 2025\u201326 fiscal year.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Rep_Whitesides"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872709283634397185"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760816714,
+                    "view_count": 14
+                }
+            ]
+        },
+        {
+            "conversation_id": "1981080968300511548",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981831723353526395",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1407769563010191360",
+                    "author_username": "DesertF15696032",
+                    "community_notes": null,
+                    "conversation_id": "1981831723353526395",
+                    "created_time": "2025-10-25T02:46:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981915250145526218",
+                    "in_reply_to_post_id": "1981831723353526395",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@Rep_Whitesides I never hear any of you talk about how Medicare had an increase of $21.50/per month, which doesn't sound like much, except when you consider social security went up by $50 a month, almost half of the monthly increase is going to pay for the increase to Medicare\n\nIt's embarrassing",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Rep_Whitesides"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872709283634397185"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761360392,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1993047678838882395",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001722952379728069",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G9jPELYXQAA302B.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G9jPELYXQAA302B.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "701551297934319616",
+                    "author_username": "Bigrig_North",
+                    "community_notes": null,
+                    "conversation_id": "2001722952379728069",
+                    "created_time": "2026-01-01T04:20:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2006581310270353423",
+                    "in_reply_to_post_id": "2001722952379728069",
+                    "in_reply_to_profile_id": "1872709283634397185",
+                    "in_reply_to_profile_username": "Rep_Whitesides",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@Rep_Whitesides https://t.co/wqQjhm18Ag",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "Rep_Whitesides"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1872709283634397185"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1767241239,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "2002137358624592381",
+            "replies": []
+        }
+    ]
+}

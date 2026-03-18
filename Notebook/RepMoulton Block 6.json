@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FuHoUERXsAAxXrS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FuHoUERXsAAxXrS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "3091316093",
+                "author_username": "RepMoulton",
+                "community_notes": null,
+                "conversation_id": "1648854374297350144",
+                "created_time": "2023-04-20T01:01:31",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1648854374297350144",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Tonight I'm in the Capitol running through a tabletop exercise to understand the real-world consequences of an attack on Taiwan.\n\nThe @CmteOnCCPDems / @committeeonccp is determined to understand the consequences\ntoday so we can better understand how to deter war in the future. https://t.co/VltZORHXqa",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CmteOnCCPDems"
+                ],
+                "text_tagged_users_ids": [
+                    "1648763463869554689"
+                ],
+                "text_tags": null,
+                "timestamp": 1681952491,
+                "view_count": 1410
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "3091316093",
+                "author_username": "RepMoulton",
+                "community_notes": null,
+                "conversation_id": "1763000575673688183",
+                "created_time": "2024-02-29T00:37:46",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1763000575673688183",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1762983027729224142",
+                "quoted_status_profile_id": "15754281",
+                "quoted_status_profile_username": "USATODAY",
+                "reply_count": 24,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "There is no need for a right to bear arms if there's no one left alive to exercise them.\n\nIf the Supreme Court decides weapons of war are constitutionally legal on our streets, then we need to amend our constitution.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1709167066,
+                "view_count": 778
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

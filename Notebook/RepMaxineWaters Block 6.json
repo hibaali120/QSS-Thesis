@@ -1,0 +1,62 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1931853964556808192/img/dLTVizskcmrSATSX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1931853964556808192/vid/avc1/1080x1350/BnaxBQrRa0NlK45R.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 217,
+                        "id": "1931853964556808192",
+                        "url": "https://video.twimg.com/amplify_video/1931853964556808192/vid/avc1/1080x1350/BnaxBQrRa0NlK45R.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "36686040",
+                "author_username": "RepMaxineWaters",
+                "community_notes": null,
+                "conversation_id": "1931854126586945626",
+                "created_time": "2025-06-08T23:21:30",
+                "favorite_count": 8193,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1931854126586945626",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 365,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8605,
+                "retweet_count": 2369,
+                "source": "Twitter for iPhone",
+                "text": "Today, I came to the Metropolitan Detention Center to exercise my constitutional rights as a Member of Congress to check on the safety and conditions of SEIU California President David Huerta, who was arrested by ICE. I pled with the National Guard, which was heavily armed, not to use their weapons against peaceful demonstrators who were simply exercising their rights to freedom of speech and protest. All people deserve to be treated with dignity and due process under the law. Peaceful, nonviolent demonstrations are critical to protecting our constitutional rights!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749424890,
+                "view_count": 705891
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

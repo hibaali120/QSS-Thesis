@@ -1,0 +1,70 @@
+{
+    "politician": "RepDannyDavis",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1588973476387618817",
+            "replies": []
+        },
+        {
+            "conversation_id": "1838613415176122669",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1838613415176122669",
+                    "created_time": "2024-09-25T15:58:56",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1838971455519760832",
+                    "in_reply_to_post_id": "1838613415176122669",
+                    "in_reply_to_profile_id": "789244177",
+                    "in_reply_to_profile_username": "RepDannyDavis",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDannyDavis Thank you, @RepDannyDavis for your support in improving health care. We kindly request US legislators to consider granting Ukraine NATO membership.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDannyDavis"
+                    ],
+                    "text_tagged_users_ids": [
+                        "789244177"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1727279936,
+                    "view_count": 1
+                }
+            ]
+        },
+        {
+            "conversation_id": "1841842469262041423",
+            "replies": []
+        },
+        {
+            "conversation_id": "1995601652796002566",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001709832911327497",
+            "replies": []
+        }
+    ]
+}

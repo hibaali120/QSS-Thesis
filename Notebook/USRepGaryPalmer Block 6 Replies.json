@@ -1,0 +1,50 @@
+{
+    "politician": "USRepGaryPalmer",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1516833731562061824",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2861616083",
+                    "author_username": "USRepGaryPalmer",
+                    "community_notes": null,
+                    "conversation_id": "1516833731562061824",
+                    "created_time": "2022-04-20T17:38:38",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1516833734410084354",
+                    "in_reply_to_post_id": "1516833731562061824",
+                    "in_reply_to_profile_id": "2861616083",
+                    "in_reply_to_profile_username": "USRepGaryPalmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "DC's restrictive \"Reproductive Health Nondiscrimination Act (RHNDA)\" attacks organizations in our nation's capital that protect the sanctity of life. The 1st Amendment protects the rights of religious organizations to exercise their beliefs and Congress must defend those rights.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1650476318,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

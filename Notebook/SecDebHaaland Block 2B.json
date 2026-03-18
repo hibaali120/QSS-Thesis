@@ -1,0 +1,143 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "http://healthcare.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ycvYJsiGD2"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1370049534831824901",
+                "author_username": "SecDebHaaland",
+                "community_notes": null,
+                "conversation_id": "1587566401564381186",
+                "created_time": "2022-11-01T22:05:00",
+                "favorite_count": 95,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1587566401564381186",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 33,
+                "source": "TweetDeck Web App",
+                "text": "Health care open enrollment begins today! As someone who has not always had access to health care, I know the peace of mind that comes with having affordable health insurance options. Be sure to visit https://t.co/ycvYJsiGD2 to see if you qualify for free or reduced premiums.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1667340300,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://healthcare.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ycvYJsjesA"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1370049534831824901",
+                "author_username": "SecDebHaaland",
+                "community_notes": null,
+                "conversation_id": "1601670143490555904",
+                "created_time": "2022-12-10T20:08:14",
+                "favorite_count": 170,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1601670143490555904",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 23,
+                "retweet_count": 74,
+                "source": "Twitter for iPhone",
+                "text": "Important reminder that open enrollment for health care is available until December 15! Check out https://t.co/ycvYJsjesA to make sure you and your family have the coverage you need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1670702894,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1370049534831824901",
+                "author_username": "SecDebHaaland",
+                "community_notes": null,
+                "conversation_id": "1866565071817867653",
+                "created_time": "2024-12-10T19:26:06",
+                "favorite_count": 378,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1866565071817867653",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1866226319174033919",
+                "quoted_status_profile_id": "1349368003280986113",
+                "quoted_status_profile_username": "USInteriorPress",
+                "reply_count": 9,
+                "retweet_count": 129,
+                "source": "Twitter for iPhone",
+                "text": "In response to a Not Invisible Act Commission recommendation, @Interior and @TheJusticeDept have released best practices for improving media coverage of the Missing and Murdered Indigenous Peoples Crisis. These guidelines will help to elevate and solve these cases.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "Interior",
+                    "TheJusticeDept"
+                ],
+                "text_tagged_users_ids": [
+                    "76348185",
+                    "73181712"
+                ],
+                "text_tags": null,
+                "timestamp": 1733858766,
+                "view_count": 9280
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

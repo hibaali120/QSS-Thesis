@@ -1,0 +1,304 @@
+{
+    "politician": "Andy_Levin",
+    "block": "2B",
+    "posts": [
+        {
+            "conversation_id": "1493618115355320332",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "21061366",
+                    "author_username": "Andy_Levin",
+                    "community_notes": null,
+                    "conversation_id": "1493618115355320332",
+                    "created_time": "2022-02-15T16:18:23",
+                    "favorite_count": 11,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1493620717233094664",
+                    "in_reply_to_post_id": "1493618115355320332",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "\"Congressman Levin has been a stalwart champion of organized labor, including dedicated support for nurses who continue to provide patient care under enormous stress on the frontlines of this pandemic. @NNU is proud to endorse Andy Levin for reelection in MI\u2019s new 11th District.\"",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "NNU"
+                    ],
+                    "text_tagged_users_ids": [
+                        "75858937"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1644941903,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1501716858931712009",
+            "replies": []
+        },
+        {
+            "conversation_id": "1507411997872336897",
+            "replies": []
+        },
+        {
+            "conversation_id": "1513929537444360197",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/drwavesportcd1/status/1513943415054114827?s=21&t=PtRtUEbuj8ZvVD2NdsO4UA"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/OsNmCMvSIQ"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1646145848",
+                    "author_username": "DrWAVeSportCd1",
+                    "community_notes": null,
+                    "conversation_id": "1513929537444360197",
+                    "created_time": "2022-04-12T19:08:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1513957142537064455",
+                    "in_reply_to_post_id": "1513929537444360197",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@Andy_Levin https://t.co/OsNmCMvSIQ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "Andy_Levin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21061366"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649790485,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "10007262",
+                    "author_username": "DrGranma",
+                    "community_notes": null,
+                    "conversation_id": "1513929537444360197",
+                    "created_time": "2022-04-12T18:19:05",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1513944810784178177",
+                    "in_reply_to_post_id": "1513929537444360197",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@Andy_Levin Can someone explain to me why any thinking woman would vote for this? It should be a choice a woman makes\u2026 not a law men make.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Andy_Levin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21061366"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649787545,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3343225100",
+                    "author_username": "AncPhi",
+                    "community_notes": null,
+                    "conversation_id": "1513929537444360197",
+                    "created_time": "2022-04-12T17:31:29",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1513932831864635399",
+                    "in_reply_to_post_id": "1513929537444360197",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@Andy_Levin Murder is not a right, you blood devil goblin. We will eliminate abortion as the barbarian practice it is.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "Andy_Levin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "21061366"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1649784689,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1546634322865799168",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FXbAqR8XkAEOUmO.jpg?name=small",
+                        "https://pbs.twimg.com/media/FXbAqR9WYAIlxVF.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FXbAqR8XkAEOUmO.jpg",
+                        "https://pbs.twimg.com/media/FXbAqR9WYAIlxVF.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "21061366",
+                    "author_username": "Andy_Levin",
+                    "community_notes": null,
+                    "conversation_id": "1546634322865799168",
+                    "created_time": "2022-07-11T23:19:43",
+                    "favorite_count": 14,
+                    "geo_lat": 42.57424096,
+                    "geo_lon": -83.24963720000001,
+                    "id": "1546635376789430272",
+                    "in_reply_to_post_id": "1546634322865799168",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Bloomfield Hills, MI",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "They are willing to go on an unfair labor practice strike to gain recognition for their union so they can tackle serious workplace problems that prevent them from taking the best care of their patients, the kind of care they\u2019re proud to deliver! #mi11 https://t.co/O6tQAkVy6W",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "mi11"
+                    ],
+                    "timestamp": 1657581583,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1546634322865799168",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FXbAqR8XkAEOUmO.jpg?name=small",
+                        "https://pbs.twimg.com/media/FXbAqR9WYAIlxVF.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FXbAqR8XkAEOUmO.jpg",
+                        "https://pbs.twimg.com/media/FXbAqR9WYAIlxVF.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "21061366",
+                    "author_username": "Andy_Levin",
+                    "community_notes": null,
+                    "conversation_id": "1546634322865799168",
+                    "created_time": "2022-07-11T23:19:43",
+                    "favorite_count": 14,
+                    "geo_lat": 42.57424096,
+                    "geo_lon": -83.24963720000001,
+                    "id": "1546635376789430272",
+                    "in_reply_to_post_id": "1546634322865799168",
+                    "in_reply_to_profile_id": "21061366",
+                    "in_reply_to_profile_username": "Andy_Levin",
+                    "place_country_code": "US",
+                    "place_country_name": "United States",
+                    "place_full_name": "Bloomfield Hills, MI",
+                    "place_type": "city",
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter for iPhone",
+                    "text": "They are willing to go on an unfair labor practice strike to gain recognition for their union so they can tackle serious workplace problems that prevent them from taking the best care of their patients, the kind of care they\u2019re proud to deliver! #mi11 https://t.co/O6tQAkVy6W",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": [
+                        "mi11"
+                    ],
+                    "timestamp": 1657581583,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,340 @@
+{
+    "politician": "RepSchneider",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1575866012830162944",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "756993948967665665",
+                    "author_username": "WilliamBernett",
+                    "community_notes": null,
+                    "conversation_id": "1575866012830162944",
+                    "created_time": "2022-09-30T19:49:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575935939838607360",
+                    "in_reply_to_post_id": "1575866012830162944",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepSchneider Do you also commend this President for looking for a woman who passed away a month ago??",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSchneider"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1071840474"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664567382,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.linkedin.com/posts/activity-6980687635744792576-ChbF?utm_source=share&utm_medium=member_android"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/lSBCC4Mc0D"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "802784258",
+                    "author_username": "Joe_Severino",
+                    "community_notes": null,
+                    "conversation_id": "1575866012830162944",
+                    "created_time": "2022-09-30T19:24:30",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575929598205796352",
+                    "in_reply_to_post_id": "1575866012830162944",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepSchneider https://t.co/lSBCC4Mc0D",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepSchneider"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1071840474"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664565870,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1592528381283045379",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FoFW6WgWYAAgO8i.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FoFW6WgWYAAgO8i.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1555375678878629889",
+                    "author_username": "LucyRobertJone1",
+                    "community_notes": null,
+                    "conversation_id": "1592528381283045379",
+                    "created_time": "2023-02-04T00:52:03",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1621672902985654272",
+                    "in_reply_to_post_id": "1592528381283045379",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepSchneider https://t.co/lPfbjFSxmZ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepSchneider"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1071840474"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1675471923,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1071840474",
+                    "author_username": "RepSchneider",
+                    "community_notes": null,
+                    "conversation_id": "1592528381283045379",
+                    "created_time": "2022-11-15T14:42:08",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1592528382981722113",
+                    "in_reply_to_post_id": "1592528381283045379",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "We owe service members, veterans, and their families not just our gratitude, but our commitment to ensure that we always have their backs as they always had ours.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1668523328,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1595131608633249792",
+            "replies": []
+        },
+        {
+            "conversation_id": "1675938961812750338",
+            "replies": []
+        },
+        {
+            "conversation_id": "1708200260189782220",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1071840474",
+                    "author_username": "RepSchneider",
+                    "community_notes": null,
+                    "conversation_id": "1708200260189782220",
+                    "created_time": "2023-09-30T19:20:53",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1708200261385060477",
+                    "in_reply_to_post_id": "1708200260189782220",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 1,
+                    "source": "Twitter Web App",
+                    "text": "Earlier this week Republicans voted for, but could not pass, a temporary spending bill with nearly 30% across the board cuts: 30% cuts to community safety, 30% cuts to school nutrition, 30% cuts to foreign military assistance (including a $1 billion cut in funding to Israel).",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1696101653,
+                    "view_count": 351
+                }
+            ]
+        },
+        {
+            "conversation_id": "1849511174326435986",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1447259461853319173",
+                    "author_username": "JosephAlmond1x",
+                    "community_notes": null,
+                    "conversation_id": "1849511174326435986",
+                    "created_time": "2024-10-24T18:20:19",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1849516284117139638",
+                    "in_reply_to_post_id": "1849511174326435986",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepSchneider Project 2025, like Trump, is bad news.\n\nI live in the 10th district. I voted for you and Kamala",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSchneider"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1071840474"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1729794019,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1853089763416272945",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "27180557",
+                    "author_username": "RabbiRadagast",
+                    "community_notes": null,
+                    "conversation_id": "1853089763416272945",
+                    "created_time": "2024-11-03T15:02:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1853090318985629975",
+                    "in_reply_to_post_id": "1853089763416272945",
+                    "in_reply_to_profile_id": "1071840474",
+                    "in_reply_to_profile_username": "RepSchneider",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepSchneider Make standard time permanent, please",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepSchneider"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1071840474"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1730646135,
+                    "view_count": 13
+                }
+            ]
+        }
+    ]
+}

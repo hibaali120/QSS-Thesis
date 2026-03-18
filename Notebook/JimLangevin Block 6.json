@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FOYRblZXoAY0JDX.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FOYRblZXoAY0JDX.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "18909919",
+                "author_username": "JimLangevin",
+                "community_notes": null,
+                "conversation_id": "1505910353288384517",
+                "created_time": "2022-03-21T14:13:01",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1505910353288384517",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "I was thrilled to join Mayor Polisena this weekend to celebrate the $1.1 million in federal funding that Johnston is receiving to revive their soccer complex! \n \nCommunity spaces are integral to the wellness of our communities, and I am proud to be part of this project. https://t.co/nPjQWKYROL",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1647871981,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.washingtonpost.com/wellness/2022/09/12/wheelchairs-airlines-batteries/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/8dU2T7UIUf"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "18909919",
+                "author_username": "JimLangevin",
+                "community_notes": null,
+                "conversation_id": "1569411733948612618",
+                "created_time": "2022-09-12T19:44:50",
+                "favorite_count": 182,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1569411733948612618",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 14,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 86,
+                "source": "Twitter Web App",
+                "text": "Last month, I led a Congressional delegation to Italy in coordination with the Navy.\n\nWe drove to Boston and made it to the airport with plenty of time. But I never made it past the check-in counter.\n\nThe airline wouldn't let my wheelchair on the plane... \nhttps://t.co/8dU2T7UIUf",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1663011890,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

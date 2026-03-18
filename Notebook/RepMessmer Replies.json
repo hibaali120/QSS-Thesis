@@ -1,0 +1,607 @@
+{
+    "politician": "RepMessmer",
+    "posts": [
+        {
+            "conversation_id": "1886746525742600320",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/larry_levitt/status/1886950377188212775"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/FK5mHpKZGp"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "107035450",
+                    "author_username": "sportscubs",
+                    "community_notes": null,
+                    "conversation_id": "1886746525742600320",
+                    "created_time": "2025-02-05T01:36:46",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1886952073037553961",
+                    "in_reply_to_post_id": "1886746525742600320",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMessmer @preventcancer Surely, the Republican Party can do better than this! You guys love to dismantle everything good coming from the Blue Team while burning everything else to the ground.https://t.co/FK5mHpKZGp",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "preventcancer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "79032381"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738719406,
+                    "view_count": 55
+                }
+            ]
+        },
+        {
+            "conversation_id": "1892607898489921996",
+            "replies": []
+        },
+        {
+            "conversation_id": "1925178552795734121",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1299467289461493760",
+                    "author_username": "BPlease8",
+                    "community_notes": null,
+                    "conversation_id": "1925178552795734121",
+                    "created_time": "2025-05-21T15:55:20",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1925218864083751142",
+                    "in_reply_to_post_id": "1925178552795734121",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer They really deserve it this week seeing how  our state was hit by tornadoes. Homes destroyed and a life lost, but not one word from anyone that represents our state! No thoughts, no prayers. Just talk of taking our healthcare!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747842920,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1953473004760940565",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973372329678741793",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2RBNs6WQAATGPl.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2RBNs6WQAATGPl.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "790557963304001536",
+                    "author_username": "atstone22",
+                    "community_notes": null,
+                    "conversation_id": "1973372329678741793",
+                    "created_time": "2025-10-02T15:37:07",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973774251737190404",
+                    "in_reply_to_post_id": "1973372329678741793",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMessmer https://t.co/h5iHMuaezW",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMessmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759419427,
+                    "view_count": 2
+                }
+            ]
+        },
+        {
+            "conversation_id": "1976316730671833199",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "388438999",
+                    "author_username": "real_elpee",
+                    "community_notes": null,
+                    "conversation_id": "1976316730671833199",
+                    "created_time": "2025-10-09T19:36:38",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976371245622100192",
+                    "in_reply_to_post_id": "1976316730671833199",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer @HouseGOP Over 300,000 Hoosiers with  healthcare coverage under the ACA will see their premiums more than double due to Republican slashing of subsidies. Tens of millions will lose coverage nationally. REPUBLICAN VOTERS, STOP VOTING AGAINST YOUR BEST INTERESTS! IT'S CRAZY!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760038598,
+                    "view_count": 33
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G21qvMEXsAAoAYK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G21qvMEXsAAoAYK.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1677272358",
+                    "author_username": "Chgocat",
+                    "community_notes": null,
+                    "conversation_id": "1976316730671833199",
+                    "created_time": "2025-10-09T18:24:50",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976353174463316170",
+                    "in_reply_to_post_id": "1976316730671833199",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer @HouseGOP https://t.co/PJiz4RsLgM",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "HouseGOP"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "15207668"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760034290,
+                    "view_count": 16
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1976316730671833199",
+                    "created_time": "2025-10-09T16:04:47",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976317930146074712",
+                    "in_reply_to_post_id": "1976316730671833199",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Rural hospitals are vital, but let\u2019s cut through the spin. The real issue? Bloated bureaucracy and fraud, not funding shortages. The Rural Health Transformation Program allocates $50B over 5 years to strengthen rural healthcare\u2014money exists, but D.C. insiders prioritize administrative bloat over frontline care.\n\nPerry County Memorial Hospital shouldn\u2019t fear shutdowns; they should fear D.C.\u2019s addiction to wasting taxpayer cash on middlemen instead of patients.\n\nAudit every dollar, slash redundant overhead, and watch rural healthcare thrive without political theatrics.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760025887,
+                    "view_count": 30
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978828589626757197",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1917047000198942720",
+                    "author_username": "tell_will21640",
+                    "community_notes": null,
+                    "conversation_id": "1978828589626757197",
+                    "created_time": "2025-10-17T01:53:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979002842640740646",
+                    "in_reply_to_post_id": "1978828589626757197",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer @daviesscohosp You almost lie more than Trump, and that\u2019s pretty hard to do. You better hope that hospital doesn\u2019t close thanks to the BBB that you voted for.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "daviesscohosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "1486761416665309191"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760666020,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1851789833091612672",
+                    "author_username": "AoifeRae1",
+                    "community_notes": null,
+                    "conversation_id": "1978828589626757197",
+                    "created_time": "2025-10-16T15:11:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978841332899524782",
+                    "in_reply_to_post_id": "1978828589626757197",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMessmer @daviesscohosp Don't be such a blatant liar, @RepMessmer!! \n\nYou voted for the big, ugly bill so you voted to DESTROY RURAL HOSPITALS.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "daviesscohosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "1486761416665309191"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760627513,
+                    "view_count": 10
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G3Y3p6FbQAAt8C0.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G3Y3p6FbQAAt8C0.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "28711102",
+                    "author_username": "AngelGoulet",
+                    "community_notes": null,
+                    "conversation_id": "1978828589626757197",
+                    "created_time": "2025-10-16T14:28:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978830335577104866",
+                    "in_reply_to_post_id": "1978828589626757197",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMessmer @daviesscohosp #GOPCowards #GOPTraitors https://t.co/wU0h0kSRVX",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "daviesscohosp"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "1486761416665309191"
+                    ],
+                    "text_tags": [
+                        "gopcowards",
+                        "goptraitors"
+                    ],
+                    "timestamp": 1760624891,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978931531423875208",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1917047000198942720",
+                    "author_username": "tell_will21640",
+                    "community_notes": null,
+                    "conversation_id": "1978931531423875208",
+                    "created_time": "2025-10-17T01:50:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1979002164409159875",
+                    "in_reply_to_post_id": "1978931531423875208",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer #messmershutdown",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMessmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128"
+                    ],
+                    "text_tags": [
+                        "messmershutdown"
+                    ],
+                    "timestamp": 1760665858,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1978931531423875208",
+                    "created_time": "2025-10-16T21:18:09",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978933505477222740",
+                    "in_reply_to_post_id": "1978931531423875208",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Democrats claim they\u2019re fighting for \u201chealthcare fairness,\u201d but their shutdown gambit is pure theater. The real agenda? Expanding taxpayer-funded benefits for illegal immigrants while military paychecks stall. This isn\u2019t about care\u2014it\u2019s about normalizing lawlessness. National Guard technicians are working without pay, yet D.C. prioritizes loopholes over national security.\n\nThe House passed a clean funding bill 16 days ago. Schumer\u2019s obstruction proves Democrats value open borders more than troops. Reopen the government, enforce the law, and stop laundering taxpayer dollars into programs that incentivize illegal entry.\n\nTroops shouldn\u2019t suffer because Democrats refuse to secure the border.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760649489,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1983609787678966157",
+            "replies": []
+        },
+        {
+            "conversation_id": "1989408585215103263",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1748810345777348608",
+                    "author_username": "Big_Daddy_XL",
+                    "community_notes": null,
+                    "conversation_id": "1989408585215103263",
+                    "created_time": "2025-11-16T17:07:28",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1990104445229670442",
+                    "in_reply_to_post_id": "1989408585215103263",
+                    "in_reply_to_profile_id": "1875298824387760128",
+                    "in_reply_to_profile_username": "RepMessmer",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMessmer @CookMedical Can Rabbi Messmer explain what he promised or is expected to give them after taking almost $2 MILLION dollars from jewish lobby?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMessmer",
+                        "CookMedical"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1875298824387760128",
+                        "71582798"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1763312848,
+                    "view_count": 17
+                }
+            ]
+        },
+        {
+            "conversation_id": "1998121608897044888",
+            "replies": []
+        }
+    ]
+}

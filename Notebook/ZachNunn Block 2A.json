@@ -1,0 +1,975 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1923729212407513088/img/ysk7erfoCZCGhdHM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1923729212407513088/vid/avc1/1080x1080/RssIyeUuZPi4Dul0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 70,
+                        "id": "1923729212407513088",
+                        "url": "https://video.twimg.com/amplify_video/1923729212407513088/vid/avc1/1080x1080/RssIyeUuZPi4Dul0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1924163077504970796",
+                "created_time": "2025-05-18T18:00:01",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1924163077504970796",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Bottom line on this week\u2019s ag bill: we\u2019re protecting SNAP for vulnerable Iowans and delivering over $60B for biosecurity, crop insurance, and fairer reference prices\u2014real support for our farmers and rural communities. https://t.co/8v41WqDc9u",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747591201,
+                "view_count": 360
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1927816718019092480/img/GQQblQTgxLkAOPPa.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1927816718019092480/vid/avc1/1080x1080/3DXkUS8jFgEzJBNI.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 51,
+                        "id": "1927816718019092480",
+                        "url": "https://video.twimg.com/amplify_video/1927816718019092480/vid/avc1/1080x1080/3DXkUS8jFgEzJBNI.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1927839800817766738",
+                "created_time": "2025-05-28T21:30:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1927839800817766738",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Dishonest spin can't change the facts about our budget bill. We're protecting Iowa\u2019s most vulnerable \u2014 kids, seniors, pregnant women, and people with disabilities \u2014 while removing over $200 billion in fraud, waste, and abuse from benefit programs like Medicaid and SNAP. https://t.co/pHJeDJ0sUq",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1748467800,
+                "view_count": 1152
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1935061158806863872/img/MyyOJ8bhRpSmrp-l.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1935061158806863872/vid/avc1/1080x1920/Ntp_NP968Lqxydbd.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 53,
+                        "id": "1935061158806863872",
+                        "url": "https://video.twimg.com/amplify_video/1935061158806863872/vid/avc1/1080x1920/Ntp_NP968Lqxydbd.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1935076232497893436",
+                "created_time": "2025-06-17T20:45:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1935076232497893436",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Too many seniors are being denied care they\u2019re already entitled to. I\u2019m leading a new bipartisan bill to ensure Medicare patients can access occupational therapy for PTSD, anxiety, and addiction without red tape or delays.\n\nNo new spending, just more care where it\u2019s needed most. https://t.co/94Jli6jzCS",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1750193100,
+                "view_count": 502
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1940149597734584320/img/_kUEP5p3XTm1_WEs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1940149597734584320/vid/avc1/1280x720/s3JE1JonhTswm1mF.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 53,
+                        "id": "1940149597734584320",
+                        "url": "https://video.twimg.com/amplify_video/1940149597734584320/vid/avc1/1280x720/s3JE1JonhTswm1mF.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1940176086874382581",
+                "created_time": "2025-07-01T22:30:00",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1940176086874382581",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I joined the @RuthlessPodcast this morning to highlight key wins for Iowa in our reconciliation package:\n\n\u2705 $5,000 refundable adoption tax credit\n\u2705 $2,200 child tax credit\n\u2705 Strong Medicaid & SNAP protections for vulnerable Iowans\n\u2705 Critical relief for our farmers & producers https://t.co/PIkgRsC0Gk",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RuthlessPodcast"
+                ],
+                "text_tagged_users_ids": [
+                    "1313167973847314433"
+                ],
+                "text_tags": null,
+                "timestamp": 1751409000,
+                "view_count": 1366
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gu3DCYJWMAAZ-At.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gu3DCYJWMAAZ-At.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1940424521997279634",
+                "created_time": "2025-07-02T14:57:12",
+                "favorite_count": 54,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1940424521997279634",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 17,
+                "source": "Twitter Web App",
+                "text": "We\u2019re delivering stronger crop insurance and disaster protection for family-owned farms\u2014ensuring they can be passed down to the next generation of Iowa farmers. https://t.co/Oyvd9UaB3u",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751468232,
+                "view_count": 6442
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1942287466372759552/img/KPkG_-sahVufNyrY.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1942287466372759552/vid/avc1/1920x1080/_BCkKsFp5rQN3v2V.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 89,
+                        "id": "1942287466372759552",
+                        "url": "https://video.twimg.com/amplify_video/1942287466372759552/vid/avc1/1920x1080/_BCkKsFp5rQN3v2V.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1942339088754860344",
+                "created_time": "2025-07-07T21:45:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1942339088754860344",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web Client",
+                "text": "Our reconciliation package delivers:\n\n\ud83c\udfe5 $50 billion in funding for rural hospitals\n\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66 Protections for children, pregnant women, seniors, and those with disabilities\n\ud83d\udd0d A crackdown on waste, fraud, and abuse in Medicaid and SNAP\n\nWe're restoring integrity to the system while making sure vulnerable Iowans get the care they need.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1751924700,
+                "view_count": 510
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1942623667881394176/img/UOJJvCclqCcSEKP4.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1942623667881394176/vid/avc1/1280x720/QBLHZ-1-JWeJLsB4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 43,
+                        "id": "1942623667881394176",
+                        "url": "https://video.twimg.com/amplify_video/1942623667881394176/vid/avc1/1280x720/QBLHZ-1-JWeJLsB4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1942659959247814821",
+                "created_time": "2025-07-08T19:00:01",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1942659959247814821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "The Biden administration loosened eligibility checks and allowed Medicaid spending and enrollment to balloon. Our commonsense reforms will ensure that only eligible Americans are enrolled in benefit programs, strengthening them for the most vulnerable. https://t.co/56Yrk1XVg2",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1752001201,
+                "view_count": 461
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://nunn.house.gov/2025/07/08/244341/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/jMQiPsNwHm"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1942981500833558528/OSNXourH?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1943037441499430936",
+                "created_time": "2025-07-09T20:00:00",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1943037441499430936",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Iowa producers feed the world and power the country. But to keep leading, they need certainty.\n\nWe just delivered major wins: more support for biofuels, stronger crop insurance, and new tools to grow clean energy right here at home.\nhttps://t.co/jMQiPsNwHm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1752091200,
+                "view_count": 766
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://bit.ly/3Iqietj"
+                ],
+                "attached_links_url": [
+                    "https://t.co/pq7gNdH1dm"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1943274881359187968/vAGfCgRM?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1943754735124897905",
+                "created_time": "2025-07-11T19:30:16",
+                "favorite_count": 19,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1943754735124897905",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": ".@SpeakerJohnson said it best: \u201cIt takes a lot longer to build a lie than to tell the truth.\u201d\n\nOur reconciliation package delivers:\n\u2705 $1,500 tax cut for Iowans\n\u2705 Farm safety net update\n\u2705 Border + national security investments\n\u2705 Stronger Medicaid & SNAP\nhttps://t.co/pq7gNdH1dm",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SpeakerJohnson"
+                ],
+                "text_tagged_users_ids": [
+                    "827279765287559171"
+                ],
+                "text_tags": null,
+                "timestamp": 1752262216,
+                "view_count": 1222
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GwpN9p9XMAAcS-d.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GwpN9p9XMAAcS-d.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1948473263669023149",
+                "created_time": "2025-07-24T20:00:01",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1948473263669023149",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Great to meet with @StrandTx today to learn about their cutting-edge innovation to develop next-gen cures.\n\nProud to work with partners in the healthcare industry to bring more life-saving research\u2014and good-paying jobs\u2014to Iowa. https://t.co/8KlxlRaq3J",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "StrandTx"
+                ],
+                "text_tagged_users_ids": [
+                    "1048245893248569344"
+                ],
+                "text_tags": null,
+                "timestamp": 1753387201,
+                "view_count": 302
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1950202293833326786",
+                "created_time": "2025-07-29T14:30:34",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1950202293833326786",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "When the CFPB oversteps into insurance, Iowans pay the price. Glad to join @RepBryanSteil on the Business of Insurance Regulatory Reform Act to stop D.C. overreach and protect our state-based system that keeps insurance markets competitive and fair.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepBryanSteil"
+                ],
+                "text_tagged_users_ids": [
+                    "1075205691621720064"
+                ],
+                "text_tags": null,
+                "timestamp": 1753799434,
+                "view_count": 321
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://nunn.house.gov/2025/08/25/%F0%9F%A9%BA-training-more-nurses/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/smQs8vWec8"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gzck5S_WQAAcSte.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gzck5S_WQAAcSte.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1961119085254643883",
+                "created_time": "2025-08-28T17:30:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961119085254643883",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web Client",
+                "text": "Healthcare facilities across Iowa are feeling the strain of the nursing shortage, forcing staff to work longer hours and patients to wait longer for care. Our bipartisan bill directs HHS and DoL to conduct a full grant review to get more qualified nurses into the workforce.\n\n\ud83d\udd17https://t.co/smQs8vWec8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756402200,
+                "view_count": 398
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1961477536740737024/img/FDJcWh6GtkHgoz7r.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1961477536740737024/vid/avc1/1280x720/_iQH7PbcZeV0s83R.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 27,
+                        "id": "1961477536740737024",
+                        "url": "https://video.twimg.com/amplify_video/1961477536740737024/vid/avc1/1280x720/_iQH7PbcZeV0s83R.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1961496575114629228",
+                "created_time": "2025-08-29T18:30:01",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1961496575114629228",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Nearly 70 percent of healthcare facilities are struggling to fill nursing positions. Our bipartisan bill puts existing grant dollars to work so more nurses can get trained, licensed, and into the workforce where they are needed most. https://t.co/eaQa9ybgoA",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756492201,
+                "view_count": 452
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.axios.com/2025/10/20/jeffries-rejects-gop-bill-to-pay-federal-workers-and-troops?utm_source=x&utm_medium=organic_social&utm_campaign=editorial"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Vw9GpeMCa0"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1980391867674988544/dtImncvL?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1980415833387176429",
+                "created_time": "2025-10-20T23:28:23",
+                "favorite_count": 108,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1980415833387176429",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 3,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 57,
+                "retweet_count": 46,
+                "source": "Twitter for iPhone",
+                "text": "Jeffries says the quiet part out loud days after Schumer claims every day of the shutdown \u201cgets better\u201d for Democrats. \n\nHealthcare for illegals &gt; Paychecks for Americans is not a serious message. \n\nTime to let it go and pass @HouseGOP\u2019s clean bill.\n\nhttps://t.co/Vw9GpeMCa0",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1761002903,
+                "view_count": 9668
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1982132440744308736/img/AtURS8xkXICXQmS8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1982132440744308736/vid/avc1/1280x720/iN3x7EEJZkzZnYY8.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 31,
+                        "id": "1982132440744308736",
+                        "url": "https://video.twimg.com/amplify_video/1982132440744308736/vid/avc1/1280x720/iN3x7EEJZkzZnYY8.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "1982132823327637507",
+                "created_time": "2025-10-25T17:11:05",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1982132823327637507",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Medicaid is a lifeline for so many Iowans. That's why I delivered targeted changes to:\n\n\u2705 Protect moms, kids, Iowans with disabilities, and seniors\n\u2705 Remove illegal aliens\n\u2705 Target systematic waste, fraud & abuse\n\nAccountability for abuse + protections for vulnerable Iowans. https://t.co/TPgxKJtWrt",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761412265,
+                "view_count": 344
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8OzIm6WgBMEad1.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8OzIm6WgBMEad1.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "2000639762978537970",
+                "created_time": "2025-12-15T18:51:04",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000639762978537970",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "We're working to boost American-made formula and expand affordable maternity care to moms on Medicaid \u2014 putting Iowa families first with better access, lower costs, and stronger support. https://t.co/iBdGV6hLRC",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765824664,
+                "view_count": 811
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8aIWvTW4AAk0UC.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8aIWvTW4AAk0UC.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "2001437074545598563",
+                "created_time": "2025-12-17T23:39:18",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001437074545598563",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "I\u2019m laser-focused on bringing down health care costs for every Iowan. COVID-era tax subsidies and payments to people making over $100K are driving up costs for everyone. Insurance companies are profiting at record highs. My goal is to provide price transparency, help patients, reimburse health care providers, and enable patient choice. My vote delivers for every Iowan, and I\u2019ll continue working to bring down prices for all.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766014758,
+                "view_count": 431
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2001732866590326784/img/0aSQgicYa1ygbkHt.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2001732866590326784/vid/avc1/1920x1080/uDby89v0rxFC5YmQ.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 65,
+                        "id": "2001732866590326784",
+                        "url": "https://video.twimg.com/amplify_video/2001732866590326784/vid/avc1/1920x1080/uDby89v0rxFC5YmQ.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "2001733065672978815",
+                "created_time": "2025-12-18T19:15:27",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001733065672978815",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "Health insurance profits have jumped from $250 billion to $1.4 trillion\u2014while premiums are rising three times faster than inflation.\n\nWhy? COVID-era subsidies backed by Democrats drove prices up for everyone and locked in record profits for big insurers.\n\nThey don't want reform, which is why 210 Democrats voted AGAINST our commonsense plan to lower premiums by 11% for all Americans.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766085327,
+                "view_count": 491
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2002796983757553665/img/45FSL7kxtrXUKime.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2002796983757553665/vid/avc1/1080x1920/kf9yL_ZvC-F6sKtN.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 54,
+                        "id": "2002796983757553665",
+                        "url": "https://video.twimg.com/amplify_video/2002796983757553665/vid/avc1/1080x1920/kf9yL_ZvC-F6sKtN.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "2002829550259143159",
+                "created_time": "2025-12-21T19:52:30",
+                "favorite_count": 71,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2002829550259143159",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 25,
+                "retweet_count": 26,
+                "source": "Twitter Web Client",
+                "text": "The Unaffordable Care Act hiked premiums by double digits. But that money didn't help patients; it padded the profits of big insurance companies.\n\nWe passed legislation this week to lower premiums by up to 11% for all Americans, crack down on middlemen, and bring real transparency to the system.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766346750,
+                "view_count": 4757
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2005316711201812481/img/w3-a8cpppY5ICPNr.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2005316711201812481/vid/avc1/1080x1920/nAV-K-l4dfIFauwI.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 59,
+                        "id": "2005316711201812481",
+                        "url": "https://video.twimg.com/amplify_video/2005316711201812481/vid/avc1/1080x1920/nAV-K-l4dfIFauwI.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1610323831809363971",
+                "author_username": "ZachNunn",
+                "community_notes": null,
+                "conversation_id": "2005331411188727834",
+                "created_time": "2025-12-28T17:34:00",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005331411188727834",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter Web Client",
+                "text": "Over the past year, we heard from farmers across Iowa who want to keep their land, grow their markets, and pass the farm down to their kids.\n\nWe delivered real results: stronger crop insurance, export expansion, livestock disease prevention, biofuel tax credits, and protections against the CCP buying our farmland.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766943240,
+                "view_count": 452
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

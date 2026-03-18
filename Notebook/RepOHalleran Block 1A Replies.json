@@ -1,0 +1,685 @@
+{
+    "politician": "RepOHalleran",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1541875591007420424",
+            "replies": []
+        },
+        {
+            "conversation_id": "1541930695760547841",
+            "replies": []
+        },
+        {
+            "conversation_id": "1542957813445582851",
+            "replies": []
+        },
+        {
+            "conversation_id": "1544355899929726977",
+            "replies": []
+        },
+        {
+            "conversation_id": "1547261822188789763",
+            "replies": []
+        },
+        {
+            "conversation_id": "1548014177016356876",
+            "replies": []
+        },
+        {
+            "conversation_id": "1548793416040910848",
+            "replies": []
+        },
+        {
+            "conversation_id": "1549540840984510474",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1271249595763322880",
+                    "author_username": "AZNativeDems",
+                    "community_notes": null,
+                    "conversation_id": "1549540840984510474",
+                    "created_time": "2022-07-20T00:10:27",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1549547247863357440",
+                    "in_reply_to_post_id": "1549540840984510474",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran Thank you Congressman!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1658275827,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1550156386901843973",
+            "replies": []
+        },
+        {
+            "conversation_id": "1552815059830657024",
+            "replies": []
+        },
+        {
+            "conversation_id": "1553813997962416130",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "961039988556226560",
+                    "author_username": "MelloBenn",
+                    "community_notes": null,
+                    "conversation_id": "1553813997962416130",
+                    "created_time": "2022-07-31T18:47:03",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1553814515141287937",
+                    "in_reply_to_post_id": "1553813997962416130",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepOHalleran You lost my vote!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1659293223,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1561061755303956480",
+            "replies": []
+        },
+        {
+            "conversation_id": "1563255013735993345",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FbH0DovUIAAXHxz.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FbH0DovUIAAXHxz.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1518735052359708672",
+                    "author_username": "WeeethaPeople",
+                    "community_notes": null,
+                    "conversation_id": "1563255013735993345",
+                    "created_time": "2022-08-26T22:54:34",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1563298891096682496",
+                    "in_reply_to_post_id": "1563255013735993345",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepOHalleran https://t.co/UdUT0nf0ii",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661554474,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1570870555846508544",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3938896828",
+                    "author_username": "CountsPharmacy",
+                    "community_notes": null,
+                    "conversation_id": "1570870555846508544",
+                    "created_time": "2022-09-20T23:49:31",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1572372414587084801",
+                    "in_reply_to_post_id": "1570870555846508544",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran @RepGusBilirakis Medicare advantage plans are a scam",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "RepGusBilirakis"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "26051676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663717771,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2844099682",
+                    "author_username": "redlgb1969",
+                    "community_notes": null,
+                    "conversation_id": "1570870555846508544",
+                    "created_time": "2022-09-20T00:06:03",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1572014187047526400",
+                    "in_reply_to_post_id": "1570870555846508544",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPad",
+                    "text": "@RepOHalleran @BMAlliance @RepGusBilirakis how many patients were switched to advantage plans without their knowledge or their consent? that is what happens when the government allows the brokers\u2019 commissions for advantage plans to be over 6 times higher than the regular part d plans\u2019 commissions.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "BMAlliance",
+                        "RepGusBilirakis"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "2849169807",
+                        "26051676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663632363,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1571623851708014595",
+            "replies": []
+        },
+        {
+            "conversation_id": "1574489276670263312",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2966809636",
+                    "author_username": "ArtemiyMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1574489276670263312",
+                    "created_time": "2022-09-27T09:03:36",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1574686181572300805",
+                    "in_reply_to_post_id": "1574489276670263312",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran @BMAlliance Russia should be demilitarized and denuclearized. Iran as well.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "BMAlliance"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "2849169807"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664269416,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2849169807",
+                    "author_username": "BMAlliance",
+                    "community_notes": null,
+                    "conversation_id": "1574489276670263312",
+                    "created_time": "2022-09-26T20:13:39",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1574492416949862403",
+                    "in_reply_to_post_id": "1574489276670263312",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran Congratulations, Congressman! Thank you for your leadership on behalf of AZ seniors.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664223219,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1576644433675796481",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1569089870186033154",
+                    "author_username": "Johnny9265",
+                    "community_notes": null,
+                    "conversation_id": "1576644433675796481",
+                    "created_time": "2022-10-02T20:08:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1576665369430720512",
+                    "in_reply_to_post_id": "1576644433675796481",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran I'm a senior in AZ, and this isn't even on my radar. What seniors are concerned about is the economy that is in the tank, gas prices through the roof, inflation that has drastically increased costs, 401K's that have taken a beating! Your failed policies have caused all of this!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664741291,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1557555603882381313",
+                    "author_username": "Erin70926035",
+                    "community_notes": null,
+                    "conversation_id": "1576644433675796481",
+                    "created_time": "2022-10-02T19:16:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1576652279788118017",
+                    "in_reply_to_post_id": "1576644433675796481",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepOHalleran That\u2019s a Biden Win!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664738170,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1576697281587253248",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1576288240688037888",
+                    "author_username": "donthumour1",
+                    "community_notes": null,
+                    "conversation_id": "1576697281587253248",
+                    "created_time": "2022-10-02T22:18:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1576698053134020608",
+                    "in_reply_to_post_id": "1576697281587253248",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepOHalleran Incorrectm They freely chose a job and were paid for it. End of contract. Any 'obligation' is purely in your mind. No other promises were made.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664749084,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1582850326343868431",
+            "replies": []
+        },
+        {
+            "conversation_id": "1583132653854654466",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fgdwyb_XEAAv8JK.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fgdwyb_XEAAv8JK.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1442930380038975488",
+                    "author_username": "CarolAlcantar3",
+                    "community_notes": null,
+                    "conversation_id": "1583132653854654466",
+                    "created_time": "2022-11-01T08:30:26",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587361411549859841",
+                    "in_reply_to_post_id": "1583132653854654466",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "Twitter for Android",
+                    "text": "@RepOHalleran @ProtectOurCare #VoteBlue #healthcare https://t.co/eX70DOnAoa",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "ProtectOurCare"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "923282909309661184"
+                    ],
+                    "text_tags": [
+                        "healthcare",
+                        "voteblue"
+                    ],
+                    "timestamp": 1667291426,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FgdvC7RWQAEFJAn.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FgdvC7RWQAEFJAn.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1442930380038975488",
+                    "author_username": "CarolAlcantar3",
+                    "community_notes": null,
+                    "conversation_id": "1583132653854654466",
+                    "created_time": "2022-11-01T08:22:49",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1587359494677401601",
+                    "in_reply_to_post_id": "1583132653854654466",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 2,
+                    "source": "Twitter for Android",
+                    "text": "@RepOHalleran @ProtectOurCare #VoteBlue #healthcare https://t.co/1qXZcVMuEY",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "ProtectOurCare"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "923282909309661184"
+                    ],
+                    "text_tags": [
+                        "healthcare",
+                        "voteblue"
+                    ],
+                    "timestamp": 1667290969,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1012398211690983424",
+                    "author_username": "hollygwengeorge",
+                    "community_notes": null,
+                    "conversation_id": "1583132653854654466",
+                    "created_time": "2022-10-20T21:21:20",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1583206758868131840",
+                    "in_reply_to_post_id": "1583132653854654466",
+                    "in_reply_to_profile_id": "808416682972770304",
+                    "in_reply_to_profile_username": "RepOHalleran",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepOHalleran @ProtectOurCare Where is your donation button can\u2019t find it on your website or your bou?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepOHalleran",
+                        "ProtectOurCare"
+                    ],
+                    "text_tagged_users_ids": [
+                        "808416682972770304",
+                        "923282909309661184"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1666300880,
+                    "view_count": null
+                }
+            ]
+        }
+    ]
+}

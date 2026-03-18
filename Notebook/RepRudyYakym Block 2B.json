@@ -1,0 +1,206 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F4ZBSlEXoAw5YzS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F4ZBSlEXoAw5YzS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1605665632858607617",
+                "author_username": "RepRudyYakym",
+                "community_notes": null,
+                "conversation_id": "1695114106469064887",
+                "created_time": "2023-08-25T16:41:11",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1695114106469064887",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Enjoyed my discussion with constituents from here in the Second District about the importance of employer provided healthcare coverage and advocating for market-based solutions in healthcare. https://t.co/YzzhpEI6uX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1692981671,
+                "view_count": 772
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqhQevobcAQ3DRL.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqhQevtbcAEU_3D.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqhQevobcAI53EH.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqhQevobcAQ3DRL.jpg",
+                    "https://pbs.twimg.com/media/GqhQevtbcAEU_3D.jpg",
+                    "https://pbs.twimg.com/media/GqhQevobcAI53EH.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1605665632858607617",
+                "author_username": "RepRudyYakym",
+                "community_notes": null,
+                "conversation_id": "1920873736015577304",
+                "created_time": "2025-05-09T16:09:21",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1920873736015577304",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "It was great speaking with @NATEsafety members in Washington this week. Their vital work in expanding broadband and wireless coverage is crucial in connecting communities nationwide. https://t.co/PlfUTfCSRE",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NATEsafety"
+                ],
+                "text_tagged_users_ids": [
+                    "615499528"
+                ],
+                "text_tags": null,
+                "timestamp": 1746806961,
+                "view_count": 556
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968046777484853248/img/HuTMrEXHCz4rDJla.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968046777484853248/vid/avc1/1280x720/BFhJZ-njUhmHek9H.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 15,
+                        "id": "1968046777484853248",
+                        "url": "https://video.twimg.com/amplify_video/1968046777484853248/vid/avc1/1280x720/BFhJZ-njUhmHek9H.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1605665632858607617",
+                "author_username": "RepRudyYakym",
+                "community_notes": null,
+                "conversation_id": "1968046839309258807",
+                "created_time": "2025-09-16T20:18:25",
+                "favorite_count": 11,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968046839309258807",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Non-profit hospitals play a vital role in patient care, sometimes as the only source of care for patients. We must protect hospitals that honor their tax-exempt status and hold accountable those that abuse it. https://t.co/tFn4Cr40Tm",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758053905,
+                "view_count": 2231
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968390687243505664/img/fvjWOFCvRQPPhW6F.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968390687243505664/vid/avc1/1280x720/Ybp_u2bVw4BSEjgo.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 66,
+                        "id": "1968390687243505664",
+                        "url": "https://video.twimg.com/amplify_video/1968390687243505664/vid/avc1/1280x720/Ybp_u2bVw4BSEjgo.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1605665632858607617",
+                "author_username": "RepRudyYakym",
+                "community_notes": null,
+                "conversation_id": "1968391008552689670",
+                "created_time": "2025-09-17T19:06:02",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968391008552689670",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "When a medical device is proven safe and effective, seniors shouldn't have to wait years to access it. This bill cuts red tape so Medicare patients can receive breakthrough treatments, because timely access means hope for those facing serious illness. https://t.co/vv5XlRp1xB",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1758135962,
+                "view_count": 936
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

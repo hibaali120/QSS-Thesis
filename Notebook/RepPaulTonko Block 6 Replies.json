@@ -1,0 +1,98 @@
+{
+    "politician": "RepPaulTonko",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1655565424367378432",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "84119348",
+                    "author_username": "RepPaulTonko",
+                    "community_notes": null,
+                    "conversation_id": "1655565424367378432",
+                    "created_time": "2023-05-08T13:28:51",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1655565426145804290",
+                    "in_reply_to_post_id": "1655565424367378432",
+                    "in_reply_to_profile_id": "84119348",
+                    "in_reply_to_profile_username": "RepPaulTonko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": null,
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": null,
+                    "text": "This project will rehabilitate 26 substandard apartments in a disadvantaged Schenectady neighborhood, increasing housing supply and affordability for low-income residents in the local community!",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1683552531,
+                    "view_count": 550
+                }
+            ]
+        },
+        {
+            "conversation_id": "1812836303899111724",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "84119348",
+                    "author_username": "RepPaulTonko",
+                    "community_notes": null,
+                    "conversation_id": "1812836303899111724",
+                    "created_time": "2024-07-15T13:07:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1812836307279786199",
+                    "in_reply_to_post_id": "1812836303899111724",
+                    "in_reply_to_profile_id": "84119348",
+                    "in_reply_to_profile_username": "RepPaulTonko",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "This project will fund a \"Community Campus\" that enhances the lives of Mechanicville area residents by providing programming relating to food access, community education, mental and physical wellness, workforce development, and support for victims of domestic violence.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1721048831,
+                    "view_count": 445
+                }
+            ]
+        },
+        {
+            "conversation_id": "1897368959672013129",
+            "replies": []
+        }
+    ]
+}

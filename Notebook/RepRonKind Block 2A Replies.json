@@ -1,0 +1,159 @@
+{
+    "politician": "RepRonKind",
+    "block": "2A",
+    "posts": [
+        {
+            "conversation_id": "1481344356950884357",
+            "replies": []
+        },
+        {
+            "conversation_id": "1482094086513479685",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1398738446",
+                    "author_username": "JaredMChoate",
+                    "community_notes": null,
+                    "conversation_id": "1482094086513479685",
+                    "created_time": "2022-01-14T21:52:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1482108309482180610",
+                    "in_reply_to_post_id": "1482094086513479685",
+                    "in_reply_to_profile_id": "112740986",
+                    "in_reply_to_profile_username": "RepRonKind",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRonKind Shame you did nothing to groom a successor to your seat and were never seen in your district in years Ron. \n\nEau Claire and the rest of this state could have used you the last few years.\n\nMay you ride off into the sunset on a blanket of apathy and wasted opportunity.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRonKind"
+                    ],
+                    "text_tagged_users_ids": [
+                        "112740986"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642197131,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1562102424231448576",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1459545909218271235",
+                    "author_username": "KathrinLeinweb1",
+                    "community_notes": null,
+                    "conversation_id": "1562102424231448576",
+                    "created_time": "2022-08-23T16:37:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1562116741584588804",
+                    "in_reply_to_post_id": "1562102424231448576",
+                    "in_reply_to_profile_id": "112740986",
+                    "in_reply_to_profile_username": "RepRonKind",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepRonKind @TylerJHendricks @POTUS Good \ud83d\udc4d",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRonKind",
+                        "TylerJHendricks",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "112740986",
+                        "1940082513118208002",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661272628,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "828348730092949504",
+                    "author_username": "rickyboy1231",
+                    "community_notes": null,
+                    "conversation_id": "1562102424231448576",
+                    "created_time": "2022-08-23T16:28:36",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1562114592901398531",
+                    "in_reply_to_post_id": "1562102424231448576",
+                    "in_reply_to_profile_id": "112740986",
+                    "in_reply_to_profile_username": "RepRonKind",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepRonKind @POTUS Thanks Ron, sure am gonna miss you",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepRonKind",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "112740986",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1661272116,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1570144341443710978",
+            "replies": []
+        }
+    ]
+}

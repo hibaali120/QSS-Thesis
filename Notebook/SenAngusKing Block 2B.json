@@ -1,0 +1,431 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://coverme.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/QqiGyLY5nS"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1482358614518030341",
+                "created_time": "2022-01-15T14:26:49",
+                "favorite_count": 29,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1482358614518030341",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 19,
+                "source": "Twitter for iPhone",
+                "text": "REMINDER: Today is the final day to enroll in health insurance through the ACA marketplace. With new support from the #AmericanRescuePlan, you may find that coverage is less expensive than you think \u2013 find the best plan for you at https://t.co/QqiGyLY5nS or call 1-866-636-0355.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "americanrescueplan"
+                ],
+                "timestamp": 1642256809,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.king.senate.gov/american-rescue-plan"
+                ],
+                "attached_links_url": [
+                    "https://t.co/SGfsAmIFwQ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1502328521737314304",
+                "created_time": "2022-03-11T17:00:06",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1502328523503157250",
+                "in_reply_to_post_id": "1502328521737314304",
+                "in_reply_to_profile_id": "1068481578",
+                "in_reply_to_profile_username": "SenAngusKing",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "In Maine, this has meant millions to support rural hospitals, expand broadband access, and create good-paying jobs. You can find more information about the $4.6 billion Maine will be receiving from the #AmericanRescuePlan here: https://t.co/SGfsAmIFwQ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "americanrescueplan"
+                ],
+                "timestamp": 1647018006,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://CoverME.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/vvSfLMqI3N"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1594368101671489544/pu/img/_Rywr8uJh7vVwzKf.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1594368101671489544/pu/vid/1280x720/B7H6PXz9qXeDrB4W.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 58,
+                        "id": "1594368101671489544",
+                        "url": "https://video.twimg.com/ext_tw_video/1594368101671489544/pu/vid/1280x720/B7H6PXz9qXeDrB4W.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1594368235914371076",
+                "created_time": "2022-11-20T16:33:04",
+                "favorite_count": 31,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1594368235914371076",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 12,
+                "source": "Twitter for iPhone",
+                "text": "The ACA healthcare marketplace is OPEN! Thanks to the Inflation Reduction Act, coverage is more affordable for most Maine people. Sign up by December 15th to get insurance on January 1st \u2013 go to https://t.co/vvSfLMqI3N or call 1-866-636-0355 to find a plan that works for you. https://t.co/weh7Cj0job",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1668961984,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://CoverME.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/vvSfLMqI3N"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1614634843559575552",
+                "created_time": "2023-01-15T14:45:19",
+                "favorite_count": 31,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1614634843559575552",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 23,
+                "source": "Twitter for iPhone",
+                "text": "REMINDER: today is the final day to enroll for healthcare through the ACA marketplace. Thanks to the Inflation Reduction Act, coverage is more affordable for most Maine people. Sign up TODAY, go to https://t.co/vvSfLMqI3N or call 1-866-636-0355 to find a plan that works for you.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1673793919,
+                "view_count": 4640
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://mymaineconnection.gov"
+                ],
+                "attached_links_url": [
+                    "https://t.co/AEvncmBZTP"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FvySOOuWYAINlNq.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FvySOOuWYAINlNq.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1656359565389099024",
+                "created_time": "2023-05-10T18:04:28",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1656359565389099024",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 5,
+                "source": "Twitter Web App",
+                "text": "Are you covered by MaineCare? With recent federal changes and the COVID-19 public health emergency ending tomorrow, it may mean changes to your eligibility. Go to https://t.co/AEvncmBZTP to check your coverage status. https://t.co/3Z8G5Ob62h",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1683741868,
+                "view_count": 2684
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1763568502001020928/pu/img/THgI7dC44y-h804J.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1763568502001020928/pu/vid/avc1/1280x720/slzaT5E9BbIUY3au.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 45,
+                        "id": "1763568502001020928",
+                        "url": "https://video.twimg.com/ext_tw_video/1763568502001020928/pu/vid/avc1/1280x720/slzaT5E9BbIUY3au.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1763569431525962161",
+                "created_time": "2024-03-01T14:18:12",
+                "favorite_count": 114,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1763569431525962161",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 10,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 61,
+                "retweet_count": 32,
+                "source": "Twitter Web App",
+                "text": "There are innocent civilians in Gaza that need our help. Since many of their hospitals are overrun by Hamas terrorists, America needs to help them get the care they need. Sending a hospital ship offshore to provide care would make a difference in their lives. https://t.co/nJx1AVoe2r",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1709302692,
+                "view_count": 8658
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMGGAryWwAAS37v.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMGGAryWwAAS37v.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1783854279658180905",
+                "created_time": "2024-04-26T13:42:57",
+                "favorite_count": 88,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1783854279658180905",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 38,
+                "retweet_count": 17,
+                "source": "Twitter for iPhone",
+                "text": "As the state with the most forest coverage, Maine has deep cultural and economic roots in our expansive forests. I am proud to join @SenatorRisch in recognizing the 152nd Arbor Day to honor environmental stewardship and to maintain our forests for years to come. https://t.co/GbMMR1xbwT",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenatorRisch"
+                ],
+                "text_tagged_users_ids": [
+                    "1096059529"
+                ],
+                "text_tags": null,
+                "timestamp": 1714138977,
+                "view_count": 4387
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://observer-me.com/2024/08/06/news/collins-king-announce-more-than-500000-to-improve-rural-healthcare/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/bnP1UxgH9q"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1826243556903903725",
+                "created_time": "2024-08-21T13:02:48",
+                "favorite_count": 22,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1826243556903903725",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Rural Maine already faces many hurdles when accessing affordable healthcare. This grant will help keep our rural hospitals open and ensure communities get the care they need. Investing in the health of Maine people is investing in the future of Maine. https://t.co/bnP1UxgH9q",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1724245368,
+                "view_count": 2069
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://fox23maine.com/news/local/data-breach-at-central-maine-healthcare-exposes-patient-information"
+                ],
+                "attached_links_url": [
+                    "https://t.co/UImDnqlrTK"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1952444475038416896/Mz8Jx8RH?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1068481578",
+                "author_username": "SenAngusKing",
+                "community_notes": null,
+                "conversation_id": "1954187460188995615",
+                "created_time": "2025-08-09T14:26:12",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1954187460188995615",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": "Cyberattacks and data breaches are on the rise \u2014 posing risk to Maine patients, their providers and hospitals. I'm ready to work with any of my colleagues to combat these threats and ensure our health care systems are prepared to defend against bad actors.\nhttps://t.co/UImDnqlrTK",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1754749572,
+                "view_count": 1652
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

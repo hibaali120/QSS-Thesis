@@ -1,0 +1,59 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzOhOmtW8AAzo9B.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzOhQGNWMAA8Ggo.jpg?name=small",
+                    "https://pbs.twimg.com/media/GzOhQ5pXIAAm3K8.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzOhOmtW8AAzo9B.jpg",
+                    "https://pbs.twimg.com/media/GzOhQGNWMAA8Ggo.jpg",
+                    "https://pbs.twimg.com/media/GzOhQ5pXIAAm3K8.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1871605623496097792",
+                "author_username": "repkmr",
+                "community_notes": null,
+                "conversation_id": "1960088995297161516",
+                "created_time": "2025-08-25T21:16:47",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1960088995297161516",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "What if I told you floppy disks play a key role in how we treat sewer water?\n\nThe staff at Buena Vista\u2019s water treatment facility is doing amazing work to keep our water safe, but I\u2019m fighting to secure funding for MUCH NEEDED upgrades to our water infrastructure. https://t.co/C4eRmlas35",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756156607,
+                "view_count": 283
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

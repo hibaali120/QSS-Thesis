@@ -1,0 +1,245 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQ4fv2vWQAM24jK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FQ4fv2vWQAM24jK.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1092979962",
+                "author_username": "RepCheri",
+                "community_notes": null,
+                "conversation_id": "1517199986735427588",
+                "created_time": "2022-04-21T17:53:59",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1517199986735427588",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Hello, Northwest & Central Illinois! \n\nFollow me as I visit @WIUQuadCities, @cityofgalesburg's Sanitary District Wastewater Treatment Plant & @CityofPeoria_IL\u2019s former Harrison School to meet with local officials & present federal funds I secured for community projects. https://t.co/idyuw0QFF4",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "cityofgalesburg",
+                    "CityofPeoria_IL"
+                ],
+                "text_tagged_users_ids": [
+                    "16408906",
+                    "1061585838"
+                ],
+                "text_tags": null,
+                "timestamp": 1650563639,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FQ5V2aaXwAENpAR.jpg?name=small",
+                    "https://pbs.twimg.com/media/FQ5V3S5XIAIjc4t.jpg?name=small",
+                    "https://pbs.twimg.com/media/FQ5V4wUWQAUCcrw.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FQ5V2aaXwAENpAR.jpg",
+                    "https://pbs.twimg.com/media/FQ5V3S5XIAIjc4t.jpg",
+                    "https://pbs.twimg.com/media/FQ5V4wUWQAUCcrw.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1092979962",
+                "author_username": "RepCheri",
+                "community_notes": null,
+                "conversation_id": "1517199986735427588",
+                "created_time": "2022-04-21T20:51:37",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1517244687614160897",
+                "in_reply_to_post_id": "1517219651347955712",
+                "in_reply_to_profile_id": "1092979962",
+                "in_reply_to_profile_username": "RepCheri",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Second stop: Galesburg Sanitary District\u2019s Wastewater Treatment Plant! \n\nI had a great Cheri on Shift learning more about the water treatment process and had the pleasure of presenting $1.2M in federal funds to upgrade the facility \u2014 thank you all for your hospitality! https://t.co/q6hfRTSdkT",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1650574297,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1092979962",
+                "author_username": "RepCheri",
+                "community_notes": null,
+                "conversation_id": "1550182596285550592",
+                "created_time": "2022-07-21T18:15:06",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1550182596285550592",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1550179049598861314",
+                "quoted_status_profile_id": "1349149096909668363",
+                "quoted_status_profile_username": "POTUS46Archive",
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Wishing @POTUS a quick recovery! I'm glad to hear his symptoms are mild. \n\nLet this serve as a reminder that this pandemic is far from over. If you haven't been vaccinated or boosted, I highly encourage you to do so to keep yourself and your loved ones safe.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1658427306,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fb_tASYXEAcNTjU.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fb_tASVWAAsvTF-.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fb_tASYXEAcNTjU.jpg",
+                    "https://pbs.twimg.com/media/Fb_tASVWAAsvTF-.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1092979962",
+                "author_username": "RepCheri",
+                "community_notes": null,
+                "conversation_id": "1567146368635998209",
+                "created_time": "2022-09-06T19:22:31",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1567231792410664964",
+                "in_reply_to_post_id": "1567185048830464000",
+                "in_reply_to_profile_id": "1092979962",
+                "in_reply_to_profile_username": "RepCheri",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "Second stop @RosecranceNews in Freeport!\n\nI\u2019m thrilled to deliver $300,000 to help build a new outpatient behavioral health care clinic at Rosecrance in Freeport. By expanding access to care, folks in rural areas will now get the treatment they need! https://t.co/CzYeLtgRvJ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1662492151,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FjeAmmDWYAE_9Fg.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FjeAmmDWYAE_9Fg.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1092979962",
+                "author_username": "RepCheri",
+                "community_notes": null,
+                "conversation_id": "1600889785496653830",
+                "created_time": "2022-12-08T16:27:22",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1600889785496653830",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "NEWS: The Respect for Marriage Act heads to @POTUS' desk to be signed into law!\n\nToday, we sent a clear message that no matter who you are or who you love, you deserve equal treatment under the law. I'm so proud to cast my vote for this historic bill. #LoveWins https://t.co/boQsctmMBA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": [
+                    "lovewins"
+                ],
+                "timestamp": 1670516842,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

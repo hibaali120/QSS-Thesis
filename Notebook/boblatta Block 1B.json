@@ -1,0 +1,333 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1596169186337849344/pu/img/6E6xyJg1O-xwdJLp.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1596169186337849344/pu/vid/1130x720/yLteQIL9f_f4c_al.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 53,
+                        "id": "1596169186337849344",
+                        "url": "https://video.twimg.com/ext_tw_video/1596169186337849344/pu/vid/1130x720/yLteQIL9f_f4c_al.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1596169304361279488",
+                "created_time": "2022-11-25T15:49:52",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1596169304361279488",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "November is #AlzheimersAwarenessMonth. As we press for more research, prevention, and treatment efforts, please join me in raising awareness for the millions of Americans living with this horrible disease. Together, we can #EndALZ. https://t.co/cBCIWiUmVI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "alzheimersawarenessmonth",
+                    "endalz"
+                ],
+                "timestamp": 1669391392,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1696544373574451656",
+                "created_time": "2023-08-29T15:24:33",
+                "favorite_count": 12,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1696544373574451656",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Marcia and I are praying for @SteveScalise for a very speedy recovery from his diagnosis. We all know that Steve is a fighter and he will overcome this. We all need Steve\u2019s leadership in the U.S. House of Representatives.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SteveScalise"
+                ],
+                "text_tagged_users_ids": [
+                    "1209417007"
+                ],
+                "text_tags": null,
+                "timestamp": 1693322673,
+                "view_count": 1063
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://www.preventcancer.org"
+                ],
+                "attached_links_url": [
+                    "https://t.co/7pV6tMD5eK"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1754325123300040864",
+                "created_time": "2024-02-05T02:04:37",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1754325123300040864",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "Sadly, each year, about 70,000 Ohioans will receive a devastating cancer diagnosis. As we recognize #WorldCancerDay, please remember that early detection can help lead to better outcomes. To find cancer prevention and early detection resources, visit https://t.co/7pV6tMD5eK.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "worldcancerday"
+                ],
+                "timestamp": 1707098677,
+                "view_count": 630
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1781048586756579534",
+                "created_time": "2024-04-18T19:54:08",
+                "favorite_count": 0,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1781048588522361233",
+                "in_reply_to_post_id": "1781048586756579534",
+                "in_reply_to_profile_id": "15394954",
+                "in_reply_to_profile_username": "boblatta",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Over the last decade, 85% of new medicines entered the American market. Meanwhile, countries like Canada fell further behind by admitting less than half of new medicines available. Canadians were then forced to seek treatment in the U.S.\n\nThe Biden admin.\u2019s current price control scheme puts the U.S. in lockstep with countries like Canada, and it will ultimately risk patients\u2019 access to innovative and cutting-edge medicines.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1713470048,
+                "view_count": 341
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1785672455186465265",
+                "created_time": "2024-05-01T14:07:44",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1785672455186465265",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1785417914272624805",
+                "quoted_status_profile_id": "18967498",
+                "quoted_status_profile_username": "CongressmanGT",
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Great news! Congrats to my friend, @CongressmanGT, on completing cancer treatment!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CongressmanGT"
+                ],
+                "text_tagged_users_ids": [
+                    "18967498"
+                ],
+                "text_tags": null,
+                "timestamp": 1714572464,
+                "view_count": 939
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://preventcancer.org/breast"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ta1uzhYkMP"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GaHeoRgW4AAjWWl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GaHeoRgW4AAjWWl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1847257824285614118",
+                "created_time": "2024-10-18T12:46:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1847257824285614118",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "October is #BreastCancerAwarenessMonth. \n\nEarly detection is the best protection against breast cancer. This month, please take some time to learn about screening recommendations, signs & symptoms of the disease, & more at https://t.co/ta1uzhYkMP. @preventcancer https://t.co/Xi0K2uXEC1",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "preventcancer"
+                ],
+                "text_tagged_users_ids": [
+                    "79032381"
+                ],
+                "text_tags": [
+                    "breastcancerawarenessmonth"
+                ],
+                "timestamp": 1729255560,
+                "view_count": 503
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15394954",
+                "author_username": "boblatta",
+                "community_notes": null,
+                "conversation_id": "1995620528837558737",
+                "created_time": "2025-12-01T22:26:25",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1995620528837558737",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "TweetDeck Web App",
+                "text": "Today, the House voted on the bipartisan Give Kids a Chance Act, introduced by @RepMcCaul and @RepGusBilirakis. This legislation provides a much-needed spotlight on pediatric cancer research by expanding access to medicines and treatment options for children battling rare diseases.\n\nI\u2019m proud to have supported this bill and to stand alongside families in #OH5 and across the country as we work toward improving outcomes for patients and closing the gap in pediatric drug research.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepMcCaul",
+                    "RepGusBilirakis"
+                ],
+                "text_tagged_users_ids": [
+                    "26424123",
+                    "26051676"
+                ],
+                "text_tags": null,
+                "timestamp": 1764627985,
+                "view_count": 1135
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

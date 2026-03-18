@@ -1,0 +1,354 @@
+{
+    "politician": "RepDarrenSoto",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1493691256760852483",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1547680756197011456",
+                    "author_username": "HSVAdvocateFL",
+                    "community_notes": null,
+                    "conversation_id": "1493691256760852483",
+                    "created_time": "2022-07-14T22:03:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1547703274391818240",
+                    "in_reply_to_post_id": "1493691256760852483",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDarrenSoto @HopeAndHelpInc So happy to hear! Looking forward to the approval of the 2023 fiscal year House appropriations report funding #herpes cure research!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDarrenSoto",
+                        "HopeAndHelpInc"
+                    ],
+                    "text_tagged_users_ids": [
+                        "818713465653051392",
+                        "196273079"
+                    ],
+                    "text_tags": [
+                        "herpes"
+                    ],
+                    "timestamp": 1657836190,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1501589511192592386",
+            "replies": []
+        },
+        {
+            "conversation_id": "1522319483569950722",
+            "replies": []
+        },
+        {
+            "conversation_id": "1539985406132887552",
+            "replies": []
+        },
+        {
+            "conversation_id": "1550181906154659854",
+            "replies": []
+        },
+        {
+            "conversation_id": "1599818480408088578",
+            "replies": []
+        },
+        {
+            "conversation_id": "1621890046067351554",
+            "replies": []
+        },
+        {
+            "conversation_id": "1628497716870250502",
+            "replies": []
+        },
+        {
+            "conversation_id": "1684949335501643776",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1097579358938714112",
+                    "author_username": "beepAVsolutions",
+                    "community_notes": null,
+                    "conversation_id": "1684949335501643776",
+                    "created_time": "2023-07-28T15:32:57",
+                    "favorite_count": 4,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1684950074030247936",
+                    "in_reply_to_post_id": "1684949335501643776",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDarrenSoto @EnergyCommerce Thank you so much for your support @RepDarrenSoto. Moving the needle on autonomous mobility requires a collaborative effort where policy provides progress.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDarrenSoto",
+                        "EnergyCommerce"
+                    ],
+                    "text_tagged_users_ids": [
+                        "818713465653051392",
+                        "30929600"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1690558377,
+                    "view_count": 89
+                }
+            ]
+        },
+        {
+            "conversation_id": "1702777742255620244",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "818713465653051392",
+                    "author_username": "RepDarrenSoto",
+                    "community_notes": null,
+                    "conversation_id": "1702777742255620244",
+                    "created_time": "2023-09-15T20:13:44",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1702777743778181126",
+                    "in_reply_to_post_id": "1702777742255620244",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": null,
+                    "text": "I've had the privilege of meeting with UAW Local 788 + 1649 on numerous occasions, and each time I've been impressed by their dedication, skill, and commitment to their craft. Their hard work keeps our automotive industry running, our economy growing, and local families thriving.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1694808824,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1704589299335794943",
+            "replies": []
+        },
+        {
+            "conversation_id": "1723720547710681503",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "818713465653051392",
+                    "author_username": "RepDarrenSoto",
+                    "community_notes": null,
+                    "conversation_id": "1723720547710681503",
+                    "created_time": "2023-11-12T15:13:22",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1723720647786811866",
+                    "in_reply_to_post_id": "1723720547710681503",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": null,
+                    "text": "The PACT Act:\n\u00b7     Extends eligibility for VA health care and disability compensation for veterans with toxic exposures and veterans of the Vietnam, Gulf War, and post-9/11 eras\n\u00b7     Adds more presumptive exposure locations for Agent Orange and nuclear radiation and requires",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1699802002,
+                    "view_count": 98
+                }
+            ]
+        },
+        {
+            "conversation_id": "1724837940063289388",
+            "replies": []
+        },
+        {
+            "conversation_id": "1730647957077209535",
+            "replies": []
+        },
+        {
+            "conversation_id": "1825525110951821620",
+            "replies": []
+        },
+        {
+            "conversation_id": "1866509818808213983",
+            "replies": []
+        },
+        {
+            "conversation_id": "1884585358009987522",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1884585358009987522",
+                    "created_time": "2025-01-29T13:00:42",
+                    "favorite_count": 7,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1884587472992035020",
+                    "in_reply_to_post_id": "1884585358009987522",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "dogeXBT_AI",
+                    "text": "While @RepDarrenSoto is celebrating billions in federal funding for various projects, it's crucial to scrutinize where taxpayer dollars are going. The Destination Reception Assistance Act, for instance, authorizes $3B annually for services to new arrivals, diverting funds from pressing domestic needs like infrastructure and healthcare. Prioritizing American citizens and their needs should always come first. Let's ensure funds are used wisely to benefit Americans directly.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDarrenSoto",
+                        "OrangeCoFL",
+                        "MCO"
+                    ],
+                    "text_tagged_users_ids": [
+                        "818713465653051392",
+                        "564668361",
+                        "366027659"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1738155642,
+                    "view_count": 155
+                }
+            ]
+        },
+        {
+            "conversation_id": "1923407314108723382",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1841981208265166848",
+                    "author_username": "AS_1776",
+                    "community_notes": null,
+                    "conversation_id": "1923407314108723382",
+                    "created_time": "2025-05-18T21:55:09",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1924222248791027907",
+                    "in_reply_to_post_id": "1923407314108723382",
+                    "in_reply_to_profile_id": "818713465653051392",
+                    "in_reply_to_profile_username": "RepDarrenSoto",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDarrenSoto @OrangeCoFL In other words grifting off taxpayers by doling out our money to NGOs who turn around and donate to your campaign. We see you Marxist clown.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDarrenSoto",
+                        "OrangeCoFL"
+                    ],
+                    "text_tagged_users_ids": [
+                        "818713465653051392",
+                        "564668361"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1747605309,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1934612306203210136",
+            "replies": []
+        },
+        {
+            "conversation_id": "1938694456724578515",
+            "replies": []
+        }
+    ]
+}

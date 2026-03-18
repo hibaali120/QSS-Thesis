@@ -1,0 +1,165 @@
+{
+    "politician": "RepFranklin",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1482036608035700745",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "346582403",
+                    "author_username": "AbelGonzales_FL",
+                    "community_notes": null,
+                    "conversation_id": "1482036608035700745",
+                    "created_time": "2022-01-14T18:02:44",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1482050565098119179",
+                    "in_reply_to_post_id": "1482036608035700745",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepFranklin @USSupremeCourt @POTUS With this ruling, we can expect hundreds of thousands more Americans to die because the Republican Party would rather make this Pandemic a political issue vs a public health issue.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFranklin",
+                        "USSupremeCourt",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343664721384398849",
+                        "17912982",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642183364,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "546780918",
+                    "author_username": "parks_alan",
+                    "community_notes": null,
+                    "conversation_id": "1482036608035700745",
+                    "created_time": "2022-01-14T17:15:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1482038659734020099",
+                    "in_reply_to_post_id": "1482036608035700745",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepFranklin @USSupremeCourt @POTUS Private companies can still require the jab correct?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFranklin",
+                        "USSupremeCourt",
+                        "POTUS"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343664721384398849",
+                        "17912982",
+                        "1879650942410481666"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1642180526,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1487426975031566341",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "795825408474316800",
+                    "author_username": "2claremonts",
+                    "community_notes": null,
+                    "conversation_id": "1487426975031566341",
+                    "created_time": "2022-01-30T17:20:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1487838119869169664",
+                    "in_reply_to_post_id": "1487426975031566341",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepFranklin Yeah, you visited a facility that the GQP would have no interest in funding. Phony",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFranklin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343664721384398849"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1643563225,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1517292773027819520",
+            "replies": []
+        },
+        {
+            "conversation_id": "1595619145726533638",
+            "replies": []
+        },
+        {
+            "conversation_id": "1595808634851794945",
+            "replies": []
+        }
+    ]
+}

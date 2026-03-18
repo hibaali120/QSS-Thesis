@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Gok-gY7WgAAZnyM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Gok-gY7WgAAZnyM.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1630649273191743488",
+                "author_username": "TimSheehyMT",
+                "community_notes": null,
+                "conversation_id": "1912128251406753838",
+                "created_time": "2025-04-15T12:57:55",
+                "favorite_count": 360,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912128251406753838",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 41,
+                "retweet_count": 79,
+                "source": "Twitter for iPhone",
+                "text": "The Democrat Party facilitated mass illegal migration directly into our communities under Joe Biden, and when our duly elected government tries to exercise its lawful authority to secure our nation under President Trump, Democrat judges fight to stop it. Complete lunacy! https://t.co/4SBmhtmIOM",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1744721875,
+                "view_count": 11891
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

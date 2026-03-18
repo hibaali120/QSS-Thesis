@@ -1,0 +1,269 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqR_A0TW8AAwDju.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqR_CN1XcAA6e5K.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqR_EMgXQAADN6C.jpg?name=small",
+                    "https://pbs.twimg.com/media/GqR_FvNWEAAYsTi.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqR_A0TW8AAwDju.jpg",
+                    "https://pbs.twimg.com/media/GqR_CN1XcAA6e5K.jpg",
+                    "https://pbs.twimg.com/media/GqR_EMgXQAADN6C.jpg",
+                    "https://pbs.twimg.com/media/GqR_FvNWEAAYsTi.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1919799400001323397",
+                "created_time": "2025-05-06T17:00:19",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1919799400001323397",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Access to comprehensive healthcare services is vital to our rural communities in Montana.\n\nToday, I sat down with leadership from a number of hospitals across the Treasure State to talk about the challenges facing rural providers and proposals to ensure Montanans receive the best care available.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1746550819,
+                "view_count": 204
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1968339463517442049/img/NE-BkpGU1xaSn7Fu.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1968339463517442049/vid/avc1/3840x2160/wfKbsUvD_c8Z-QUE.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 111,
+                        "id": "1968339463517442049",
+                        "url": "https://video.twimg.com/amplify_video/1968339463517442049/vid/avc1/3840x2160/wfKbsUvD_c8Z-QUE.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1968339951768031505",
+                "created_time": "2025-09-17T15:43:09",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1968339951768031505",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "TRIA ensures coverage for acts of terrorism remains available and affordable in the wake of 9/11.\n\nThe program is overseen by the vestigial Federal Insurance Office, the existence of which violates the McCarran-Ferguson Act.\n\nAs our @FinancialCmte witnesses attest, eliminating FIO would have no effect on this critical program.\n\n\ud83d\udcfa\ud83d\udc47",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "FinancialCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "42924141"
+                ],
+                "text_tags": null,
+                "timestamp": 1758123789,
+                "view_count": 1623
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1991148932013973504/img/EhfygqFoIqrpipYM.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1991148932013973504/vid/avc1/1566x886/uImEyv5sRkAFzsg4.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 164,
+                        "id": "1991148932013973504",
+                        "url": "https://video.twimg.com/amplify_video/1991148932013973504/vid/avc1/1566x886/uImEyv5sRkAFzsg4.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "1991149407060803836",
+                "created_time": "2025-11-19T14:19:47",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1991149407060803836",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 8,
+                "source": "Twitter for iPhone",
+                "text": "As Montana\u2019s insurance commissioner, it was clear that the ACA\u2019s biggest problem is ADVERSE SELECTION \ud83d\udc47\n\nPrices get higher, healthy people leave, sick people stay, the risk pool gets riskier, the pool costs more money, next year, your premiums skyrocket. Wash. Rinse. Repeat. https://t.co/jLy3BZkg1w",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1763561987,
+                "view_count": 1125
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2000652870836699139/img/RWrepvTXZKkKKx2Y.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2000652870836699139/vid/avc1/3840x2160/6YiRC2jMCZLMP8NN.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 59,
+                        "id": "2000652870836699139",
+                        "url": "https://video.twimg.com/amplify_video/2000652870836699139/vid/avc1/3840x2160/6YiRC2jMCZLMP8NN.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2000655397993246975",
+                "created_time": "2025-12-15T19:53:11",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2000655397993246975",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "As premiums increase, healthy people leave, sick people stay, the risk pool gets riskier, the pool costs more money, and premiums skyrocket once again.\n\nThat's adverse selection, and its one of the key factors to consider if we're going to fix the healthcare crisis. https://t.co/FyTkwyxlMb",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1765828391,
+                "view_count": 391
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/2005976784374779905/img/OZKdwbLeAhrBp7tT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/2005976784374779905/vid/avc1/1554x888/HjRHco1NHpCiMg-0.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 136,
+                        "id": "2005976784374779905",
+                        "url": "https://video.twimg.com/amplify_video/2005976784374779905/vid/avc1/1554x888/HjRHco1NHpCiMg-0.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1873876193960763392",
+                "author_username": "RepTroyDowning",
+                "community_notes": null,
+                "conversation_id": "2005977057654866358",
+                "created_time": "2025-12-30T12:19:34",
+                "favorite_count": 20,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005977057654866358",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 4,
+                "source": "Twitter for iPhone",
+                "text": "Make no mistake, folks are seeing their healthcare insurance premiums rise across the country, but for a host of reasons that have little to do with the expiration of Obamacare subsidies.\n\nI joined @MorningsMaria to break it all down ahead of their expiration tomorrow.\n\n\ud83d\udcfa\ud83d\udc47 https://t.co/IR3CrE3w7H",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MorningsMaria"
+                ],
+                "text_tagged_users_ids": [
+                    "2330590446"
+                ],
+                "text_tags": null,
+                "timestamp": 1767097174,
+                "view_count": 669
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

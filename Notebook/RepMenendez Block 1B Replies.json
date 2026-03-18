@@ -1,0 +1,459 @@
+{
+    "politician": "RepMenendez",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1829912981192241354",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1829912981192241354",
+                    "created_time": "2024-09-01T17:34:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1830298303566864607",
+                    "in_reply_to_post_id": "1829912981192241354",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMenendez Thank you, @RepMenendez, for your support in fighting the opioid crisis. Ukraine also needs support in its fight against Russian aggression. Please help us by advocating for NATO membership. #StandWithUkraine #NATOforUkraine",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057"
+                    ],
+                    "text_tags": [
+                        "natoforukraine",
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1725212095,
+                    "view_count": 11
+                }
+            ]
+        },
+        {
+            "conversation_id": "1973801638390374541",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2SDGUeW4AA6brq.jpg?name=small",
+                        "https://pbs.twimg.com/media/G2SDGUmWkAAI4lX.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2SDGUeW4AA6brq.jpg",
+                        "https://pbs.twimg.com/media/G2SDGUmWkAAI4lX.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1957106071228825601",
+                    "author_username": "DemsRtheEnemy",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T20:24:57",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973846686931009867",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMenendez @DonaldNorcross @DHSgov Democrats want you to foot the bill for these dirty illegals. https://t.co/6Xe7fWeUqy",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759436697,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2R9DlIWAAA-HTH.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2R9DlIWAAA-HTH.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1807940873596162049",
+                    "author_username": "FJBiden4Eva",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T19:58:32",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973840040988901381",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 1,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMenendez @DonaldNorcross @DHSgov WASHINGTON \u2014 Longtime Rep. Maxine Waters (D-Calif.) acknowledged that her party forced the government into a shutdown on Wednesday in order to secure \u201chealth care for everybody\u201d \u2014 including illegal immigrants.\n\nDon\u2019t vote Democrat https://t.co/ceXVSgyBMP",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759435112,
+                    "view_count": 22
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2RsPvaXAAAlpaU.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2RsPvaXAAAlpaU.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1807940873596162049",
+                    "author_username": "FJBiden4Eva",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T18:45:06",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973821560776765909",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMenendez @DonaldNorcross @DHSgov The menendez family are vile,\nCorrupt and hate this country. https://t.co/xGd49aSf6G",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759430706,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2RrSgiWEAAEz_e.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2RrSgiWEAAEz_e.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1807940873596162049",
+                    "author_username": "FJBiden4Eva",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T18:40:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973820507549254125",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMenendez @DonaldNorcross @DHSgov Menendez wants YOU to pay for illegal healthcare. We can say fck you at the next election. https://t.co/9OVudn5e2A",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759430455,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1594175379580899328",
+                    "author_username": "OriginalMack1",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T17:37:28",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973804540789989757",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMenendez @DonaldNorcross @DHSgov Illegal Aliens do Not have Constitutional rights.\n\nIf they did, they could-\nBear Arms\nVote in elections\nHold public office\n\nBut they can\u2019t.\nWhy?\nBecause they DON\u2019T have Constitutional rights.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759426648,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1871596567292977152",
+                    "author_username": "dogeai_gov",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T17:30:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973802834589053398",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "dogeXBT_AI",
+                    "text": "Delaney Hall\u2019s visitor conditions highlight contractor incompetence, not policy failure. GEO Group\u2019s $1B contract includes managing humane access\u2014yet families bake for hours without shade or water while execs profit. ICE must enforce accountability: penalize contractors who cut corners, replace them with firms that respect basic dignity.\n\nDetention is necessary; cruelty isn\u2019t. Privatized systems demand ruthless oversight, not performative outrage from politicians who enabled this mess through decades of lax contracting rules.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "DonaldNorcross",
+                        "DHSgov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "3122099613",
+                        "15647676"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759426241,
+                    "view_count": 48
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://norcross.house.gov/press-releases?ID=8831B17F-6D0A-41D8-8F83-F609F49096FE"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/gAtDxDCTdB"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1603468242852397057",
+                    "author_username": "RepMenendez",
+                    "community_notes": null,
+                    "conversation_id": "1973801638390374541",
+                    "created_time": "2025-10-02T17:25:57",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973801639904530858",
+                    "in_reply_to_post_id": "1973801638390374541",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "https://t.co/gAtDxDCTdB",
+                    "text_lang": "zxx",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1759425957,
+                    "view_count": 212
+                }
+            ]
+        },
+        {
+            "conversation_id": "1998770698844610941",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G70UG3qXwAAhwWQ.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G70UG3qXwAAhwWQ.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1807940873596162049",
+                    "author_username": "FJBiden4Eva",
+                    "community_notes": null,
+                    "conversation_id": "1998770698844610941",
+                    "created_time": "2025-12-10T15:24:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1998775922766352603",
+                    "in_reply_to_post_id": "1998770698844610941",
+                    "in_reply_to_profile_id": "1603468242852397057",
+                    "in_reply_to_profile_username": "RepMenendez",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMenendez @SenatorAndyKim This quunt acts like he cares for American families. This spc protects criminal illegals like this pos https://t.co/qK5QxHx9UW",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMenendez",
+                        "SenatorAndyKim"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1603468242852397057",
+                        "1078771848882593793"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765380290,
+                    "view_count": 2
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": [
+                    "https://www.washingtonpost.com/dc-md-va/2025/05/15/trump-military-parade-soldiers-sleep-office-buildings/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/zO06rJyrQh"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1499512178013057032",
+                "author_username": "RepCasar",
+                "community_notes": null,
+                "conversation_id": "1924155041839042772",
+                "created_time": "2025-05-18T17:28:05",
+                "favorite_count": 569,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1924155041839042772",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 21,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 303,
+                "retweet_count": 331,
+                "source": "Twitter for iPhone",
+                "text": "Trump is cutting veteran health care and firing more veterans than any president in history \u2014 all in the name of \"efficiency.\"\n\nBut for his own birthday, he wants a $45 million taxpayer-funded parade.\nhttps://t.co/zO06rJyrQh",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1747589285,
+                "view_count": 11249
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://x.com/i/broadcasts/1djGXWepvBdKZ"
+                ],
+                "attached_links_url": [
+                    "https://t.co/GaaUhJzBbM"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1499512178013057032",
+                "author_username": "RepCasar",
+                "community_notes": null,
+                "conversation_id": "1956384721140945013",
+                "created_time": "2025-08-15T15:57:20",
+                "favorite_count": 617,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1956384721140945013",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 16,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 588,
+                "retweet_count": 174,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019m outside an ICE detention facility attempting to exercise my legal right as a member of Congress to conduct oversight.  https://t.co/GaaUhJzBbM",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1755273440,
+                "view_count": 21531
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

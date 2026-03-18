@@ -1,0 +1,57 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GovpQQ9WEAAVWDl.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GovpQQ9WEAAVWDl.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1868715744579489792",
+                "author_username": "RepFields",
+                "community_notes": null,
+                "conversation_id": "1912878938285625818",
+                "created_time": "2025-04-17T14:40:53",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1912878938285625818",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 4,
+                "retweet_count": 2,
+                "source": "Twitter for iPhone",
+                "text": "Over a month ago I stood on the House steps with my fellow Democrats, listening to the stories of people whose lives would be up ended if they lost their Medicaid cover coverage. Today, we\u2019re still fighting to #SaveMedicaid. https://t.co/WfJ0WvVcCX",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "savemedicaid"
+                ],
+                "timestamp": 1744900853,
+                "view_count": 310
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

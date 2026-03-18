@@ -1,0 +1,355 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1509572964802519040",
+                "created_time": "2022-03-31T16:46:55",
+                "favorite_count": 6,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1509572964802519040",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 11,
+                "retweet_count": 3,
+                "source": "Twitter for Advertisers",
+                "text": "By unfairly singling out Israel, the @UN_HRC undermines its credibility to investigate human rights violations around the world. We're urging @SecBlinken to defend Israel from discriminatory treatment at the Human Rights Council and throughout the UN system.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "UN_HRC",
+                    "SecBlinken"
+                ],
+                "text_tagged_users_ids": [
+                    "70985635",
+                    "1350150750966603777"
+                ],
+                "text_tags": null,
+                "timestamp": 1648745215,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nami.org/About-Mental-Illness/Warning-Signs-and-Symptoms"
+                ],
+                "attached_links_url": [
+                    "https://t.co/Iwhvz5xzSA"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FRiFfV4WUAAAjPT.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FRiFfV4WUAAAjPT.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1520403598747701250",
+                "created_time": "2022-04-30T14:04:00",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1520403598747701250",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 6,
+                "source": "Twitter Web App",
+                "text": "Mental health is health. Tomorrow begins #MentalHealthAwarenessMonth. Check in on yourself and the people you care about. You can find the warning signs of a mental health condition here: https://t.co/Iwhvz5xzSA \n@NAMIMississippi @NAMIAdvocacy https://t.co/8ep0tpF6BA",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NAMIMississippi",
+                    "NAMIAdvocacy"
+                ],
+                "text_tagged_users_ids": [
+                    "2540332069",
+                    "736297487439417345"
+                ],
+                "text_tags": [
+                    "mentalhealthawarenessmonth"
+                ],
+                "timestamp": 1651327440,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1678859353401487363",
+                "created_time": "2023-07-11T20:10:36",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1678859353401487363",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 2,
+                "source": "Twitter for Advertisers",
+                "text": "MS knows all too well the suffering that comes with a diabetes diagnosis, and hardships are multiplied for rural patients. Checked in with Dr. Griffin P. Rodgers at today's #approps hearing to learn what @NIDDKgov is doing to rectify these disparities for rural Mississippians.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NIDDKgov"
+                ],
+                "text_tagged_users_ids": [
+                    "1901405066"
+                ],
+                "text_tags": [
+                    "approps"
+                ],
+                "timestamp": 1689106236,
+                "view_count": 1109
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.nationalbreastcancer.org/breast-cancer-risk-factors/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/jjNOcSBEJI"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F7s5m9hWcAAB8bO.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F7s5m9hWcAAB8bO.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1711381005687234974",
+                "created_time": "2023-10-09T14:00:02",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1711381005687234974",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "October is Breast Cancer Awareness Month, a time for us to educate and spread knowledge on breast cancer, it's symptoms, and common risk factors! We will never stop working toward a future free of breast cancer. #BreastCancerAwarenessMonth \ud83c\udf38 https://t.co/jjNOcSBEJI https://t.co/LB8Lc0HOAF",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "breastcancerawarenessmonth"
+                ],
+                "timestamp": 1696860002,
+                "view_count": 645
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://www.preventcancer.org/prostate"
+                ],
+                "attached_links_url": [
+                    "https://t.co/7uEPGmpr6V"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1829406180927479810/33fC_Mwg?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1831709038708441299",
+                "created_time": "2024-09-05T15:00:40",
+                "favorite_count": 8,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1831709038708441299",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 1,
+                "quoted_status_id": "1831472605351600281",
+                "quoted_status_profile_id": "16100741",
+                "quoted_status_profile_username": "msdh",
+                "reply_count": 7,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "September is #ProstateCancerAwarenessMonth. \n\nYou can find out how lifestyle changes may lower your risk, what signs and symptoms to be aware of, and know when to discuss screening options with your doctor by visiting https://t.co/7uEPGmpr6V",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "prostatecancerawarenessmonth"
+                ],
+                "timestamp": 1725548440,
+                "view_count": 2036
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://www.hydesmith.senate.gov/hyde-smith-merkley-lead-bill-address-mental-health-treatment-shortages"
+                ],
+                "attached_links_url": [
+                    "https://t.co/DZbiQJT7cH"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GqcjwCLXgAAoegt.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GqcjwCLXgAAoegt.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1920543080543031493",
+                "created_time": "2025-05-08T18:15:27",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1920543080543031493",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Our country is facing a worsening crisis \u2013 we don\u2019t have enough treatment facilities or trained professionals to help people dealing with mental health and substance abuse disorders. We struggle with this in Mississippi.\n\nProud to join @SenJeffMerkley on this legislation that will expand access to care and help relieve the burden on local hospitals and law enforcement.\n\nDetails: https://t.co/DZbiQJT7cH",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenJeffMerkley"
+                ],
+                "text_tagged_users_ids": [
+                    "29201047"
+                ],
+                "text_tags": null,
+                "timestamp": 1746728127,
+                "view_count": 587
+            },
+            {
+                "attached_links_expanded_url": [
+                    "http://www.hydesmith.senate.gov/hyde-smith-teams-risch-restore-fairness-firearms-small-businesses"
+                ],
+                "attached_links_url": [
+                    "https://t.co/CqqpdM6Pdu"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GxrpooSXwAAc0_u.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GxrpooSXwAAc0_u.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "983348251972816896",
+                "author_username": "SenHydeSmith",
+                "community_notes": null,
+                "conversation_id": "1953130286855647545",
+                "created_time": "2025-08-06T16:25:22",
+                "favorite_count": 10,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1953130286855647545",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 15,
+                "source": "Twitter Web App",
+                "text": "The SBA should not discriminate against lawful firearm-related businesses. That\u2019s why I joined @SenatorRisch to introduce the Equal Shot Act to ensure small businesses tied to the Second Amendment receive fair, unbiased treatment \u2013 something the Biden administration failed to provide.\n\nDetails: https://t.co/CqqpdM6Pdu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "SenatorRisch"
+                ],
+                "text_tagged_users_ids": [
+                    "1096059529"
+                ],
+                "text_tags": null,
+                "timestamp": 1754497522,
+                "view_count": 738
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

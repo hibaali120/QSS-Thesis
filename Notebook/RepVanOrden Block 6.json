@@ -1,0 +1,105 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1793755974592811008/pu/img/3TAeK5_8pNYx2g7n.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1793755974592811008/pu/vid/avc1/1280x720/fxjq_7zuj9ASK-TI.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 92,
+                        "id": "1793755974592811008",
+                        "url": "https://video.twimg.com/ext_tw_video/1793755974592811008/pu/vid/avc1/1280x720/fxjq_7zuj9ASK-TI.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1598778014401269760",
+                "author_username": "RepVanOrden",
+                "community_notes": null,
+                "conversation_id": "1793758473706217677",
+                "created_time": "2024-05-23T21:38:41",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1793758473706217677",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 6,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 18,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Rep. Van Orden knows what it's like to rely on federal nutrition assistance programs such as SNAP and WIC to be able to put food on the table.\n\nHe's not playing politics with a hungry child's meal, and neither is the 2024 Farm Bill.\n\nThere are no cuts to SNAP in this bill. https://t.co/WBu7pbSMKI",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1716500321,
+                "view_count": 10526
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1598778014401269760",
+                "author_username": "RepVanOrden",
+                "community_notes": null,
+                "conversation_id": "1975274014601060607",
+                "created_time": "2025-10-06T18:56:38",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1975274014601060607",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 0,
+                "quoted_status_id": "1975250777590350300",
+                "quoted_status_profile_id": "1881451105454002176",
+                "quoted_status_profile_username": "RapidResponse47",
+                "reply_count": 7,
+                "retweet_count": 3,
+                "source": "Twitter for iPhone",
+                "text": ".@HouseGOP voted to:\n\n\u2705 Keep the government open\n\u2705 Pay our troops\n\u2705 Protect nutrition assistance for women and infants\n\nDemocrats would rather spend your tax dollars on benefits for illegal immigrants than support American families.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668"
+                ],
+                "text_tags": null,
+                "timestamp": 1759776998,
+                "view_count": 962
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

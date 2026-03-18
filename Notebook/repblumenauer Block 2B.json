@@ -1,0 +1,51 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "15954997",
+                "author_username": "repblumenauer",
+                "community_notes": null,
+                "conversation_id": "1483817385719209988",
+                "created_time": "2022-01-19T15:03:27",
+                "favorite_count": 90,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1483817385719209988",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "1483493733458972674",
+                "quoted_status_profile_id": "18013279",
+                "quoted_status_profile_username": "tomangell",
+                "reply_count": 8,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": "41 states across America (including OR) have voted to give terminally-ill patients the freedom to choose experimental treatments.\n\nBut the federal government is blocking doctors from being able to facilitate psilocybin-related therapies.\n\nI'm leading the charge to change that\u2b07\ufe0f",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1642604607,
+                "view_count": null
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

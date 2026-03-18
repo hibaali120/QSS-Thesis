@@ -1,0 +1,1074 @@
+{
+    "politician": "RepDerekTranCA",
+    "posts": [
+        {
+            "conversation_id": "1921999512651907548",
+            "replies": []
+        },
+        {
+            "conversation_id": "1924258411354509343",
+            "replies": []
+        },
+        {
+            "conversation_id": "1943364752807190795",
+            "replies": []
+        },
+        {
+            "conversation_id": "1948448841470001400",
+            "replies": []
+        },
+        {
+            "conversation_id": "1963036752739721508",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1926726294613458944",
+                    "author_username": "ShawnShamrock17",
+                    "community_notes": null,
+                    "conversation_id": "1963036752739721508",
+                    "created_time": "2025-09-03T16:49:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1963283343791067256",
+                    "in_reply_to_post_id": "1963036752739721508",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA Complete fabrication.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756918199,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1485718058572283910",
+                    "author_username": "Doby10682483",
+                    "community_notes": null,
+                    "conversation_id": "1963036752739721508",
+                    "created_time": "2025-09-03T13:15:46",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1963229431847338011",
+                    "in_reply_to_post_id": "1963036752739721508",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA Take care of citizens of California STOP SB79",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1756905346,
+                    "view_count": 56
+                }
+            ]
+        },
+        {
+            "conversation_id": "1966328435275362633",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G0pglqzaEAAa7_Y.png?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G0pglqzaEAAa7_Y.png"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1599772212348624897",
+                    "author_username": "baystreet85",
+                    "community_notes": null,
+                    "conversation_id": "1966328435275362633",
+                    "created_time": "2025-09-12T13:20:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1966492115870904442",
+                    "in_reply_to_post_id": "1966328435275362633",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekTranCA For many Californians, the Republican plan will increase ACA premiums by a lot more than $2,500 annually. Why? Because the Republican plan eliminates the cap that limits ACA premiums to 8.5% of income. https://t.co/WG7ATzhXFK",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1757683230,
+                    "view_count": 22
+                }
+            ]
+        },
+        {
+            "conversation_id": "1966610093186626017",
+            "replies": []
+        },
+        {
+            "conversation_id": "1968756454476714458",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1299063805318778880",
+                    "author_username": "nellai2bethpage",
+                    "community_notes": null,
+                    "conversation_id": "1968756454476714458",
+                    "created_time": "2025-09-19T21:35:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1969153379004825951",
+                    "in_reply_to_post_id": "1968756454476714458",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekTranCA Why should republicans care for shitty commifornia",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758317725,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1877088040453079040",
+                    "author_username": "RepDerekTranCA",
+                    "community_notes": null,
+                    "conversation_id": "1968756454476714458",
+                    "created_time": "2025-09-18T19:18:11",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968756456578076875",
+                    "in_reply_to_post_id": "1968756454476714458",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "I joined my colleagues in calling on House leadership to permanently extend the ACA tax credits, and I cosponsored the Protecting Healthcare and Lowering Costs Act to put more money back in your pocket and preserve your access to high-quality, affordable health care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1758223091,
+                    "view_count": 144
+                }
+            ]
+        },
+        {
+            "conversation_id": "1968756454476714458",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1299063805318778880",
+                    "author_username": "nellai2bethpage",
+                    "community_notes": null,
+                    "conversation_id": "1968756454476714458",
+                    "created_time": "2025-09-19T21:35:25",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1969153379004825951",
+                    "in_reply_to_post_id": "1968756454476714458",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekTranCA Why should republicans care for shitty commifornia",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1758317725,
+                    "view_count": 2
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1877088040453079040",
+                    "author_username": "RepDerekTranCA",
+                    "community_notes": null,
+                    "conversation_id": "1968756454476714458",
+                    "created_time": "2025-09-18T19:18:11",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1968756456578076875",
+                    "in_reply_to_post_id": "1968756454476714458",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "I joined my colleagues in calling on House leadership to permanently extend the ACA tax credits, and I cosponsored the Protecting Healthcare and Lowering Costs Act to put more money back in your pocket and preserve your access to high-quality, affordable health care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1758223091,
+                    "view_count": 144
+                }
+            ]
+        },
+        {
+            "conversation_id": "1971661868797251699",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1679868389005705216",
+                    "author_username": "BOJANGLES6253",
+                    "community_notes": null,
+                    "conversation_id": "1971661868797251699",
+                    "created_time": "2025-10-01T12:50:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973370038515052701",
+                    "in_reply_to_post_id": "1971661868797251699",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Doesn't sound to me like ACA didn't do what Obama and Dems said it would do when it was implemented in 2010.\n\nAnd weren't the premium tax credits done due to COVID? Isn't COVID over?\n\nWhy don't you fix the problem? Excessively high medical costs? Health care industry banked $491 billion in 2024",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759323055,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "1973566600826724377",
+            "replies": []
+        },
+        {
+            "conversation_id": "1973609687774789979",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1926726294613458944",
+                    "author_username": "ShawnShamrock17",
+                    "community_notes": null,
+                    "conversation_id": "1973609687774789979",
+                    "created_time": "2025-10-02T05:11:13",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1973616741826928666",
+                    "in_reply_to_post_id": "1973609687774789979",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA Fear mongering, divisiveness does not help.  You don\u2019t work for the Democratic Party you work for citizens of 45",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759381873,
+                    "view_count": 20
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974155894842667332",
+            "replies": []
+        },
+        {
+            "conversation_id": "1974576884106268885",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "491951318",
+                    "author_username": "oclibertarians",
+                    "community_notes": null,
+                    "conversation_id": "1974576884106268885",
+                    "created_time": "2025-10-04T21:19:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974585213717188876",
+                    "in_reply_to_post_id": "1974576884106268885",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekTranCA If the federal government didn't steal so much from the economy, we wouldn't have any trouble taking care of our people. \n\nYou literally had billions of dollars of cuts handed to you and you fought that. \nCuts that were fraudulent spending and waste. You got to cut something.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759612775,
+                    "view_count": 5
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974614377493061904",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "286484259",
+                    "author_username": "hip_hop_purist",
+                    "community_notes": null,
+                    "conversation_id": "1974614377493061904",
+                    "created_time": "2025-10-05T03:26:59",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974677671394296288",
+                    "in_reply_to_post_id": "1974614377493061904",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA My mom ran politicians offices=we got politicians  health insurance\n\nDid u inform everyone politicians have their own health care system that is head and shoulders above your constituents=the Bentley of insurance\u2014$5 copay\u2014and that\u2019s it(back in 2005)\n\nRep Tran: yall can have ACA\u2026",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759634819,
+                    "view_count": 39
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G2d2FKba4AA1S7X.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G2d2FKba4AA1S7X.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "286484259",
+                    "author_username": "hip_hop_purist",
+                    "community_notes": null,
+                    "conversation_id": "1974614377493061904",
+                    "created_time": "2025-10-05T03:23:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974676796034723942",
+                    "in_reply_to_post_id": "1974614377493061904",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA My kids were born as 2lb preemies in 2013. \n\nWe were shocked to find out our health care package we paid for\u2014which was the best=saved our kids life\u2014went from $450 to $1150 with ACA. Almost making us BK\u2014with preemies fresh out the hospital\u2014in the name of the affordable care act https://t.co/gMY0zEHkcP",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759634610,
+                    "view_count": 43
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "19467085",
+                    "author_username": "weimdog",
+                    "community_notes": null,
+                    "conversation_id": "1974614377493061904",
+                    "created_time": "2025-10-04T23:34:33",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974619179920859241",
+                    "in_reply_to_post_id": "1974614377493061904",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPad",
+                    "text": "@RepDerekTranCA Democrats passed Obamacare subsidies TWICE using reconciliation without a single GOP vote. Democrats voted to sunset those subsidies. Democrats could have made those subsidies permanent, but refused to do so. Democrats tried to hide the explosion of Obamacare insurance premiums.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759620873,
+                    "view_count": 26
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/tweet_video_thumb/G2dBkONbIAMFYwb.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/tweet_video/G2dBkONbIAMFYwb.mp4"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1226396555000737794",
+                    "author_username": "DavidLRothbard",
+                    "community_notes": null,
+                    "conversation_id": "1974614377493061904",
+                    "created_time": "2025-10-04T23:34:05",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974619059154210895",
+                    "in_reply_to_post_id": "1974614377493061904",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekTranCA I was promised that the \"Affordable\" Care Act fixed the healthcare system. https://t.co/Doy5PVOUCg",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759620845,
+                    "view_count": 42
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1607877989982965761",
+                    "author_username": "burnermitch22",
+                    "community_notes": null,
+                    "conversation_id": "1974614377493061904",
+                    "created_time": "2025-10-04T23:31:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974618491149013207",
+                    "in_reply_to_post_id": "1974614377493061904",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA @grok were premiums $2.5K higher before the tax credits were implemented a few years ago?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA",
+                        "grok"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040",
+                        "1720665183188922368"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759620709,
+                    "view_count": 58
+                }
+            ]
+        },
+        {
+            "conversation_id": "1974678675565289489",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1926726294613458944",
+                    "author_username": "ShawnShamrock17",
+                    "community_notes": null,
+                    "conversation_id": "1974678675565289489",
+                    "created_time": "2025-10-05T05:04:35",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974702233288937831",
+                    "in_reply_to_post_id": "1974678675565289489",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA Buddy.  The Dems shut it down.   Stop",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759640675,
+                    "view_count": 17
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/chrisdem35/status/1973761265685152070"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/4CspLflxqN"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1931412563700617216",
+                    "author_username": "ChrisDem35",
+                    "community_notes": null,
+                    "conversation_id": "1974678675565289489",
+                    "created_time": "2025-10-05T03:44:51",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1974682168598385135",
+                    "in_reply_to_post_id": "1974678675565289489",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1973761265685152070",
+                    "quoted_status_profile_id": "1931412563700617216",
+                    "quoted_status_profile_username": "ChrisDem35",
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA https://t.co/4CspLflxqN",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1759635891,
+                    "view_count": 50
+                }
+            ]
+        },
+        {
+            "conversation_id": "1978547123348963416",
+            "replies": []
+        },
+        {
+            "conversation_id": "1978882113358164265",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "89362059",
+                    "author_username": "nedbrines",
+                    "community_notes": null,
+                    "conversation_id": "1978882113358164265",
+                    "created_time": "2025-10-16T21:12:41",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1978932129896763605",
+                    "in_reply_to_post_id": "1978882113358164265",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDerekTranCA 44 Democrat senators voted against reopening the government. You OWN this one.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760649161,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "1979683788285190275",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981057305111076987",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981173493707235559",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1586159818800173056",
+                    "author_username": "OldManMark64",
+                    "community_notes": null,
+                    "conversation_id": "1981173493707235559",
+                    "created_time": "2025-10-23T05:12:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981227222297170175",
+                    "in_reply_to_post_id": "1981173493707235559",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA I\u2019ve paid enough in taxes! no more, you\u2019re an embarrassment!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761196353,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "491951318",
+                    "author_username": "oclibertarians",
+                    "community_notes": null,
+                    "conversation_id": "1981173493707235559",
+                    "created_time": "2025-10-23T01:56:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981177974054670456",
+                    "in_reply_to_post_id": "1981173493707235559",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekTranCA Literally not a delegated power. \nThe federal government cannot legally give healthcare to anyone or even discounted healthcare or subsidize Health Care. \nIt was illegal when it was first done. \nIt's illegal now",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761184612,
+                    "view_count": 8
+                }
+            ]
+        },
+        {
+            "conversation_id": "1981371834881786318",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981436374982279524",
+            "replies": []
+        },
+        {
+            "conversation_id": "1981557093292216416",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "491951318",
+                    "author_username": "oclibertarians",
+                    "community_notes": null,
+                    "conversation_id": "1981557093292216416",
+                    "created_time": "2025-10-24T03:33:37",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1981564711331385554",
+                    "in_reply_to_post_id": "1981557093292216416",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDerekTranCA Hint:\nEnd PPACA \nPull the plug on Medicare \n\nThese two distortions of the market. MASSIVELY increased costs.\n\nFix the problem.\nEnd the print \ud83d\udcb0 & subsidy programs.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761276817,
+                    "view_count": 12
+                }
+            ]
+        },
+        {
+            "conversation_id": "1982621059896815818",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1586159818800173056",
+                    "author_username": "OldManMark64",
+                    "community_notes": null,
+                    "conversation_id": "1982621059896815818",
+                    "created_time": "2025-10-27T04:04:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1982659580619620731",
+                    "in_reply_to_post_id": "1982621059896815818",
+                    "in_reply_to_profile_id": "1877088040453079040",
+                    "in_reply_to_profile_username": "RepDerekTranCA",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDerekTranCA That\u2019s right find out how much it is going up because democrats voted for the increase before to expire\ud83d\ude44",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDerekTranCA"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1877088040453079040"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761537854,
+                    "view_count": 3
+                }
+            ]
+        }
+    ]
+}

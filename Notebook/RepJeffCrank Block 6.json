@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1875271096364331008",
+                "author_username": "RepJeffCrank",
+                "community_notes": null,
+                "conversation_id": "1907570657463767140",
+                "created_time": "2025-04-02T23:07:40",
+                "favorite_count": 25,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1907570658982125792",
+                "in_reply_to_post_id": "1907570657463767140",
+                "in_reply_to_profile_id": "1875271096364331008",
+                "in_reply_to_profile_username": "RepJeffCrank",
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "reply",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 4,
+                "source": "Twitter Web App",
+                "text": "Law-abiding citizens should not need government permission to exercise their right to self-defense.\n\n@GovofCO - VETO this bill!",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "GovofCO"
+                ],
+                "text_tagged_users_ids": [
+                    "728344273620344832"
+                ],
+                "text_tags": null,
+                "timestamp": 1743635260,
+                "view_count": 522
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

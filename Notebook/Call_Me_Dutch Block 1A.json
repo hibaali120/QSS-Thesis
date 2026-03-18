@@ -1,0 +1,958 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F7c0YZ6XgAAc85v.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F7c0YZ6XgAAc85v.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1711791451406020792",
+                "created_time": "2023-10-10T17:11:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1711791451406020792",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Taking care of your mental health is just as important as maintaining your physical health. This #WorldMentalHealthDay, take a moment to check in with a friend \u2014 and with yourself. https://t.co/TX1ypecOwg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "worldmentalhealthday"
+                ],
+                "timestamp": 1696957860,
+                "view_count": 506
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F93Pp5fWsAA8aoR.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F93Pp5fWsAA8aoR.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1719761971422036209",
+                "created_time": "2023-11-01T17:03:00",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1719761971422036209",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Thanks to Democrats\u2019 efforts to lower health care costs for American families, the #ACA marketplaces are more affordable than ever for Marylanders! \nEnrollment runs now through December 15 for coverage starting at the beginning of 2024! https://t.co/eGWVHEMZL8",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "aca"
+                ],
+                "timestamp": 1698858180,
+                "view_count": 592
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/maryland-delegation-members-announce-over-5-million-strengthen-maternal"
+                ],
+                "attached_links_url": [
+                    "https://t.co/xLUG3PB2Zo"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F984sHMWcAAx7qd.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F984sHMWcAAx7qd.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1720155944020054417",
+                "created_time": "2023-11-02T19:08:30",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1720155944020054417",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, #TeamMaryland announced over $5 million in @HHSGov @HRSAgov funding to improve maternal health care across #Maryland. This will help lower our country\u2019s maternal mortality rate and boost infants\u2019 health, too. More: https://t.co/xLUG3PB2Zo https://t.co/Cuxpv1D043",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HHSGov",
+                    "HRSAgov"
+                ],
+                "text_tagged_users_ids": [
+                    "44783853",
+                    "44034613"
+                ],
+                "text_tags": [
+                    "maryland",
+                    "teammaryland"
+                ],
+                "timestamp": 1698952110,
+                "view_count": 481
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/F-cQjB2XYAAlpe9.jpg?name=small",
+                    "https://pbs.twimg.com/media/F-cQkX4XQAAec__.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/F-cQjB2XYAAlpe9.jpg",
+                    "https://pbs.twimg.com/media/F-cQkX4XQAAec__.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1722363722184736925",
+                "created_time": "2023-11-08T21:21:25",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1722363722184736925",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "This morning, #TeamDutch\u2019s Jaime helped @ConcentraHealth officially open their brand-new medical center in #MD02\u2019s Rosedale. As a leader in occupational medicine, Concentra is keeping Maryland\u2019s workforce healthy! Congrats! https://t.co/k0gj4NRIq8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "ConcentraHealth"
+                ],
+                "text_tagged_users_ids": [
+                    "88727397"
+                ],
+                "text_tags": [
+                    "md02",
+                    "teamdutch"
+                ],
+                "timestamp": 1699478485,
+                "view_count": 621
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1748390626578616583",
+                "created_time": "2024-01-19T17:03:03",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1748390626578616583",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "WIC supports the health and well-being of pregnant & postpartum women, infants and young children. Without it, millions of families could go hungry. Due to Republican inaction, the program currently faces a looming funding shortfall. \n\nI\u2019m fighting back and demanding we #FundWIC.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "fundwic"
+                ],
+                "timestamp": 1705683783,
+                "view_count": 1105
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFCbiL9WsAIrxSN.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFCbiL9WsAIrxSN.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1753505566360801492",
+                "created_time": "2024-02-02T19:48:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1753505566360801492",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "On Wear Red Day, I\u2019m raising awareness about heart disease, the #1 threat to women\u2019s health.\n\n#GoRed to show support for those affected, and let\u2019s commit to eradicating this disease once and for all. https://t.co/IupQwLSMlu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "gored"
+                ],
+                "timestamp": 1706903280,
+                "view_count": 549
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GFCbyjPXcAA1v1i.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GFCbyjPXcAA1v1i.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1756389821285822555",
+                "created_time": "2024-02-10T18:49:00",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1756389821285822555",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Happy Lunar New Year! Wishing all who celebrate prosperity, abundance and health during this Year of the Dragon. https://t.co/hJ8qw2A9QV",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1707590940,
+                "view_count": 530
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GI-ycdzWsAAM3pw.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GI-ycdzWsAAM3pw.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1769829833503133787",
+                "created_time": "2024-03-18T20:54:48",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1769829833503133787",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "Proud to bring home $6 million in #bipartisan infrastructure funds to make highway work zones safer, improve the efficiency of bus routes and explore the use of drones to make medical deliveries in more remote communities. Making #Maryland safer, healthier, smarter! https://t.co/T8kyEzwEFJ",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "bipartisan",
+                    "maryland"
+                ],
+                "timestamp": 1710795288,
+                "view_count": 700
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GMgaCmBWkAEXFqG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GMgaCmBWkAEXFqG.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1786037930362028540",
+                "created_time": "2024-05-02T14:20:00",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1786037930362028540",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "More than 1 in 5 American adults struggle with mental illness each year.\n\nThis Mental Health Awareness Month, be sure to check in on those you love, and take time for yourself too.\n\nIf you or a loved one is experiencing a mental health crisis, call 988 for 24/7 support. https://t.co/scgTiVcMNg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1714659600,
+                "view_count": 272
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GPQS8z-akAAG_Jj.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GPQS8z-akAAG_Jj.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1799094463593345301",
+                "created_time": "2024-06-07T15:02:00",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1799094463593345301",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "June is Men's Health Month. This month and every month, I'm working to better men's health outcomes by expanding access to affordable health care and lowering prescription drug costs. https://t.co/4NVJCAbTK6",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1717772520,
+                "view_count": 289
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.va.gov/maryland-health-care/events/67562/",
+                    "https://www.va.gov/maryland-health-care/events/67956/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/k0rHthdgoe",
+                    "https://t.co/ZgukLQp1dI"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GPz-l0kXQAAX8ao.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GPz-l0kXQAAX8ao.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1800593953970135374",
+                "created_time": "2024-06-11T18:20:26",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1800593953970135374",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "This summer, @DeptVetAffairs is hosting events near #MD02 to give veterans and their families 1-on-1 help with determining their eligibility and accessing their benefits.\n\nTomorrow, 6/12 in Edgewood: https://t.co/k0rHthdgoe\nWednesday, 8/14 in Dundalk: https://t.co/ZgukLQp1dI https://t.co/6U4rrNQFN5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "DeptVetAffairs"
+                ],
+                "text_tagged_users_ids": [
+                    "78408666"
+                ],
+                "text_tags": [
+                    "md02"
+                ],
+                "timestamp": 1718130026,
+                "view_count": 473
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/team-maryland-announces-4-million-federal-investment-modernizing-states"
+                ],
+                "attached_links_url": [
+                    "https://t.co/CVDkEA07It"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRkxcB8WAAAbUpc.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRkxcB8WAAAbUpc.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1808531093928222772",
+                "created_time": "2024-07-03T15:59:48",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1808531093928222772",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "#TeamMaryland announced nearly $4 million in @CMSGov funding to modernize Maryland\u2019s all-payer health care system. Maryland\u2019s medical system is already world-renowned, but this funding will reduce overall healthcare spending and further enhance care. https://t.co/CVDkEA07It https://t.co/NG0bW1t62m",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "70837868"
+                ],
+                "text_tags": [
+                    "teammaryland"
+                ],
+                "timestamp": 1720022388,
+                "view_count": 335
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/team-maryland-announces-25-million-bolster-school-based-medicaid-chip"
+                ],
+                "attached_links_url": [
+                    "https://t.co/VIFfhckt33"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRun-8BWgAEXMut.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRun-8BWgAEXMut.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1809224447704051835",
+                "created_time": "2024-07-05T13:54:56",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1809224447704051835",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Another health care win! #TeamMaryland announced $2.5 million in @CMSGov funding to expand school-based health services for children. It is critical that children have access to quality, convenient health care to set them up for a bright future. https://t.co/VIFfhckt33 https://t.co/fH3dhI2UBu",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "70837868"
+                ],
+                "text_tags": [
+                    "teammaryland"
+                ],
+                "timestamp": 1720187696,
+                "view_count": 309
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/maryland-congressional-delegation-members-announce-10-million-oyster"
+                ],
+                "attached_links_url": [
+                    "https://t.co/aWQfcezJJR"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GTR8M7ZWQAAaqS4.png?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GTR8M7ZWQAAaqS4.png"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1816213148765974897",
+                "created_time": "2024-07-24T20:45:32",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1816213148765974897",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "#TeamMaryland announced $10 million in @NOAA funding made possible by the #Bipartisan Infrastructure Bill for @MarylandDNR to protect oyster populations in the Chesapeake Bay. Oysters are vital to the health of the Bay, one of our most important resources. https://t.co/aWQfcezJJR https://t.co/50wOGLv1dq",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "NOAA",
+                    "MarylandDNR"
+                ],
+                "text_tagged_users_ids": [
+                    "14342564",
+                    "270361579"
+                ],
+                "text_tags": [
+                    "bipartisan",
+                    "teammaryland"
+                ],
+                "timestamp": 1721853932,
+                "view_count": 511
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GRLYTASWAAAvzKs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GRLYTASWAAAvzKs.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1818299762149589205",
+                "created_time": "2024-07-30T14:57:00",
+                "favorite_count": 4,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1818299762149589205",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 3,
+                "retweet_count": 2,
+                "source": "Twitter Web App",
+                "text": "59 years ago, President Lyndon B. Johnson signed Medicare and Medicaid into law\u2014transforming health care in America.\n\nI will continue working to expand these programs and stand firmly against any attempts by Extreme MAGA Republicans to cut these programs. https://t.co/OQEak0aQkt",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1722351420,
+                "view_count": 689
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1823085908960153934",
+                "created_time": "2024-08-12T19:55:26",
+                "favorite_count": 3,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1823085908960153934",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Congratulations to @MayorBMScott and Hana on your wedding! Here\u2019s to a lifetime of health, happiness and shared memories.",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MayorBMScott"
+                ],
+                "text_tagged_users_ids": [
+                    "116589820"
+                ],
+                "text_tags": null,
+                "timestamp": 1723492526,
+                "view_count": 463
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GVG8c6bXUAA4ZpJ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GVG8c6bXUAA4ZpJ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1824446580780388594",
+                "created_time": "2024-08-16T14:02:16",
+                "favorite_count": 9,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1824446580780388594",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 5,
+                "retweet_count": 3,
+                "source": "Twitter Web App",
+                "text": "It has been 2 years since @POTUS signed the Inflation Reduction Act into law \u2013 and it\u2019s working! By cutting climate pollution, creating jobs, improving public health and boosting the clean energy economy, the IRA is the greatest climate investment in history. #ClimateWinsHere https://t.co/WGKyRnqgHG",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": [
+                    "climatewinshere"
+                ],
+                "timestamp": 1723816936,
+                "view_count": 838
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GYV57IGWQAAr9Re.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GYV57IGWQAAr9Re.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1839010123324235821",
+                "created_time": "2024-09-25T18:32:35",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1839010123324235821",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "This #RecoveryMonth, let\u2019s open dialogues about mental health with our loved ones. It\u2019s important for those who are struggling to know that they are not alone. Together, we can end the stigma. https://t.co/qOlT1O0sxg",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "recoverymonth"
+                ],
+                "timestamp": 1727289155,
+                "view_count": 526
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GYv2wciXwAAw9Ql.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GYv2wciXwAAw9Ql.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1844438497500987639",
+                "created_time": "2024-10-10T18:03:00",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1844438497500987639",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Quality mental health is vital to our well-being. On World Mental Health Day, take time to check in with yourself and do something to promote your well-being.\n\nIf you or a loved one is in crisis, call or text 988 for free, confidential help 24/7. https://t.co/S1FhUhSfGn",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1728583380,
+                "view_count": 265
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://ruppersberger.house.gov/news-room/press-releases/bipartisan-push-maryland-virginia-lawmakers-call-president-address"
+                ],
+                "attached_links_url": [
+                    "https://t.co/wLev6yD1y6"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1848886415880249344/Zp1ImiAE?format=png&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "305620929",
+                "author_username": "Call_Me_Dutch",
+                "community_notes": null,
+                "conversation_id": "1849186781951930534",
+                "created_time": "2024-10-23T20:30:59",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1849186781951930534",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Today, #TeamMaryland, in collaboration with Members from Virginia, asked for an investigation into the recent surge of crabmeat imported from Venezuela and its impact on the Chesapeake Bay region\u2019s seafood economy and public health. Read more: https://t.co/wLev6yD1y6",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "teammaryland"
+                ],
+                "timestamp": 1729715459,
+                "view_count": 316
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

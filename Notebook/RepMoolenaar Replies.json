@@ -1,0 +1,310 @@
+{
+    "politician": "RepMoolenaar",
+    "posts": [
+        {
+            "conversation_id": "1752787493370331307",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "45724429",
+                    "author_username": "_dan_matos",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-02-02T22:04:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1753540035172053114",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepMoolenaar @committeeonccp wouldn't be surprised in the least that these guys are privy to intelligence on america's battery champions",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMoolenaar"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706911498,
+                    "view_count": 111
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1752813545866108928/pu/img/b3X-98R_Wm2OwnvM.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1752813545866108928/pu/vid/avc1/1024x578/wHRFVF2blUGd847F.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 88,
+                            "id": "1752813545866108928",
+                            "url": "https://video.twimg.com/ext_tw_video/1752813545866108928/pu/vid/avc1/1024x578/wHRFVF2blUGd847F.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1652377948563881985",
+                    "author_username": "NFSCFIGHTER",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-01-31T21:58:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1752813604934500551",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMoolenaar @committeeonccp @Gotion48660 https://t.co/Nuc2O3GP6O",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMoolenaar",
+                        "Gotion48660"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955",
+                        "2988389267"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706738303,
+                    "view_count": 15
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/ext_tw_video_thumb/1752813449602650112/pu/img/VR_TJ7d-qOLVZ7IV.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://video.twimg.com/ext_tw_video/1752813449602650112/pu/vid/avc1/640x360/TRxIWTshTfMcHwRG.mp4?tag=12"
+                    ],
+                    "attached_videos": [
+                        {
+                            "duration": 69,
+                            "id": "1752813449602650112",
+                            "url": "https://video.twimg.com/ext_tw_video/1752813449602650112/pu/vid/avc1/640x360/TRxIWTshTfMcHwRG.mp4?tag=12",
+                            "view_count": null
+                        }
+                    ],
+                    "author_id": "1652377948563881985",
+                    "author_username": "NFSCFIGHTER",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-01-31T21:57:55",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1752813485476528223",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepMoolenaar @committeeonccp @Gotion48660 https://t.co/XXUjXeW7iD",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMoolenaar",
+                        "Gotion48660"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955",
+                        "2988389267"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706738275,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "13133342",
+                    "author_username": "bwilliam46",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-01-31T21:22:15",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1752804512425767271",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMoolenaar @committeeonccp @Gotion48660 .\n   Michigan's witch @gretchenwhitmer doesn't care that @Gotion48660's plans for a factory in Michigan are a risk to national security!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMoolenaar",
+                        "Gotion48660",
+                        "gretchenwhitmer"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955",
+                        "2988389267",
+                        "1093619068148559872"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706736135,
+                    "view_count": 35
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://pjmedia.com/benbartee/2023/10/15/retired-spook-leon-panetta-no-regrets-about-biden-laptop-russian-disinformation-lie-n1735233"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/1qxqovDnbn"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1602317176781869061",
+                    "author_username": "TessaMeshelle",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-01-31T20:55:04",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1752797668210864497",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Retired CIA Director Leon Panetta appeared for a softball interview on Fox News in 2023 which he expressed no interest in apologizing to the American people for his part in rigging the 2020 election by deeming the Hunter Biden laptop \u201cdisinformation,\u201d which resulted in its censorship across social media.\n\nhttps://t.co/1qxqovDnbn",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepMoolenaar",
+                        "Gotion48660"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955",
+                        "2988389267"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706734504,
+                    "view_count": 209
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "https://humanevents.com/2023/12/13/human-events-the-house-gop-must-recognize-that-fisa-is-a-tool-of-tyranny"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/jwHTzNaDbo"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1602317176781869061",
+                    "author_username": "TessaMeshelle",
+                    "community_notes": null,
+                    "conversation_id": "1752787493370331307",
+                    "created_time": "2024-01-31T20:43:21",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1752794720097423525",
+                    "in_reply_to_post_id": "1752787493370331307",
+                    "in_reply_to_profile_id": "2696643955",
+                    "in_reply_to_profile_username": "RepMoolenaar",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepMoolenaar @committeeonccp @Gotion48660 https://t.co/jwHTzNaDbo",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepMoolenaar",
+                        "Gotion48660"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2696643955",
+                        "2988389267"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1706733801,
+                    "view_count": 12
+                }
+            ]
+        }
+    ]
+}

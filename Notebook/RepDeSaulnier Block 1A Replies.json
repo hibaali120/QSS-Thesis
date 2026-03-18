@@ -1,0 +1,945 @@
+{
+    "politician": "RepDeSaulnier",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1983296893305454995",
+            "replies": []
+        },
+        {
+            "conversation_id": "1984392026897727752",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "366679894",
+                    "author_username": "mdlonergan",
+                    "community_notes": null,
+                    "conversation_id": "1984392026897727752",
+                    "created_time": "2025-10-31T22:56:32",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1984394084916797923",
+                    "in_reply_to_post_id": "1984392026897727752",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier Republicans aren\u2019t raising the premiums. \n\nDemocrats passed subsidies to partially offset ACA premiums during Covid\u2014remember the \u201cInflation Reduction Act\u201d you voted for?\u2014but scheduled those subsidies to expire the end  of this year.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1761951392,
+                    "view_count": 16
+                }
+            ]
+        },
+        {
+            "conversation_id": "1985498818755117283",
+            "replies": []
+        },
+        {
+            "conversation_id": "1987986352982618458",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1425845939881668612",
+                    "author_username": "JustAnother007",
+                    "community_notes": null,
+                    "conversation_id": "1987986352982618458",
+                    "created_time": "2025-11-10T20:57:11",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1987987928879165907",
+                    "in_reply_to_post_id": "1987986352982618458",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier What a clown! \n40 days your party held Americans hostage ..... For what?? \n\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762808231,
+                    "view_count": 7
+                }
+            ]
+        },
+        {
+            "conversation_id": "1988728429441950096",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1425845939881668612",
+                    "author_username": "JustAnother007",
+                    "community_notes": null,
+                    "conversation_id": "1988728429441950096",
+                    "created_time": "2025-11-12T22:34:39",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988737229674701008",
+                    "in_reply_to_post_id": "1988728429441950096",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier The average Obamacare enrollee\u2019s premiums have risen by 221% from 2013 to 2025. Obamacare was never affordable.\n\nAmericans deserve quality healthcare at an affordable price\u2013something that Obamacare has failed to deliver.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762986879,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1425845939881668612",
+                    "author_username": "JustAnother007",
+                    "community_notes": null,
+                    "conversation_id": "1988728429441950096",
+                    "created_time": "2025-11-12T22:19:24",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988733393560039918",
+                    "in_reply_to_post_id": "1988728429441950096",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762985964,
+                    "view_count": 13
+                }
+            ]
+        },
+        {
+            "conversation_id": "1988784051466252484",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "44815046",
+                    "author_username": "TheJazzyOtaku",
+                    "community_notes": null,
+                    "conversation_id": "1988784051466252484",
+                    "created_time": "2025-11-13T01:47:16",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1988785705062117688",
+                    "in_reply_to_post_id": "1988784051466252484",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier Illegals are NOT Americans. Stop lumping us in with them.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1762998436,
+                    "view_count": 10
+                }
+            ]
+        },
+        {
+            "conversation_id": "1989465381208293661",
+            "replies": []
+        },
+        {
+            "conversation_id": "1991177569979564135",
+            "replies": []
+        },
+        {
+            "conversation_id": "1995613916458860898",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2234632388",
+                    "author_username": "ZariahJ76",
+                    "community_notes": null,
+                    "conversation_id": "1995613916458860898",
+                    "created_time": "2025-12-02T07:40:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995759885414244622",
+                    "in_reply_to_post_id": "1995613916458860898",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDeSaulnier @EdWorkforceDems Family healthcare struggles are real. But Palestinian children face beatings and hunger daily,  let\u2019s remember them too in our fight for justice.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier",
+                        "EdWorkforceDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206",
+                        "7004382"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764661210,
+                    "view_count": 11
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "915617258675867648",
+                    "author_username": "JorgeARMaio",
+                    "community_notes": null,
+                    "conversation_id": "1995613916458860898",
+                    "created_time": "2025-12-01T22:25:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1995620298587271529",
+                    "in_reply_to_post_id": "1995613916458860898",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier @EdWorkforceDems You are a moron!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier",
+                        "EdWorkforceDems"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206",
+                        "7004382"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1764627930,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "1995928039201595582",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996011004095070660",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996019438198673787",
+            "replies": []
+        },
+        {
+            "conversation_id": "1996021436797124819",
+            "replies": []
+        },
+        {
+            "conversation_id": "1997092729684385920",
+            "replies": []
+        },
+        {
+            "conversation_id": "2000682078292295758",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://x.com/speakerjohnson/status/2000935125878558797?s=46"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/1Foemooopb"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "288041411",
+                    "author_username": "COCOGOP",
+                    "community_notes": null,
+                    "conversation_id": "2000682078292295758",
+                    "created_time": "2025-12-16T22:11:20",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001052549223473200",
+                    "in_reply_to_post_id": "2000682078292295758",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier Maybe you missed this report, Congressman? I\u2019m sure Mr. Speaker will be happy to provide a copy to you. https://t.co/1Foemooopb",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765923080,
+                    "view_count": 19
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "288041411",
+                    "author_username": "COCOGOP",
+                    "community_notes": null,
+                    "conversation_id": "2000682078292295758",
+                    "created_time": "2025-12-16T06:22:05",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2000813665625497791",
+                    "in_reply_to_post_id": "2000682078292295758",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier Not such an Affordable Care Act now, is it? Obamacare was a disaster and you know it.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765866125,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8QrTrxa4AARQZu.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8QrTrxa4AARQZu.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1161760514206134272",
+                    "author_username": "consciouskaye",
+                    "community_notes": null,
+                    "conversation_id": "2000682078292295758",
+                    "created_time": "2025-12-16T03:35:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2000771755154268315",
+                    "in_reply_to_post_id": "2000682078292295758",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier Uh oh this going to be so good! https://t.co/VXnkgxM8yi",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765856133,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8Pm0KuXUAIunti.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8Pm0KuXUAIunti.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1921220524832669696",
+                    "author_username": "SweetSalty51951",
+                    "community_notes": null,
+                    "conversation_id": "2000682078292295758",
+                    "created_time": "2025-12-15T22:36:18",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2000696446320795702",
+                    "in_reply_to_post_id": "2000682078292295758",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier Sure\nRetard \nTry taking responsibility for YOUR FAILURES \nInstead of acting like a petulant child https://t.co/Vx4zs7wgNq",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1765838178,
+                    "view_count": 3
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001089186141757930",
+            "replies": []
+        },
+        {
+            "conversation_id": "2001446265880773024",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "288041411",
+                    "author_username": "COCOGOP",
+                    "community_notes": null,
+                    "conversation_id": "2001446265880773024",
+                    "created_time": "2025-12-18T01:17:53",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001461886886523162",
+                    "in_reply_to_post_id": "2001446265880773024",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDeSaulnier Hard to be pro-union when, say for example, the California Teachers Union supported Prop 50 and the silencing of 40% of the CA\u2019s voters.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766020673,
+                    "view_count": 15
+                }
+            ]
+        },
+        {
+            "conversation_id": "2001450192583971215",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1425845939881668612",
+                    "author_username": "JustAnother007",
+                    "community_notes": null,
+                    "conversation_id": "2001450192583971215",
+                    "created_time": "2025-12-18T05:02:14",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001518344114155719",
+                    "in_reply_to_post_id": "2001450192583971215",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier \ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21\ud83e\udd21",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766034134,
+                    "view_count": 13
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8aYffcagAATjZu.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8aYffcagAATjZu.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1733208404196532224",
+                    "author_username": "ABC6060842",
+                    "community_notes": null,
+                    "conversation_id": "2001450192583971215",
+                    "created_time": "2025-12-18T00:49:32",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001454752484430029",
+                    "in_reply_to_post_id": "2001450192583971215",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier https://t.co/SZ5VceJ4S6",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766018972,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8aYTl2akAAt7MN.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8aYTl2akAAt7MN.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1733208404196532224",
+                    "author_username": "ABC6060842",
+                    "community_notes": null,
+                    "conversation_id": "2001450192583971215",
+                    "created_time": "2025-12-18T00:48:44",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001454548351655966",
+                    "in_reply_to_post_id": "2001450192583971215",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier https://t.co/XY4EvDqLu4",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766018924,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8aYNUlakAEhDwI.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8aYNUlakAEhDwI.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1733208404196532224",
+                    "author_username": "ABC6060842",
+                    "community_notes": null,
+                    "conversation_id": "2001450192583971215",
+                    "created_time": "2025-12-18T00:48:18",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2001454440952533047",
+                    "in_reply_to_post_id": "2001450192583971215",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier https://t.co/72S2I5qKN3",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766018898,
+                    "view_count": 9
+                }
+            ]
+        },
+        {
+            "conversation_id": "2002154897370980819",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1425845939881668612",
+                    "author_username": "JustAnother007",
+                    "community_notes": null,
+                    "conversation_id": "2002154897370980819",
+                    "created_time": "2025-12-20T02:40:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002207468462747961",
+                    "in_reply_to_post_id": "2002154897370980819",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier You're a joke of a representative! \nWaive good bye to your cushy govt job , we deserve better!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766198434,
+                    "view_count": 22
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2445746274",
+                    "author_username": "bkd_potato",
+                    "community_notes": null,
+                    "conversation_id": "2002154897370980819",
+                    "created_time": "2025-12-19T23:15:01",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002155740694524190",
+                    "in_reply_to_post_id": "2002154897370980819",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDeSaulnier why dont you address the CA tax burden as a way to ease affordability?",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766186101,
+                    "view_count": 6
+                }
+            ]
+        },
+        {
+            "conversation_id": "2002159609201766782",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G8kjhhLacAAsN1q.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G8kjhhLacAAsN1q.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1733208404196532224",
+                    "author_username": "ABC6060842",
+                    "community_notes": null,
+                    "conversation_id": "2002159609201766782",
+                    "created_time": "2025-12-20T00:13:58",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "2002170575209517552",
+                    "in_reply_to_post_id": "2002159609201766782",
+                    "in_reply_to_profile_id": "2968007206",
+                    "in_reply_to_profile_username": "RepDeSaulnier",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDeSaulnier https://t.co/UROk3IyDaQ",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDeSaulnier"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2968007206"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1766189638,
+                    "view_count": 2
+                }
+            ]
+        }
+    ]
+}

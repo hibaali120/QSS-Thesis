@@ -1,0 +1,151 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/FgGXdz_XEAAm5Ax.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/FgGXdz_XEAAm5Ax.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "442824717",
+                "author_username": "RepRichardNeal",
+                "community_notes": null,
+                "conversation_id": "1585715103952953349",
+                "created_time": "2022-10-27T19:28:36",
+                "favorite_count": 15,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1585715103952953349",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": ".@MountHolyoke's PaGE program is leading the way in addressing the growing crisis of teacher burnout in our nation\u2019s public schools. With a $250,000 earmark, they will be able to support teacher wellness & student social-emotional learning in high-risk areas in CD-1 & nationwide. https://t.co/Fh7LBToCGV",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "MountHolyoke"
+                ],
+                "text_tagged_users_ids": [
+                    "22832433"
+                ],
+                "text_tags": null,
+                "timestamp": 1666898916,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.whitehouse.gov/live/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/SZ21IC7umJ"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1876674246467846144/fEMsqHvi?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "442824717",
+                "author_username": "RepRichardNeal",
+                "community_notes": null,
+                "conversation_id": "1876013236677751145",
+                "created_time": "2025-01-05T21:09:44",
+                "favorite_count": 272,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1876013236677751145",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 23,
+                "retweet_count": 71,
+                "source": "Twitter for iPhone",
+                "text": "I\u2019m at the White House as @POTUS is about to sign the Social Security & Fairness Act.\n\nAfter years of hard work, more than 2 million public servants will sleep better knowing relief from the negative impact of the WEP & GPO is on the way.\n\nTune in live! \u2935\ufe0f\nhttps://t.co/SZ21IC7umJ",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "POTUS"
+                ],
+                "text_tagged_users_ids": [
+                    "1879650942410481666"
+                ],
+                "text_tags": null,
+                "timestamp": 1736111384,
+                "view_count": 7735
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.sec.state.ma.us/WhereDoIVoteMA/WhereDoIVote"
+                ],
+                "attached_links_url": [
+                    "https://t.co/7fwPElBnS6"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "442824717",
+                "author_username": "RepRichardNeal",
+                "community_notes": null,
+                "conversation_id": "1985720059449274505",
+                "created_time": "2025-11-04T14:45:29",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1985720059449274505",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Today, we exercise one of our most fundamental rights\u2014the right to vote.\n\nEach ballot cast shapes the future of our communities and honors those who fought to protect this sacred right.\n\nPolls in Mass are open until 8PM. Find your polling location here \u2935\ufe0f https://t.co/7fwPElBnS6",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1762267529,
+                "view_count": 391
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

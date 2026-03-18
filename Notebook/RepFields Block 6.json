@@ -1,0 +1,62 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1917693577498402816/img/KmdnDoUULcklPHAD.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1917693577498402816/vid/avc1/720x1280/StL1aKZojFxzUreN.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 75,
+                        "id": "1917693577498402816",
+                        "url": "https://video.twimg.com/amplify_video/1917693577498402816/vid/avc1/720x1280/StL1aKZojFxzUreN.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1868715744579489792",
+                "author_username": "RepFields",
+                "community_notes": null,
+                "conversation_id": "1917693665574613284",
+                "created_time": "2025-04-30T21:32:53",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1917693665574613284",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 6,
+                "retweet_count": 1,
+                "source": "Twitter for iPhone",
+                "text": "President Trump\u2019s first 100 days in office have been disappointing to say the least. While we hold out hope for things to improve, the courts and Congress should exercise checks and balances. https://t.co/UF3HPGjVDN",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1746048773,
+                "view_count": 224
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

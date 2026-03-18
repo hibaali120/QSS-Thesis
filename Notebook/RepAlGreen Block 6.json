@@ -1,0 +1,149 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "156333623",
+                "author_username": "RepAlGreen",
+                "community_notes": null,
+                "conversation_id": "1583836772928458752",
+                "created_time": "2022-10-22T15:04:47",
+                "favorite_count": 13,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1583836772928458752",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 8,
+                "retweet_count": 7,
+                "source": "Twitter for iPhone",
+                "text": "The greatest threat to our right to vote is our failure to exercise our right to vote. #VOTE!!!",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "vote"
+                ],
+                "timestamp": 1666451087,
+                "view_count": null
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/Fm4aspPXgAMfINz.jpg?name=small",
+                    "https://pbs.twimg.com/media/Fm4aspUXkAIQoRQ.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/Fm4aspPXgAMfINz.jpg",
+                    "https://pbs.twimg.com/media/Fm4aspUXkAIQoRQ.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "156333623",
+                "author_username": "RepAlGreen",
+                "community_notes": null,
+                "conversation_id": "1616258699688812545",
+                "created_time": "2023-01-20T02:17:57",
+                "favorite_count": 29,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1616258699688812545",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 6,
+                "source": "Twitter for iPhone",
+                "text": "Today I proudly presented @IbnSinaUSA with a symbolic check in the amount of $1,600,000 in federal funds that I secured for the development of a mental wellness center.\n\nThank you Ibn Sina for your distinguished efforts to address the health challenges facing our community! https://t.co/ak9viIv5jN",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "IbnSinaUSA"
+                ],
+                "text_tagged_users_ids": [
+                    "877200766808854530"
+                ],
+                "text_tags": null,
+                "timestamp": 1674181077,
+                "view_count": 3218
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://algreen.house.gov/sites/evo-subsites/algreen.house.gov/files/evo-media-document/mock-bill-snap-secure-act-of-2025.pdf"
+                ],
+                "attached_links_url": [
+                    "https://t.co/vVSZAqyY0g"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpU2LutW8AACJ0w.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpU2LutW8AACJ0w.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "156333623",
+                "author_username": "RepAlGreen",
+                "community_notes": null,
+                "conversation_id": "1915496797805412830",
+                "created_time": "2025-04-24T20:03:19",
+                "favorite_count": 28,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915496797805412830",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 1,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 10,
+                "retweet_count": 12,
+                "source": "Twitter for iPhone",
+                "text": "MEDIA ADVISORY: Congressman Al Green Introduces H.R. 2983 \u2013 SNAP SECURE Act of 2025 to Protect and Compensate Victims of Theft in Nutrition Assistance Program. A copy of the legislation is accessible here: https://t.co/vVSZAqyY0g https://t.co/WOVCYqql94",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1745524999,
+                "view_count": 1750
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

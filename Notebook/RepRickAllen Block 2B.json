@@ -1,0 +1,258 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1894833046471294976/pu/img/je5qNa5fZokO8Hfe.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1894833046471294976/pu/vid/avc1/1280x720/36Xw9vHPtB1G7dAv.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 99,
+                        "id": "1894833046471294976",
+                        "url": "https://video.twimg.com/ext_tw_video/1894833046471294976/pu/vid/avc1/1280x720/36Xw9vHPtB1G7dAv.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "2964287128",
+                "author_username": "RepRickAllen",
+                "community_notes": null,
+                "conversation_id": "1894833565864517895",
+                "created_time": "2025-02-26T19:35:01",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1894833565864517895",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "Most workers in the U.S. prefer employer-sponsored health coverage rather than a federally-run plan. \n\nAs the Chairman of @EdWorkforceCmte's HELP Subcommittee, I look forward to exploring innovative ways to expand ERISA health plans, lower costs, and provide more flexibility. https://t.co/31a34yebvp",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "EdWorkforceCmte"
+                ],
+                "text_tagged_users_ids": [
+                    "16424044"
+                ],
+                "text_tags": null,
+                "timestamp": 1740598501,
+                "view_count": 686
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GssKOYPWMAA0bHS.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GssKOYPWMAA0bHS.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2964287128",
+                "author_username": "RepRickAllen",
+                "community_notes": null,
+                "conversation_id": "1930648317806956894",
+                "created_time": "2025-06-05T15:30:03",
+                "favorite_count": 1,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1930648317806956894",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "In too many families and in too many communities throughout our country, there is an unthinkable sense of loss that stems from the opioid and fentanyl crises.\n\nLast night, the House passed the SUPPORT for Patients and Communities Reauthorization Act to advance treatment and recovery initiatives, improve prevention, protect communities, and bolster the fight against deadly illicit drugs.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1749137403,
+                "view_count": 222
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://allen.house.gov/news/documentsingle.aspx?DocumentID=6946"
+                ],
+                "attached_links_url": [
+                    "https://t.co/NHB0y5lJd9"
+                ],
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G1OWiqBXYAAQtI5.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G1OWiqBXYAAQtI5.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2964287128",
+                "author_username": "RepRickAllen",
+                "community_notes": null,
+                "conversation_id": "1969083067617649146",
+                "created_time": "2025-09-19T16:56:01",
+                "favorite_count": 5,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1969083067617649146",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 0,
+                "source": "Twitter Web App",
+                "text": "Proud to reintroduce the Safe Step Act with @RepLucyMcBath, @RepMMM, @RepRaulRuizMD, and @RepBobOnder!\n\nThis bipartisan bill will help ensure patients can safely and efficiently access the best treatment available by improving step therapy protocols.\n\nhttps://t.co/NHB0y5lJd9 https://t.co/u9UHdqgfn5",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "RepLucyMcBath",
+                    "RepMMM",
+                    "RepRaulRuizMD",
+                    "RepBobOnder"
+                ],
+                "text_tagged_users_ids": [
+                    "1082380458976051202",
+                    "1345807954604412929",
+                    "1089859058",
+                    "1872324445055987712"
+                ],
+                "text_tags": null,
+                "timestamp": 1758300961,
+                "view_count": 253
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G8aIdroWIAAYyhK.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G8aIdroWIAAYyhK.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "2964287128",
+                "author_username": "RepRickAllen",
+                "community_notes": null,
+                "conversation_id": "2001437132783559018",
+                "created_time": "2025-12-17T23:39:32",
+                "favorite_count": 2,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2001437132783559018",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 0,
+                "retweet_count": 0,
+                "source": "Twitter for iPhone",
+                "text": "My statement on House passage of the Lower Health Care Premiums for All Americans Act: https://t.co/iJeJ8loliH",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1766014772,
+                "view_count": 166
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://www.cms.gov/newsroom/press-releases/cms-announces-50-billion-awards-strengthen-rural-health-all-50-states"
+                ],
+                "attached_links_url": [
+                    "https://t.co/NotX7yoT0C"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "2964287128",
+                "author_username": "RepRickAllen",
+                "community_notes": null,
+                "conversation_id": "2005735693167759758",
+                "created_time": "2025-12-29T20:20:28",
+                "favorite_count": 17,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2005735693167759758",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 7,
+                "retweet_count": 7,
+                "source": "Twitter Web App",
+                "text": "Earlier this year, I proudly voted for @HouseGOP's Working Families Tax Cuts legislation\u2014which established the Rural Health Transformation Program.\n\n@CMSGov announced today that OVER $218 MILLION will be allocated to Georgia hospitals\u2014ensuring healthier communities by bringing quality care close to home for rural Georgians.\n\nhttps://t.co/NotX7yoT0C",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "HouseGOP",
+                    "CMSGov"
+                ],
+                "text_tagged_users_ids": [
+                    "15207668",
+                    "70837868"
+                ],
+                "text_tags": null,
+                "timestamp": 1767039628,
+                "view_count": 4399
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

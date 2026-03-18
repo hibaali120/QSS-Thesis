@@ -1,0 +1,145 @@
+{
+    "politician": "RepFranklin",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1628487501433241603",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1343664721384398849",
+                    "author_username": "RepFranklin",
+                    "community_notes": null,
+                    "conversation_id": "1628487501433241603",
+                    "created_time": "2023-02-22T20:10:51",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1628487504948039680",
+                    "in_reply_to_post_id": "1628487501433241603",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 2,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "Thank you to the team at CitraPac for your commitment to providing healthy snacks and supporting Florida's agricultural industry. It's companies like these that are driving economic growth and supporting a healthy diet.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1677096651,
+                    "view_count": 380
+                }
+            ]
+        },
+        {
+            "conversation_id": "1976748571278881043",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1520486246950350854",
+                    "author_username": "Spookey2th",
+                    "community_notes": null,
+                    "conversation_id": "1976748571278881043",
+                    "created_time": "2025-10-13T15:02:08",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1977751714976395604",
+                    "in_reply_to_post_id": "1976748571278881043",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepFranklin How can Trump negotiate a peace treaty with radical lunatics like Hamas, but the democrats cannot support Americans' need for healthcare and social programs for AMERICANS?  It proves that the democrat party is far more radicalized and monstrous than Hamas.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFranklin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343664721384398849"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760367728,
+                    "view_count": 4
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/G27TMAfWEAAKU5T.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/G27TMAfWEAAKU5T.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "60773550",
+                    "author_username": "Tony_hileman",
+                    "community_notes": null,
+                    "conversation_id": "1976748571278881043",
+                    "created_time": "2025-10-10T20:39:40",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1976749495959310447",
+                    "in_reply_to_post_id": "1976748571278881043",
+                    "in_reply_to_profile_id": "1343664721384398849",
+                    "in_reply_to_profile_username": "RepFranklin",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepFranklin Meanwhile\u2026 https://t.co/78JkOt3PKz",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepFranklin"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1343664721384398849"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1760128780,
+                    "view_count": 14
+                }
+            ]
+        }
+    ]
+}

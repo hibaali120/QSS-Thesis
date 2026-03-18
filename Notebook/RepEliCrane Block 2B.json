@@ -1,0 +1,294 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/ext_tw_video_thumb/1702419086179741696/pu/img/wwyVWlpFavmgCwTa.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/ext_tw_video/1702419086179741696/pu/vid/avc1/1278x720/8iarivomk_AdavEa.mp4?tag=12"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 351,
+                        "id": "1702419086179741696",
+                        "url": "https://video.twimg.com/ext_tw_video/1702419086179741696/pu/vid/avc1/1278x720/8iarivomk_AdavEa.mp4?tag=12",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1702422344570933639",
+                "created_time": "2023-09-14T20:41:31",
+                "favorite_count": 171,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1702422344570933639",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 4,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 17,
+                "retweet_count": 51,
+                "source": "Twitter Web App",
+                "text": "Our veterans deserve the highest quality of care. The current shortcomings experienced at the VA due to a stalled rollout of modernized tech for health records must be addressed immediately.\n\nRidiculous wait times & gaps in coverage for any of our nation's heroes are unacceptable.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1694724091,
+                "view_count": 8574
+            },
+            {
+                "attached_links_expanded_url": [
+                    "https://kyca.info/2024/04/18/prescott-area-congressman-eli-crane-has-scathing-criticism-for-dhs-secretary-mayorkas/"
+                ],
+                "attached_links_url": [
+                    "https://t.co/ngSbo2FgUH",
+                    "https://t.co/CaENrpczIw"
+                ],
+                "attached_medias_preview_url": null,
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/card_img/1781026733275385857/52GyELaM?format=jpg&name=orig"
+                ],
+                "attached_videos": null,
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1781154228972495267",
+                "created_time": "2024-04-19T02:53:55",
+                "favorite_count": 242,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1781154228972495267",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 2,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 27,
+                "retweet_count": 53,
+                "source": "Twitter Web App",
+                "text": "'Prescott Area Congressman Eli Crane Has Scathing Criticism for DHS Secretary Mayorkas'\n\nThanks to @JohnJRust from KYCA for the coverage.\n\nMore here \u2935\ufe0f:\nhttps://t.co/CaENrpczIw",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "JohnJRust"
+                ],
+                "text_tagged_users_ids": [
+                    "568261962"
+                ],
+                "text_tags": null,
+                "timestamp": 1713495235,
+                "view_count": 4576
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1815453614518763520/img/4bYF8G6McGAFkfQG.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1815453614518763520/vid/avc1/720x1280/jz057OBgxnBBj5Bc.mp4?tag=16"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 14,
+                        "id": "1815453614518763520",
+                        "url": "https://video.twimg.com/amplify_video/1815453614518763520/vid/avc1/720x1280/jz057OBgxnBBj5Bc.mp4?tag=16",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1815453681267208597",
+                "created_time": "2024-07-22T18:27:41",
+                "favorite_count": 25751,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1815453681267208597",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 856,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 1639,
+                "retweet_count": 10121,
+                "source": "Twitter for iPhone",
+                "text": "This video was taken from one of the windows the Secret Service had access to, overlooking the entire roof.\n\nAs you can see, they had complete coverage. \n\nMakes you wonder how on earth they allowed the shooter to access the roof, let alone crawl up it & fire several shots. https://t.co/C1GTUAuPEa",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1721672861,
+                "view_count": 2433740
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GzXjmL5WAAAyNq4.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GzXjmL5WAAAyNq4.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1960723514861719688",
+                "created_time": "2025-08-27T15:18:09",
+                "favorite_count": 115,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1960723514861719688",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 9,
+                "retweet_count": 16,
+                "source": "Twitter Web App",
+                "text": "Had a chance to visit and learn more about the good work of the Payson Christian Clinic yesterday.\n\nThey were founded in 2007 and operate by having licensed physicians, physician residents, and medical students donate their time to take care of patients. https://t.co/OBECxsGrSW",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1756307889,
+                "view_count": 3043
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/amplify_video_thumb/1973764962951495680/img/r6g200e3Rb4W6G2c.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://video.twimg.com/amplify_video/1973764962951495680/vid/avc1/1280x720/u4n067E-5FFUK89c.mp4?tag=21"
+                ],
+                "attached_videos": [
+                    {
+                        "duration": 10,
+                        "id": "1973764962951495680",
+                        "url": "https://video.twimg.com/amplify_video/1973764962951495680/vid/avc1/1280x720/u4n067E-5FFUK89c.mp4?tag=21",
+                        "view_count": null
+                    }
+                ],
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1973765303638384875",
+                "created_time": "2025-10-02T15:01:33",
+                "favorite_count": 1057,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1973765303638384875",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 12,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 152,
+                "retweet_count": 281,
+                "source": "Twitter Web App",
+                "text": "Democrats keep insisting that their preferred government plans don\u2019t provide coverage for illegal aliens.\n\nThe reason they lie so much is because they don\u2019t respect the American people and think that you have a short-term memory. https://t.co/aZ0X83AH6N",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1759417293,
+                "view_count": 14084
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1608891205902794753",
+                "author_username": "RepEliCrane",
+                "community_notes": null,
+                "conversation_id": "1984287306321391662",
+                "created_time": "2025-10-31T15:52:14",
+                "favorite_count": 1720,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1984287306321391662",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 16,
+                "quoted_status_id": "1983926641718857796",
+                "quoted_status_profile_id": "43963249",
+                "quoted_status_profile_username": "HouseDemocrats",
+                "reply_count": 93,
+                "retweet_count": 497,
+                "source": "Twitter for iPhone",
+                "text": "Shameless lie.\n\nOnly one House Democrat voted to extend SNAP. Obamacare is causing premiums to rise. Only one House Democrat voted to pay federal workers.\n\nThree brave democrat senators have already defied their party boss. Only need 5 more to end the Schumer shutdown.",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761925934,
+                "view_count": 51773
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

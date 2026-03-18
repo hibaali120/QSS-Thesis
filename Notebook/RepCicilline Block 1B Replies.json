@@ -1,0 +1,161 @@
+{
+    "politician": "RepCicilline",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1575612078437474305",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1550476887604035584",
+                    "author_username": "JSkidmark752022",
+                    "community_notes": null,
+                    "conversation_id": "1575612078437474305",
+                    "created_time": "2022-10-02T01:52:52",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1576389722179452928",
+                    "in_reply_to_post_id": "1575612078437474305",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCicilline I'm more impressed with the end of summer tan!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCicilline"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664675572,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/Fd54-QtWYAsed-d.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/Fd54-QtWYAsed-d.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2724663720",
+                    "author_username": "impholder",
+                    "community_notes": null,
+                    "conversation_id": "1575612078437474305",
+                    "created_time": "2022-09-30T12:48:30",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575829944784982017",
+                    "in_reply_to_post_id": "1575612078437474305",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCicilline https://t.co/jT7NEHW4Af",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepCicilline"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1664542110,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "174369590",
+                    "author_username": "SteveWCarlson",
+                    "community_notes": null,
+                    "conversation_id": "1575612078437474305",
+                    "created_time": "2022-09-29T22:48:56",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1575618660332294144",
+                    "in_reply_to_post_id": "1575612078437474305",
+                    "in_reply_to_profile_id": "462143773",
+                    "in_reply_to_profile_username": "RepCicilline",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepCicilline @davidcicilline Are you being honest here, or just unaware that officials like @amyklobuchar @tim_walz @TinaSmithMN are seizing #breastcancer patients' treatment funds to pay for abortions and trans operations through @MedicaidGov? This violates #BCCPTA law. If you're for real on this...",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepCicilline",
+                        "davidcicilline",
+                        "amyklobuchar",
+                        "tim_walz",
+                        "TinaSmithMN",
+                        "MedicaidGov"
+                    ],
+                    "text_tagged_users_ids": [
+                        "462143773",
+                        "23593446",
+                        "33537967",
+                        "85726335",
+                        "47724293",
+                        "247388702"
+                    ],
+                    "text_tags": [
+                        "bccpta",
+                        "breastcancer"
+                    ],
+                    "timestamp": 1664491736,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1627693231344435202",
+            "replies": []
+        }
+    ]
+}

@@ -1,0 +1,851 @@
+{
+    "politician": "RepGarretGraves",
+    "block": "1A",
+    "posts": [
+        {
+            "conversation_id": "1484590310852382727",
+            "replies": []
+        },
+        {
+            "conversation_id": "1557422355575705603",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1345767075785158660",
+                    "author_username": "david_marcantel",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-11T10:26:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557674797995364354",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGarretGraves Garrett Church Mouse \ud83d\udc01 Graves if u had BALLS u would be talking about the AMERICAN HATERS https://t.co/mFjfLSK21A",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1660213586,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-10T17:43:20",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557422357987328001",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1557395210950279169",
+                    "quoted_status_profile_id": "991832984964812800",
+                    "quoted_status_profile_username": "RaychelleRiley",
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "This mobile clinic will provide lifesaving screenings for different kinds of common cancers throughout rural areas of 30+ parishes in South Louisiana with limited access to medical care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1660153400,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1557422355575705603",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1345767075785158660",
+                    "author_username": "david_marcantel",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-11T10:26:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557674797995364354",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGarretGraves Garrett Church Mouse \ud83d\udc01 Graves if u had BALLS u would be talking about the AMERICAN HATERS https://t.co/mFjfLSK21A",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1660213586,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-10T17:43:20",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557422357987328001",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1557395210950279169",
+                    "quoted_status_profile_id": "991832984964812800",
+                    "quoted_status_profile_username": "RaychelleRiley",
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "This mobile clinic will provide lifesaving screenings for different kinds of common cancers throughout rural areas of 30+ parishes in South Louisiana with limited access to medical care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1660153400,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1557422355575705603",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg?name=small"
+                    ],
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/media/FZ34-O7WIAIS-Da.jpg"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "1345767075785158660",
+                    "author_username": "david_marcantel",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-11T10:26:26",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557674797995364354",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGarretGraves Garrett Church Mouse \ud83d\udc01 Graves if u had BALLS u would be talking about the AMERICAN HATERS https://t.co/mFjfLSK21A",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1660213586,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1557422355575705603",
+                    "created_time": "2022-08-10T17:43:20",
+                    "favorite_count": 2,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1557422357987328001",
+                    "in_reply_to_post_id": "1557422355575705603",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": "1557395210950279169",
+                    "quoted_status_profile_id": "991832984964812800",
+                    "quoted_status_profile_username": "RaychelleRiley",
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "This mobile clinic will provide lifesaving screenings for different kinds of common cancers throughout rural areas of 30+ parishes in South Louisiana with limited access to medical care.",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1660153400,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1570096957384790016",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://fortune.com/2022/03/31/us-companies-record-profits-2021-price-hikes-inflation/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/mO1t02yDhX"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "149534625",
+                    "author_username": "Jstnorv10",
+                    "community_notes": null,
+                    "conversation_id": "1570096957384790016",
+                    "created_time": "2022-09-14T17:11:55",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1570098029406965761",
+                    "in_reply_to_post_id": "1570096957384790016",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepGarretGraves @All435Reps https://t.co/mO1t02yDhX",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepGarretGraves",
+                        "All435Reps"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214",
+                        "1124447266205503488"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1663175515,
+                    "view_count": null
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1485627969402023937",
+                    "author_username": "NoWay14894688",
+                    "community_notes": null,
+                    "conversation_id": "1570096957384790016",
+                    "created_time": "2022-09-14T17:08:23",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1570097140659093504",
+                    "in_reply_to_post_id": "1570096957384790016",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "TweetDeck",
+                    "text": "@RepGarretGraves @All435Reps #PissPoorPropaganda, Gary.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves",
+                        "All435Reps"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214",
+                        "1124447266205503488"
+                    ],
+                    "text_tags": [
+                        "pisspoorpropaganda"
+                    ],
+                    "timestamp": 1663175303,
+                    "view_count": null
+                }
+            ]
+        },
+        {
+            "conversation_id": "1630248894230560769",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.theadvocate.com/baton_rouge/news/business/franu-gets-19-million-to-expand-classes-shrink-campus/article_64365c3e-b3a5-11ed-bafc-ff43005d0139.html"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/bcpeK5Mzvg"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1630248894230560769",
+                    "created_time": "2023-02-27T16:50:00",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1630248896936161280",
+                    "in_reply_to_post_id": "1630248894230560769",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "Working with @FranUbr, we secured nearly $2 million to help expand their facilities. We\u2019ve scored a win-win \u2013 expanding capacity to train new healthcare professionals and helping Louisianans gain good-paying jobs. (2/2)\nhttps://t.co/bcpeK5Mzvg",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "FranUbr"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2796044967"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1677516600,
+                    "view_count": 458
+                }
+            ]
+        },
+        {
+            "conversation_id": "1696178294679314918",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "http://bit.ly/LESSAct"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/ouIA4gx8hc"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1696178294679314918",
+                    "created_time": "2023-08-28T15:09:54",
+                    "favorite_count": 1,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1696178296919093645",
+                    "in_reply_to_post_id": "1696178294679314918",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 1,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "These low-quality and illegally-sourced shrimp are sold at artificially low prices, squeezing out American shrimpers who follow all the rules to keep our fisheries\u2014and our health\u2014safe.\n\nRead more about our bill here: https://t.co/ouIA4gx8hc \n(2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1693235394,
+                    "view_count": 562
+                }
+            ]
+        },
+        {
+            "conversation_id": "1778113919380312192",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1528784800307355648",
+                    "author_username": "VeraAMoroz",
+                    "community_notes": null,
+                    "conversation_id": "1778113919380312192",
+                    "created_time": "2024-04-12T23:16:10",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1778925106959421720",
+                    "in_reply_to_post_id": "1778113919380312192",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGarretGraves Dear @RepGarretGraves, Ukraine needs your support to defend against Russian aggression. Please stand with us in this critical time. #StandWithUkraine (2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": [
+                        "standwithukraine"
+                    ],
+                    "timestamp": 1712963770,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1778113919380312192",
+                    "created_time": "2024-04-10T17:32:49",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1778113921154535881",
+                    "in_reply_to_post_id": "1778113919380312192",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "This funding is an investment in our Terrebonne community to ensure that the Terrebonne General Medical Center is able to continue providing top-notch care without the worry of unexpected costs incurred to fully and comprehensively respond to the pandemic. (2/2)",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1712770369,
+                    "view_count": 634
+                }
+            ]
+        },
+        {
+            "conversation_id": "1786407456333021195",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "http://bit.ly/BatonRougeVAClinic"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/wOtKhop4ly"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1785773961524981760/_cBn8t0j?format=jpg&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "2951574214",
+                    "author_username": "RepGarretGraves",
+                    "community_notes": null,
+                    "conversation_id": "1786407456333021195",
+                    "created_time": "2024-05-03T14:48:22",
+                    "favorite_count": 5,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1786407457977204790",
+                    "in_reply_to_post_id": "1786407456333021195",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 1,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 3,
+                    "retweet_count": 2,
+                    "source": "Twitter Web App",
+                    "text": "This is unacceptable. Our Veterans deserve better. \n\nWe are calling on the VA to reverse course \u2013 our Veterans should not be stuck waiting indefinitely for medical care equal to their bravery. (2/2)\n\nRead More: https://t.co/wOtKhop4ly",
+                    "text_lang": "en",
+                    "text_tagged_users": null,
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1714747702,
+                    "view_count": 679
+                }
+            ]
+        },
+        {
+            "conversation_id": "1788285223383212486",
+            "replies": [
+                {
+                    "attached_links_expanded_url": [
+                        "https://www.oxfamamerica.org/explore/stories/do-the-rich-pay-their-fair-share/"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/S5z3epRGca"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1674952739145621506",
+                    "author_username": "user_a54671",
+                    "community_notes": null,
+                    "conversation_id": "1788285223383212486",
+                    "created_time": "2024-05-15T01:38:33",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1790557347594596733",
+                    "in_reply_to_post_id": "1788285223383212486",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGarretGraves Wrong, you have a revenue problem.\n\n\"Oxfam found that a progressive wealth tax on US multi-millionaires and  billionaires could generate $664 billion dollars every year to help lift  people out of poverty\"\n\nhttps://t.co/S5z3epRGca",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715737113,
+                    "view_count": 9
+                },
+                {
+                    "attached_links_expanded_url": [
+                        "http://newsweek.com/trump-dramatic-cuts-children-programs-fund-corporate-tax-breaks-746257"
+                    ],
+                    "attached_links_url": [
+                        "https://t.co/VQpVfko3Fu"
+                    ],
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": [
+                        "https://pbs.twimg.com/card_img/1791821934524596224/dXo-KhAl?format=jpg&name=orig"
+                    ],
+                    "attached_videos": null,
+                    "author_id": "803043716780920833",
+                    "author_username": "mickiedances",
+                    "community_notes": null,
+                    "conversation_id": "1788285223383212486",
+                    "created_time": "2024-05-14T22:33:50",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1790510863192838576",
+                    "in_reply_to_post_id": "1788285223383212486",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGarretGraves https://t.co/VQpVfko3Fu\u2026 2017 Trump demanded cuts: 15% from education - 9% from maternal and child nutrition - $140 billion from children's health care - Trump cut benefits to families to offset a $1.9 trillion deficit created by tax cuts for foreign investors and billionaires.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": null,
+                    "text_tags": null,
+                    "timestamp": 1715726030,
+                    "view_count": 1
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1687501354267287552",
+                    "author_username": "ChuckBeriBeagle",
+                    "community_notes": null,
+                    "conversation_id": "1788285223383212486",
+                    "created_time": "2024-05-10T01:58:42",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1788750480731951474",
+                    "in_reply_to_post_id": "1788285223383212486",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepGarretGraves The unlimited debt ceiling is YOUR baby! We have memories Graves.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715306322,
+                    "view_count": 7
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "3833913915",
+                    "author_username": "hersheydenise1",
+                    "community_notes": null,
+                    "conversation_id": "1788285223383212486",
+                    "created_time": "2024-05-08T20:20:34",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1788302996784234803",
+                    "in_reply_to_post_id": "1788285223383212486",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGarretGraves Thank you so much for putting Americans first. Why are democrats not impeached for treason??? Please make congress make sense again!!!!",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715199634,
+                    "view_count": 12
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "800367671183192065",
+                    "author_username": "saya_watts",
+                    "community_notes": null,
+                    "conversation_id": "1788285223383212486",
+                    "created_time": "2024-05-08T19:47:49",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1788294755480179143",
+                    "in_reply_to_post_id": "1788285223383212486",
+                    "in_reply_to_profile_id": "2951574214",
+                    "in_reply_to_profile_username": "RepGarretGraves",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepGarretGraves Goofy, US budget has been in the hands of you Fascist GOP for the past 2 yrs. \nYou have neglected in your every tweet that Louisiana has enjoyed record-low unemployment rate for 2.5 yrs & is receiving direly needed infrastructure to save lives & land.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepGarretGraves"
+                    ],
+                    "text_tagged_users_ids": [
+                        "2951574214"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1715197669,
+                    "view_count": 22
+                }
+            ]
+        }
+    ]
+}

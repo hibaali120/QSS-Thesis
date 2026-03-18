@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": null,
+                "attached_medias_url": null,
+                "attached_videos": null,
+                "author_id": "1079770852302958592",
+                "author_username": "RepTimmons",
+                "community_notes": null,
+                "conversation_id": "2002117128422633874",
+                "created_time": "2025-12-19T20:41:35",
+                "favorite_count": 77,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "2002117128422633874",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "quote",
+                "quote_count": 2,
+                "quoted_status_id": "2002107771488248293",
+                "quoted_status_profile_id": "1879670389057474560",
+                "quoted_status_profile_username": "PressSec",
+                "reply_count": 17,
+                "retweet_count": 11,
+                "source": "Twitter for iPhone",
+                "text": "Democrats built a healthcare program families cannot afford. Average premiums are $9,325 for single coverage and $27,000 for family coverage. \n\nPresident Trump stepping in to negotiate lower insurance costs is a HUGE win for Americans. \n\nTHANK YOU, @realDonaldTrump! \ud83c\uddfa\ud83c\uddf8",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "realDonaldTrump"
+                ],
+                "text_tagged_users_ids": [
+                    "25073877"
+                ],
+                "text_tags": null,
+                "timestamp": 1766176895,
+                "view_count": 11428
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

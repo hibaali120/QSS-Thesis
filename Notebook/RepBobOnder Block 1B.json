@@ -1,0 +1,106 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GmajnXZa8AEX72d.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GmajnXZa8AEX72d.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1902388066796363842",
+                "created_time": "2025-03-19T15:53:54",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1902388066796363842",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 12,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "I had a great tour of @mutcautism. They serve more than 4,000 patients right here in Missouri each year, helping them and their families navigate the challenges associated with an autism or neurodivergence diagnosis. Thank you for all you do in #MO3 and beyond! https://t.co/MXkVSOOb5V",
+                "text_lang": "en",
+                "text_tagged_users": [
+                    "mutcautism"
+                ],
+                "text_tagged_users_ids": [
+                    "1480653134"
+                ],
+                "text_tags": [
+                    "mo3"
+                ],
+                "timestamp": 1742399634,
+                "view_count": 565
+            },
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/GpUnh9dXcAAYAAb.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/GpUnh9dXcAAYAAb.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1872324445055987712",
+                "author_username": "RepBobOnder",
+                "community_notes": null,
+                "conversation_id": "1915480892488794408",
+                "created_time": "2025-04-24T19:00:07",
+                "favorite_count": 7,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1915480892488794408",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 0,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 2,
+                "retweet_count": 1,
+                "source": "Twitter Web App",
+                "text": "My staff attended the groundbreaking of Mercy Wentzville, a new state of the art medical facility right here in #MO3! This hospital is a whopping $642 million investment in St. Charles County and will provide life-saving medical treatment to countless people in our community. https://t.co/rScJoyfVNu",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": [
+                    "mo3"
+                ],
+                "timestamp": 1745521207,
+                "view_count": 588
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

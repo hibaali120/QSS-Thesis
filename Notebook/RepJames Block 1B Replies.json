@@ -1,0 +1,54 @@
+{
+    "politician": "RepJames",
+    "block": "1B",
+    "posts": [
+        {
+            "conversation_id": "1710025806959763897",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1637610848708444162",
+                    "author_username": "carlos___7",
+                    "community_notes": null,
+                    "conversation_id": "1710025806959763897",
+                    "created_time": "2023-10-05T20:45:12",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1710033419051147474",
+                    "in_reply_to_post_id": "1710025806959763897",
+                    "in_reply_to_profile_id": "1609056891547668480",
+                    "in_reply_to_profile_username": "RepJames",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepJames Joe Biden promised he would cure cancer. \n\nHe's got a little time left.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepJames"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1609056891547668480"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1696538712,
+                    "view_count": 8
+                }
+            ]
+        }
+    ]
+}

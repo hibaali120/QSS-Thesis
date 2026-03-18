@@ -1,0 +1,55 @@
+{
+    "data": {
+        "items": [
+            {
+                "attached_links_expanded_url": null,
+                "attached_links_url": null,
+                "attached_medias_preview_url": [
+                    "https://pbs.twimg.com/media/G4mFOFOXoAAK8Bs.jpg?name=small"
+                ],
+                "attached_medias_url": [
+                    "https://pbs.twimg.com/media/G4mFOFOXoAAK8Bs.jpg"
+                ],
+                "attached_videos": null,
+                "author_id": "1883257372740591616",
+                "author_username": "SecWar",
+                "community_notes": null,
+                "conversation_id": "1984263638744801391",
+                "created_time": "2025-10-31T14:18:11",
+                "favorite_count": 4201,
+                "geo_lat": null,
+                "geo_lon": null,
+                "id": "1984263638744801391",
+                "in_reply_to_post_id": null,
+                "in_reply_to_profile_id": null,
+                "in_reply_to_profile_username": null,
+                "place_country_code": null,
+                "place_country_name": null,
+                "place_full_name": null,
+                "place_type": null,
+                "poll": null,
+                "post_type": "post",
+                "quote_count": 30,
+                "quoted_status_id": null,
+                "quoted_status_profile_id": null,
+                "quoted_status_profile_username": null,
+                "reply_count": 330,
+                "retweet_count": 815,
+                "source": "Twitter for iPhone",
+                "text": "Great meeting with Cambodia's Deputy Prime Minister, Tea Seiha, in Kuala Lumpur. We agreed to restart our premier bilateral military exercise with Cambodia. \n\nThe KL Accords demonstrate President Trump's commitment to peace through strength. https://t.co/bqpQRhhC03",
+                "text_lang": "en",
+                "text_tagged_users": null,
+                "text_tagged_users_ids": null,
+                "text_tags": null,
+                "timestamp": 1761920291,
+                "view_count": 242755
+            }
+        ],
+        "page_info": {
+            "cursor": null,
+            "has_next_page": false
+        }
+    },
+    "error": null,
+    "status": "ok"
+}

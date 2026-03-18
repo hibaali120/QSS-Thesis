@@ -1,0 +1,159 @@
+{
+    "politician": "RepDaveTaylor",
+    "block": "6",
+    "posts": [
+        {
+            "conversation_id": "1879954840455114893",
+            "replies": []
+        },
+        {
+            "conversation_id": "1899087396978786327",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1534353538037456896",
+                    "author_username": "YadiraVargasTi1",
+                    "community_notes": null,
+                    "conversation_id": "1899087396978786327",
+                    "created_time": "2025-03-10T13:23:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1899088673997455552",
+                    "in_reply_to_post_id": "1899087396978786327",
+                    "in_reply_to_profile_id": "1874925648449355776",
+                    "in_reply_to_profile_username": "RepDaveTaylor",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for iPhone",
+                    "text": "@RepDaveTaylor @RepNikkiB @RepFinstad @RepDonDavis @elonmusk @realDonaldTrump People can ask Grok 3 to analize their medical tests , for example , like MRI or CTScans . Grok3 helps rural people medical healthcare .",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDaveTaylor",
+                        "RepNikkiB",
+                        "RepFinstad",
+                        "RepDonDavis",
+                        "elonmusk",
+                        "realDonaldTrump"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874925648449355776",
+                        "1603476713995911168",
+                        "1563316176717246464",
+                        "1610323296360210433",
+                        "44196397",
+                        "25073877"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1741612997,
+                    "view_count": 23
+                }
+            ]
+        },
+        {
+            "conversation_id": "1927420177102012704",
+            "replies": [
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "224025227",
+                    "author_username": "tierrasimbolica",
+                    "community_notes": null,
+                    "conversation_id": "1927420177102012704",
+                    "created_time": "2025-06-03T14:13:17",
+                    "favorite_count": 0,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1929904223971684556",
+                    "in_reply_to_post_id": "1927420177102012704",
+                    "in_reply_to_profile_id": "1874925648449355776",
+                    "in_reply_to_profile_username": "RepDaveTaylor",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter Web App",
+                    "text": "@RepDaveTaylor \ud83d\udda4",
+                    "text_lang": "qme",
+                    "text_tagged_users": [
+                        "RepDaveTaylor"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874925648449355776"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1748959997,
+                    "view_count": 3
+                },
+                {
+                    "attached_links_expanded_url": null,
+                    "attached_links_url": null,
+                    "attached_medias_preview_url": null,
+                    "attached_medias_url": null,
+                    "attached_videos": null,
+                    "author_id": "1888609625295171585",
+                    "author_username": "LetitiaMarshh",
+                    "community_notes": null,
+                    "conversation_id": "1927420177102012704",
+                    "created_time": "2025-05-27T18:10:20",
+                    "favorite_count": 3,
+                    "geo_lat": null,
+                    "geo_lon": null,
+                    "id": "1927427163390624215",
+                    "in_reply_to_post_id": "1927420177102012704",
+                    "in_reply_to_profile_id": "1874925648449355776",
+                    "in_reply_to_profile_username": "RepDaveTaylor",
+                    "place_country_code": null,
+                    "place_country_name": null,
+                    "place_full_name": null,
+                    "place_type": null,
+                    "poll": null,
+                    "post_type": "reply",
+                    "quote_count": 0,
+                    "quoted_status_id": null,
+                    "quoted_status_profile_id": null,
+                    "quoted_status_profile_username": null,
+                    "reply_count": 0,
+                    "retweet_count": 0,
+                    "source": "Twitter for Android",
+                    "text": "@RepDaveTaylor Such an important reminder to support one another in our wellness journeys.",
+                    "text_lang": "en",
+                    "text_tagged_users": [
+                        "RepDaveTaylor"
+                    ],
+                    "text_tagged_users_ids": [
+                        "1874925648449355776"
+                    ],
+                    "text_tags": null,
+                    "timestamp": 1748369420,
+                    "view_count": 11
+                }
+            ]
+        }
+    ]
+}
